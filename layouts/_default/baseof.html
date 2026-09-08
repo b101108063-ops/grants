@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ .Title }} - Grant's Dissector</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f8fafc; color: #1e293b; line-height: 1.7; }
+header { background: #1e293b; color: #fff; padding: 0.8rem 2rem; }
+header a { color: #94a3b8; text-decoration: none; margin-right: 1.5rem; font-size: 0.9rem; }
+header a:hover { color: #fff; }
+.nav { background: #f1f5f9; padding: 0.5rem 2rem; border-bottom: 1px solid #e2e8f0; display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.nav a { color: #334155; text-decoration: none; font-size: 0.85rem; padding: 2px 10px; border-radius: 4px; }
+.nav a:hover { background: #1e293b; color: #fff; }
+.container { max-width: 860px; margin: 0 auto; padding: 1.5rem 1.5rem; }
+h1 { font-size: 1.6rem; color: #1e293b; border-bottom: 3px solid #1e293b; padding-bottom: 0.4rem; margin-bottom: 1.5rem; }
+h2 { font-size: 1.1rem; color: #1e293b; background: #f1f5f9; border-left: 4px solid #475569; padding: 0.35rem 0.75rem; margin: 1.5rem 0 0.75rem; }
+p { margin-bottom: 0.65rem; }
+ul { margin: 0.4rem 0 0.65rem 1.5rem; }
+li { margin-bottom: 0.2rem; }
+em { color: #64748b; }
+footer { text-align: center; padding: 2rem; color: #94a3b8; font-size: 0.8rem; border-top: 1px solid #e2e8f0; margin-top: 3rem; }
+table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.88rem; }
+th { background: #1e293b; color: #fff; padding: 0.4rem 0.6rem; }
+td { padding: 0.3rem 0.6rem; border-bottom: 1px solid #e2e8f0; }
+hr { border: none; border-top: 1px solid #e2e8f0; margin: 1.5rem 0; }
+</style>
+</head>
+<body>
+<header>
+  <a href="/">Grant's Dissector 15th Ed.</a>
+  <a href="/docs/ch1_back/">The Back</a>
+  <a href="/docs/ch2_upper_limb/">Upper Limb</a>
+  <a href="/docs/ch3_thorax/">Thorax</a>
+  <a href="/docs/ch4_abdomen/">Abdomen</a>
+  <a href="/docs/ch5_pelvis/">Pelvis</a>
+  <a href="/docs/ch6_lower_limb/">Lower Limb</a>
+  <a href="/docs/ch7_head_neck/">Head &amp; Neck</a>
+</header>
+<div class="nav">
+  <a href="/docs/ch1_back/">Ch1 Back</a>
+  <a href="/docs/ch2_upper_limb/">Ch2 Upper Limb</a>
+  <a href="/docs/ch3_thorax/">Ch3 Thorax</a>
+  <a href="/docs/ch4_abdomen/">Ch4 Abdomen</a>
+  <a href="/docs/ch5_pelvis/">Ch5 Pelvis</a>
+  <a href="/docs/ch6_lower_limb/">Ch6 Lower Limb</a>
+  <a href="/docs/ch7_head_neck/">Ch7 Head &amp; Neck</a>
+</div>
+<div class="container">
+{{ .Content }}
+</div>
+<footer>
+  Grant's Dissector 15th Edition &middot; Atlas References: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's
+</footer>
+</body>
+</html>

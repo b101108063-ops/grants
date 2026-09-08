@@ -1,0 +1,10 @@
+baseURL: "https://b101108063-ops.github.io/grants_dissector/"
+languageCode: "en-us"
+title: "Grant's Dissector 15th Edition"
+theme: ""
+outputs:
+  home:
+    - HTML
+    - JSON
+enableRobotsTXT: true
+disableKinds: ["taxonomy", "term"]
