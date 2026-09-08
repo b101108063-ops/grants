@@ -1,55 +1,42 @@
 ---
-title: "Chapter: Head and Neck"
+title: "Chapter 7: Head and Neck"
 description: "Grant's Dissector 15th Edition - Head and Neck"
 weight: 7
 ---
+
+# Chapter 7: Head and Neck
+
+> **Atlas參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
+
 
 # Grant's Dissector 15th Edition: Head and Neck
 
 > **Atlas References:** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
 
-THE HEAD AND NECK 207
-attaches to the super! cial fascia of the deltoid and
-pectoral regions. Superiorly, the platysma muscle is
-attached to the mandible, skin of the cheek, angle of
+THE HEAD AND NECK 207 attaches to the super! cial fascia of the deltoid and pectoral regions. Superiorly, the platysma muscle is attached to the mandible, skin of the cheek, angle of
 the mouth, and orbicularis oris muscle. It is innervat-
 ed by the cervical branch of the facial nerve (VII).
 **2.** Note that some of the structures to be dissected
 in steps 4 and 5 are in contact with the deep sur-
 face of the platysma muscle (supraclavicular nerves,
-**7.** Beginning at the anterior midline, re"
-ect the skin
-in the lateral direction as far as the anterior border
-of the trapezius muscle. Detach the skin and place
+**7.** Beginning at the anterior midline, re" ect the skin in the lateral direction as far as the anterior border of the trapezius muscle. Detach the skin and place
 it in the tissue container.
 *Posterior Triangle of the Neck [G 758; L 297; N 25, 26;*
 R 178; C 529]
-For descriptive purposes, the neck is divided into an
-anterior triangle and a posterior triangle
-(FIG. 7.3). The
+For descriptive purposes, the neck is divided into an anterior triangle and a posterior triangle (FIG. 7.3). The
 boundaries of the posterior triangle of the neck are:
-¥ Anterior - the posterior border of the sterno-
-cleidomastoid muscle
-¥ Posterior - the superior border of the trapezius
-¥ Inferior - the middle one-third of the clavicle
-¥ Superfi cial (roof) - investing layer of the deep
-cervical fascia
-¥ Deep (fl oor) - muscles of the neck covered by
-prevertebral fascia
-The cutaneous nerves for the shoulder and anterior
-neck pass to the surface through the posterior triangle
-of the neck. Therefore, these structures are dissected
-with the posterior cervical triangle even though they
+¥ Anterior-the posterior border of the sterno- cleidomastoid muscle
+¥ Posterior-the superior border of the trapezius
+¥ Inferior-the middle one-third of the clavicle
+¥ Superfi cial (roof) - investing layer of the deep cervical fascia
+¥ Deep (fl oor) - muscles of the neck covered by prevertebral fascia
+The cutaneous nerves for the shoulder and anterior neck pass to the surface through the posterior triangle of the neck. Therefore, these structures are dissected with the posterior cervical triangle even though they
 may distribute over the shoulder or anterior triangle.
-Note that the structures identi!
-ed in dissection steps
+Note that the structures identi! ed in dissection steps
 1 through 5 lie within the super! cial fascia of the neck.
 The accessory nerve identi! ed in step 6 lies deep to the
 investing layer of the deep cervical fascia.
-**1.** Examine the platysma muscle in the super! cial fas-
-cia (FIG. 7.4). The platysma muscle covers the lower
-part of the posterior triangle. At its inferior end, the
-platysma muscle passes super! cial to the clavicle and
+**1.** Examine the platysma muscle in the super! cial fas- cia (FIG. 7.4). The platysma muscle covers the lower part of the posterior triangle. At its inferior end, the platysma muscle passes super! cial to the clavicle and
 FIGURE 7.2
 Skin incisions.
 Digastric m.
@@ -65,16 +52,13 @@ Superficial fascia
 FIGURE 7.4
 The platysma muscle.
 GRANTÕS DISSECTOR
-part of the ear, the skin over the parotid gland,
-and an area of skin extending from the angle of
+part of the ear, the skin over the parotid gland, and an area of skin extending from the angle of
 the mandible to the mastoid process.
-¥ Transverse cervical nerve - passes transversely
+¥ Transverse cervical nerve-passes transversely
 across the sternocleidomastoid muscle and neck.
-It supplies the skin of the anterior triangle of the
-neck. If you have trouble ! nding the transverse
-cervical nerve, it may have been removed with
+It supplies the skin of the anterior triangle of the neck. If you have trouble ! nding the transverse cervical nerve, it may have been removed with
 the platysma muscle.
-¥ Supraclavicular nerves - pass inferiorly to in-
+¥ Supraclavicular nerves-pass inferiorly to in-
 nervate the skin of the shoulder. Observe  medial,
 intermediate, and lateral branches.
 
@@ -83,63 +67,33 @@ intermediate, and lateral branches.
 ### Diaphragmatic Pain Referred To
 
 ### The Shoulder
-The supraclavicular nerves and the phrenic nerve share a
-common origin from spinal cord segments C3 and C4.  Irritation
-of the parietal pleura or parietal peritoneum covering the
-diaphragm produces pain that is carried by the phrenic nerve
-and referred to the area supplied by the supraclavicular nerves
+The supraclavicular nerves and the phrenic nerve share a common origin from spinal cord segments C3 and C4.  Irritation of the parietal pleura or parietal peritoneum covering the diaphragm produces pain that is carried by the phrenic nerve and referred to the area supplied by the supraclavicular nerves
 (shoulder region).
-**6.** The accessory nerve (XI) crosses the posterior
-cervical triangle deep to the investing layer of deep
-cervical fascia. It courses from slightly  superior
-to the midpoint of the posterior border of the
-sternocleidomastoid muscle to the superior border
+**6.** The accessory nerve (XI) crosses the posterior cervical triangle deep to the investing layer of deep cervical fascia. It courses from slightly  superior to the midpoint of the posterior border of the sternocleidomastoid muscle to the superior border
 transverse cervical nerve, external jugular vein).
 Preserve them while performing dissection step 3.
 **3.** Near the clavicle, use a probe to raise the medial
 inferior border of the platysma muscle (
-FIG. 7.4,
-arrow). Carefully use sharp dissection to free the
-platysma muscle from the vessels and nerves on
-its deep surface and re" ect the muscle superiorly
-as far as the mandible. Leave the platysma muscle
+FIG. 7.4, arrow). Carefully use sharp dissection to free the platysma muscle from the vessels and nerves on its deep surface and re" ect the muscle superiorly as far as the mandible. Leave the platysma muscle
 attached along the base of the  mandible.
-**4.** Identify the external jugular vein (FIG. 7.5). The
-external jugular vein is in the super! cial fascia deep
-to the platysma muscle. The external jugular vein
-begins posterior to the angle of the mandible and
+**4.** Identify the external jugular vein (FIG. 7.5). The external jugular vein is in the super! cial fascia deep to the platysma muscle. The external jugular vein begins posterior to the angle of the mandible and
 crosses the super! cial surface of the sternocleido-
-mastoid muscle. About 3 cm superior to the  clavicle,
-the external jugular vein pierces the investing layer
-of the deep cervical fascia (roof of the posterior
+mastoid muscle. About 3 cm superior to the  clavicle, the external jugular vein pierces the investing layer of the deep cervical fascia (roof of the posterior
 triangle) to drain into the subclavian vein.
 *[G 760;*
 L 306; N 30; R 178; C 530]
-**5.** The skin of the neck and part of the posterior head
-is innervated by cutaneous nerves that are branches
-of the cervical plexus. The cutaneous nerves  enter
-the super! cial fascia near the midpoint of the pos-
-terior border of the sternocleidomastoid muscle
+**5.** The skin of the neck and part of the posterior head is innervated by cutaneous nerves that are branches of the cervical plexus. The cutaneous nerves  enter
+the super! cial fascia near the midpoint of the pos- terior border of the sternocleidomastoid muscle
 (FIG. 7.5). Identify:
-¥ Lesser occipital nerve - parallels the poste-
-rior border of the sternocleidomastoid muscle
-as it passes superiorly. The lesser occipital nerve
-supplies the part of the scalp that is immediately
+¥ Lesser occipital nerve-parallels the poste- rior border of the sternocleidomastoid muscle as it passes superiorly. The lesser occipital nerve supplies the part of the scalp that is immediately
 behind the ear.
-¥ Great auricular nerve - crosses the super! -
-cial surface of the sternocleidomastoid muscle
-parallel to the external jugular vein. The great
-auricular nerve supplies the skin of the lower
+¥ Great auricular nerve-crosses the super! - cial surface of the sternocleidomastoid muscle parallel to the external jugular vein. The great auricular nerve supplies the skin of the lower
 Sternocleidomastoid m.
-External jugular v.
-penetrating investing
-layer of fascia
+External jugular v. penetrating investing layer of fascia
 Anterior jugular v.
 Communicating vein
 Platysma m. (cut)
-Common facial v.
-seen through investing
-layer of fascia
+Common facial v. seen through investing layer of fascia
 Posterior division,
 retromandibular v.
 Parotid gland
@@ -147,8 +101,7 @@ Trapezius m.
 Supraclavicular nn.
 Transverse cervical n.
 Accessory n. (XI)
-Investing (superficial) layer
-of deep cervical fascia
+Investing (superficial) layer of deep cervical fascia
 Great auricular n.
 Lesser occipital n.
 Posterior auricular v.
@@ -157,8 +110,7 @@ Greater occipital n.
 FIGURE 7.5
 Posterior triangle of the neck. The accessory nerve lies deep to the investing layer of
 deep cervical fascia.
-THE HEAD AND NECK 209
-it is vulnerable to injury by laceration or blunt
+THE HEAD AND NECK 209 it is vulnerable to injury by laceration or blunt
 **5.** Review the course of the occipital artery at the apex of
 the posterior triangle.
 
@@ -167,50 +119,31 @@ the posterior triangle.
 Dissection Overview
 The boundaries of the anterior triangle of the neck are
 (FIG. 7.3):
-¥ Medial - the median plane of the neck
-¥ Lateral - the anterior border of the sternocleidomas-
-toid muscle
-¥ Superior - the inferior border of the mandible
+¥ Medial-the median plane of the neck
+¥ Lateral-the anterior border of the sternocleidomas- toid muscle
+¥ Superior-the inferior border of the mandible
 ¥ Superfi cial (roof) - investing layer of the deep cervical
 ¥ Deep (fl oor) - larynx and pharynx
 For descriptive purposes, the anterior triangle is divided
 by the digastric and omohyoid muscles into smaller triangles:
 muscular, carotid, submandibular, and submental (FIG. 7.3).
 Bones and Cartilages
-Use an illustration to identify the bony and cartilaginous
-landmarks that will be used as reference structures
+Use an illustration to identify the bony and cartilaginous landmarks that will be used as reference structures
 (FIG. 7.6):
 *Grant's Atlas 767 | LWW Atlas 307 | Netter's 28 | Color Atlas 175 | Clemente's 519*
-¥ Hyoid bone - (Gr . hyoideus, U-shaped) at the angle
-between the " oor of the mouth and the superior end of
+¥ Hyoid bone - (Gr . hyoideus, U-shaped) at the angle between the " oor of the mouth and the superior end of
 of the trapezius muscle (FIG. 7.5). Use blunt dis-
-section to free the accessory nerve from the sur-
-rounding connective tissue. Note that branches of
-spinal nerves C3 and C4 join the accessory nerve in
-the posterior cervical triangle and these branches
-provide proprioceptive sensory innervation. The
-accessory nerve innervates the sternocleidomastoid
-muscle and the trapezius muscle. If the back has
-been dissected, con! rm that the accessory nerve
-may be found on the deep surface of the trapezius
+section to free the accessory nerve from the sur- rounding connective tissue. Note that branches of spinal nerves C3 and C4 join the accessory nerve in the posterior cervical triangle and these branches provide proprioceptive sensory innervation. The accessory nerve innervates the sternocleidomastoid muscle and the trapezius muscle. If the back has been dissected, con! rm that the accessory nerve may be found on the deep surface of the trapezius
 **7.** The inferior portion of the posterior triangle will
 be dissected with the root of the neck.
 Dissection Follow-up
-**1.** Review FIGURE 7.1 and note that the platysma muscle,
-external jugular vein, and cutaneous nerves of the neck
-are all located in the super! cial fascia. Of the structures
-just dissected, only the accessory nerve is located deep
+**1.** Review FIGURE 7.1 and note that the platysma muscle, external jugular vein, and cutaneous nerves of the neck are all located in the super! cial fascia. Of the structures just dissected, only the accessory nerve is located deep
 to the investing layer of deep cervical fascia.
-**2.** Use an atlas illustration to review the relationship of
-the platysma muscle to the cutaneous branches of the
-cervical plexus. Note that the transverse cervical nerve
-crosses the neck deep to the platysma muscle but that
-its branches pass through the muscle to reach the skin
+**2.** Use an atlas illustration to review the relationship of the platysma muscle to the cutaneous branches of the cervical plexus. Note that the transverse cervical nerve crosses the neck deep to the platysma muscle but that its branches pass through the muscle to reach the skin
 of the anterior neck.
 **3.** Review the area of distribution of all cutaneous
 branches of the cervical plexus.
-**4.** Review the course of the accessory nerve. Note that
-the accessory nerve is superficial in the neck where
+**4.** Review the course of the accessory nerve. Note that the accessory nerve is superficial in the neck where
 Platysma m. (cut)
 Anterior belly of digastric m.
 Mylohyoid m.
@@ -237,48 +170,31 @@ Isthmus of thyroid gland
 Cricoid cartilage
 Cricothyroid m.
 Cricothyroid membrane
-Laryngeal prominence
-of thyroid cartilage
+Laryngeal prominence of thyroid cartilage
 Thyrohyoid membrane
 Mylohyoid raphe
 Mental protuberance
 FIGURE 7.6
 Anterior triangle of the neck.
-GRANTÕS DISSECTOR
-the hyoid bone. The inferior belly of the
-muscle attaches to the superior border of the scap-
-ula near the suprascapular notch. The omohyoid
+GRANTÕS DISSECTOR the hyoid bone. The inferior belly of the
+muscle attaches to the superior border of the scap- ula near the suprascapular notch. The omohyoid
 muscle depresses the hyoid bone.
-**4.** Use blunt dissection to loosen the medial border of
-the sternohyoid muscle from the structures that lie
-deep to it. Use scissors to transect the sternohyoid
+**4.** Use blunt dissection to loosen the medial border of the sternohyoid muscle from the structures that lie deep to it. Use scissors to transect the sternohyoid
 muscle close to the hyoid bone and re" ect the mus-
-cle inferiorly. If the thorax has been dissected pre-
-viously, the sternohyoid muscle has been detached
-from the sternum. It should remain attached by deep
-fascia to other muscles. Conserve this deep fascial
+cle inferiorly. If the thorax has been dissected pre- viously, the sternohyoid muscle has been detached from the sternum. It should remain attached by deep fascia to other muscles. Conserve this deep fascial
 attachment so that the muscle is not removed.
-**5.** Use a probe to raise the medial border of the su-
-perior belly of the omohyoid muscle and loosen it
-from deeper structures. Use scissors to transect the
-superior belly of the omohyoid muscle close to the
+**5.** Use a probe to raise the medial border of the su- perior belly of the omohyoid muscle and loosen it from deeper structures. Use scissors to transect the superior belly of the omohyoid muscle close to the
 hyoid bone and re" ect it inferiorly.
-**6.** Identify the sternothyroid muscle (FIG. 7.6). The
-inferior attachment of the sternothyroid muscle
-is the sternum and its superior attachment is the
+**6.** Identify the sternothyroid muscle (FIG. 7.6). The inferior attachment of the sternothyroid muscle is the sternum and its superior attachment is the
 oblique line of the thyroid cartilage. The sterno-
 thyroid muscle depresses the larynx.
-**7.** Identify the thyrohyoid muscle. The inferior at-
-tachment of the thyrohyoid muscle is the oblique
-line of the thyroid cartilage and its superior attach-
-ment is the hyoid bone. The thyrohyoid muscle
+**7.** Identify the thyrohyoid muscle. The inferior at- tachment of the thyrohyoid muscle is the oblique
+line of the thyroid cartilage and its superior attach- ment is the hyoid bone. The thyrohyoid muscle
 elevates the larynx.
 **8.** The ansa cervicalis innervates three of the four in-
-frahyoid muscles (omohyoid, sternohyoid, and sterno-
-thyroid). It will be identi! ed later. The nerve to the
+frahyoid muscles (omohyoid, sternohyoid, and sterno- thyroid). It will be identi! ed later. The nerve to the
 thyrohyoid muscle innervates the thyrohyoid muscle.
-**9.** Gently retract the right and left sternothyroid
-muscles to widen the gap in the midline.  Identify
+**9.** Gently retract the right and left sternothyroid muscles to widen the gap in the midline.  Identify
 (FIG. 7.6): Grant's Atlas 765 | LWW Atlas 308 | Netter's 30 | Color Atlas 175 | Clemente's 537
 ¥ Laryngeal prominence
 ¥ Cricothyroid ligament
@@ -290,106 +206,56 @@ muscles to widen the gap in the midline.  Identify
 TRACHEOTOMY
 Tracheotomy (tracheostomy) is the creation of an opening into
 the trachea. As an emergency operation, it must be rapidly per-
-formed in cases with sudden obstruction of the airway (e.g.,
-aspiration of a foreign body, edema of the larynx, or paralysis
-of the vocal folds). The opening is made in the midline between
+formed in cases with sudden obstruction of the airway (e.g., aspiration of a foreign body, edema of the larynx, or paralysis of the vocal folds). The opening is made in the midline between
 the infrahyoid muscles of the neck.
-¥ Thyrohyoid membrane - stretching between the thy-
-roid cartilage and hyoid bone
-¥ Laryngeal prominence of the thyroid cartilage - (Gr.
-thyreoeides, shield) in the anterior midline of the neck
-The order of dissection will be as follows: The super!
-veins of the anterior triangle will be studied. The contents
-of each subdivision of the anterior triangle will be dissected
-in the following order: muscular triangle, submandibular
+¥ Thyrohyoid membrane-stretching between the thy- roid cartilage and hyoid bone
+¥ Laryngeal prominence of the thyroid cartilage - (Gr. thyreoeides, shield) in the anterior midline of the neck
+The order of dissection will be as follows: The super! veins of the anterior triangle will be studied. The contents of each subdivision of the anterior triangle will be dissected in the following order: muscular triangle, submandibular
 triangle, submental triangle, and carotid triangle.
 Dissection Instructions
 *Superfi cial Fascia Grant's Atlas 769 | LWW Atlas 306 | Netter's 30 | Color Atlas 174 | Clemente's 535*
-**1.** The platysma muscle has been removed, reveal-
-ing the external jugular vein. Follow the external
-jugular vein superiorly and observe that it is formed
-by the joining of the posterior division of the
-romandibular vein and the posterior auricular
+**1.** The platysma muscle has been removed, reveal- ing the external jugular vein. Follow the external jugular vein superiorly and observe that it is formed by the joining of the posterior division of the romandibular vein and the posterior auricular
 vein (FIG. 7.5).
 **2.** Identify the anterior jugular vein in the super-
-! cial fascia near the anterior midline
-(FIG. 7.5). It
-begins near the hyoid bone and courses inferiorly
-near the midline to the suprasternal region where
-it penetrates the investing layer of the deep cervi-
-cal fascia. The anterior jugular vein passes laterally
-deep to the sternocleidomastoid muscle to join the
+! cial fascia near the anterior midline (FIG. 7.5). It begins near the hyoid bone and courses inferiorly near the midline to the suprasternal region where
+it penetrates the investing layer of the deep cervi- cal fascia. The anterior jugular vein passes laterally deep to the sternocleidomastoid muscle to join the
 external jugular vein in the root of the neck.
-**3.** A communicating vein is frequently seen along
-the anterior border of the sternocleidomastoid
-muscle. This vein connects the common facial vein
+**3.** A communicating vein is frequently seen along the anterior border of the sternocleidomastoid muscle. This vein connects the common facial vein
 with the anterior jugular vein. It can be very large.
 *Muscular Triangle Grant's Atlas 769 | LWW Atlas 307 | Netter's 28 | Color Atlas 175 | Clemente's 519*
-**1.** The contents of the muscular triangle of the neck
-are the infrahyoid muscles, the thyroid gland, and
-the parathyroid glands. The
-boundaries of the
+**1.** The contents of the muscular triangle of the neck are the infrahyoid muscles, the thyroid gland, and the parathyroid glands. The boundaries of the
 muscular triangle are (FIG. 7.3):
-¥ Superolateral - superior belly of the omohyoid
-¥ Inferolateral - anterior border of the sterno-
-cleidomastoid muscle
-¥ Medial - median plane of the neck
-**2.** Near the midline of the neck, use a probe to break
-through the investing layer of the deep cervical
+¥ Superolateral-superior belly of the omohyoid
+¥ Inferolateral-anterior border of the sterno- cleidomastoid muscle
+¥ Medial-median plane of the neck
+**2.** Near the midline of the neck, use a probe to break through the investing layer of the deep cervical
 fascia. Identify the sternohyoid  muscle (FIG. 7.6).
-The inferior attachment of the sternohyoid muscle
-is the sternum and its superior attachment is the
-body of the hyoid bone. The sternohyoid muscle
+The inferior attachment of the sternohyoid muscle is the sternum and its superior attachment is the body of the hyoid bone. The sternohyoid muscle
 depresses the hyoid bone.
-**3.** Lateral to the sternohyoid muscle, identify the
-superior belly of the omohyoid muscle. The
-superior belly is attached to the inferior  border of
+**3.** Lateral to the sternohyoid muscle, identify the superior belly of the omohyoid muscle. The superior belly is attached to the inferior  border of
 THE HEAD AND NECK 211
-the facial vein passes super! cial to the subman-
-dibular gland and the facial artery courses deep to
-**6.** Preserve the facial vessels and use scissors to re-
-move the super! cial part of the submandibular
+the facial vein passes super! cial to the subman- dibular gland and the facial artery courses deep to
+**6.** Preserve the facial vessels and use scissors to re- move the super! cial part of the submandibular
 gland. Do not disturb the deep part of the gland.
-**7.** Use blunt dissection to clean the super!
-face of the anterior and posterior bellies of the
-digastric muscle (FIG. 7.7). The anterior attach-
-ment of the anterior belly is the digastric fossa of
-the mandible. The anterior belly of the digastric
-muscle is innervated by the mylohyoid nerve, a
-branch of the mandibular division of the trigeminal
-nerve (V 3). The posterior attachment of the pos-
-terior belly is the mastoid process of the temporal
+**7.** Use blunt dissection to clean the super! face of the anterior and posterior bellies of the
+digastric muscle (FIG. 7.7). The anterior attach- ment of the anterior belly is the digastric fossa of the mandible. The anterior belly of the digastric muscle is innervated by the mylohyoid nerve, a branch of the mandibular division of the trigeminal
+nerve (V 3). The posterior attachment of the pos- terior belly is the mastoid process of the temporal
 bone and it is innervated by the facial nerve (VII).
-The two bellies attach to each other by an
-diate tendon. The intermediate tendon is attached
-to the body and the greater horn of the hyoid bone
-by a ! brous sling. The digastric muscle elevates the
+The two bellies attach to each other by an diate tendon. The intermediate tendon is attached to the body and the greater horn of the hyoid bone by a ! brous sling. The digastric muscle elevates the
 hyoid bone and depresses the mandible.
-**8.** Identify the tendon of the stylohyoid muscle,
-which attaches to the body of the hyoid bone by
-straddling the intermediate tendon of the digas-
-tric muscle (FIG. 7.7). The stylohyoid muscle is
-innervated by the facial nerve and it elevates the
+**8.** Identify the tendon of the stylohyoid muscle, which attaches to the body of the hyoid bone by
+straddling the intermediate tendon of the digas- tric muscle (FIG. 7.7). The stylohyoid muscle is innervated by the facial nerve and it elevates the
 hyoid bone.
-**9.** Use a probe to follow the hypoglossal nerve (XII)
-through the submandibular triangle. Observe that
-the hypoglossal nerve enters the submandibular tri-
-angle by passing deep to the posterior belly of the
-digastric muscle. It passes deep to the
-muscle within the submandibular triangle
+**9.** Use a probe to follow the hypoglossal nerve (XII) through the submandibular triangle. Observe that
+the hypoglossal nerve enters the submandibular tri- angle by passing deep to the posterior belly of the digastric muscle. It passes deep to the muscle within the submandibular triangle
 (FIG. 7.7).
 *Submandibular Triangle [G 769; L 312, 313; N 31; R 183;*
-**1.** The contents of the
-submandibular triangle are
-the submandibular gland, facial artery, facial vein,
-stylohyoid muscle, part of the hypoglossal nerve
-(XII), and lymph nodes. The
-boundaries of the
+**1.** The contents of the submandibular triangle are
+the submandibular gland, facial artery, facial vein, stylohyoid muscle, part of the hypoglossal nerve (XII), and lymph nodes. The boundaries of the
 submandibular triangle are (FIG. 7.3):
-¥ Superior - inferior border (base) of the mandible
-¥ Anteroinferior - anterior belly of the digastric
-¥ Posteroinferior - posterior belly of the digas-
-tric muscle
+¥ Superior-inferior border (base) of the mandible
+¥ Anteroinferior-anterior belly of the digastric
+¥ Posteroinferior-posterior belly of the digas- tric muscle
 ¥ Superfi cial (roof ) - investing layer of deep cervi-
 ¥ Deep (fl oor) - mylohyoid and hyoglossus muscles
 **2.** Refer to a skull. On the temporal bone, identify the
@@ -400,12 +266,10 @@ mastoid process and the styloid process.
 ¥ Mylohyoid line
 ¥ Submandibular fossa
 ¥ Mylohyoid groove
-**4.** On the cadaver, identify the submandibular gland
-and use a probe to de! ne its borders (FIG. 7.6). Note
+**4.** On the cadaver, identify the submandibular gland and use a probe to de! ne its borders (FIG. 7.6). Note
 that a portion of the gland extends deep to the pos-
 terior border of mylohyoid muscle.
-**5.** Use blunt dissection to separate the facial artery
-and vein from the submandibular gland. Note that
+**5.** Use blunt dissection to separate the facial artery and vein from the submandibular gland. Note that
 Sternohyoid m.
 Inferior pharyngeal constrictor m.
 Superior belly of omohyoid m.
@@ -440,137 +304,75 @@ Superior root
 Inferior root
 FIGURE 7.7
 Submandibular and carotid triangles of the neck.
-GRANTÕS DISSECTOR
-cutaneous branches of the cervical plexus that
-radiate from the posterior border of the sterno-
-cleidomastoid muscle and leave them attached to
-the cervical vertebral column. Use your ! ngers to
+GRANTÕS DISSECTOR cutaneous branches of the cervical plexus that
+radiate from the posterior border of the sterno- cleidomastoid muscle and leave them attached to the cervical vertebral column. Use your ! ngers to
 free the sternocleidomastoid muscle from the in-
-vesting fascia as far superiorly as the mastoid pro-
-cess. You must free the sternocleidomastoid all the way
-to its attachment on the mastoid process to facilitate the
+vesting fascia as far superiorly as the mastoid pro- cess. You must free the sternocleidomastoid all the way to its attachment on the mastoid process to facilitate the
 future dissection of the parotid region.
-**6.** Find the accessory nerve (XI) where it crosses
-the deep surface of the sternocleidomastoid muscle
-near the base of the skull. Trace the accessory nerve
-superiorly as far as possible. Note that the acces-
-sory nerve passes through the jugular foramen to
-exit the skull but this relationship is too far superior
+**6.** Find the accessory nerve (XI) where it crosses the deep surface of the sternocleidomastoid muscle near the base of the skull. Trace the accessory nerve
+superiorly as far as possible. Note that the acces- sory nerve passes through the jugular foramen to exit the skull but this relationship is too far superior
 to be seen at this time.
-**7.** To allow better access to deeper structures, cut
-the common facial vein where it empties into the
+**7.** To allow better access to deeper structures, cut the common facial vein where it empties into the
 internal jugular vein (FIG. 7.7). Transect the digas-
 tric muscle at its intermediate tendon and re"
 the posterior belly.
 **8.** Palpate the tip of the greater horn of the hyoid
 bone (FIG. 7.7). Find the hypoglossal nerve (XII)
-superior to the tip of the greater horn of the hy-
-oid bone. Observe that a muscular branch of the
-occipital artery crosses superior to the  hypoglossal
-nerve. In addition to its cranial nerve axons, the
-hypoglossal nerve also carries axons of spinal nerve
+superior to the tip of the greater horn of the hy- oid bone. Observe that a muscular branch of the occipital artery crosses superior to the  hypoglossal nerve. In addition to its cranial nerve axons, the hypoglossal nerve also carries axons of spinal nerve
 C1. Some of these C1 axons branch off as the
 *to the thyrohyoid muscle. [G 769; L 313; N 31;*
 R 182; C 532]
-**9.** Use blunt dissection to trace the hypoglossal
-nerve anteriorly. Verify that the hypoglossal nerve
-passes medial to the posterior belly of the digastric
-muscle, medial to the stylohyoid muscle, and deep
+**9.** Use blunt dissection to trace the hypoglossal nerve anteriorly. Verify that the hypoglossal nerve passes medial to the posterior belly of the digastric muscle, medial to the stylohyoid muscle, and deep
 to the mylohyoid muscle (FIG. 7.7).
-**10.** The superior root of the ansa cervicalis  travels
-with the hypoglossal nerve (FIG. 7.7). The  superior
-root of the ansa cervicalis is mainly  composed of
-! bers from the anterior ramus of the C1 spinal
-nerve. The inferior root of the ansa cervicalis
-(anterior rami of C2, C3) passes around the lateral
-side of the carotid sheath to join the superior root
+**10.** The superior root of the ansa cervicalis  travels with the hypoglossal nerve (FIG. 7.7). The  superior root of the ansa cervicalis is mainly  composed of
+! bers from the anterior ramus of the C1 spinal nerve. The inferior root of the ansa cervicalis (anterior rami of C2, C3) passes around the lateral side of the carotid sheath to join the superior root
 (FIG. 7.8). Thus, a loop (L. ansa, handle) is formed.
-**11.** Clean the ansa cervicalis and trace its delicate
-branches to the lateral borders of the infrahyoid
+**11.** Clean the ansa cervicalis and trace its delicate branches to the lateral borders of the infrahyoid
 muscles (FIG. 7.8).
-**12.** Use a probe to raise the posterior border of the
-thyrohyoid muscle and identify the
-membrane that extends between the thyroid carti-
-lage and the hyoid bone (FIG. 7.7). Find the internal
-branch of the superior laryngeal nerve where it
+**12.** Use a probe to raise the posterior border of the thyrohyoid muscle and identify the
+membrane that extends between the thyroid carti- lage and the hyoid bone (FIG. 7.7). Find the internal branch of the superior laryngeal nerve where it
 passes through the thyrohyoid membrane. The in-
 ternal branch of the superior laryngeal nerve sup-
 plies sensory ! bers to the mucosa of the larynx.
 *Submental Triangle Grant's Atlas 764 | LWW Atlas 307 | Netter's 30 | Color Atlas 174 | Clemente's 545*
-**1.** The contents of the
-submental triangle are the
-submental lymph nodes. The submental triangle
+**1.** The contents of the submental triangle are the submental lymph nodes. The submental triangle
 is an unpaired triangle that crosses the midline.
 The boundaries of the submental triangle are
 (FIG. 7.3):
-¥ Right and left - anterior bellies of the right and
-left digastric muscles
-¥ Inferior - hyoid bone
-¥ Superfi cial (roof ) - investing layer of the deep
-cervical fascia
+¥ Right and left-anterior bellies of the right and left digastric muscles
+¥ Inferior-hyoid bone
+¥ Superfi cial (roof ) - investing layer of the deep cervical fascia
 ¥ Deep (fl oor) - mylohyoid muscle
 **2.** Use a probe to clean the super! cial fascia from the
 surface of the right and left mylohyoid muscles.
-Each mylohyoid muscle has a lateral attachment
-on the mylohyoid line of the mandible and medial
-attachments on the hyoid bone and the mylohyoid
-raphe (FIG. 7.7). The mylohyoid muscle  supports
+Each mylohyoid muscle has a lateral attachment on the mylohyoid line of the mandible and medial attachments on the hyoid bone and the mylohyoid raphe (FIG. 7.7). The mylohyoid muscle  supports
 the " oor of the oral cavity.
 *Carotid Triangle Grant's Atlas 769 | LWW Atlas 312 | Netter's 31 | Color Atlas 182 | Clemente's 531*
-**1.** The contents of the
-carotid triangle are the
-carotid arteries (common, internal, and external),
-the branches of the external carotid artery, part of
-the hypoglossal nerve (XII), and branches of the
-vagus nerve (X). The boundaries of the carotid
+**1.** The contents of the carotid triangle are the
+carotid arteries (common, internal, and external), the branches of the external carotid artery, part of the hypoglossal nerve (XII), and branches of the vagus nerve (X). The boundaries of the carotid
 triangle are (FIG. 7.3):
-¥ Inferomedial - superior belly of the omohyoid
-¥ Inferolateral - anterior border of the sterno-
-cleidomastoid muscle
-¥ Superior - posterior belly of the digastric muscle
-**2.** Review the course of the great auricular nerve
-across the lateral surface of the  sternocleidomastoid
-muscle (FIG. 7.5). Cut the nerve near the angle of
+¥ Inferomedial-superior belly of the omohyoid
+¥ Inferolateral-anterior border of the sterno- cleidomastoid muscle
+¥ Superior-posterior belly of the digastric muscle
+**2.** Review the course of the great auricular nerve across the lateral surface of the  sternocleidomastoid muscle (FIG. 7.5). Cut the nerve near the angle of
 the mandible and re" ect it inferiorly.
-**3.** Clean the anterior border of the
-sternocleidomastoid
-muscle from its inferior end to its superior attach-
-ment on the mastoid process. At its superior end
-the sternocleidomastoid muscle is in contact with
-the parotid gland (FIG. 7.5) and this connection
+**3.** Clean the anterior border of the sternocleidomastoid
+muscle from its inferior end to its superior attach- ment on the mastoid process. At its superior end the sternocleidomastoid muscle is in contact with the parotid gland (FIG. 7.5) and this connection
 must be broken by using sharp dissection.
-**4.** If the thorax has been dissected, the sternocleido-
-mastoid muscle has already been detached from
-its inferior attachments. If the thorax has not been
-dissected, transect the sternocleidomastoid muscle
+**4.** If the thorax has been dissected, the sternocleido- mastoid muscle has already been detached from its inferior attachments. If the thorax has not been dissected, transect the sternocleidomastoid muscle
 about 5 cm superior to its attachments to the ster-
 num and clavicle.
-**5.** Re" ect the sternocleidomastoid superiorly by
-bluntly dissecting it from the investing fascia
-that lies posterior to it. Attempt to conserve the
+**5.** Re" ect the sternocleidomastoid superiorly by bluntly dissecting it from the investing fascia that lies posterior to it. Attempt to conserve the
 THE HEAD AND NECK 213
-**13.** Follow the internal branch of the superior laryn-
-geal nerve superiorly. It joins the external branch
-of the superior laryngeal nerve to form the
-superior laryngeal nerve (FIG. 7.9). The superior
-laryngeal nerve may be too far superior to be seen
+**13.** Follow the internal branch of the superior laryn- geal nerve superiorly. It joins the external branch of the superior laryngeal nerve to form the superior laryngeal nerve (FIG. 7.9). The superior laryngeal nerve may be too far superior to be seen
 at this stage of the dissection.
-**14.** Trace the external branch of the superior laryngeal
-nerve inferiorly and observe that it innervates the
-cricothyroid muscle. It also innervates part of the
+**14.** Trace the external branch of the superior laryngeal nerve inferiorly and observe that it innervates the cricothyroid muscle. It also innervates part of the
 inferior pharyngeal constrictor muscle.
-**15.** While preserving the ansa cervicalis, use scissors
-to open the carotid sheath. The carotid sheath
-contains the common carotid artery, internal
-carotid artery, internal jugular vein, and vagus
-**16.** Observe that the internal jugular vein is located
-lateral to the common carotid or internal carotid
-artery in the carotid sheath
+**15.** While preserving the ansa cervicalis, use scissors to open the carotid sheath. The carotid sheath contains the common carotid artery, internal carotid artery, internal jugular vein, and vagus
+**16.** Observe that the internal jugular vein is located lateral to the common carotid or internal carotid artery in the carotid sheath
 (FIG. 7.10). Use an il-
-lustration (FIG. 7.8) to study its largest tributaries:
-common facial vein, superior thyroid vein, and
-middle thyroid vein. Use blunt dissection to sepa-
-rate the internal jugular vein from the common and
+lustration (FIG. 7.8) to study its largest tributaries: common facial vein, superior thyroid vein, and
+middle thyroid vein. Use blunt dissection to sepa- rate the internal jugular vein from the common and
 internal carotid arteries.
 **17.** To clear the dissection ! eld, you may remove the
 three tributaries of the internal jugular vein de-
@@ -635,88 +437,50 @@ FIGURE 7.9
 Branches of the external carotid artery and right vagus
 nerve (X) in the neck.
 GRANTÕS DISSECTOR
-¥ Facial artery - arises from the anterior surface
-of the external carotid artery immediately su-
-perior to the lingual artery
-(FIG. 7.9). It passes
-medial to the posterior belly of the digastric
-muscle and deep to the super! cial part of the
-submandibular gland. The facial artery crosses
-the inferior border of the mandible to enter the
+¥ Facial artery-arises from the anterior surface
+of the external carotid artery immediately su- perior to the lingual artery (FIG. 7.9). It passes medial to the posterior belly of the digastric muscle and deep to the super! cial part of the submandibular gland. The facial artery crosses the inferior border of the mandible to enter the
 face. Do not follow it into the face at this time.
 In 20% of cases, the lingual and facial arteries
 arise from a common trunk.
-¥ Occipital artery - arises from the posterior sur-
-face of the external carotid artery and supplies
+¥ Occipital artery-arises from the posterior sur- face of the external carotid artery and supplies
 part of the scalp (FIG. 7.9).
-¥ Posterior auricular artery - arises from the
-posterior surface of the external carotid artery
-and passes posterior to the ear to supply part of
-the scalp. This branch may not be visible if the
-sternocleidomastoid muscle was not re" ected
+¥ Posterior auricular artery-arises from the posterior surface of the external carotid artery and passes posterior to the ear to supply part of the scalp. This branch may not be visible if the sternocleidomastoid muscle was not re" ected
 completely in step 5.
-**20.** Use blunt dissection to clean the
-bifurcation of
-the common carotid artery. Identify the carotid
-sinus, which is a dilation of the internal carotid
-artery near its origin. The wall of the carotid sinus
+**20.** Use blunt dissection to clean the bifurcation of the common carotid artery. Identify the carotid sinus, which is a dilation of the internal carotid artery near its origin. The wall of the carotid sinus
 contains pressoreceptors that monitor blood pres-
 sure. The carotid sinus is innervated by the glos-
 sopharyngeal nerve (IX) and the vagus nerve (X).
 **21.** The carotid body is a small mass of tissue located
 on the medial aspect of the carotid bifurcation.
-The carotid body monitors changes in oxygen and
-carbon dioxide concentration of the blood. The
-carotid body is innervated by the glossopharyngeal
+The carotid body monitors changes in oxygen and carbon dioxide concentration of the blood. The carotid body is innervated by the glossopharyngeal
 nerve (IX) and the vagus nerve (X)
-**22.** The ascending pharyngeal artery is the sixth
-branch of the external carotid artery. It arises from
-the medial surface of the external carotid artery close
-to the bifurcation of the common carotid
-artery. Use
-your ! ngers to retract the external carotid artery and
+**22.** The ascending pharyngeal artery is the sixth branch of the external carotid artery. It arises from the medial surface of the external carotid artery close to the bifurcation of the common carotid artery. Use your ! ngers to retract the external carotid artery and
 look for the origin of the ascending pharyngeal artery.
-**23.** Identify the vagus nerve (X) within the carotid
-sheath where it lies between and posterior to the
-vessels (FIG. 7.10). To see the vagus nerve, retract
-the internal jugular vein laterally and the common
+**23.** Identify the vagus nerve (X) within the carotid sheath where it lies between and posterior to the vessels (FIG. 7.10). To see the vagus nerve, retract the internal jugular vein laterally and the common
 carotid artery medially.
 Dissection Follow-up
-**1.** Replace the sternocleidomastoid muscle and the infrahy-
-oid muscles in their correct anatomical positions. Review
+**1.** Replace the sternocleidomastoid muscle and the infrahy- oid muscles in their correct anatomical positions. Review
 the attachments and actions of the infrahyoid muscles.
 **2.** Review the cutaneous branches of the cervical plexus.
 Review the ansa cervicalis.
-**3.** Use the dissected specimen to review the positions of the
-common carotid and internal carotid arteries, internal
+**3.** Use the dissected specimen to review the positions of the common carotid and internal carotid arteries, internal
 jugular vein, and vagus nerve within the carotid sheath.
-**18.** Near the level of the superior border of the thy-
-roid cartilage, ! nd the origin of the
-carotid artery (FIG. 7.9). Use blunt dissection to
-follow the external carotid artery superiorly un-
-til it passes on the medial side of (deep to) the
-posterior belly of the digastric muscle
+**18.** Near the level of the superior border of the thy- roid cartilage, ! nd the origin of the carotid artery (FIG. 7.9). Use blunt dissection to
+follow the external carotid artery superiorly un- til it passes on the medial side of (deep to) the posterior belly of the digastric muscle
 (FIG. 7.7).
-Temporarily replace the posterior belly of the di-
-gastric muscle in its correct anatomical position
+Temporarily replace the posterior belly of the di- gastric muscle in its correct anatomical position
 *to con! rm this relationship. [G 772; L 314; N 33;*
 R 183; C 532]
 **19.** The external carotid artery has six branches in the
 carotid triangle (FIG. 7.9). Each branch has a com-
 panion vein that may be removed to clear the dis-
 section ! eld. At this time, identify ! ve branches:
-¥ Superior thyroid artery - arises from the an-
-terior surface of the external carotid artery near
-the level of the superior horn of the thyroid car-
-tilage. The superior thyroid artery descends to
+¥ Superior thyroid artery-arises from the an- terior surface of the external carotid artery near
+the level of the superior horn of the thyroid car- tilage. The superior thyroid artery descends to
 the superior pole of the lobe of the thyroid gland.
-The superior laryngeal artery is a branch of
-the superior thyroid artery, which pierces the
-thyrohyoid membrane together with the internal
+The superior laryngeal artery is a branch of the superior thyroid artery, which pierces the thyrohyoid membrane together with the internal
 branch of the superior laryngeal nerve.
-¥ Lingual artery - arises from the anterior sur-
-face of the external carotid artery near the level
-of the greater horn of the hyoid bone
+¥ Lingual artery-arises from the anterior sur- face of the external carotid artery near the level of the greater horn of the hyoid bone
 (FIG. 7.9).
 It passes deeply into the muscles of the tongue.
 Do not follow it at this time.
@@ -748,10 +512,8 @@ thyroid gland from inferiorly, near the midline.
 **8.** Use scissors to cut the isthmus of the thyroid gland.
 Use blunt dissection to detach the isthmus from
 the tracheal rings. Spread the lobes widely apart.
-**9.** On both sides of the cadaver, use blunt dissection
-to display the recurrent laryngeal nerve that
-passes immediately posterior to the lobe of the thy-
-roid gland in the groove between the trachea and
+**9.** On both sides of the cadaver, use blunt dissection to display the recurrent laryngeal nerve that
+passes immediately posterior to the lobe of the thy- roid gland in the groove between the trachea and
 esophagus. Note the close relationship of the re-
 current laryngeal nerve to the thyroid gland.
 **4.** Follow each branch of the external carotid artery
@@ -763,61 +525,40 @@ inferiorly and note their distribution.
 **7.** Review the ansa cervicalis and its relationship to the
 hypoglossal nerve and carotid sheath.
 **8.** Note that the superior laryngeal nerve passes medial to
-the internal and external carotid arteries and the hypo-
-glossal nerve passes lateral to the internal and external
+the internal and external carotid arteries and the hypo- glossal nerve passes lateral to the internal and external
 carotid arteries.
 
 ### Thyroid And Parathyroid Glands
 *Grant's Atlas 774 | Netter's 74 | Color Atlas 184 | Clemente's 536*
 Dissection Overview
-The cervical viscera are the pharynx, esophagus, larynx,
-trachea, thyroid gland, and parathyroid glands. The
-gland and parathyroid glands lie between the infrahyoid
-muscles and the larynx and trachea, and these glands will
-be dissected now. The pharynx, esophagus, larynx, and tra-
-chea will be dissected after head disarticulation has been
+The cervical viscera are the pharynx, esophagus, larynx, trachea, thyroid gland, and parathyroid glands. The gland and parathyroid glands lie between the infrahyoid muscles and the larynx and trachea, and these glands will
+be dissected now. The pharynx, esophagus, larynx, and tra- chea will be dissected after head disarticulation has been
 Dissection Instructions
 **1.** Once again, re" ect the sternocleidomastoid and
 sternohyoid muscles.
-**2.** Observe the thyroid gland. [L 308, 309] The thy-
+**2.** Observe the thyroid gland. LWW Atlas 308 The thy-
 roid gland is located at vertebral levels C5 to T1.
 Laterally, the thyroid gland is in contact with the
 carotid sheath (FIG. 7.10).
-**3.** Identify the right lobe and left lobe of the thy-
-roid gland. The two lobes are connected by the
+**3.** Identify the right lobe and left lobe of the thy- roid gland. The two lobes are connected by the
 isthmus, which crosses the anterior surface of tra-
 cheal rings 2 and 3 (FIG. 7.10).
-**4.** Frequently, the thyroid gland has a
-pyramidal lobe
+**4.** Frequently, the thyroid gland has a pyramidal lobe
 that extends superiorly from the isthmus. The py-
-ramidal lobe is a remnant of embryonic develop-
-ment that shows the route of descent of the thyroid
-**5.** Identify the superior thyroid artery where it en-
-ters the superior end of the lobe of the thyroid
-gland (FIG. 7.10). Recall that the superior thyroid
-artery is a branch of the external carotid artery. The
+ramidal lobe is a remnant of embryonic develop- ment that shows the route of descent of the thyroid
+**5.** Identify the superior thyroid artery where it en- ters the superior end of the lobe of the thyroid gland (FIG. 7.10). Recall that the superior thyroid artery is a branch of the external carotid artery. The
 inferior thyroid artery will be dissected later.
-**6.** The superior and middle thyroid veins are trib-
-utaries of the internal jugular vein (FIG. 7.10). The
-right and left inferior thyroid veins descend
-into the thorax on the anterior surface of the
-trachea. The right and left inferior thyroid veins
+**6.** The superior and middle thyroid veins are trib- utaries of the internal jugular vein (FIG. 7.10). The right and left inferior thyroid veins descend into the thorax on the anterior surface of the trachea. The right and left inferior thyroid veins
 drain into the right and left brachiocephalic veins,
 respectively.
 
 ### Clinical Correlation
 
 ### Recurrent Laryngeal Nerve
-If a recurrent laryngeal nerve is injured by a thyroid tumor or
-during thyroidectomy (removal of the thyroid gland), paralysis
-of the laryngeal muscles will occur on the affected side. The
+If a recurrent laryngeal nerve is injured by a thyroid tumor or during thyroidectomy (removal of the thyroid gland), paralysis of the laryngeal muscles will occur on the affected side. The
 result is hoarseness of the voice.
-**10.** Cut all blood vessels leading to or from the left
-lobe of the thyroid gland. Use a probe to free the
-left lobe from surrounding connective tissue and
-**11.** Examine the posterior aspect of the left lobe of the
-thyroid gland and attempt to identify the
-thyroid glands. The parathyroid glands are about
+**10.** Cut all blood vessels leading to or from the left lobe of the thyroid gland. Use a probe to free the left lobe from surrounding connective tissue and
+**11.** Examine the posterior aspect of the left lobe of the thyroid gland and attempt to identify the thyroid glands. The parathyroid glands are about
 5#mm in diameter and may be darker in color than
 the thyroid gland. Usually, there are two parathy-
 roid glands on each side of the neck but the num-
@@ -827,44 +568,27 @@ ber can vary from one to three.
 
 ### Parathyroid Glands
 The parathyroid glands play an important role in the regulation
-of calcium metabolism. During thyroidectomy, these small en-
-docrine glands are in danger of being damaged or removed. To
-maintain proper serum calcium levels, at least one parathyroid
+of calcium metabolism. During thyroidectomy, these small en- docrine glands are in danger of being damaged or removed. To maintain proper serum calcium levels, at least one parathyroid
 gland must be retained during surgery.
-GRANTÕS DISSECTOR
-the vagus and phrenic nerves will be studied. The muscles
-that form the " oor of the posterior cervical triangle will be
+GRANTÕS DISSECTOR the vagus and phrenic nerves will be studied. The muscles that form the " oor of the posterior cervical triangle will be
 studied. Some of these structures will be followed superi-
 orly or inferiorly beyond the root of the neck.
 Dissection Instructions
-**1.** The clavicle has been cut at its mid length and the
-thoracic wall was removed during dissection of the
-thorax. Remove the anterior thoracic wall and set it
+**1.** The clavicle has been cut at its mid length and the thoracic wall was removed during dissection of the thorax. Remove the anterior thoracic wall and set it
 **2.** Re" ect superiorly the sternocleidomastoid muscle,
 sternohyoid muscle, and sternothyroid muscle.
-**3.** Use blunt dissection to clean the
-inferior belly of
-the omohyoid muscle (FIG. 7.8). Note that its infe-
-rior belly and superior belly are joined by an
-mediate tendon. A fascial sling binds the interme-
-diate tendon to the clavicle. Review the attachment
+**3.** Use blunt dissection to clean the inferior belly of
+the omohyoid muscle (FIG. 7.8). Note that its infe- rior belly and superior belly are joined by an
+mediate tendon. A fascial sling binds the interme- diate tendon to the clavicle. Review the attachment
 and action of the omohyoid  muscle.
-**4.** Use scissors to cut the fascial sling that binds the
-intermediate tendon of the omohyoid muscle to
+**4.** Use scissors to cut the fascial sling that binds the intermediate tendon of the omohyoid muscle to
 the clavicle.
-**5.** Follow the external jugular vein inferiorly from
-the upper part of the neck until it passes through
-the investing layer of deep cervical fascia near the
-clavicle. Note that the external jugular vein is the
+**5.** Follow the external jugular vein inferiorly from the upper part of the neck until it passes through the investing layer of deep cervical fascia near the clavicle. Note that the external jugular vein is the
 only tributary of the subclavian vein (FIG. 7.11).
 Dissection Follow-up
 **1.** Review the relationship of the thyroid gland to the in-
 frahyoid muscles, carotid sheaths, larynx, and trachea.
-**2.** Use an illustration and the dissected specimen to
-review the blood supply and venous drainage of the
-thyroid gland. Note that there are only two thyroid
-arteries on each side (superior and inferior) but
-there are three thyroid veins (superior, middle, and
+**2.** Use an illustration and the dissected specimen to review the blood supply and venous drainage of the thyroid gland. Note that there are only two thyroid arteries on each side (superior and inferior) but there are three thyroid veins (superior, middle, and
 **3.** Review the relationship of the parathyroid glands to
 the thyroid gland. Use an embryology textbook to re-
 view the origin and migration of the thyroid and para-
@@ -873,17 +597,12 @@ thyroid glands during development.
 ### Root Of The Neck
 *Grant's Atlas 778 | LWW Atlas 309 | Netter's 32 | Color Atlas 184 | Clemente's 533*
 Dissection Overview
-The root (base) of the neck is the junction between the
-thorax and the neck. The root of the neck is an important
-area because it lies superior to the superior thoracic aper-
-ture. All structures that pass between the head and thorax
-or the upper limb and thorax must pass through the root
+The root (base) of the neck is the junction between the thorax and the neck. The root of the neck is an important
+area because it lies superior to the superior thoracic aper- ture. All structures that pass between the head and thorax or the upper limb and thorax must pass through the root
 of the neck.
-The order of dissection will be as follows: The branches
-of the subclavian artery will be dissected. The course of
+The order of dissection will be as follows: The branches of the subclavian artery will be dissected. The course of
 Left common carotid a. (cut)
-Left recurrent laryngeal nerve in
-tracheo-esophageal groove
+Left recurrent laryngeal nerve in tracheo-esophageal groove
 1st costal cartilage
 Left venous angle
 Thoracic duct
@@ -921,78 +640,40 @@ Middle scalene m.
 Sympathetic trunk
 FIGURE 7.11
 Root of the neck. The clavicles have been removed.
-THE HEAD AND NECK 217
-passes inferiorly to supply the anterior thoracic
+THE HEAD AND NECK 217 passes inferiorly to supply the anterior thoracic
 wall (FIG. 7.12).
-¥ Thyrocervical trunk - arises from the an-
-terosuperior surface of the subclavian artery
-(FIG. 7.12). The thyrocervical trunk has three
-Transverse cervical artery - crosses the
-root of the neck about 2 to 3 cm superior to
-the clavicle and deep to the omohyoid muscle
+¥ Thyrocervical trunk-arises from the an- terosuperior surface of the subclavian artery (FIG. 7.12). The thyrocervical trunk has three
+Transverse cervical artery-crosses the root of the neck about 2 to 3 cm superior to the clavicle and deep to the omohyoid muscle
 (FIG. 7.11). It supplies the trapezius  muscle.
-Suprascapular artery - passes laterally and
-posteriorly to the region of the suprascapular
-notch (FIG. 7.11). In the shoulder it passes su-
-perior to the transverse scapular ligament and
-supplies the supraspinatus and infraspinatus
-Inferior thyroid artery - passes medially
-toward the thyroid gland. Trace the inferior
+Suprascapular artery-passes laterally and posteriorly to the region of the suprascapular
+notch (FIG. 7.11). In the shoulder it passes su- perior to the transverse scapular ligament and supplies the supraspinatus and infraspinatus
+Inferior thyroid artery-passes medially toward the thyroid gland. Trace the inferior
 thyroid artery toward the thyroid gland. Usu-
-ally, the inferior thyroid artery passes poste-
-rior to the cervical sympathetic trunk. The
-ascending cervical artery is a branch of the
+ally, the inferior thyroid artery passes poste- rior to the cervical sympathetic trunk. The ascending cervical artery is a branch of the
 inferior thyroid artery.
-**12.** The second part of the subclavian artery has one
-branch, the costocervical trunk (FIG. 7.12). The
-costocervical trunk arises from the posterior sur-
-face of the second part of the subclavian artery. Use
-your ! ngers to elevate the subclavian artery from
-the surface of the ! rst rib and use blunt dissection
+**12.** The second part of the subclavian artery has one branch, the costocervical trunk (FIG. 7.12). The
+costocervical trunk arises from the posterior sur- face of the second part of the subclavian artery. Use your ! ngers to elevate the subclavian artery from the surface of the ! rst rib and use blunt dissection
 to look for the costocervical trunk passing posteri-
-orly above the cupula of the pleura. The costocer-
-vical trunk divides into the deep cervical artery
-and the supreme intercostal artery. The supreme
-intercostal artery gives rise to posterior intercostal
+orly above the cupula of the pleura. The costocer- vical trunk divides into the deep cervical artery and the supreme intercostal artery. The supreme intercostal artery gives rise to posterior intercostal
 arteries 1 and 2.
-**13.** The third part of the subclavian artery has one
-branch, the dorsal scapular artery. The dorsal
-scapular artery passes between the superior and
-middle trunks of the brachial plexus to supply the
-muscles of the scapular region (FIG. 7.11). In about
-30% of cases, the dorsal scapular artery arises from
-the transverse cervical artery instead of from the
+**13.** The third part of the subclavian artery has one branch, the dorsal scapular artery. The dorsal scapular artery passes between the superior and middle trunks of the brachial plexus to supply the muscles of the scapular region (FIG. 7.11). In about
+30% of cases, the dorsal scapular artery arises from the transverse cervical artery instead of from the
 subclavian artery.
-**14.** On the left side, ! nd the thoracic duct, which as-
-cends from the thorax into the neck. The thoracic
-duct is posterior to the esophagus at the level of
-the superior thoracic aperture, and then it arches
-anteriorly and to the left to join the venous sys-
-tem near the junction of the
-left subclavian vein
-and the left internal jugular vein (FIG. 7.11). The
-thoracic duct is usually a single structure, which
+**14.** On the left side, ! nd the thoracic duct, which as- cends from the thorax into the neck. The thoracic duct is posterior to the esophagus at the level of the superior thoracic aperture, and then it arches
+anteriorly and to the left to join the venous sys- tem near the junction of the left subclavian vein and the left internal jugular vein (FIG. 7.11). The thoracic duct is usually a single structure, which
 has the diameter of a small vein but it may be rep-
 resented by several smaller ducts.
 *[G 779; L 309;*
 N 200; R 182; C 210]
-**6.** To expose the blood vessels in the root of the neck,
-remove the investing layer of deep cervical fascia
-that forms the roof of the lower part of the poste-
-rior cervical triangle. Preserve the external jugular
+**6.** To expose the blood vessels in the root of the neck, remove the investing layer of deep cervical fascia
+that forms the roof of the lower part of the poste- rior cervical triangle. Preserve the external jugular
 vein while removing the investing fascia.
 **7.** Identify the subclavian vein (FIG. 7.11). Use blunt
 dissection to loosen the subclavian vein from struc-
 tures that lie deep to it.
-**8.** Follow the subclavian vein medially to the point
-where it is joined by the internal jugular vein
-to form the brachiocephalic vein. Note that the
-vertebral vein joins the posterior surface of the
-brachiocephalic vein in the root of the neck but it
+**8.** Follow the subclavian vein medially to the point where it is joined by the internal jugular vein to form the brachiocephalic vein. Note that the vertebral vein joins the posterior surface of the brachiocephalic vein in the root of the neck but it
 cannot be seen at this time.
-**9.** Identify the
-subclavian artery. Observe that
-the right subclavian artery is a branch of the
+**9.** Identify the subclavian artery. Observe that the right subclavian artery is a branch of the
 brachiocephalic trunk, and the left subclavian ar-
 tery is a branch of the aortic arch.
 *[G 780; L 309, 310;*
@@ -1000,20 +681,15 @@ N 32; R 170, 184; C 544]
 **10.** The subclavian artery has three parts that are de-
 ! ned by its relationship to the anterior scalene
 muscle (FIG. 7.12):
-¥ First part - from its origin to the medial border
-of the anterior scalene muscle
-¥ Second part - posterior to the anterior scalene
-¥ Third part - between the lateral border of the
-anterior scalene muscle and the lateral border of
-the ! rst rib
+¥ First part-from its origin to the medial border of the anterior scalene muscle
+¥ Second part-posterior to the anterior scalene
+¥ Third part-between the lateral border of the anterior scalene muscle and the lateral border of the ! rst rib
 **11.** The fi rst part of the subclavian artery has three
-¥ Vertebral artery - courses superiorly between
-the anterior scalene muscle and the longus colli
+¥ Vertebral artery-courses superiorly between the anterior scalene muscle and the longus colli
 muscle (FIG. 7.12). Trace the vertebral artery su-
 periorly until it passes into the transverse fora-
 men of vertebra C6.
-¥ Internal thoracic artery - arises from the an-
-teroinferior surface of the subclavian artery and
+¥ Internal thoracic artery-arises from the an- teroinferior surface of the subclavian artery and
 First part of
 subclavian artery:
 Vertebral artery
@@ -1034,59 +710,39 @@ FIGURE 7.12
 Branches of the subclavian artery.
 GRANTÕS DISSECTOR
 Identify the parts of the supraclavicular portion
-of the brachial plexus: fi ve roots, three trunks,
+of the brachial plexus: five roots, three trunks,
 and six divisions.
-**24.** If the upper limb has been dissected previously,
-follow the suprascapular nerve as far laterally as
-the suprascapular notch of the scapula where it is
+**24.** If the upper limb has been dissected previously, follow the suprascapular nerve as far laterally as the suprascapular notch of the scapula where it is
 joined by the suprascapular artery.
-**15.** On the right side of the neck, several small lym-
-phatic vessels join with lymph vessels from the right
-upper limb and right side of the thorax to form the
-right lymphatic duct. The right lymphatic duct
-drains into the junction of the right subclavian vein
+**15.** On the right side of the neck, several small lym- phatic vessels join with lymph vessels from the right upper limb and right side of the thorax to form the right lymphatic duct. The right lymphatic duct drains into the junction of the right subclavian vein
 and right internal jugular vein.
 **16.** On both sides of the neck, ! nd the vagus nerve
 in the carotid sheath and follow it into the thorax.
 Note that the vagus nerve passes posterior to the
 *root of the lung. Grant's Atlas 778 | LWW Atlas 309 | Netter's 31 | Color Atlas 184 | Clemente's 534*
-**17.** The right vagus nerve passes anterior to the subcla-
-vian artery, where it gives off the right recurrent
-laryngeal nerve (FIG. 7.11). The left vagus nerve
-passes on the left side of the aortic arch, where it
+**17.** The right vagus nerve passes anterior to the subcla- vian artery, where it gives off the right recurrent laryngeal nerve (FIG. 7.11). The left vagus nerve passes on the left side of the aortic arch, where it
 gives off the left recurrent laryngeal nerve.
-**18.** Follow the right and left recurrent laryngeal nerves
-superiorly along the lateral surface of the trachea
-and esophagus. Trace them as far as the !
-cheal ring. Do not follow them into the larynx at
-**19.** Verify that the phrenic nerve crosses the anterior
-surface of the anterior scalene muscle
+**18.** Follow the right and left recurrent laryngeal nerves superiorly along the lateral surface of the trachea
+and esophagus. Trace them as far as the ! cheal ring. Do not follow them into the larynx at
+**19.** Verify that the phrenic nerve crosses the anterior surface of the anterior scalene muscle
 (FIG. 7.11).
 Follow the phrenic nerve into the thorax and con-
 ! rm that it passes anterior to the root of the lung
 and inervates the diaphragm.
-**20.** Identify the cervical portion of the
-sympathetic
-trunk. Note that the inferior cervical sympathetic
-ganglion is located low in the neck, near the su-
-perior thoracic aperture. Verify that the cervical
-sympathetic trunk is continuous with the thoracic
+**20.** Identify the cervical portion of the sympathetic trunk. Note that the inferior cervical sympathetic
+ganglion is located low in the neck, near the su- perior thoracic aperture. Verify that the cervical sympathetic trunk is continuous with the thoracic
 sympathetic#trunk.
-**21.** Examine the muscles that form the " oor of the
-posterior cervical triangle. Identify the
+**21.** Examine the muscles that form the " oor of the posterior cervical triangle. Identify the
 capitis; the levator scapulae; and the anterior,
 *middle, and posterior scalene muscles. [G 779;*
 L 310; N 32; R 185; C 533]
 **22.** Use blunt dissection to de! ne the borders of the
 anterior scalene and middle scalene muscles.
-Inferiorly, the anterior and middle scalene muscles
-attach to the ! rst rib. The ! rst rib and the adjacent
-borders of the anterior and middle scalene muscles
+Inferiorly, the anterior and middle scalene muscles attach to the ! rst rib. The ! rst rib and the adjacent borders of the anterior and middle scalene muscles
 form the boundaries of the interscalene triangle.
 Observe (FIG. 7.11):
 ¥ The subclavian artery and the roots of the
-brachial plexus pass between the middle sca-
-lene muscle and the anterior scalene muscle
+brachial plexus pass between the middle sca- lene muscle and the anterior scalene muscle
 (through the interscalene triangle).
 ¥ The subclavian vein, transverse cervical ar-
 tery, and suprascapular artery cross the ante-
@@ -1100,50 +756,36 @@ chial plexus at the level of the interscalene triangle.
 ### Clinical Correlation
 
 ### Interscalene Triangle
-The interscalene triangle becomes clinically important when
-anatomical variations (additional muscular slips, an accessory
+The interscalene triangle becomes clinically important when anatomical variations (additional muscular slips, an accessory
 cervical rib, or exostosis on the fi rst rib) narrow the interval.
-As a result, the subclavian artery and/or roots of the brachial
-plexus may be compressed, resulting in ischemia or nerve
+As a result, the subclavian artery and/or roots of the brachial plexus may be compressed, resulting in ischemia or nerve
 dysfunction in the upper limb.
 Dissection Follow-up
-**1.** Replace the anterior thoracic wall in its correct ana-
-tomical position. Replace the infrahyoid muscles and
+**1.** Replace the anterior thoracic wall in its correct ana- tomical position. Replace the infrahyoid muscles and
 sternocleidomastoid muscle in their correct anatomi-
-cal positions. Review the boundaries of the poste-
-rior cervical triangle. Review the attachments of the
+cal positions. Review the boundaries of the poste- rior cervical triangle. Review the attachments of the
 infrahyoid muscles. Review the distribution of the cu-
 taneous branches of the cervical plexus.
-**2.** Remove the anterior thoracic wall. Review the origin
-and course of the brachiocephalic artery, left common
-carotid artery, and left subclavian artery in the superior
+**2.** Remove the anterior thoracic wall. Review the origin and course of the brachiocephalic artery, left common carotid artery, and left subclavian artery in the superior
 mediastinum.
 **3.** Review the three parts and the branches of the subcla-
 vian artery.
 **4.** Review the distribution of the transverse cervical, su-
 prascapular, and dorsal scapular arteries to the super!
 cial muscles of the back and scapulohumeral muscles.
-**5.** Use an illustration to review the course of the vertebral
-artery from its origin on the ! rst part of the subclavian
+**5.** Use an illustration to review the course of the vertebral artery from its origin on the ! rst part of the subclavian
 artery to the cranial cavity.
-The dissection of the head is foremost a dissection of
-the course and distribution of the cranial nerves and the
-branches of the external carotid artery. All of the cranial
-nerves and many blood vessels pass through openings in
-the skull. Therefore, the skull is an important tool with
-which to organize the study of the soft tissues of the head
-and neck. Parts of the skull will be studied as  needed and
+The dissection of the head is foremost a dissection of the course and distribution of the cranial nerves and the branches of the external carotid artery. All of the cranial nerves and many blood vessels pass through openings in the skull. Therefore, the skull is an important tool with which to organize the study of the soft tissues of the head and neck. Parts of the skull will be studied as  needed and
 details will be added as the dissection  proceeds.
 THE HEAD AND NECK 219
 Mental foramen
 Mental protuberance
 Parts of several bones combine to form the following
 features (FIG. 7.13):
-¥ Nasion - the junction between the frontal and nasal bones
-¥ Orbital margin - formed by three bones (frontal, max-
+¥ Nasion-the junction between the frontal and nasal bones
+¥ Orbital margin-formed by three bones (frontal, max-
 illary, and zygomatic)
-¥ Anterior nasal aperture - bounded by the nasal bones
-and maxillae
+¥ Anterior nasal aperture-bounded by the nasal bones and maxillae
 *Lateral View of the Skull Grant's Atlas 616 | LWW Atlas 299 | Netter's 6 | Color Atlas 21 | Clemente's 568*
 Examine the skull from a lateral view and identify (FIG. 7.14):
 ¥ Parietal bone
@@ -1155,8 +797,7 @@ Greater wing
 ¥ Zygomatic bone
 Frontal process
 Temporal process
-All parts of the skull are fragile, but the bones of the orbit
-are exceptionally delicate. The medial wall of the orbit is
+All parts of the skull are fragile, but the bones of the orbit are exceptionally delicate. The medial wall of the orbit is
 very easily broken. Never hold a skull by placing your !
 gers into the orbits.
 *Anterior View of the Skull Grant's Atlas 614 | LWW Atlas 298 | Netter's 4 | Color Atlas 22 | Clemente's 567*
@@ -1192,9 +833,7 @@ The skull. Anterior view.
 GRANTÕS DISSECTOR
 ¥ Occipital bone
 External occipital protuberance
-¥ Pterion - the junction of the frontal bone, parietal
-bone, greater wing of sphenoid bone, and squamous part
-of temporal bone
+¥ Pterion-the junction of the frontal bone, parietal bone, greater wing of sphenoid bone, and squamous part of temporal bone
 ¥ Mandible (FIG. 7.15) Grant's Atlas 670 | LWW Atlas 327 | Netter's 17 | Color Atlas 52 | Clemente's 634
 Coronoid process
 Mandibular notch
@@ -1203,8 +842,7 @@ Head (condyle)
 Mental foramen
 Base (inferior border)
 *Superior View of the Skull Grant's Atlas 618 | LWW Atlas 300 | Netter's 9 | Color Atlas 29 | Clemente's 569*
-The calvaria is the skull cap that is formed by parts of the
-frontal, parietal, and occipital bones. Examine the external
+The calvaria is the skull cap that is formed by parts of the frontal, parietal, and occipital bones. Examine the external
 surface of the calvaria and identify (FIG. 7.16):
 ¥ Temporal bone
 Squamous part
@@ -1230,8 +868,7 @@ Squamous part
 External acoustic meatus
 Mastoid process
 Zygomatic process
-Occipital bone:
-protuberance
+Occipital bone: protuberance
 FIGURE 7.14
 The skull. Lateral view.
 THE HEAD AND NECK 221
@@ -1242,12 +879,9 @@ Sensory innervation for the skin of the face is provided
 by three divisions (branches) of the trigeminal nerve (V).
 Branches of cervical spinal nerves innervate the skin of the
 posterior part of the head (FIG. 7.18). Grant's Atlas 637 | LWW Atlas 324 | Netter's 2 | Clemente's 554
-¥ Ophthalmic division (V1) - innervates the skin of the
-forehead, upper eyelids, and nose
-¥ Maxillary division (V2) - innervates the skin of the low-
-er eyelid, cheek, and upper lip
-¥ Mandibular division (V3) - innervates the skin of the
-lower face and part of the side of the head
+¥ Ophthalmic division (V1) - innervates the skin of the forehead, upper eyelids, and nose
+¥ Maxillary division (V2) - innervates the skin of the low- er eyelid, cheek, and upper lip
+¥ Mandibular division (V3) - innervates the skin of the lower face and part of the side of the head
 Frontal (metopic) suture
 Frontal bone
 Coronal suture
@@ -1267,20 +901,15 @@ B. Adult skull.
 Supraorbital
 Nasal bones
 Alveolar process
-Mental protuberance
-of mandible
+Mental protuberance of mandible
 FIGURE 7.17
 Surface anatomy of the face.
-¥ Frontal (metopic) suture - between the ossi! cation
-centers of the frontal bone, usually not seen in the adult
-¥ Coronal suture - between the frontal bone and the two
-parietal bones
-¥ Sagittal suture - between the two parietal bones
-¥ Bregma - the point where the sagittal and coronal su-
-¥ Lambdoid suture - between the occipital bone and the
-two parietal bones
-¥ Lambda - the point where the sagittal and lambdoid
-sutures meet
+¥ Frontal (metopic) suture-between the ossi! cation centers of the frontal bone, usually not seen in the adult
+¥ Coronal suture-between the frontal bone and the two parietal bones
+¥ Sagittal suture-between the two parietal bones
+¥ Bregma-the point where the sagittal and coronal su-
+¥ Lambdoid suture-between the occipital bone and the two parietal bones
+¥ Lambda-the point where the sagittal and lambdoid sutures meet
 Surface Anatomy
 Palpate the following structures on the head of the cadaver
 (FIG. 7.17):
@@ -1291,152 +920,92 @@ Palpate the following structures on the head of the cadaver
 ¥ Zygomatic arch
 FIGURE 7.18
 Cutaneous nerve distribution of the head and neck.
-GRANTÕS DISSECTOR
-the hairline (A) passes through the  nasion (B) and
-continues to the mental protuberance (C). Encircle
+GRANTÕS DISSECTOR the hairline (A) passes through the  nasion (B) and continues to the mental protuberance (C). Encircle
 the mouth at the margin of the lips.
-**3.** An incision was made from the mental protuber-
-ance (C) along the inferior border of the mandible
+**3.** An incision was made from the mental protuber- ance (C) along the inferior border of the mandible
 to point D when the neck was dissected.
-**4.** On the lateral surface of the head, make a skin inci-
-sion from point A to the upper part of the ear, then
-passing anterior to the ear down to the level of the
-ear lobe. This incision should end at the incision
+**4.** On the lateral surface of the head, make a skin inci- sion from point A to the upper part of the ear, then passing anterior to the ear down to the level of the ear lobe. This incision should end at the incision
 that was made when dissecting the neck (D).
-**5.** Starting at the nasion (B), make an incision that
-encircles the orbital margin. Extend the incision
-from the lateral angle of the eye to the incision near
+**5.** Starting at the nasion (B), make an incision that encircles the orbital margin. Extend the incision from the lateral angle of the eye to the incision near
 **6.** Beginning at the midline, remove the skin of the
-forehead. Note that the skin adheres to tough sub-
-cutaneous connective tissue. Leave this connective
-tissue intact and do not remove the frontalis muscle
+forehead. Note that the skin adheres to tough sub- cutaneous connective tissue. Leave this connective tissue intact and do not remove the frontalis muscle
 with the skin.
 **7.** Remove the skin of the lower face, beginning at the
-midline and proceeding laterally. The super!
-fascia of the face is thick and contains the muscles
+midline and proceeding laterally. The super! fascia of the face is thick and contains the muscles
 of facial expression.
-**8.** Detach the skin along the incision line from the
-forehead to the angle of the mandible (A to D) and
+**8.** Detach the skin along the incision line from the forehead to the angle of the mandible (A to D) and
 place it in the tissue container.
 *Superfi cial Fascia and Facial Nerve [G 632; L 324, 325;*
 N 3; R 76; C 547]
 The super! cial fascia of the face contains the parotid
 gland, muscles of facial expression, branches of the fa-
 cial nerve (VII), branches of the trigeminal nerve (V),
-and the facial artery and vein. The muscles of facial ex-
-pression are attached to the skin, and these attachments
-have been severed during skin removal. The goal of this
-stage of the dissection is to identify some of the muscles
-of facial expression and follow branches of the facial
+and the facial artery and vein. The muscles of facial ex- pression are attached to the skin, and these attachments have been severed during skin removal. The goal of this stage of the dissection is to identify some of the muscles of facial expression and follow branches of the facial
 nerve posteriorly into the parotid gland.
-**1.** A small part of the platysma muscle extends into
-the face along the inferior border of the mandible
-(FIG. 7.4). Recall that the inferior attachment of the
-platysma muscle is the super! cial fascia of the up-
-per thorax and that it forms a sheet of muscle that
-covers the anterior neck. Use blunt dissection to
-de! ne the superior attachment of the muscle on
-the inferior border of the mandible, skin of the
+**1.** A small part of the platysma muscle extends into the face along the inferior border of the mandible (FIG. 7.4). Recall that the inferior attachment of the
+platysma muscle is the super! cial fascia of the up- per thorax and that it forms a sheet of muscle that covers the anterior neck. Use blunt dissection to de! ne the superior attachment of the muscle on the inferior border of the mandible, skin of the
 cheek, and angle of the mouth.
-**2.** Identify the parotid duct (FIG. 7.20). The parotid
-duct is approximately the diameter of a probe handle
-and it crosses the lateral surface of the masseter mus-
-cle about 2 cm inferior to the zygomatic arch. Use
-blunt dissection to follow the parotid duct anteriorly
-as far as the anterior border of the masseter muscle
+**2.** Identify the parotid duct (FIG. 7.20). The parotid duct is approximately the diameter of a probe handle
+and it crosses the lateral surface of the masseter mus- cle about 2 cm inferior to the zygomatic arch. Use blunt dissection to follow the parotid duct anteriorly as far as the anterior border of the masseter muscle
 ¥ Branches of cervical spinal nerves 2 and 3:
-¥ Greater occipital nerve - innervates the skin of the
-back of the head as far superiorly as the vertex
-¥ Lesser occipital nerve - innervates the skin behind
-¥ Great auricular nerve - innervates the skin of the
-lower part of the ear and skin over the angle of the
-mandible and lower part of parotid gland
+¥ Greater occipital nerve-innervates the skin of the back of the head as far superiorly as the vertex
+¥ Lesser occipital nerve-innervates the skin behind
+¥ Great auricular nerve-innervates the skin of the lower part of the ear and skin over the angle of the mandible and lower part of parotid gland
 The motor innervation to all muscles of facial expres-
 *sion is provided by the facial nerve (VII). [G 637; L 324,*
 325; N 24; R 78; C 552]
 The order of dissection will be as follows: The skin of
 the face will be removed to expose the super! cial fascia.
-The parotid duct and gland will be identi!
-ed. Branches of
-the facial nerve will be identi! ed as they emerge from the
-anterior border of the parotid gland. Several facial muscles
-will be identi! ed. Two important sphincter muscles will
-receive particular attention: the orbicularis oris (mouth)
-and the orbicularis oculi (eye). The terminal branches of
-the three divisions of the trigeminal nerve will be exposed
+The parotid duct and gland will be identi! ed. Branches of the facial nerve will be identi! ed as they emerge from the anterior border of the parotid gland. Several facial muscles will be identi! ed. Two important sphincter muscles will
+receive particular attention: the orbicularis oris (mouth) and the orbicularis oculi (eye). The terminal branches of the three divisions of the trigeminal nerve will be exposed
 where they emerge from openings in the skull.
 Dissection Instructions
 Skin Incisions
-The skin of the face is very thin. It is ! rmly attached
-to the cartilage of the nose and ears but it is mobile
-over other parts of the face. This mobility permits
-the  muscles of facial expression to move the skin. The
-muscles of facial expression are attached to the skin su-
-per! cially and the bones of the skull deeply. They act
+The skin of the face is very thin. It is ! rmly attached to the cartilage of the nose and ears but it is mobile over other parts of the face. This mobility permits the  muscles of facial expression to move the skin. The
+muscles of facial expression are attached to the skin su- per! cially and the bones of the skull deeply. They act
 as sphincters and dilators for the openings of the eyes,
 mouth, and nostrils.
 **1.** Place the cadaver in the supine position and refer
 to FIGURE 7.19.
-**2.** In the midline, make a shallow (2 mm) skin  incision
-that begins on the forehead at about the level of
+**2.** In the midline, make a shallow (2 mm) skin  incision that begins on the forehead at about the level of
 FIGURE 7.19
 Skin incisions.
 THE HEAD AND NECK 223
-**6.** Note that the buccal branches course parallel to the
-parotid duct. Use blunt dissection to locate one of
+**6.** Note that the buccal branches course parallel to the parotid duct. Use blunt dissection to locate one of
 the buccal branches superior or inferior to the parot-
-id duct and follow it into the parotid gland, remov-
-ing parotid tissue piece by piece. Within the parotid
-gland, the nerve will join other facial nerve branches
-to form the parotid plexus. Once the parotid plexus
+id duct and follow it into the parotid gland, remov- ing parotid tissue piece by piece. Within the parotid gland, the nerve will join other facial nerve branches to form the parotid plexus. Once the parotid plexus
 is found, follow the other branches peripherally (to-
 ward the facial muscles) to complete the dissection.
 **7.** Follow the parotid plexus branches posteriorly
-and deeply (below the ear lobe) until they com-
-bine to form a single nerve. It emerges from the
-stylomastoid foramen in the temporal bone. You
-will not be able to follow the facial nerve all the
+and deeply (below the ear lobe) until they com- bine to form a single nerve. It emerges from the stylomastoid foramen in the temporal bone. You will not be able to follow the facial nerve all the
 way to the stylomastoid foramen.
-**8.** Use a probe to de! ne the anterior border of the
-masseter muscle. Anterior to the masseter muscle
-is the buccal fat pad. Remove the buccal fat pad
-and expose the buccinator muscle. Verify that the
+**8.** Use a probe to de! ne the anterior border of the masseter muscle. Anterior to the masseter muscle is the buccal fat pad. Remove the buccal fat pad and expose the buccinator muscle. Verify that the
 parotid duct pierces the buccinator muscle.
 **9.** Observe two nerves associated with the buccinator
 muscle (FIG. 7.20):
-¥ Buccal branch of the facial nerve - crosses
-super! cial to the masseter muscle and provides
+¥ Buccal branch of the facial nerve-crosses super! cial to the masseter muscle and provides
 motor innervation to the buccinator muscle.
-¥ Buccal nerve - a branch of the mandibular divi-
+¥ Buccal nerve-a branch of the mandibular divi-
 sion of the trigeminal nerve (V
 3), emerges from
-where the duct turns medially. It pierces the bucci-
-nator muscle of the cheek and drains into the oral
+where the duct turns medially. It pierces the bucci- nator muscle of the cheek and drains into the oral
 vestibule lateral to the second maxillary molar tooth.
-**3.** Use blunt dissection to follow the parotid duct
-posteriorly and identify the anterior margin of
+**3.** Use blunt dissection to follow the parotid duct posteriorly and identify the anterior margin of
 the parotid gland (FIG. 7.20). [G 633; L 325; N 24;
 R 76; C 553]
-**4.** The parotid gland is enclosed within the
-sheath. The parotid sheath and the stroma of the
-parotid gland are continuous with the investing
+**4.** The parotid gland is enclosed within the sheath. The parotid sheath and the stroma of the parotid gland are continuous with the investing
 layer of the deep cervical fascia. This tough con-
 nective tissue will not yield to blunt dissection.
-To dissect into the parotid gland, either obtain a
-sharp probe or sharpen the tip of your probe using
+To dissect into the parotid gland, either obtain a sharp probe or sharpen the tip of your probe using
 a whetstone.
 **5.** Preview the branches of the facial nerve in an il-
 lustration (FIG. 7.20).
-¥ Posterior auricular branch - passes posterior
-to the ear and will not be seen in this dissection
-¥ Temporal branch - crosses the zygomatic arch
-¥ Zygomatic branch - crosses the zygomatic bone
-¥ Buccal branches - cross the super! cial surface
-of the masseter muscle
-¥ Mandibular branch - parallels the inferior mar-
-gin of the mandible
-¥ Cervical branch - crosses the angle of the man-
-dible to enter the neck
+¥ Posterior auricular branch-passes posterior to the ear and will not be seen in this dissection
+¥ Temporal branch-crosses the zygomatic arch
+¥ Zygomatic branch-crosses the zygomatic bone
+¥ Buccal branches-cross the super! cial surface of the masseter muscle
+¥ Mandibular branch-parallels the inferior mar- gin of the mandible
+¥ Cervical branch-crosses the angle of the man- dible to enter the neck
 Platysma m. (cut)
 Facial v. & a.
 Depressor anguli oris m.
@@ -1460,51 +1029,30 @@ Epicranial aponeurosis
 FIGURE 7.20
 Dissection of the face and facial nerve.
 GRANTÕS DISSECTOR
-¥ Palpebral part - a thinner portion, which is con-
-tained in the eyelids and is responsible for blink-
-ing of the eyelid
+¥ Palpebral part-a thinner portion, which is con-
+tained in the eyelids and is responsible for blink- ing of the eyelid
 **3.** Note that the medial attachment of the orbicularis
-oculi muscle is the medial orbital margin, the me-
-dial palpebral ligament, and the lacrimal bone. The
-lateral attachment of the orbicularis oculi muscle
-is the skin around the orbital margin. It is inner-
-vated by the temporal and zygomatic branches of
+oculi muscle is the medial orbital margin, the me- dial palpebral ligament, and the lacrimal bone. The lateral attachment of the orbicularis oculi muscle
+is the skin around the orbital margin. It is inner- vated by the temporal and zygomatic branches of
 the  facial nerve.
 *Muscles Around the Oral Opening [G 632, 636; L 324,*
 325; N 25; R 58; C 548]
-**1.** Several muscles alter the shape of the mouth and
-lips. Use blunt dissection to de! ne the borders of
+**1.** Several muscles alter the shape of the mouth and lips. Use blunt dissection to de! ne the borders of
 the following muscles (FIG. 7.21):
-¥ Levator labii superioris muscle - has a supe-
-rior attachment to the maxilla just below the or-
-bital margin and an inferior attachment to the
+¥ Levator labii superioris muscle-has a supe-
+rior attachment to the maxilla just below the or- bital margin and an inferior attachment to the
 upper lip. It elevates the upper lip.
-¥ Zygomaticus major muscle - has a lateral at-
-tachment to the zygomatic bone and a medial at-
-tachment to the angle of the mouth. It draws the
+¥ Zygomaticus major muscle-has a lateral at-
+tachment to the zygomatic bone and a medial at- tachment to the angle of the mouth. It draws the
 angle of the mouth superiorly and posteriorly.
-¥ Orbicularis oris muscle - passes both superior
-and inferior to the oral opening. It has medial
-attachments to the maxilla, mandible, and skin
-in the median plane and a lateral attachment
-to the angle of the mouth. The orbicularis oris
-muscle is the sphincter of the mouth.
-deep to the masseter muscle. The buccal nerve
-is a sensory nerve and it does not supply motor
-innervation to the buccinator muscle. It pierces
-the buccinator muscle to provide sensory inner-
-vation to the mucosa of the cheek. The buccal
-nerve also provides sensory innervation to the
+¥ Orbicularis oris muscle-passes both superior and inferior to the oral opening. It has medial attachments to the maxilla, mandible, and skin in the median plane and a lateral attachment to the angle of the mouth. The orbicularis oris
+muscle is the sphincter of the mouth. deep to the masseter muscle. The buccal nerve is a sensory nerve and it does not supply motor innervation to the buccinator muscle. It pierces
+the buccinator muscle to provide sensory inner- vation to the mucosa of the cheek. The buccal nerve also provides sensory innervation to the
 skin of the cheek.
 *Facial Artery and Vein Grant's Atlas 632 | LWW Atlas 326 | Netter's 3 | Color Atlas 79 | Clemente's 554*
-The facial artery and vein follow a winding course
-across the face and they may pass either super! cial or
+The facial artery and vein follow a winding course across the face and they may pass either super! cial or
 deep to the muscles of facial expression.
-**1.** Find the facial artery where it crosses the infe-
-rior border of the mandible at the anterior border
-of the masseter muscle (FIG. 7.20). The facial vein
-should be located posterior to the facial artery. At
-this location, the facial artery and vein are covered
+**1.** Find the facial artery where it crosses the infe- rior border of the mandible at the anterior border of the masseter muscle (FIG. 7.20). The facial vein should be located posterior to the facial artery. At this location, the facial artery and vein are covered
 only by skin and the platysma muscle.
 **2.** Preserve the facial vessels. Cut the platysma muscle
 along the inferior border of the mandible and de-
@@ -1512,35 +1060,24 @@ tach it from the angle of the mouth. Place the pla-
 tysma muscle in the tissue container.
 **3.** Follow the facial artery inferiorly and recall that it
 passes deep to the submandibular gland in the neck,
-then it becomes super! cial where it crosses the in-
-ferior border of the mandible. The facial vein passes
-super! cial to the submandibular gland and may
+then it becomes super! cial where it crosses the in- ferior border of the mandible. The facial vein passes super! cial to the submandibular gland and may
 have been cut when the gland was removed earlier.
-**4.** Use blunt dissection to trace the facial artery su-
-periorly toward the angle of the mouth. Observe
-that the facial artery has several loops or bends in
-this part of its course. Near the angle of the mouth,
-the facial artery gives off the inferior labial and
+**4.** Use blunt dissection to trace the facial artery su- periorly toward the angle of the mouth. Observe that the facial artery has several loops or bends in
+this part of its course. Near the angle of the mouth, the facial artery gives off the inferior labial and
 superior labial arteries.
-**5.** Continue to trace the facial artery as far as the lat-
-eral side of the nose, where its name changes to
+**5.** Continue to trace the facial artery as far as the lat- eral side of the nose, where its name changes to
 angular artery.
-**6.** The facial vein receives tributaries that correspond
-to the branches of the facial artery
-(FIG. 7.20). The
-angular vein has a clinically important anastomotic
+**6.** The facial vein receives tributaries that correspond to the branches of the facial artery (FIG. 7.20). The angular vein has a clinically important anastomotic
 connection with the ophthalmic veins in the orbit,
 which will be described when the orbit is dissected.
 *Muscles Around the Orbital Opening [G 632; L 324,*
 325; N 25; R 58; C 547]
-**1.** At only 1 to 2 mm in thickness, the skin of the eye-
-lids is the thinnest skin in the body. Carefully skin
+**1.** At only 1 to 2 mm in thickness, the skin of the eye- lids is the thinnest skin in the body. Carefully skin
 the upper and lower eyelids.
 **2.** Identify the orbicularis oculi muscle, which en-
 circles the palpebral fi ssure (opening of the eyelid)
 (FIG. 7.21). Identify:
-¥ Orbital part - surrounds the orbital margin and
-is responsible for the tight closure of the eyelid
+¥ Orbital part-surrounds the orbital margin and is responsible for the tight closure of the eyelid
 Epicranial aponeurosis
 Frontal belly of
 occipitofrontalis m.
@@ -1569,56 +1106,33 @@ THE HEAD AND NECK 225
 ### Clinical Correlation
 
 ### Dental Anesthesia
-Study the infraorbital foramen and infraorbital canal in the
-skull. For purposes of dental anesthesia, the infraorbital
-nerve may be infi ltrated with anesthetic where it emerges
-from the infraorbital foramen. The needle is inserted through
-the oral mucosa deep to the upper lip and then directed
+Study the infraorbital foramen and infraorbital canal in the skull. For purposes of dental anesthesia, the infraorbital nerve may be infi ltrated with anesthetic where it emerges from the infraorbital foramen. The needle is inserted through the oral mucosa deep to the upper lip and then directed
 superiorly.
-¥ Buccinator muscle - has posterior attachments
-to the pterygomandibular raphe and the lateral
-surfaces of the alveolar processes of the maxilla
-and mandible. The anterior attachment of the
-buccinator muscle is the angle of the mouth. It
-compresses the cheek against the molar teeth,
-keeping food on the occlusal surfaces during
-¥ Depressor anguli oris muscle - has an infe-
-rior attachment to the mandible and a superior
+¥ Buccinator muscle-has posterior attachments to the pterygomandibular raphe and the lateral surfaces of the alveolar processes of the maxilla and mandible. The anterior attachment of the buccinator muscle is the angle of the mouth. It
+compresses the cheek against the molar teeth, keeping food on the occlusal surfaces during
+¥ Depressor anguli oris muscle-has an infe- rior attachment to the mandible and a superior
 attachment to the angle (corner) of the mouth.
 It depresses the angle of the mouth.
-**2.** The muscles described previously are innervated
-by the zygomatic, buccal, and mandibular branches
+**2.** The muscles described previously are innervated by the zygomatic, buccal, and mandibular branches
 of the facial nerve.
 
 ### Clinical Correlation
 
 ### Facial Nerve
-Bell's palsy is a sudden loss of control of the muscles of fa-
-cial expression on one side of the face caused by injury to the
-facial nerve. The patient presents with drooping of the mouth
+Bell's palsy is a sudden loss of control of the muscles of fa- cial expression on one side of the face caused by injury to the facial nerve. The patient presents with drooping of the mouth
 and inability to close the eyelid on the affected side.
 *Sensory Nerves of the Face [G 636; L 324; N 2; R 69;*
 **1.** Three branches of the trigeminal nerve supply sen-
 sory innervation to the face (FIG. 7.22).
-**2.** Supraorbital nerve - a branch of the ophthal-
+**2.** Supraorbital nerve-a branch of the ophthal-
 mic division of the trigeminal nerve (V
-1). The su-
-praorbital nerve passes through the supraorbital
-notch (foramen) of the frontal bone to reach the
-skin above the eye. It will be seen when the scalp is
-**3.** Infraorbital nerve - a branch of the maxillary
+1). The su- praorbital nerve passes through the supraorbital notch (foramen) of the frontal bone to reach the skin above the eye. It will be seen when the scalp is
+**3.** Infraorbital nerve-a branch of the maxillary
 division of the trigeminal nerve (V
 2). It passes
-through the infraorbital foramen of the max-
-illa to supply sensory innervation to the inferior
-eyelid, side of the nose, and upper lip. It is cov-
-ered by the levator labii superioris muscle. On
-the right side of the face, use blunt dissection to
-de! ne the borders of the levator labii superioris
-muscle. Transect the muscle close to the infraor-
-bital margin and re" ect it inferiorly to expose the
-infraorbital nerve. Observe that the
-infraorbital
+through the infraorbital foramen of the max- illa to supply sensory innervation to the inferior
+eyelid, side of the nose, and upper lip. It is cov- ered by the levator labii superioris muscle. On the right side of the face, use blunt dissection to de! ne the borders of the levator labii superioris
+muscle. Transect the muscle close to the infraor- bital margin and re" ect it inferiorly to expose the infraorbital nerve. Observe that the infraorbital
 artery and vein also emerge from the infraor-
 bital foramen.
 Supraorbital n.
@@ -1632,18 +1146,14 @@ Zygomaticofacial n.
 Zygomaticotemporal n.
 FIGURE 7.22
 Cutaneous nerves of the face.
-**4.** Mental nerve - a branch of the mandibular divi-
+**4.** Mental nerve-a branch of the mandibular divi-
 sion of the trigeminal nerve (V
 3). It emerges from
-the mental foramen (L. mentum, chin) of the man-
-dible to supply sensory innervation to the lower
-lip and chin. The mental nerve is covered by the
+the mental foramen (L. mentum, chin) of the man- dible to supply sensory innervation to the lower lip and chin. The mental nerve is covered by the
 depressor anguli oris muscle. To expose the nerve,
-! rst  de! ne the borders of the depressor anguli oris
-muscle using blunt dissection, then transect the
+! rst  de! ne the borders of the depressor anguli oris muscle using blunt dissection, then transect the
 muscle near the angle of the mouth. Re"
-ect the de-
-pressor anguli oris muscle inferiorly and ! nd the
+ect the de- pressor anguli oris muscle inferiorly and ! nd the
 mental nerve where it exits the mental foramen.
 Observe that the mental artery and vein also
 emerge from the mental foramen.
@@ -1652,61 +1162,45 @@ GRANTÕS DISSECTOR
 Use the skull and an illustration to de!
 boundaries of the parotid bed (FIG. 7.24): [G 668; L 326;
 N 33; R 77; C 552]
-¥ Posterior - mastoid process and posterior belly of the
-digastric muscle
-¥ Anterior - medial pterygoid muscle, ramus of the man-
-dible, and masseter muscle
-¥ Medial - styloid process and associated muscles (stylo-
+¥ Posterior-mastoid process and posterior belly of the digastric muscle
+¥ Anterior-medial pterygoid muscle, ramus of the man- dible, and masseter muscle
+¥ Medial-styloid process and associated muscles (stylo-
 pharyngeus, styloglossus, and stylohyoid)
 ¥ Posterosuperior - " oor of the external acoustic
 Dissection Instructions
-**1.** Identify the great auricular nerve where it  crosses
-the sternocleidomastoid muscle and note that it
-ends over the angle of the mandible. Detach the
+**1.** Identify the great auricular nerve where it  crosses the sternocleidomastoid muscle and note that it ends over the angle of the mandible. Detach the
 great auricular nerve at its superior end and re"
-it  inferiorly off the surface of the sternocleido-
-mastoid muscle. Leave it  attached to the cervical
-**2.** Review the branches of the facial nerve: tempo-
-ral, zygomatic, buccal, mandibular, and cervical
+it  inferiorly off the surface of the sternocleido- mastoid muscle. Leave it  attached to the cervical
+**2.** Review the branches of the facial nerve: tempo- ral, zygomatic, buccal, mandibular, and cervical
 (FIG. 7.20). Grant's Atlas 668 | LWW Atlas 326 | Netter's 24 | Color Atlas 77 | Clemente's 554
 Several smaller branches of the trigeminal nerve
-(lacrimal, infratrochlear, zygomaticofacial, zygomati-
-cotemporal, etc.) also innervate the facial region. Do
+(lacrimal, infratrochlear, zygomaticofacial, zygomati- cotemporal, etc.) also innervate the facial region. Do
 not dissect these small branches. The auriculotempo-
 ral nerve (a branch of V 3) will be  dissected later.
 Dissection Follow-up
-**1.** Use the dissected specimen to trace the branches of the
-facial nerve from the parotid plexus to the muscles of
+**1.** Use the dissected specimen to trace the branches of the facial nerve from the parotid plexus to the muscles of
 facial expression.
 **2.** Review the attachments, action, and innervation of
 each muscle that was identi! ed in this dissection.
-**3.** Use a skull and the dissected specimen to review the
-branches of the trigeminal nerve that were  dissected
+**3.** Use a skull and the dissected specimen to review the branches of the trigeminal nerve that were  dissected
 and the openings in the bones that they pass through.
 **4.** Use an illustration and the dissected specimen to re-
 view the origin and course of the facial artery and vein.
 
 ### Parotid Region
 Dissection Overview
-The parotid region is the area on the side of the fact that lies
-anterior to the ear and inferior to the zygomatic arch. The
-parotid bed is the area occupied by the parotid gland. The pa-
-rotid gland develops as an evagination of the oral mucosa and
+The parotid region is the area on the side of the fact that lies anterior to the ear and inferior to the zygomatic arch. The
+parotid bed is the area occupied by the parotid gland. The pa- rotid gland develops as an evagination of the oral mucosa and
 it surrounds the posterior edge of the ramus of the mandible.
 Therefore, the parotid gland is in close contact with nerves,
-vessels, muscles, bones, and ligaments in the region. The su-
-per! cial portion of the parotid gland was removed to expose
-the branches of the facial nerve. The goal of this dissection is
+vessels, muscles, bones, and ligaments in the region. The su- per! cial portion of the parotid gland was removed to expose the branches of the facial nerve. The goal of this dissection is
 to remove the remainder of the parotid gland piece by piece,
 preserving the nerves and vessels that pass through it.
-The order of dissection will be as follows: The branches
-of the facial nerve will be reviewed and followed posteriorly
-toward the stylomastoid foramen. The motor root of the fa-
-cial nerve will be transected near the lobe of the ear and the
+The order of dissection will be as follows: The branches of the facial nerve will be reviewed and followed posteriorly
+toward the stylomastoid foramen. The motor root of the fa- cial nerve will be transected near the lobe of the ear and the
 parotid plexus and its branches will be re" ected anteriorly.
 The retromandibular vein will then be followed superiorly
-through the parotid gland as the parotid tissue that lies su-
-per! cial to it is removed. The external carotid artery will then
+through the parotid gland as the parotid tissue that lies su- per! cial to it is removed. The external carotid artery will then
 be followed superiorly as additional parotid tissue is removed.
 Remnants of the parotid gland that adhere to the posterior
 belly of the digastric muscle and anterior border of the sterno-
@@ -1731,73 +1225,38 @@ Greater wing of sphenoid bone
 FIGURE 7.23
 Skeleton of the parotid region. Lateral view.
 THE HEAD AND NECK 227
-**10.** Follow the superfi cial temporal vein superi-
-orly until it crosses the super! cial surface of the
-zygomatic arch, removing the parotid gland as you
-proceed. The intent is to competely remove the pa-
-rotid tissue from the veins and adjacent structures
+**10.** Follow the superficial temporal vein superi- orly until it crosses the super! cial surface of the zygomatic arch, removing the parotid gland as you
+proceed. The intent is to competely remove the pa- rotid tissue from the veins and adjacent structures
 (mandible and masseter muscle).
 **11.** Return to the neck and ! nd the external carot-
 id artery (FIG. 7.24). [G 669; L 313, 314; N 33; R 79;
-C 563] Use blunt dissection to follow the external
-carotid artery superiorly as far as the angle of the
-mandible, removing the lower part of the parotid
-gland. It will not be possible to follow the exter-
-nal carotid artery deep to the posterior border of
-the mandible because the retromandibular vein lies
-super! cial to it. The external carotid artery passes
-superiorly along the posterior edge of the ramus
-of the mandible (FIG. 7.24) and near the neck of the
-mandible it divides into its two terminal branches,
-the maxillary artery and the superfi cial temporal
+C 563] Use blunt dissection to follow the external carotid artery superiorly as far as the angle of the mandible, removing the lower part of the parotid
+gland. It will not be possible to follow the exter- nal carotid artery deep to the posterior border of the mandible because the retromandibular vein lies super! cial to it. The external carotid artery passes superiorly along the posterior edge of the ramus of the mandible (FIG. 7.24) and near the neck of the
+mandible it divides into its two terminal branches, the maxillary artery and the superficial temporal
 **12.** The superficial temporal artery crosses the
-zygomatic process of the temporal bone just an-
-terior to the external acoustic meatus
+zygomatic process of the temporal bone just an- terior to the external acoustic meatus
 (FIG. 7.24).
-At this location, the superficial temporal artery
-is anterior to the auriculotemporal nerve. Find
-the artery and clean any remaining parotid tis-
-sue away from the zygomatic arch and lateral
-surface of the masseter muscle. The superficial
-temporal artery supplies the lateral part of the
+At this location, the superficial temporal artery is anterior to the auriculotemporal nerve. Find
+the artery and clean any remaining parotid tis- sue away from the zygomatic arch and lateral surface of the masseter muscle. The superficial temporal artery supplies the lateral part of the
 **13.** Once again ! nd the posterior belly of the digas-
 tric muscle and the stylohyoid muscle (FIG. 7.24).
-Clean away any parotid tissue that remains on their
-anterior borders or lateral surfaces. Expose the
-digastric muscle all the way to its attachment on
+Clean away any parotid tissue that remains on their anterior borders or lateral surfaces. Expose the digastric muscle all the way to its attachment on
 the mastoid process.
-**3.** Trace the facial nerve branches posteriorly toward
-the lobe of the ear and again identify the main
+**3.** Trace the facial nerve branches posteriorly toward the lobe of the ear and again identify the main
 branch before it divides.
-**4.** Cut the facial nerve as far posteriorly as possible,
-leaving a stump emerging from the stylomastoid
-foramen. Re" ect the parotid plexus and all of its
+**4.** Cut the facial nerve as far posteriorly as possible, leaving a stump emerging from the stylomastoid foramen. Re" ect the parotid plexus and all of its
 branches anteriorly.
-**5.** Review the course of the parotid duct. Cut the
-parotid duct where it exits the parotid gland and
+**5.** Review the course of the parotid duct. Cut the parotid duct where it exits the parotid gland and
 re" ect the duct anteriorly. Do not disturb its pas-
 sage through the buccinator muscle.
-**6.** Identify the auriculotemporal nerve, a branch
-of the mandibular division of the trigeminal
-nerve (V 3). The auriculotemporal nerve passes
-between the head of the mandible and the ex-
-ternal acoustic meatus. It crosses the zygomatic
-process of the temporal bone and innervates the
-skin of the  anterior side of the ear and tempo-
-ral region. As the auriculotemporal nerve passes
-through the parotid gland, it delivers postsyn-
-aptic parasympathetic nerve ! bers from the otic
-**7.** In the neck, ! nd the external jugular vein
-(FIG. 7.24). Use blunt dissection to follow the
-external jugular vein superiorly to the point where
-it is formed by the joining of the posterior auricular
+**6.** Identify the auriculotemporal nerve, a branch of the mandibular division of the trigeminal nerve (V 3). The auriculotemporal nerve passes
+between the head of the mandible and the ex- ternal acoustic meatus. It crosses the zygomatic process of the temporal bone and innervates the
+skin of the  anterior side of the ear and tempo- ral region. As the auriculotemporal nerve passes
+through the parotid gland, it delivers postsyn- aptic parasympathetic nerve ! bers from the otic
+**7.** In the neck, ! nd the external jugular vein (FIG. 7.24). Use blunt dissection to follow the external jugular vein superiorly to the point where it is formed by the joining of the posterior auricular
 vein and the retromandibular vein.
-**8.** Use blunt dissection to follow the retromandibu-
-lar vein superiorly into the parotid gland. Remove
-parotid tissue as you follow the retromandibular
-**9.** Trace the retromandibular vein to the point
-where it is formed by the joining of the
-lary vein and the superfi cial temporal vein. Do
+**8.** Use blunt dissection to follow the retromandibu- lar vein superiorly into the parotid gland. Remove parotid tissue as you follow the retromandibular
+**9.** Trace the retromandibular vein to the point where it is formed by the joining of the lary vein and the superficial temporal vein. Do
 not follow the maxillary vein, as it will be dis-
 sected later.
 FIGURE 7.24
@@ -1831,12 +1290,9 @@ fi bers that attach to the external surface of the blood vessels.
 When a blood vessel of the scalp is cut, the connective tissue
 holds the lumen open, resulting in profuse bleeding.
 If an infection occurs in the scalp, it can spread within the
-loose connective tissue layer. Therefore, the loose connec-
-tive tissue layer is often called the "dangerous area." From
-the "dangerous area," the infection may pass into the cranial
+loose connective tissue layer. Therefore, the loose connec- tive tissue layer is often called the "dangerous area." From the "dangerous area," the infection may pass into the cranial
 cavity through emissary veins.
-The order of dissection will be as follows: The !
-layers of the scalp will be re" ected as one. The muscles of
+The order of dissection will be as follows: The ! layers of the scalp will be re" ected as one. The muscles of
 the scalp will be examined on the cut surface of the scalp.
 Dissection Instructions
 **1.** These cuts should be made through the entire
@@ -1845,37 +1301,27 @@ tact the bones of the calvaria.
 **2.** Refer to FIGURE 7.25 and make a midline cut from
 the nasion (C) through the vertex (A) to the exter-
 nal occipital protuberance (G).
-**3.** Make a cut in the coronal plane from the vertex (A)
-to a point 13 mm anterior to the ear (D). Duplicate
+**3.** Make a cut in the coronal plane from the vertex (A) to a point 13 mm anterior to the ear (D). Duplicate
 this cut on the opposite side of the head.
 **14.** Return to the neck and identify the
-sternocleido-
-mastoid muscle. Clean the anterior border of the
+sternocleido- mastoid muscle. Clean the anterior border of the
 sternocleidomastoid muscle all the way up to its at-
-tachment on the mastoid process. Preserve the poste-
-rior division of the retromandibular vein, but remove
+tachment on the mastoid process. Preserve the poste- rior division of the retromandibular vein, but remove
 all parotid tissue and the investing layer of deep cer-
 vical fascia that binds the muscle to deeper structures.
 
 ### Clinical Correlation
 
 ### Parotid Gland
-Because of the close relationship between the parotid gland
-and the external acoustic meatus, swelling of the parotid
-gland (as occurs in mumps) pushes the ear lobe superiorly
-and  laterally. During parotidectomy (surgical excision of the
-parotid gland), the facial nerve is in danger of being injured. If
+Because of the close relationship between the parotid gland and the external acoustic meatus, swelling of the parotid gland (as occurs in mumps) pushes the ear lobe superiorly and  laterally. During parotidectomy (surgical excision of the parotid gland), the facial nerve is in danger of being injured. If
 the  facial nerve is damaged, the facial muscles are paralyzed.
 Dissection Follow-up
 **1.** Replace the facial nerve in its correct anatomical
 position and approximate the cut ends.
 **2.** Replace the parotid duct in its correct anatomical position.
-**3.** Use an illustration, a skull, and the dissected speci-
-men to review the course of the facial nerve from the
+**3.** Use an illustration, a skull, and the dissected speci- men to review the course of the facial nerve from the
 internal acoustic meatus to the facial muscles.
-**4.** Review the super! cial venous drainage of the lateral
-side of the head and neck, beginning with the  super! cial
-temporal veins and ending with the subclavian vein in
+**4.** Review the super! cial venous drainage of the lateral side of the head and neck, beginning with the  super! cial temporal veins and ending with the subclavian vein in
 the root of the neck.
 **5.** Review the origin, course, and branches of the external
 carotid artery.
@@ -1883,15 +1329,11 @@ carotid artery.
 *Grant's Atlas 642 | LWW Atlas 344 | Color Atlas 85 | Clemente's 573*
 Dissection Overview
 The scalp consists of ! ve layers that are ! rmly bound together:
-¥ Connective tissue - dense subcutaneous tissue con-
-taining the vessels and nerves of the scalp
-¥ Aponeurosis (epicranial aponeurosis) - connecting the
-frontalis muscle to the occipitalis muscle
-¥ Loose connective tissue - permits the scalp to move
-over the calvaria
-¥ Pericranium - the periosteum of the cranial bones
-As an aid to memory, note that the !
-rst letters of the names
+¥ Connective tissue-dense subcutaneous tissue con- taining the vessels and nerves of the scalp
+¥ Aponeurosis (epicranial aponeurosis) - connecting the frontalis muscle to the occipitalis muscle
+¥ Loose connective tissue-permits the scalp to move over the calvaria
+¥ Pericranium-the periosteum of the cranial bones
+As an aid to memory, note that the ! rst letters of the names
 of the ! ve layers spell the word scalp.
 FIGURE 7.25
 Scalp incisions.
@@ -1908,36 +1350,20 @@ occipital nerve from the cervical region to the poste-
 rior surface of the head.
 **5.** Recall the attachments of the occipitofrontalis muscle
 and review its two bellies in the sagittal scalp cut.
-**4.** Beginning at the vertex, use forceps to grasp one
-corner of the cut scalp and insert a chisel between
-the scalp and the calvaria. Use the chisel to loosen
+**4.** Beginning at the vertex, use forceps to grasp one corner of the cut scalp and insert a chisel between the scalp and the calvaria. Use the chisel to loosen
 the scalp from the calvaria.
 **5.** Once the " ap of scalp is raised, grasp the " ap with
 both hands and pull it inferiorly.
-**6.** Re" ect (do not remove) all four " aps of scalp down
-to the level that a hatband would occupy
+**6.** Re" ect (do not remove) all four " aps of scalp down to the level that a hatband would occupy
 (FIG. 7.26).
 Do not detach the " aps.
-**7.** Examine the cut edge of the scalp and identify the
-occipitofrontalis muscle (FIG. 7.27). The  inferior
-attachment of the occipital belly is the occipital
-bone and its superior attachment is the
-nial aponeurosis. The superior attachment of the
-frontal belly is the epicranial aponeurosis and its
-inferior attachment is the skin of the forehead and
-eyebrows. Both muscles are innervated by the  facial
+**7.** Examine the cut edge of the scalp and identify the occipitofrontalis muscle (FIG. 7.27). The  inferior attachment of the occipital belly is the occipital bone and its superior attachment is the nial aponeurosis. The superior attachment of the frontal belly is the epicranial aponeurosis and its inferior attachment is the skin of the forehead and eyebrows. Both muscles are innervated by the  facial
 *nerve (VII). [G 635, 640; L 325; N 2, 3, 25; R 59, 63;*
 C 551, 553]
-**8.** Pull the anterior scalp " ap inferiorly to expose
-the supraorbital margin. Identify the
-supraorbital
-nerve and vessels where they exit the supraor-
-bital notch and enter the deep surface of the scalp
+**8.** Pull the anterior scalp " ap inferiorly to expose the supraorbital margin. Identify the supraorbital
+nerve and vessels where they exit the supraor- bital notch and enter the deep surface of the scalp
 (FIG. 7.26).
-**9.** Use an illustration to observe that nerves
-and  vessels are contained within the flaps of
-the scalp (FIG. 7.28). Note that the nerves and
-vessels# enter the scalp from more inferior
+**9.** Use an illustration to observe that nerves and  vessels are contained within the flaps of the scalp (FIG. 7.28). Note that the nerves and vessels# enter the scalp from more inferior
 **10.** On the lateral surface of the calvaria, note that
 the scalp has separated from the fascia that cov-
 ers the temporalis muscle (temporal muscle)
@@ -1958,8 +1384,7 @@ Epicranial aponeurosis
 Occipitofrontalis m:
 Frontal belly
 Occipital belly
-External occipital
-protuberance
+External occipital protuberance
 FIGURE 7.28
 Cutaneous nerves and blood vessels of the scalp.
 Supratrochlear, V1
@@ -1973,13 +1398,10 @@ Supratrochlear
 Supraorbital
 Superficial
 GRANTÕS DISSECTOR
-¥ Temporal fossa - formed by parts of four cranial
-bones: parietal, frontal, squamous part of temporal, and
-greater wing of sphenoid. Review the location of the
-¥ Zygomatic arch - formed by the zygomatic process
-of the temporal bone and the temporal process of
+¥ Temporal fossa-formed by parts of four cranial bones: parietal, frontal, squamous part of temporal, and greater wing of sphenoid. Review the location of the
+¥ Zygomatic arch-formed by the zygomatic process of the temporal bone and the temporal process of
 the zygomatic bone.
-¥ Mandibular fossa and articular tubercle - on the
+¥ Mandibular fossa and articular tubercle-on the
 temporal bone (FIG. 7.23).
 From a lateral view of the mandible, identify
 (FIG. 7.29A):
@@ -1989,48 +1411,30 @@ From a lateral view of the mandible, identify
 ¥ Coronoid process
 On the internal surface of the mandible, identify
 (FIG. 7.29B):
-¥ Lingula - for the attachment of the sphenomandibular
-¥ Mandibular foramen - for the inferior alveolar nerves
-and vessels
-¥ Mylohyoid groove - for the nerve to mylohyoid and
-mylohyoid vessels
+¥ Lingula-for the attachment of the sphenomandibular
+¥ Mandibular foramen-for the inferior alveolar nerves and vessels
+¥ Mylohyoid groove-for the nerve to mylohyoid and mylohyoid vessels
 Remove the mandible from the skull and view the bones
 of the infratemporal fossa from the lateral perspective.
 Identify (FIG. 7.30): Grant's Atlas 671 | LWW Atlas 327 | Netter's 6 | Clemente's 596
-¥ Pterygomaxillary fi ssure - between the lateral plate of
-the pterygoid process and the maxilla
+¥ Pterygomaxillary fi ssure-between the lateral plate of the pterygoid process and the maxilla
 
 ### Temporal Region
 Dissection Overview
-The temporal region consists of two fossae: temporal
-and infratemporal. The
-temporal fossa is located supe-
-rior to the zygomatic arch and it contains the temporalis
-muscle. The infratemporal fossa is inferior to the zygo-
-matic arch and deep to the ramus of the mandible. The
-infratemporal fossa contains the medial and lateral ptery-
-goid muscles, branches of the mandibular division of the
-trigeminal nerve (V 3), and the maxillary vessels and their
-branches. The infratemporal and temporal fossae are in
-open communication with each other through the area
-between the  zygomatic arch and the lateral surface of the
+The temporal region consists of two fossae: temporal and infratemporal. The
+temporal fossa is located supe- rior to the zygomatic arch and it contains the temporalis
+muscle. The infratemporal fossa is inferior to the zygo- matic arch and deep to the ramus of the mandible. The
+infratemporal fossa contains the medial and lateral ptery- goid muscles, branches of the mandibular division of the trigeminal nerve (V 3), and the maxillary vessels and their branches. The infratemporal and temporal fossae are in open communication with each other through the area between the  zygomatic arch and the lateral surface of the
 The dissection will proceed as follows: The masseter
-muscle will be studied. The zygomatic arch will be de-
-tached and the masseter muscle will be re" ected with the
+muscle will be studied. The zygomatic arch will be de- tached and the masseter muscle will be re" ected with the
 arch attached to it. The temporalis muscle will be studied.
 The coronoid process will be detached from the mandible
-and the temporalis muscle will be re" ected with the coro-
-noid process attached to it. The superior part of the ramus
-of the mandible will then be removed, and the maxillary
-artery will be traced across the infratemporal fossa. The
-branches of the mandibular division of the trigeminal
-nerve will be dissected. The medial and lateral pterygoid
-muscles will be studied and the temporomandibular joint
+and the temporalis muscle will be re" ected with the coro- noid process attached to it. The superior part of the ramus of the mandible will then be removed, and the maxillary artery will be traced across the infratemporal fossa. The branches of the mandibular division of the trigeminal nerve will be dissected. The medial and lateral pterygoid muscles will be studied and the temporomandibular joint
 will be dissected.
 Skeleton of the Temporal Region
 Refer to a lateral view of the skull and identify the follow-
 *ing (FIGS. 7.14 and 7.23): Grant's Atlas 670 | LWW Atlas 327 | Netter's 6 | Color Atlas 21 | Clemente's 568*
-¥ Superior and inferior temporal lines - on the parietal
+¥ Superior and inferior temporal lines-on the parietal
 Coronoid process
 For masseter
 Mandibular notch
@@ -2041,62 +1445,41 @@ Coronoid process
 FIGURE 7.29
 Mandible. A. External surface.
 B. Internal surface.
-THE HEAD AND NECK 231
-of the zygomatic arch, taking care to preserve the
+THE HEAD AND NECK 231 of the zygomatic arch, taking care to preserve the
 vessels and nerves where they cross the arch.
-**4.** Cut the temporal fascia along the superior temporal
-line and use a scalpel to peel it inferiorly.  Observe
-that the temporalis muscle is attached to the deep
-surface of the temporal fascia. Cut the temporal
-fascia along the superior border of the zygomatic
+**4.** Cut the temporal fascia along the superior temporal line and use a scalpel to peel it inferiorly.  Observe that the temporalis muscle is attached to the deep surface of the temporal fascia. Cut the temporal fascia along the superior border of the zygomatic
 arch and remove the fascia.
-**5.** Near the anterior end of the zygomatic arch, insert
-a probe deep to the zygomatic arch as close to the
-orbit as possible ( FIG. 7.31, arrow 1). Use a saw to
+**5.** Near the anterior end of the zygomatic arch, insert a probe deep to the zygomatic arch as close to the orbit as possible ( FIG. 7.31, arrow 1). Use a saw to
 cut through the zygomatic bone to the probe.
-**6.** Insert the probe deep to the zygomatic arch near
-the anterior border of the head of the mandible
-(FIG. 7.31, arrow 2). Use a saw to cut through the
+**6.** Insert the probe deep to the zygomatic arch near the anterior border of the head of the mandible (FIG. 7.31, arrow 2). Use a saw to cut through the
 zygomatic arch to the probe.
-¥ Pterygopalatine fossa - at the superior end of the pter-
-ygomaxillary ! ssure
-¥ Sphenopalatine foramen - an opening in the medial wall
-of the pterygopalatine fossa that enters the nasal cavity
-¥ Inferior orbital fi ssure - between the greater wing of
-the sphenoid bone and the maxilla
+¥ Pterygopalatine fossa-at the superior end of the pter- ygomaxillary ! ssure
+¥ Sphenopalatine foramen-an opening in the medial wall of the pterygopalatine fossa that enters the nasal cavity
+¥ Inferior orbital fi ssure-between the greater wing of the sphenoid bone and the maxilla
 ¥ Infratemporal surface of the maxilla
-¥ Greater wing of the sphenoid bone - contains the
-foramen ovale and the foramen spinosum
+¥ Greater wing of the sphenoid bone-contains the foramen ovale and the foramen spinosum
 ¥ Lateral plate of the pterygoid process of the sphenoid
 Reposition the mandible on the skull and identify the
 bony boundaries of the infratemporal fossa:
-¥ Lateral - ramus of the mandible
-¥ Anterior - the infratemporal surface of the maxilla
-¥ Medial - lateral plate of the pterygoid process
-¥ Roof - greater wing of the sphenoid bone
+¥ Lateral-ramus of the mandible
+¥ Anterior-the infratemporal surface of the maxilla
+¥ Medial-lateral plate of the pterygoid process
+¥ Roof-greater wing of the sphenoid bone
 Dissection Instructions
 Masseter Muscle and Removal of the Zygomatic Arch
 **1.** Re" ect the facial nerve branches and the parotid
 duct anteriorly.
-**2.** Clean the lateral surface of the
-masseter muscle
-and de! ne its borders. The superior attachment of
-the masseter muscle is the inferior border of the zy-
-gomatic arch and its inferior attachment is the lateral
-surface of the ramus of the mandible. The masseter
-muscle elevates the mandible (closes the jaw) and
+**2.** Clean the lateral surface of the masseter muscle and de! ne its borders. The superior attachment of
+the masseter muscle is the inferior border of the zy- gomatic arch and its inferior attachment is the lateral surface of the ramus of the mandible. The masseter muscle elevates the mandible (closes the jaw) and
 protrudes the mandible. It is innervated by the mas-
 seteric branch of the mandibular division of the tri-
 *geminal nerve (V 3). Grant's Atlas 672 | LWW Atlas 328 | Netter's 54 | Color Atlas 56 | Clemente's 552*
-**3.** Review the course of the super! cial temporal vessels
-and auriculotemporal nerve across the zygomatic
-arch. Detach the anterior scalp " ap from the region
+**3.** Review the course of the super! cial temporal vessels and auriculotemporal nerve across the zygomatic arch. Detach the anterior scalp " ap from the region
 FIGURE 7.30
 Skeleton of the infratemporal region.
 Sphenoid bone:
 Greater wing
-Lateral plate of
-pterygoid process
+Lateral plate of pterygoid process
 Temporal bone:
 External acoustic
 Mandibular fossa
@@ -2105,80 +1488,51 @@ Foramen ovale
 Foramen spinosum
 Pterygopalatine fossa
 Sphenopalatine foramen
-Infratemporal
-surface of maxilla
+Infratemporal surface of maxilla
 Inferior orbital
 Pterygomaxillary
 FIGURE 7.31
 How to cut the zygomatic arch.
-GRANTÕS DISSECTOR
-must be removed on both sides of the head to permit the
+GRANTÕS DISSECTOR must be removed on both sides of the head to permit the
 head to be bisected in a later dissection step.
 **4.** The ! rst step is to remove the coronoid process
-and re" ect the temporalis muscle with the coro-
-noid process attached. Insert a probe through the
-mandibular notch posterior to the temporalis ten-
-don and push the probe anteroinferiorly toward the
+and re" ect the temporalis muscle with the coro- noid process attached. Insert a probe through the
+mandibular notch posterior to the temporalis ten- don and push the probe anteroinferiorly toward the
 third mandibular molar tooth (
 FIG. 7.32, arrow 1).
-Keep the probe in close contact with the deep
-surface of the mandible. Use a saw to cut halfway
-through the coronoid process toward the probe,
-then use bone cutters to break the bone along the
+Keep the probe in close contact with the deep surface of the mandible. Use a saw to cut halfway
+through the coronoid process toward the probe, then use bone cutters to break the bone along the
 scored line.
-**5.** Re" ect the coronoid process together with the
-temporalis muscle in the superior direction. Use
-blunt dissection to release the temporalis muscle
-from the skull and note that the deep temporal
-nerves (branches of the mandibular division of the
-trigeminal nerve) enter the muscle from its deep
-surface. The deep temporal nerves provide motor
-innervation to the temporalis muscle and they are
+**5.** Re" ect the coronoid process together with the temporalis muscle in the superior direction. Use blunt dissection to release the temporalis muscle from the skull and note that the deep temporal nerves (branches of the mandibular division of the trigeminal nerve) enter the muscle from its deep surface. The deep temporal nerves provide motor innervation to the temporalis muscle and they are
 accompanied by deep temporal arteries.
-**6.** Insert a probe medial to the neck of the mandi-
-ble (FIG. 7.32, arrow 2). Use a saw to cut halfway
-through the neck of the mandible, then use bone
+**6.** Insert a probe medial to the neck of the mandi- ble (FIG. 7.32, arrow 2). Use a saw to cut halfway through the neck of the mandible, then use bone
 cutters to break the bone along the scored line.
-**7.** Use bone cutters to carefully nibble away the
-superior part of the mandible, beginning at the
-mandibular notch and proceeding inferiorly. Stop
+**7.** Use bone cutters to carefully nibble away the superior part of the mandible, beginning at the mandibular notch and proceeding inferiorly. Stop
 at the level of the lingula ( FIG. 7.32, dashed line 3).
 Make small cuts and stay on the lateral side of mus-
 cles, nerves, and vessels.
 **8.** Deep to the mandible, identify the
-inferior alveo-
-lar nerve and vessels (FIG. 7.33). Clean the inferior
-**7.** Pull the masseter muscle and the attached portion
-of the zygomatic arch laterally and look for the
-masseteric vessels and nerve crossing superior to
-the mandibular notch to enter the deep surface of
+inferior alveo- lar nerve and vessels (FIG. 7.33). Clean the inferior
+**7.** Pull the masseter muscle and the attached portion of the zygomatic arch laterally and look for the masseteric vessels and nerve crossing superior to the mandibular notch to enter the deep surface of
 the masseter muscle.
-**8.** Re" ect the masseter and zygomatic arch in the in-
-ferior direction. During re" ection, the masseteric
-nerve and vessels will be cut. Use a scalpel to  detach
-the masseter muscle from the superior part of the
-ramus of the mandible, but leave the masseter
+**8.** Re" ect the masseter and zygomatic arch in the in- ferior direction. During re" ection, the masseteric nerve and vessels will be cut. Use a scalpel to  detach the masseter muscle from the superior part of the ramus of the mandible, but leave the masseter
 muscle attached to mandible near the angle.
 *Temporal Region Grant's Atlas 672 | LWW Atlas 328 | Netter's 54 | Clemente's 552*
-**1.** The superfi cial boundary of the temporal region is
+**1.** The superficial boundary of the temporal region is
 the temporal fascia, which was re" ected previously.
 **2.** On a skull, identify the bony boundaries of the
 temporal fossa (FIG. 7.14):
-¥ Superior and posterior - superior temporal line
-¥ Anterior - frontal and zygomatic bones
-¥ Inferior - zygomatic arch super! cially and in-
-fratemporal crest of the sphenoid bone deeply
-¥ Deep - parts of the frontal, parietal, temporal,
-and sphenoid bones
+¥ Superior and posterior-superior temporal line
+¥ Anterior-frontal and zygomatic bones
+¥ Inferior-zygomatic arch super! cially and in- fratemporal crest of the sphenoid bone deeply
+¥ Deep-parts of the frontal, parietal, temporal, and sphenoid bones
 **3.** Identify the
 temporalis (temporal) muscle.
-¥ The superior attachment of the temporalis mus-
-cle is the temporal fascia (removed earlier) and
+¥ The superior attachment of the temporalis mus- cle is the temporal fascia (removed earlier) and
 the surface of the temporal fossa.
 ¥ The inferior attachment of the temporalis mus-
 cle is the coronoid process of the mandible.
-¥ Fibers of the anterior portion of the temporalis
-muscle have a vertical direction (elevation of the
+¥ Fibers of the anterior portion of the temporalis muscle have a vertical direction (elevation of the
 ¥ Fibers of the posterior portion of the temporalis
 muscle have a more horizontal direction (retrac-
 tion of the mandible).
@@ -2188,66 +1542,37 @@ poral fossa:
 ¥ Superior:
 Zygomatic arch super! cially
 Infratemporal crest of the sphenoid bone deeply
-¥ Anterior - infratemporal surface of maxilla
-¥ Lateral - ramus of mandible
-¥ Medial - lateral plate of the pterygoid process
+¥ Anterior-infratemporal surface of maxilla
+¥ Lateral-ramus of mandible
+¥ Medial-lateral plate of the pterygoid process
 **2.** Wear eye protection for all steps that require the use of
 bone cutters.
-**3.** The ramus of the mandible must be removed to
-view the contents of the infratemporal fossa and
+**3.** The ramus of the mandible must be removed to view the contents of the infratemporal fossa and
 FIGURE 7.32
 How to cut the mandible.
 THE HEAD AND NECK 233
-**11.** Identify the
-maxillary artery where it arises
-from the bifurcation of the external carotid artery
-(FIG. 7.33). The maxillary artery crosses either the
-super! cial surface (two-thirds of cases) or the deep
-surface (one-third of cases) of the lateral pterygoid
-muscle. If the maxillary artery in your specimen
-passes deep to the lateral pterygoid muscle, perform
+**11.** Identify the maxillary artery where it arises from the bifurcation of the external carotid artery (FIG. 7.33). The maxillary artery crosses either the super! cial surface (two-thirds of cases) or the deep surface (one-third of cases) of the lateral pterygoid muscle. If the maxillary artery in your specimen passes deep to the lateral pterygoid muscle, perform
 step 15 ! rst and then return to step 12.
 *[G 675, 676;*
 L 330; N 39; R 80; C 566]
-**12.** Use blunt dissection to trace the maxillary artery
-through the infratemporal fossa. The maxillary
-artery has 15 branches. At this time, identify only
+**12.** Use blunt dissection to trace the maxillary artery through the infratemporal fossa. The maxillary artery has 15 branches. At this time, identify only
 the following ! ve branches (FIG. 7.33):
-¥ Middle meningeal artery - arises medial to
-the neck of the mandible and courses superiorly,
-passing deep to the lateral pterygoid muscle. Just
-below the base of the skull, it passes through a
-split in the auriculotemporal nerve. The middle
-meningeal artery passes through the foramen
-spinosum to enter the middle cranial fossa. It
+¥ Middle meningeal artery-arises medial to
+the neck of the mandible and courses superiorly, passing deep to the lateral pterygoid muscle. Just below the base of the skull, it passes through a split in the auriculotemporal nerve. The middle meningeal artery passes through the foramen spinosum to enter the middle cranial fossa. It
 supplies the dura mater.
-¥ Deep temporal arteries (anterior and poste-
-rior) - pass superiorly and laterally across the
-roof of the infratemporal fossa at bone level and
+¥ Deep temporal arteries (anterior and poste- rior) - pass superiorly and laterally across the roof of the infratemporal fossa at bone level and
 enter the deep surface of the temporalis muscle.
-¥ Masseteric artery (cut in a previous dissection
-step) - courses laterally and passes through the
-mandibular notch to enter the deep surface of
+¥ Masseteric artery (cut in a previous dissection step) - courses laterally and passes through the mandibular notch to enter the deep surface of
 the masseter muscle.
-¥ Inferior alveolar artery - enters the mandibu-
+¥ Inferior alveolar artery-enters the mandibu-
 lar foramen with the inferior alveolar nerve.
-¥ Buccal artery - passes anteriorly onto the buc-
+¥ Buccal artery-passes anteriorly onto the buc-
 cinator muscle to supply the cheek.
 alveolar nerve and follow it to the mandibular fo-
-ramen. Note that the nerve to the mylohyoid mus-
-cle arises from the posterior side of the inferior
-alveolar nerve just before it enters the mandibular
-**9.** The inferior alveolar nerve and vessels enter the
-mandibular foramen and pass anteriorly in the
-mandibular canal. Note that the inferior alveolar
-nerve provides sensory innervation to the
-dibular teeth. The mental nerve is a branch of
-the inferior alveolar nerve, which passes through
+ramen. Note that the nerve to the mylohyoid mus- cle arises from the posterior side of the inferior alveolar nerve just before it enters the mandibular
+**9.** The inferior alveolar nerve and vessels enter the mandibular foramen and pass anteriorly in the mandibular canal. Note that the inferior alveolar nerve provides sensory innervation to the dibular teeth. The mental nerve is a branch of the inferior alveolar nerve, which passes through
 the mental foramen to innervate the chin and low-
-**10.** Identify the lingual nerve. The lingual nerve
-is located just anterior to the inferior alveolar
-nerve. The lingual nerve passes medial to the
-third mandibular molar tooth and it provides
+**10.** Identify the lingual nerve. The lingual nerve is located just anterior to the inferior alveolar nerve. The lingual nerve passes medial to the third mandibular molar tooth and it provides
 sensory innervation to the the mucosa of the an-
 terior two-thirds of the tongue and "
 oral cavity.
@@ -2279,36 +1604,26 @@ deep temporal nn. and aa.
 ### Clinical Correlation
 
 ### Dental Anesthesia
-A mandibular nerve block is produced by injecting an anes-
-thetic agent into the infratemporal fossa. Understand from your
-dissection that the mandibular nerve block will anesthetize not
+A mandibular nerve block is produced by injecting an anes- thetic agent into the infratemporal fossa. Understand from your dissection that the mandibular nerve block will anesthetize not
 only the inferior alveolar nerve but also the lingual nerve, re-
 sulting in anesthesia of the mandibular teeth, lower lip, chin,
 and the tongue.
 GRANTÕS DISSECTOR
 **16.** Use blunt dissection to follow the
-inferior alveo-
-lar nerve and the lingual nerve superiorly toward
-the foramen ovale in the roof of the infratemporal
-**17.** Identify the chorda tympani, a thin nerve that
-joins the posterior side of the lingual nerve high in
+inferior alveo- lar nerve and the lingual nerve superiorly toward the foramen ovale in the roof of the infratemporal
+**17.** Identify the chorda tympani, a thin nerve that joins the posterior side of the lingual nerve high in
 the infratemporal fossa (FIG. 7.34).
 **18.** Follow the maxillary artery toward the
-palatine fossa. Before entering the pterygopala-
-tine fossa, the maxillary artery divides into four
+palatine fossa. Before entering the pterygopala- tine fossa, the maxillary artery divides into four
 branches: posterior superior alveolar artery, infra-
-orbital  artery, descending palatine artery, and sphe-
-nopalatine artery. At this time, identify only the
-posterior superior alveolar artery, which enters
-the infratemporal surface of the maxilla
+orbital  artery, descending palatine artery, and sphe- nopalatine artery. At this time, identify only the posterior superior alveolar artery, which enters the infratemporal surface of the maxilla
 (FIG. 7.34).
 The other branches will be dissected later.
 *Temporomandibular Joint [G 681; L 328; N 18;*
 R 54; C 558]
 **1.** Identify the capsule of the
 temporomandibu-
-lar joint. The joint capsule is loose and its lat-
-eral  surface is reinforced by the lateral ligament
+lar joint. The joint capsule is loose and its lat- eral  surface is reinforced by the lateral ligament
 (FIG. 7.34).
 **2.** Preserve the super! cial temporal vessels and auricu-
 lotemporal nerve. Use a scalpel to trim away the lat-
@@ -2316,43 +1631,28 @@ eral side of the joint capsule and the lateral ligament.
 **3.** Within the joint, observe the articular disc and
 identify the superior and inferior synovial cavi-
 ties (FIG. 7.35).
-**4.** Note that the tendon of the lateral pterygoid mus-
-cle is attached to both the neck of the mandible and
+**4.** Note that the tendon of the lateral pterygoid mus- cle is attached to both the neck of the mandible and
 the articular disc (FIG. 7.35).
 **5.** Examine the articular disc and note that it is thin
 near its center and thicker near its edges.
 **13.** Identify the lateral pterygoid muscle (FIG. 7.33).
 The lateral pterygoid muscle has two heads. The
 anterior attachment of the superior head is the in-
-fratemporal surface of the greater wing of the sphe-
-noid bone. The anterior attachment of the inferior
-head is the lateral surface of the lateral plate of
-the pterygoid process. The posterior attachments
-of the lateral pterygoid muscle are the articular
-disc within the capsule of the temporomandibu-
-lar joint and the neck of the mandible. The lateral
-pterygoid muscle depresses the mandible (opens
+fratemporal surface of the greater wing of the sphe- noid bone. The anterior attachment of the inferior head is the lateral surface of the lateral plate of the pterygoid process. The posterior attachments of the lateral pterygoid muscle are the articular
+disc within the capsule of the temporomandibu- lar joint and the neck of the mandible. The lateral pterygoid muscle depresses the mandible (opens
 *the jaw). Grant's Atlas 678 | LWW Atlas 329 | Netter's 55 | Clemente's 565*
-**14.** Inferior to the lateral pterygoid muscle, identify
-the medial pterygoid muscle (FIG. 7.33). The
-lingual nerve and inferior alveolar nerve pass be-
-tween the inferior border of the lateral pterygoid
-muscle and the medial pterygoid muscle, and can
+**14.** Inferior to the lateral pterygoid muscle, identify the medial pterygoid muscle (FIG. 7.33). The
+lingual nerve and inferior alveolar nerve pass be- tween the inferior border of the lateral pterygoid muscle and the medial pterygoid muscle, and can
 be used as guides to separate the two muscles.
-The superior attachments of the medial pterygoid
-muscle are the maxilla and the medial surface of
-the lateral plate of#the pterygoid process. The in-
-ferior attachment of the medial pterygoid muscle
+The superior attachments of the medial pterygoid muscle are the maxilla and the medial surface of
+the lateral plate of#the pterygoid process. The in- ferior attachment of the medial pterygoid muscle
 is the inner surface of the ramus of the mandible.
 The medial pterygoid muscle elevates the man-
 dible (closes the jaw).
-**15.** Remove the lateral pterygoid muscle to see the
-deeper part of the infratemporal fossa
+**15.** Remove the lateral pterygoid muscle to see the deeper part of the infratemporal fossa
 (FIG. 7.34).
 De! ne the inferior border of the lateral pterygoid
-muscle by inserting a probe between it and the me-
-dial pterygoid muscle. Use scissors to cut the lateral
-pterygoid muscle close to its posterior attachments
+muscle by inserting a probe between it and the me- dial pterygoid muscle. Use scissors to cut the lateral pterygoid muscle close to its posterior attachments
 to the neck of the mandible and the articular disc.
 Remove the muscle in a piecemeal fashion to pre-
 serve super! cially positioned nerves and vessels.
@@ -2361,41 +1661,31 @@ Arteries and nerves of the infratemporal fossa. Deep dissection.
 Temporalis m. (cut)
 Infraorbital n. & a.
 Pterygopalatine
-Sphenopalatine a.
-pterygopalatine fossa
+Sphenopalatine a. pterygopalatine fossa
 Posterior superior
 alveolar n. & a.
-Descending palatine a.
-entering palatine canal
+Descending palatine a. entering palatine canal
 Maxillary a.
 Medial pterygoid m.
 Nerve to mylohyoid
 Inferior alveolar n.
 Chorda tympani
-Middle meningeal a.
-entering foramen
+Middle meningeal a. entering foramen
 Auriculotemporal n. (cut)
 Lateral pterygoid m. (cut)
 Deep temporal nn.
 Masseteric n. (cut)
-Lateral ligament of
-temporomandibular joint
+Lateral ligament of temporomandibular joint
 THE HEAD AND NECK 235
 
 ### Interior Of The Skull
 Dissection Overview
-Many schools remove the brain before the cadaver is placed
-on the dissection table. If the brain has been removed in
-your specimen, skip ahead to the section entitled ÒCranial
+Many schools remove the brain before the cadaver is placed on the dissection table. If the brain has been removed in your specimen, skip ahead to the section entitled ÒCranial
 Meninges.Ó If you must remove the brain yourself, proceed
 with the following instructions.
-The bones of the calvaria provide a protective covering
-for the cerebral hemispheres. To view the internal features
+The bones of the calvaria provide a protective covering for the cerebral hemispheres. To view the internal features
 of the cranial cavity, the calvaria must be removed.
-The order of dissection will be as follows: The scalp and
-temporalis muscle will be re" ected inferiorly. The calvaria
-will be cut with a saw and removed. The dura mater will be
-examined and then opened to reveal the arachnoid mater
+The order of dissection will be as follows: The scalp and temporalis muscle will be re" ected inferiorly. The calvaria will be cut with a saw and removed. The dura mater will be examined and then opened to reveal the arachnoid mater
 and pia mater.
 Dissection Instructions
 Removal of the Calvaria
@@ -2407,21 +1697,12 @@ orly. Fold it down over the re" ected scalp (FIG. 7.36).
 **3.** Observe the pericranium that covers the calvaria.
 Use a scalpel or chisel to scrape the bones of the
 calvaria clean of periosteum and muscle ! bers.
-**4.** Place a rubber band around the circumference of
-the skull (FIG. 7.36, dashed line). Anteriorly, the
-rubber band should be about 2 cm superior to the
-supraorbital margin. Posteriorly, the rubber band
-should be about 2 cm superior to the external
-**6.** Two types of movements occur in the temporoman-
-dibular joint. In the superior synovial cavity, gliding
-movements occur between the articular disc and
+**4.** Place a rubber band around the circumference of the skull (FIG. 7.36, dashed line). Anteriorly, the rubber band should be about 2 cm superior to the supraorbital margin. Posteriorly, the rubber band should be about 2 cm superior to the external
+**6.** Two types of movements occur in the temporoman- dibular joint. In the superior synovial cavity, gliding movements occur between the articular disc and
 the mandibular fossa (protrusion and retraction).
-In the inferior synovial cavity, hinge movements
-occur between the head of the mandible and the
+In the inferior synovial cavity, hinge movements occur between the head of the mandible and the
 articular disc.
-**7.** Place your ! fth digit in the cartilaginous portion of
-your external acoustic meatus. Palpate the head of
-the mandible as you elevate, depress, protrude, and
+**7.** Place your ! fth digit in the cartilaginous portion of your external acoustic meatus. Palpate the head of the mandible as you elevate, depress, protrude, and
 retract your mandible.
 Dissection Follow-up
 **1.** Review the attachments and actions of the four muscles
@@ -2430,15 +1711,11 @@ and lateral pterygoid).
 **2.** Use an atlas illustration to study the origin of the man-
 dibular division of the trigeminal nerve (V
 trigeminal ganglion and trace it to the foramen ovale.
-Follow the mandibular division of the trigeminal nerve
-through the foramen ovale into the infratemporal
-fossa. Review the sensory and motor branches of the
+Follow the mandibular division of the trigeminal nerve through the foramen ovale into the infratemporal fossa. Review the sensory and motor branches of the
 mandibular division.
 **3.** Follow the external carotid artery from its origin near
 the hyoid bone to the infratemporal fossa.
-**4.** Review the course of the super! cial temporal artery
-and the maxillary artery. Follow the branches of the
-maxillary artery that were identi! ed in dissection to
+**4.** Review the course of the super! cial temporal artery and the maxillary artery. Follow the branches of the maxillary artery that were identi! ed in dissection to
 their regions of supply.
 **5.** Note the relationship of the middle meningeal artery
 to the auriculotemporal nerve.
@@ -2449,8 +1726,7 @@ The right temporomandibular joint. Sectional view.
 Articular tubercle
 pterygoid m.
 Head of mandible
-Styloid process
-acoustic meatus
+Styloid process acoustic meatus
 Postglenoid tubercle
 Articular disc
 Superior synovial cavity
@@ -2472,53 +1748,34 @@ GRANTÕS DISSECTOR
 ¥ Its caliber increases from anterior to posterior
 (direction of venous blood " ow).
 ¥ It has lateral expansions called lateral venous
-¥ Arachnoid granulations may be seen in the
-lateral venous lacunae ( FIGS. 7.37 and 7.38). The
-arachnoid granulations return cerebrospinal
-" uid (CSF) to the venous system.
-occipital protuberance. Use the rubber band as a
-guide to mark the circumference of the calvaria
-with a pencil line or magic marker. This will be the
+¥ Arachnoid granulations may be seen in the lateral venous lacunae ( FIGS. 7.37 and 7.38). The arachnoid granulations return cerebrospinal
+" uid (CSF) to the venous system. occipital protuberance. Use the rubber band as a guide to mark the circumference of the calvaria with a pencil line or magic marker. This will be the
 line of the cut.
 **5.** Refer to a skull. Remove the calvaria and note that
 the bones of the calvaria have three layers:
-¥ Outer lamina - compact bone
-¥ Diploë - spongy bone between the outer and
-inner laminae
-¥ Inner lamina - compact bone
-**6.** Use a saw to cut along the marked line. The saw cut
-should pass through the outer lamina of the calvaria
-but not completely through the bone. If you saw
-through the inner lamina, you may damage the un-
-derlying dura mater or the brain. Moist red bone on
+¥ Outer lamina-compact bone
+¥ Diploë - spongy bone between the outer and inner laminae
+¥ Inner lamina-compact bone
+**6.** Use a saw to cut along the marked line. The saw cut should pass through the outer lamina of the calvaria but not completely through the bone. If you saw
+through the inner lamina, you may damage the un- derlying dura mater or the brain. Moist red bone on
 the saw blade indicates that the saw is within the dip-
 lo. Be particularly careful when cutting the squa-
 mous part of the temporal bone, which is very thin.
-**7.** While sawing, turn the body alternately from su-
-pine to prone and back to supine as you work your
-way around the skull. After making a complete
-circumferential cut, break the inner lamina of the
-calvaria by repeatedly inserting a chisel into the
+**7.** While sawing, turn the body alternately from su- pine to prone and back to supine as you work your way around the skull. After making a complete circumferential cut, break the inner lamina of the calvaria by repeatedly inserting a chisel into the
 saw cut and striking the chisel gently with a mallet.
 Continue with this procedure until the calvaria can
 be pried loose.
 **8.** Remove the calvaria by prying it from the dura ma-
 ter with the handle of a forceps or a chisel blade.
-Work from anterior to posterior and do not use
-more force than is necessary. Violent pulling may
+Work from anterior to posterior and do not use more force than is necessary. Violent pulling may
 result in tearing of the dura and damage to the brain.
 *Cranial Meninges Grant's Atlas 642 | LWW Atlas 344 | Netter's 100 | Clemente's 573*
-**1.** The brain is covered with three membranes called
-meninges (Gr. meninx, membrane). From outside
+**1.** The brain is covered with three membranes called meninges (Gr. meninx, membrane). From outside
 to inside they are (FIG. 7.37):
-¥ Dura mater - the outer tough membrane
-¥ Arachnoid mater - the intermediate membrane
-¥ Pia mater - a delicate membrane that is closely
-applied to the surface of the brain
-**2.** The dura mater (L. dura mater, hard mother)
-consists of two layers, an external periosteal layer
-and an internal meningeal layer (FIG. 7.37). The
-two dural layers are indistinguishable except where
+¥ Dura mater-the outer tough membrane
+¥ Arachnoid mater-the intermediate membrane
+¥ Pia mater-a delicate membrane that is closely applied to the surface of the brain
+**2.** The dura mater (L. dura mater, hard mother) consists of two layers, an external periosteal layer and an internal meningeal layer (FIG. 7.37). The two dural layers are indistinguishable except where
 they separate to enclose the dural venous sinuses.
 **3.** Identify the superior sagittal sinus. (FIGS. 7.37 and
 *7.38). Grant's Atlas 643 | LWW Atlas 342 | Netter's 100 | Color Atlas 87 | Clemente's 575*
@@ -2535,8 +1792,7 @@ Arachnoid granulations
 Dura mater:
 Periosteal layer
 Meningeal layer
-Arachnoid mater
-subarachnoid
+Arachnoid mater subarachnoid
 Cerebral falx
 Cerebral vein
 FIGURE 7.38
@@ -2548,51 +1804,30 @@ Periosteal layer
 Meningeal layer
 Dura mater:
 Superior sagittal sinus, opened
-Lateral venous lacuna, opened to show
-arachnoid granulations
-THE HEAD AND NECK 237
-lateral to the midline. The objective is to permit
-the dura mater to be pulled free from the surface of
-the brain but to leave it attached posteriorly in the
+Lateral venous lacuna, opened to show arachnoid granulations
+THE HEAD AND NECK 237 lateral to the midline. The objective is to permit the dura mater to be pulled free from the surface of the brain but to leave it attached posteriorly in the
 area of the superior sagittal sinus.
 **8.** Using your ! ngers, gently retract the anterior pole
-of the dura and insert scissors between the cere-
-bral hemispheres and cut the cerebral falx where it
+of the dura and insert scissors between the cere- bral hemispheres and cut the cerebral falx where it
 attaches to the crista galli.
-**9.** Grasp the anterior pole of the dura mater and gen-
-tly pull it posteriorly, gradually working the cerebral
+**9.** Grasp the anterior pole of the dura mater and gen- tly pull it posteriorly, gradually working the cerebral
 falx free from between the cerebral hemispheres.
-**10.** Observe bridging veins that pass from the surface
-of the brain into the superior sagittal sinus along its
+**10.** Observe bridging veins that pass from the surface of the brain into the superior sagittal sinus along its
 lateral sides. These bridging veins connect the su-
 perior cerebral veins to the superior sagittal  sinus.
 Cut these bridging veins to permit the cerebral falx
-to be completely retracted from between the ce-
-rebral hemispheres. Continue this procedure until
-the dura mater is attached to the skull only near its
-posterior pole, and the arachnoid mater covering
+to be completely retracted from between the ce- rebral hemispheres. Continue this procedure until the dura mater is attached to the skull only near its posterior pole, and the arachnoid mater covering
 the surface of the brain is completely exposed.
 **11.** Observe the arachnoid mater (Gr. arachnoeides, like a
-cobwebÑin reference to the spider web-like connec-
-tive tissue strands in the subarachnoid space). The
-arachnoid mater loosely covers the brain and spans
+cobwebÑin reference to the spider web-like connec- tive tissue strands in the subarachnoid space). The arachnoid mater loosely covers the brain and spans
 across the ! ssures and sulci. In the living person,
-the arachnoid mater is closely applied to the inter-
-nal meningeal layer of the dura mater with no space
+the arachnoid mater is closely applied to the inter- nal meningeal layer of the dura mater with no space
 between (FIG. 7.37). Grant's Atlas 643 | LWW Atlas 344 | Netter's 101 | Color Atlas 85
-**12.** Observe the cerebral veins that are visible through
-the arachnoid mater. The cerebral veins empty into
-the superior sagittal sinus via bridging veins. At the
+**12.** Observe the cerebral veins that are visible through the arachnoid mater. The cerebral veins empty into the superior sagittal sinus via bridging veins. At the
 point where the bridging veins enter the superior sag-
 ittal sinus, they may be torn in cases of head trauma.
-**5.** Examine the surface of the dura mater that covers
-the cerebral hemispheres and observe the branches
-of the middle meningeal artery (FIGS. 7.38 and
-7.39). The middle meningeal artery supplies the dura
-mater and adjacent calvaria. Note that the
-branch of the middle meningeal artery crosses the
-inner surface of the pterion, where it may tunnel
-through the bone. Fractures through the pterion
+**5.** Examine the surface of the dura mater that covers the cerebral hemispheres and observe the branches of the middle meningeal artery (FIGS. 7.38 and
+7.39). The middle meningeal artery supplies the dura mater and adjacent calvaria. Note that the branch of the middle meningeal artery crosses the inner surface of the pterion, where it may tunnel through the bone. Fractures through the pterion
 may result in tearing of the middle meningeal artery.
 FIGURE 7.39
 Cuts to open the dura mater.
@@ -2603,43 +1838,32 @@ sinus (ghosted)
 Stop cuts here
 Branches of
 middle meningeal a.
-Cut dura along
-dashed line
+Cut dura along dashed line
 
 ### Clinical Correlation
 
 ### Epidural Hematoma
-When the middle meningeal artery is torn in a head injury,
-blood accumulates between the skull and the dura mater
+When the middle meningeal artery is torn in a head injury, blood accumulates between the skull and the dura mater
 ( epidural hematoma).
 **6.** Examine the inner surface of the removed calvaria.
 Identify the following features:
 *LWW Atlas 300 | Netter's 9 | Clemente's 570*
 ¥ Groove for the superior sagittal sinus
-¥ Granular foveolae - shallow depressions caused
-by the arachnoid granulations
-¥ Grooves for the branches of the middle men-
-ingeal artery
-**7.** Use a scalpel to cut through the dura mater along
-the same line that the calvaria was cut ( FIG. 7.39, red
-dashed line). Stop the cuts posteriorly about 3.5 cm
+¥ Granular foveolae-shallow depressions caused by the arachnoid granulations
+¥ Grooves for the branches of the middle men- ingeal artery
+**7.** Use a scalpel to cut through the dura mater along the same line that the calvaria was cut ( FIG. 7.39, red dashed line). Stop the cuts posteriorly about 3.5 cm
 
 ### Clinical Correlation
 
 ### Subdural Hematoma
-As a complication of head injury, bridging veins may bleed into
-the potential space between the dura mater and the arachnoid
-mater. When this happens, the blood accumulates between
-the dura mater and arachnoid mater (a "subdural space" is
+As a complication of head injury, bridging veins may bleed into the potential space between the dura mater and the arachnoid mater. When this happens, the blood accumulates between the dura mater and arachnoid mater (a "subdural space" is
 created), and this condition is called a subdural hematoma.
-**13.** Use scissors to make a small cut (2.5 cm) through
-the arachnoid mater over the lateral surface of the
+**13.** Use scissors to make a small cut (2.5 cm) through the arachnoid mater over the lateral surface of the
 brain (FIG. 7.38). Use a probe to elevate the arach-
 noid mater and observe the subarachnoid space.
 In the living person, the subarachnoid space is a
 real space that contains cerebrospinal " uid.
-**2.** If the brain has been removed from your cadaver,
-skip ahead to the section entitled "Dural Infoldings
+**2.** If the brain has been removed from your cadaver, skip ahead to the section entitled "Dural Infoldings
 and Dural Venous Sinuses."
 **3.** Use an atlas fi gure to help you identify the struc-
 *tures to be cut. Grant's Atlas 646 | LWW Atlas 346 | Netter's 103 | Color Atlas 75 | Clemente's 588*
@@ -2647,56 +1871,38 @@ and Dural Venous Sinuses."
 Use a probe to lift the olfactory bulb from the crib-
 riform plate on each side of the crista galli.
 **5.** Use a scalpel to cut the following structures bilater-
-ally: optic nerve, internal carotid artery, and oculo-
-motor nerve. Cut the stalk of the pituitary gland in
+ally: optic nerve, internal carotid artery, and oculo- motor nerve. Cut the stalk of the pituitary gland in
 the midline.
-**6.** On the right side, gently lift the temporal lobe
-(lateral part of brain) and observe the cerebellar
+**6.** On the right side, gently lift the temporal lobe (lateral part of brain) and observe the cerebellar
 tentorium . Use a scalpel to cut the cerebellar ten-
-torium as close to the superior border of the pe-
-trous part of the temporal bone as possible. The
-cut should begin anteriorly near the posterior cli-
-noid process and extend posterolaterally to the end
-of the superior border of the petrous part of the
-temporal bone, near the groove for the sigmoid si-
-nus (FIG. 7.40). Repeat the cut on the left side of the
-cadaver. The following structures will be cut bilat-
-erally during this step: trochlear nerve, trigeminal
+torium as close to the superior border of the pe- trous part of the temporal bone as possible. The
+cut should begin anteriorly near the posterior cli- noid process and extend posterolaterally to the end of the superior border of the petrous part of the
+temporal bone, near the groove for the sigmoid si- nus (FIG. 7.40). Repeat the cut on the left side of the
+cadaver. The following structures will be cut bilat- erally during this step: trochlear nerve, trigeminal
 nerve, and abducent nerve.
-**7.** With the cerebellar tentorium cut, the brain may
-be gently moved to gain access to structures that lie
-inferior to the tentorium. Elevate the cerebrum and
+**7.** With the cerebellar tentorium cut, the brain may be gently moved to gain access to structures that lie inferior to the tentorium. Elevate the cerebrum and
 **14.** Through the opening in the arachnoid mater, ob-
-serve the pia mater (L. pia mater, tender mother)
-on the surface of the brain. The pia mater faithfully
-follows the contours of the brain, passing into all
-sulci and fi ssures. The pia mater cannot be  removed
+serve the pia mater (L. pia mater, tender mother) on the surface of the brain. The pia mater faithfully follows the contours of the brain, passing into all sulci and fi ssures. The pia mater cannot be  removed
 from the surface of the brain.
 Dissection Follow-up
 **1.** Review the bones that form the calvaria.
-**2.** Review the external features of the cranial dura mater
-and note that the external periosteal layer is attached to
+**2.** Review the external features of the cranial dura mater and note that the external periosteal layer is attached to
 **3.** Review the features of the spinal dura mater and com-
 pare it to the cranial dura mater.
 **4.** Review the extradural (epidural) space in the vertebral
-canal and recall that it contains fat and the internal ver-
-tebral venous plexus. Under normal conditions, there
+canal and recall that it contains fat and the internal ver- tebral venous plexus. Under normal conditions, there
 is no extradural space in the cranial cavity.
 **5.** Compare and contrast the features of an epidural
 hematoma and a subdural hematoma.
 
 ### Removal Of The Brain
 Dissection Overview
-The internal meningeal layer of the dura mater forms
-inwardly projecting folds (dural infoldings) that serve
-as  incomplete partitions of the cranial cavity. Three of
+The internal meningeal layer of the dura mater forms inwardly projecting folds (dural infoldings) that serve as  incomplete partitions of the cranial cavity. Three of
 these folds (cerebral falx, cerebellar tentorium, and cer-
 ebellar falx) extend inward between parts of the brain.
 These infoldings must fi rst be cut before the brain can
 be removed.
-The order of dissection will be as follows: Bony features
-of the cranial cavity will be studied on a skull. The brain
-will be  removed intact, along with the arachnoid mater and
+The order of dissection will be as follows: Bony features of the cranial cavity will be studied on a skull. The brain will be  removed intact, along with the arachnoid mater and
 pia mater. The dura mater will be left in the cranial cavity,
 where the dural infoldings will be studied.
 Dissection Instructions
@@ -2706,8 +1912,7 @@ Dissection Instructions
 - Cribriform plate
 - Anterior clinoid process
 - Posterior clinoid process
-- Superior border of the petrous part of the
-temporal bone
+- Superior border of the petrous part of the temporal bone
 - Internal acoustic meatus
 - Jugular foramen
 - Hypoglossal canal
@@ -2720,70 +1925,37 @@ Crista galli
 Cribriform plate
 Anterior clinoid process
 Posterior clinoid process
-Superior border of
-petrous part of
-temporal bone
+Superior border of petrous part of temporal bone
 Internal acoustic
 Jugular foramen
 Hypoglossal canal
-Foramen magnum
-sigmoid sinus
+Foramen magnum sigmoid sinus
 Groove for transverse sinus
-THE HEAD AND NECK 239
-portion of the temporal bone, and the occipital bone
+THE HEAD AND NECK 239 portion of the temporal bone, and the occipital bone
 on both sides of the groove for the transverse sinus.
-The opening in the cerebellar tentorium is called
-the tentorial notch (tentorial incisure). The
-brainstem passes through the tentorial notch. In the
-living person, the cerebellar tentorium is between
+The opening in the cerebellar tentorium is called the tentorial notch (tentorial incisure). The brainstem passes through the tentorial notch. In the living person, the cerebellar tentorium is between
 the cerebral hemispheres and the cerebellum.
-**4.** Identify the cerebellar falx (falx cerebelli), which
-is a low ridge of dura mater located inferior to the
-cerebellar tentorium in the midline. Note that the
-cerebellar falx is attached to the inner surface of
-the occipital bone and that it is located between the
+**4.** Identify the cerebellar falx (falx cerebelli), which is a low ridge of dura mater located inferior to the cerebellar tentorium in the midline. Note that the cerebellar falx is attached to the inner surface of the occipital bone and that it is located between the
 cerebellar hemispheres.
 *Dural Venous Sinuses [G 645; L 342, 343; N 103;*
 R 87; C 577]
-**1.** Review the position of the superior sagittal sinus
-(FIG. 7.41). Note that the superior sagittal sinus begins
+**1.** Review the position of the superior sagittal sinus (FIG. 7.41). Note that the superior sagittal sinus begins
 near the crista galli and ends near the cerebellar tento-
 rium by draining into the confl uence of sinuses.
-**2.** Identify the inferior sagittal sinus, which is in the
-inferior margin of the cerebral falx (FIG. 7.41). The
-inferior sagittal sinus begins anteriorly and ends
-near the cerebellar tentorium by draining into the
-anterior end of the straight sinus. Note that the
-inferior sagittal sinus is much smaller in diameter
+**2.** Identify the inferior sagittal sinus, which is in the inferior margin of the cerebral falx (FIG. 7.41). The inferior sagittal sinus begins anteriorly and ends near the cerebellar tentorium by draining into the anterior end of the straight sinus. Note that the inferior sagittal sinus is much smaller in diameter
 than the superior sagittal sinus.
 **3.** The straight sinus is located in the line of junction
 of the cerebral falx and the cerebellar tentorium.
-At its anterior end, the straight sinus receives the
-inferior sagittal sinus and the great cerebral vein
-(the great cerebral vein was torn when the brain
-was removed). The straight sinus drains into the
+At its anterior end, the straight sinus receives the inferior sagittal sinus and the great cerebral vein (the great cerebral vein was torn when the brain was removed). The straight sinus drains into the
 con" uence of sinuses.
 **4.** Identify the transverse sinuses (right and left).
-Each transverse sinus carries venous blood from
-brainstem slightly, and cut the following structures
-bilaterally: facial and vestibulocochlear nerves near
+Each transverse sinus carries venous blood from brainstem slightly, and cut the following structures bilaterally: facial and vestibulocochlear nerves near
 the internal acoustic meatus; glossopharyngeal, va-
 gus, and accessory nerves near the jugular foramen;
 and hypoglossal nerve near the hypoglossal canal.
-**8.** Use a scalpel to sever the two vertebral arteries where
-they enter the skull through the foramen magnum
-and the cervical spinal cord as low in the foramen
+**8.** Use a scalpel to sever the two vertebral arteries where they enter the skull through the foramen magnum and the cervical spinal cord as low in the foramen
 magnum (or cervical vertebral canal) as you can reach.
-**9.** Support the cerebral hemispheres from behind
-with the palm of one hand. Insert the other hand
-(palm facing superiorly) between the frontal lobes
-and the skull with your middle ! nger extending
-down the ventral surface of the brainstem. Insert
-the tip of your middle ! nger into the cut that was
-made across the cervical spinal cord to support the
-brainstem and cerebellum. Using upward pressure
-on the cut end of the cervical spinal cord, roll the
-brain, brainstem, and cerebellum posteriorly and
+**9.** Support the cerebral hemispheres from behind with the palm of one hand. Insert the other hand (palm facing superiorly) between the frontal lobes and the skull with your middle ! nger extending down the ventral surface of the brainstem. Insert the tip of your middle ! nger into the cut that was made across the cervical spinal cord to support the brainstem and cerebellum. Using upward pressure on the cut end of the cervical spinal cord, roll the brain, brainstem, and cerebellum posteriorly and
 out of the cranial cavity in one piece.
 **10.** The brain should be stored in a bath of preservative
 
@@ -2791,31 +1963,17 @@ out of the cranial cavity in one piece.
 
 ### Venous Sinuses
 Dissection Overview
-The two layers of the dura mater separate from each other
-in several locations to form dural venous sinuses. The dural
-venous sinuses collect venous drainage from the brain and
+The two layers of the dura mater separate from each other in several locations to form dural venous sinuses. The dural venous sinuses collect venous drainage from the brain and
 conduct it out of the cranial cavity.
-The order of dissection will be as follows: The dura ma-
-ter will be repositioned to recreate its three-dimensional
-morphology during life. The infoldings of the dura mater
+The order of dissection will be as follows: The dura ma- ter will be repositioned to recreate its three-dimensional morphology during life. The infoldings of the dura mater
 and the associated dural venous sinuses will be identi!
 Dissection Instructions
 *Dural Infoldings Grant's Atlas 644 | LWW Atlas 342 | Netter's 102 | Color Atlas 87 | Clemente's 577*
-**1.** Return the dura mater to its correct anatomical po-
-sition. This study can be made easier by removing
-the right side of the dura mater to expose the lateral
-side of the cerebral falx and the cranial cavity as
+**1.** Return the dura mater to its correct anatomical po- sition. This study can be made easier by removing the right side of the dura mater to expose the lateral side of the cerebral falx and the cranial cavity as
 illustrated in FIGURE 7.41.
-**2.** Identify the cerebral falx (falx cerebri) (FIG. 7.41). In
-the living person, the cerebral falx lies between the
-cerebral hemispheres. The cerebral falx is attached
-to the crista galli at its anterior end, to the calvaria
-on both sides of the groove for the superior sagittal
+**2.** Identify the cerebral falx (falx cerebri) (FIG. 7.41). In the living person, the cerebral falx lies between the cerebral hemispheres. The cerebral falx is attached to the crista galli at its anterior end, to the calvaria on both sides of the groove for the superior sagittal
 sinus, and to the cerebellar tentorium posteriorly.
-**3.** Identify the cerebellar tentorium (tentorium cer-
-ebelli; L. tentorium, tent) (FIG. 7.41). The cerebellar
-tentorium is attached to the clinoid processes of the
-sphenoid bone, the superior border of the petrous
+**3.** Identify the cerebellar tentorium (tentorium cer- ebelli; L. tentorium, tent) (FIG. 7.41). The cerebellar tentorium is attached to the clinoid processes of the sphenoid bone, the superior border of the petrous
 FIGURE 7.41
 Dural infoldings and dural venous sinuses.
 Cavernous sinus
@@ -2824,9 +1982,7 @@ ophthalmic v.
 Supraorbital v.
 Infundibulum
 Intercavernous
-Cerebral falx
-sagittal sinus
-tentorial notch
+Cerebral falx sagittal sinus tentorial notch
 Petrosal sinuses:
 Straight sinus
 cerebral v.
@@ -2835,27 +1991,17 @@ Inferior sagittal sinus
 Bridging vein
 GRANTÕS DISSECTOR
 FIGURE 7.42
-The brain and its relationship to the three cranial fossae.
-cranial fossa
-cranial fossa
-cranial fossa
-the con" uence of sinuses to the sigmoid sinus. Use
-a scalpel to open the lumen of the transverse sinus
+The brain and its relationship to the three cranial fossae. cranial fossa cranial fossa cranial fossa the con" uence of sinuses to the sigmoid sinus. Use a scalpel to open the lumen of the transverse sinus
 and note that it is lined with smooth endothelium.
-**5.** Identify the sigmoid sinuses (FIG. 7.41, right and
-left). Each sigmoid sinus begins at the lateral end
+**5.** Identify the sigmoid sinuses (FIG. 7.41, right and left). Each sigmoid sinus begins at the lateral end
 of the transverse sinus and ends at the jugular fora-
-men. Use a scalpel to open the lumen of the sig-
-moid sinus and trace it to the jugular foramen. The
+men. Use a scalpel to open the lumen of the sig- moid sinus and trace it to the jugular foramen. The
 internal jugular vein is formed at the external sur-
 face of the jugular foramen.
 **6.** Observe the " oor of the cranial cavity. Note that the
-dura mater covers all of the bones and provides open-
-ings through which the cranial nerves pass. There are
-small dural venous sinuses located between the layers
+dura mater covers all of the bones and provides open- ings through which the cranial nerves pass. There are small dural venous sinuses located between the layers
 of the dura mater in the " oor of the cranial cavity.
-Because these small dural venous sinuses are diffult
-to demonstrate, use an atlas illustration to study the
+Because these small dural venous sinuses are diffult to demonstrate, use an atlas illustration to study the
 *following: Grant's Atlas 645 | LWW Atlas 342 | Netter's 103 | Color Atlas 87 | Clemente's 588*
 ¥ Sphenoparietal sinus
 ¥ Cavernous sinus
@@ -2863,8 +2009,7 @@ to demonstrate, use an atlas illustration to study the
 ¥ Inferior petrosal sinus
 ¥ Basilar plexus
 Dissection Follow-up
-**1.** Review the infoldings of the dura mater and obtain a
-three-dimensional understanding of their
+**1.** Review the infoldings of the dura mater and obtain a three-dimensional understanding of their
 arrangement.
 **2.** Naming all venous structures encountered along the
 way, trace the route of a drop of blood from:
@@ -2874,13 +2019,7 @@ way, trace the route of a drop of blood from:
 
 ### Gross Anatomy Of The Brain
 Dissection Overview
-The study of brain anatomy is highly specialized and is usu-
-ally reserved for a neuroscience course. The description that
-is provided here is intended to relate the major features of the
-external surface of the brain to the parts of the skull that will
-be studied in subsequent dissections. An additional goal of this
-study is to establish a mental picture of the continuity of the
-arteries and nerves of the brain with those same structures
+The study of brain anatomy is highly specialized and is usu- ally reserved for a neuroscience course. The description that is provided here is intended to relate the major features of the external surface of the brain to the parts of the skull that will be studied in subsequent dissections. An additional goal of this study is to establish a mental picture of the continuity of the arteries and nerves of the brain with those same structures
 that are left behind in the cranial fossae after brain removal.
 Dissection Instructions
 **1.** Examine the lateral surface of the brain and
@@ -2906,15 +2045,11 @@ cranial fossa.
 cerebellar tentorium.
 ¥ The brainstem becomes continuous with the
 cervical spinal cord at the foramen magnum.
-**4.** Examine the inferior surface of the brain and note
-that it is covered by arachnoid mater. Use a probe
-to peel back the arachnoid mater and expose the
-arteries. Observe the arteries and note the
+**4.** Examine the inferior surface of the brain and note that it is covered by arachnoid mater. Use a probe to peel back the arachnoid mater and expose the arteries. Observe the arteries and note the
 (FIG. 7.43): Grant's Atlas 652 | LWW Atlas 347 | Netter's 137 | Color Atlas 93 | Clemente's 581
 THE HEAD AND NECK 241
 ¥ The cerebral arterial circle is formed by the
-posterior cerebral, posterior communicating,
-internal carotid, anterior cerebral, and anterior
+posterior cerebral, posterior communicating, internal carotid, anterior cerebral, and anterior
 communicating arteries.
 **5.** On the inferior surface of the brain, identify the
 cranial nerves by name and by number (FIG. 7.43):
@@ -2936,17 +2071,13 @@ arteries supply the brain.
 rior inferior cerebellar artery (PICA).
 ¥ The two vertebral arteries combine to form the
 basilar artery.
-¥ The basilar artery gives off the anterior infe-
-rior cerebellar artery, the superior cerebellar
+¥ The basilar artery gives off the anterior infe- rior cerebellar artery, the superior cerebellar
 artery, and several pontine branches.
 ¥ The basilar artery terminates by branching into
 two posterior cerebral arteries.
-¥ Each posterior cerebral artery gives off a
-rior communicating artery that anastomoses
+¥ Each posterior cerebral artery gives off a rior communicating artery that anastomoses
 with the internal carotid artery.
-¥ After giving off the ophthalmic artery, each
-internal carotid artery terminates by dividing
-into a middle cerebral artery and an anterior
+¥ After giving off the ophthalmic artery, each internal carotid artery terminates by dividing into a middle cerebral artery and an anterior
 cerebral artery.
 ¥ The anterior cerebral arteries are joined across the
 midline by the anterior communicating  artery.
@@ -2988,19 +2119,13 @@ which they are found.
 **2.** Review the infoldings of the dura mater and their rela-
 tionship to the cerebral hemispheres and cerebellum.
 **3.** Review the formation of the cerebral arterial circle.
-**4.** Recall the origins of the internal carotid and verte-
-bral arteries and the route that each takes to enter the
+**4.** Recall the origins of the internal carotid and verte- bral arteries and the route that each takes to enter the
 cranial cavity.
 
 ### Cranial Fossae
 Dissection Overview
 The order of dissection will be as follows: The bones of the
-" oor of the cranial cavity will be studied and the boundar-
-ies of the cranial fossae will be identi! ed. The vessels and
-the nerves of each cranial fossa will be studied. Because
-the " oor of the cranial cavity is covered by dura mater, the
-dissection is much easier if a skull is held beside the cadaver
-specimen during dissection to permit direct observation of
+" oor of the cranial cavity will be studied and the boundar- ies of the cranial fossae will be identi! ed. The vessels and the nerves of each cranial fossa will be studied. Because the " oor of the cranial cavity is covered by dura mater, the dissection is much easier if a skull is held beside the cadaver specimen during dissection to permit direct observation of
 the foramina.
 Skeleton of the Cranial Base
 Use a skull to identify (FIG. 7.44): [G 622, 623; L 302; N 11;
@@ -3024,8 +2149,7 @@ Dorsum sellae
 Posterior clinoid
 Temporal bone:
 Squamous part
-Superior border of
-petrous part
+Superior border of petrous part
 Groove for sigmoid sinus
 Internal acoustic meatus
 Internal occipital protuberance
@@ -3066,55 +2190,27 @@ Groove for the sigmoid sinus
 Internal acoustic meatus
 ¥ Occipital bone
 THE HEAD AND NECK 243
-as a dark line extending laterally from the deep-
-est point of the middle cranial fossa. The middle
-meningeal artery enters the middle cranial fossa by
+as a dark line extending laterally from the deep- est point of the middle cranial fossa. The middle meningeal artery enters the middle cranial fossa by
 passing through the foramen spinosum.
-**4.** Grasp the dura mater along the sphenoidal crest
-and peel it posteriorly as far as the superior border
-of the petrous part of the temporal bone. Note that
-the middle meningeal artery adheres to the exter-
-nal surface of the dura mater. Use a probe to tease
-the proximal part of middle meningeal artery away
+**4.** Grasp the dura mater along the sphenoidal crest and peel it posteriorly as far as the superior border of the petrous part of the temporal bone. Note that
+the middle meningeal artery adheres to the exter- nal surface of the dura mater. Use a probe to tease the proximal part of middle meningeal artery away
 from the dura mater and leave it in the skull.
-**5.** Use scissors to detach the dura mater along the su-
-perior border of the petrous part of the temporal
-bone and place it in the tissue container. Do not
-cut the cranial nerves that cross the anterior end
-of the superior border of the petrous part of the
-temporal bone (oculomotor, trigeminal, trochlear,
-and abducent). Note that the lumen of the
-rior petrosal sinus can be seen along the line of
+**5.** Use scissors to detach the dura mater along the su- perior border of the petrous part of the temporal bone and place it in the tissue container. Do not cut the cranial nerves that cross the anterior end of the superior border of the petrous part of the
+temporal bone (oculomotor, trigeminal, trochlear, and abducent). Note that the lumen of the rior petrosal sinus can be seen along the line of
 the cut (FIG. 7.45).
-**6.** Observe that the " oor of the middle cranial fossa
-is formed by two bones: sphenoid and temporal
+**6.** Observe that the " oor of the middle cranial fossa is formed by two bones: sphenoid and temporal
 (FIG. 7.44).
-**7.** Identify the optic nerve (II) (FIG. 7.45). The optic
-nerve passes through the optic canal to enter the
-orbit. The optic nerve is surrounded by a sleeve of
+**7.** Identify the optic nerve (II) (FIG. 7.45). The optic nerve passes through the optic canal to enter the orbit. The optic nerve is surrounded by a sleeve of
 dura mater as it exits the middle cranial fossa.
 **8.** Use a probe to identify the
-superior orbital fi s-
-sure that is located inferior to the lesser wing of
-the sphenoid bone (FIG. 7.44). Three cranial nerves
-and part of a fourth exit the middle cranial fossa by
+superior orbital fi s- sure that is located inferior to the lesser wing of the sphenoid bone (FIG. 7.44). Three cranial nerves and part of a fourth exit the middle cranial fossa by
 passing through the superior orbital !
-¥ Oculomotor nerve (III) - passes over the supe-
-rior border of the petrous part of the temporal
-bone and passes anteriorly within the lateral wall
+¥ Oculomotor nerve (III) - passes over the supe- rior border of the petrous part of the temporal bone and passes anteriorly within the lateral wall
 of the cavernous sinus.
-¥ Trochlear nerve (IV) - courses anteriorly
-within the lateral wall of the cavernous sinus
-immediately inferior to the oculomotor nerve
-(FIG. 7.45). The trochlear nerve is a very small
-nerve that enters the dura mater at the anterior
-end of the tentorial notch. It may have been cut
+¥ Trochlear nerve (IV) - courses anteriorly within the lateral wall of the cavernous sinus immediately inferior to the oculomotor nerve (FIG. 7.45). The trochlear nerve is a very small nerve that enters the dura mater at the anterior end of the tentorial notch. It may have been cut
 during brain removal but should be intact far-
 ther anteriorly.
-¥ Ophthalmic division of the trigeminal nerve
-(V1) - arises from the trigeminal ganglion and
-passes anteriorly within the lateral wall of the
-cavernous sinus inferior to the trochlear nerve
+¥ Ophthalmic division of the trigeminal nerve (V1) - arises from the trigeminal ganglion and passes anteriorly within the lateral wall of the cavernous sinus inferior to the trochlear nerve
 (FIG. 7.45).
 ¥ Abducent nerve (VI) - enters the dura mater
 over the clivus of the occipital bone (FIG. 7.45).
@@ -3130,72 +2226,38 @@ Internal occipital protuberance
 Identify the foramen lacerum, which is formed by por-
 tions of the greater wing of the sphenoid bone and the tem-
 poral bone.
-The anterior cranial fossa is separated from the middle
-cranial fossa by the right and left sphenoidal crests and the
-sphenoidal limbus. The middle cranial fossa is  separated
-from the posterior cranial fossa by the superior border
-of the petrous part of the right and left temporal bones and
-the dorsum sellae. The cerebellar tentorium is attached
-to the superior border of the petrous part of the temporal
+The anterior cranial fossa is separated from the middle cranial fossa by the right and left sphenoidal crests and the sphenoidal limbus. The middle cranial fossa is  separated from the posterior cranial fossa by the superior border of the petrous part of the right and left temporal bones and the dorsum sellae. The cerebellar tentorium is attached to the superior border of the petrous part of the temporal
 bone and it forms the roof of the posterior cranial fossa.
 Dissection Instructions
 *Anterior Cranial Fossa Grant's Atlas 646 | LWW Atlas 346 | Netter's 103 | Color Atlas 75 | Clemente's 588*
-**1.** On the right side of the cadaver only, use a probe
-to loosen the dura mater along the cut edge of the
-frontal bone. Grasp the dura mater with your !
-gers and pull it posteriorly as far as the lesser wing
-of the sphenoid bone. Use scissors to detach the
-dura mater along the sphenoidal crest and along
+**1.** On the right side of the cadaver only, use a probe to loosen the dura mater along the cut edge of the
+frontal bone. Grasp the dura mater with your ! gers and pull it posteriorly as far as the lesser wing of the sphenoid bone. Use scissors to detach the dura mater along the sphenoidal crest and along
 the midline and place it in the tissue container.
-**2.** Note that the sphenoparietal venous sinus is located
-along the sphenoidal crest and that its lumen may
+**2.** Note that the sphenoparietal venous sinus is located along the sphenoidal crest and that its lumen may
 now be visible where you detached the dura mater.
-**3.** Identify the three bones that participate in the
-formation of the anterior cranial fossa: sphenoid
-bone, ethmoid bone, and orbital part of the frontal
-bone (FIG. 7.44). Note that the orbital part of the
+**3.** Identify the three bones that participate in the formation of the anterior cranial fossa: sphenoid bone, ethmoid bone, and orbital part of the frontal bone (FIG. 7.44). Note that the orbital part of the
 frontal bone forms the roof of the orbit.
-**4.** Before the brain was removed, the cerebral falx was
-attached to the crista galli and the frontal lobe of
-the brain rested on the orbital part of the
-bone. The olfactory bulb rested on the cribri-
-form plate and the ! bers of the olfactory nerve
-(I) passed through the openings of the cribriform
+**4.** Before the brain was removed, the cerebral falx was attached to the crista galli and the frontal lobe of the brain rested on the orbital part of the
+bone. The olfactory bulb rested on the cribri- form plate and the ! bers of the olfactory nerve (I) passed through the openings of the cribriform
 plate to enter the nasal cavity (FIG. 7.45).
 *Middle Cranial Fossa [G 646, 650; L 346, 355; N 103;*
 R 73; C 588]
 **1.** Recall that the middle cranial fossa contains the
 temporal lobe of the brain.
-**2.** Observe the dura mater that covers the "
-middle cranial fossa. The dura mater hides all of
-the openings in the skull and the nerves and vessels
+**2.** Observe the dura mater that covers the " middle cranial fossa. The dura mater hides all of the openings in the skull and the nerves and vessels
 that pass through them ( FIG. 7.45, left side).
-**3.** Identify the middle meningeal artery that can be
-seen through the dura mater
-(FIG. 7.45). It# appears
+**3.** Identify the middle meningeal artery that can be seen through the dura mater (FIG. 7.45). It# appears
 GRANTÕS DISSECTOR
-**9.** Use a probe to clean the nerves that pass through
-the superior orbital ! ssure. Note that three of these
+**9.** Use a probe to clean the nerves that pass through the superior orbital ! ssure. Note that three of these
 nerves are located within the lateral wall of the cav-
 ernous sinus (III, IV, V 1) and one is within the cav-
 ernous sinus (VI) (FIG. 7.46).
-**10.** Identify the trigeminal nerve (V) (FIG. 7.45). It is
-the largest cranial nerve and is easily found where
-it crosses the superior border of the petrous part of
+**10.** Identify the trigeminal nerve (V) (FIG. 7.45). It is the largest cranial nerve and is easily found where it crosses the superior border of the petrous part of
 the temporal bone.
-**11.** Follow the trigeminal nerve anteriorly and identify
-the trigeminal ganglion. Use a probe to de! ne the
-three divisions (nerves) that arise from the anterior
-border of the trigeminal ganglion (ophthalmic [V
-maxillary [V2], and mandibular [V 3]). Note that
-these three divisions are named according to their
-region of distribution and are numbered from su-
-perior to inferior as they arise from the trigeminal
-**12.** Identify the maxillary division of the trigeminal
-nerve (V2) and follow it anteriorly to the foramen
-rotundum, where it exits the middle cranial fossa
-(FIG. 7.45). The maxillary division courses within
-the lateral wall of the cavernous sinus just inferior
+**11.** Follow the trigeminal nerve anteriorly and identify the trigeminal ganglion. Use a probe to de! ne the three divisions (nerves) that arise from the anterior
+border of the trigeminal ganglion (ophthalmic [V maxillary [V2], and mandibular [V 3]). Note that these three divisions are named according to their
+region of distribution and are numbered from su- perior to inferior as they arise from the trigeminal
+**12.** Identify the maxillary division of the trigeminal nerve (V2) and follow it anteriorly to the foramen rotundum, where it exits the middle cranial fossa (FIG. 7.45). The maxillary division courses within the lateral wall of the cavernous sinus just inferior
 Plane of section
 Oculomotor nerve (III)
 Trochlear nerve (IV)
@@ -3205,8 +2267,7 @@ Ophthalmic nerve (V
 Maxillary nerve (V
 Sphenoidal sinus
 Sellar diaphragm
-Trabeculae in the
-cavernous sinus
+Trabeculae in the cavernous sinus
 FIGURE 7.46
 Coronal section through the cavernous sinus.
 Transverse sinus
@@ -3255,87 +2316,54 @@ Ophthalmic artery
 FIGURE 7.45
 Nerves and vessels in the cranial fossae.
 THE HEAD AND NECK 245
-the cervical spinal cord. The features of the posteri-
-or cranial fossa will be studied with the dura mater
+the cervical spinal cord. The features of the posteri- or cranial fossa will be studied with the dura mater
 **2.** Identify the facial nerve (VII) and the vestibulo-
-cochlear nerve (VIII) where they enter the inter-
-nal acoustic meatus (FIG. 7.45). Do not follow them
+cochlear nerve (VIII) where they enter the inter- nal acoustic meatus (FIG. 7.45). Do not follow them
 into the bone at this time.
-**3.** The jugular foramen is inferior to the internal
-acoustic meatus (FIG. 7.44). Identify the rootlets of
-the glossopharyngeal nerve (IX), the vagus nerve
-(X), and the accessory nerve (XI) where they en-
-ter the jugular foramen. Because cranial nerves
-IX and X are formed by rootlets, it is dif! cult to
-distinguish one nerve from the other as they enter
-the jugular foramen. However, the
-cervical root of
-the accessory nerve can be positively identi! ed
-because it enters the posterior cranial fossa through
-the foramen magnum and crosses the inner surface
+**3.** The jugular foramen is inferior to the internal acoustic meatus (FIG. 7.44). Identify the rootlets of the glossopharyngeal nerve (IX), the vagus nerve
+(X), and the accessory nerve (XI) where they en- ter the jugular foramen. Because cranial nerves
+IX and X are formed by rootlets, it is dif! cult to distinguish one nerve from the other as they enter the jugular foramen. However, the cervical root of the accessory nerve can be positively identi! ed because it enters the posterior cranial fossa through the foramen magnum and crosses the inner surface
 of the occipital bone (FIG. 7.45).
-**4.** Review the course of the transverse sinus and sig-
-moid sinus. Observe that the sigmoid sinus ends at
-the jugular foramen posterior to the exit point of
+**4.** Review the course of the transverse sinus and sig- moid sinus. Observe that the sigmoid sinus ends at the jugular foramen posterior to the exit point of
 cranial nerves IX, X, and XI.
 **5.** Identify the hypoglossal nerve (XII) where it
 enters the hypoglossal canal (FIG. 7.45).
-**6.** On the left (undissected) side of the cranial cavity,
-identify the cranial nerves in order from anterior to
+**6.** On the left (undissected) side of the cranial cavity, identify the cranial nerves in order from anterior to
 posterior (FIG. 7.45).
 Dissection Follow-up
 **1.** Review the bones that form the " oor of the cranial
 **2.** Read a description of the dural venous sinuses as you
 review them in the cadaver.
-**3.** In the cadaver, review the course of each cranial nerve
-and name the opening through which each passes to
-exit the cranial cavity. In the skull, review the open-
-ings (foramina and ! ssures) through which the cranial
+**3.** In the cadaver, review the course of each cranial nerve and name the opening through which each passes to
+exit the cranial cavity. In the skull, review the open- ings (foramina and ! ssures) through which the cranial
 nerves pass.
-**4.** If the brain is still available, hold it beside the cranial
-cavity so that you can see its ventral surface, and review
-the cranial nerves and severed vessels on both the brain
+**4.** If the brain is still available, hold it beside the cranial cavity so that you can see its ventral surface, and review the cranial nerves and severed vessels on both the brain
 and the cadaver.
 Dissection Overview
 The orbit contains the eyeball and extraocular muscles. The
 eyeball is about 2.5 cm in diameter and occupies the ante-
 rior half of the orbit. The posterior half of the orbit con-
-tains fat, extraocular muscles, branches of cranial nerves,
-and blood vessels. Some vessels and nerves pass through
+tains fat, extraocular muscles, branches of cranial nerves, and blood vessels. Some vessels and nerves pass through
 the orbit to reach the scalp and face.
 The order of dissection will be as follows: The bones of
-the orbit will be studied. On the right side only, the "
-to the ophthalmic division of the trigeminal nerve
+the orbit will be studied. On the right side only, the " to the ophthalmic division of the trigeminal nerve
 (V1) (FIG. 7.46).
-**13.** Identify the mandibular division of the trigeminal
-nerve (V3) and follow it inferiorly to the foramen
-ovale, which is where it exits the middle cranial fossa
+**13.** Identify the mandibular division of the trigeminal nerve (V3) and follow it inferiorly to the foramen ovale, which is where it exits the middle cranial fossa
 and enters the infratemporal fossa (FIG. 7.45).
-**14.** Return to the area of the cavernous sinus and use
-a probe to retract the cranial nerves. Identify
-internal carotid artery (FIG. 7.45). The internal
-carotid artery enters the cranial cavity by passing
-through the carotid canal. It makes an S-shaped
-bend in the cavernous sinus and emerges near the
+**14.** Return to the area of the cavernous sinus and use a probe to retract the cranial nerves. Identify internal carotid artery (FIG. 7.45). The internal carotid artery enters the cranial cavity by passing through the carotid canal. It makes an S-shaped bend in the cavernous sinus and emerges near the
 optic nerve. Cranial nerves III, IV, V
 1, V2, and VI
 cross the lateral side of the internal carotid artery.
-Among this group of nerves, the abducent nerve
-(VI) is most closely related to the internal carotid
+Among this group of nerves, the abducent nerve (VI) is most closely related to the internal carotid
 artery (FIG. 7.46).
 **15.** Identify the region of the hypophyseal fossa. The
 hypophyseal fossa is covered by the sellar dia-
-phragm (diaphragma sellae), which is a dural in-
-folding (FIG. 7.46). The stalk of the pituitary gland
+phragm (diaphragma sellae), which is a dural in- folding (FIG. 7.46). The stalk of the pituitary gland
 passes through an opening in the sellar diaphragm.
 The pituitary gland is still contained within the hy-
 pophyseal fossa.
-**16.** Anterior and posterior to the stalk of the pituitary
-gland are two small dural venous sinuses called the
-anterior and posterior intercavernous sinuses
-(FIG. 7.45). The intercavernous sinuses connect the
-right and left cavernous sinuses across the mid-
-line. Do not attempt to dissect the intercavernous
+**16.** Anterior and posterior to the stalk of the pituitary gland are two small dural venous sinuses called the anterior and posterior intercavernous sinuses (FIG. 7.45). The intercavernous sinuses connect the
+right and left cavernous sinuses across the mid- line. Do not attempt to dissect the intercavernous
 **17.** Use an atlas illustration to identify all of the veins
 and venous sinuses that drain into or out of the cav-
 *ernous sinus. Grant's Atlas 645 | LWW Atlas 342 | Netter's 103 | Color Atlas 87 | Clemente's 588*
@@ -3344,17 +2372,13 @@ and venous sinuses that drain into or out of the cav-
 
 ### Cavernous Sinus
 In fractures of the base of the skull, the internal carotid artery
-may rupture within the cavernous sinus. The release of arte-
-rial blood into the cavernous sinus creates an abnormal refl ux
+may rupture within the cavernous sinus. The release of arte- rial blood into the cavernous sinus creates an abnormal refl ux
 of blood from the cavernous sinus into the ophthalmic veins.
-As a result, the orbit is engorged and the eyeball is protruded
-and is pulsating in synchrony with the radial pulse (pulsating
+As a result, the orbit is engorged and the eyeball is protruded and is pulsating in synchrony with the radial pulse (pulsating
 exophthalmos).
 *Posterior Cranial Fossa [G 646, 648; L 346; N 103;*
 R 67; C 588]
-**1.** Recall that the posterior cranial fossa contains the
-cerebellum and the brainstem. At the foramen
-magnum, the brainstem becomes continuous with
+**1.** Recall that the posterior cranial fossa contains the cerebellum and the brainstem. At the foramen magnum, the brainstem becomes continuous with
 GRANTÕS DISSECTOR
 ¥ Sphenoid bone
 Optic canal
@@ -3363,20 +2387,13 @@ Superior orbital fi ssure
 Greater wing
 On the medial wall of the orbit, identify the
 and posterior ethmoidal foramina.
-Identify the inferior orbital fi ssure, which is a gap be-
-tween the maxilla and the greater wing of the sphenoid
-bone. Note that the lateral wall of the orbit is stout and
-strong but the part of the ethmoid bone that forms the
-medial wall is paper thin and for this reason it is called the
-lamina papyracea. Examine a coronal section through the
-orbit and note the following relationships
+Identify the inferior orbital fi ssure, which is a gap be- tween the maxilla and the greater wing of the sphenoid bone. Note that the lateral wall of the orbit is stout and strong but the part of the ethmoid bone that forms the medial wall is paper thin and for this reason it is called the lamina papyracea. Examine a coronal section through the orbit and note the following relationships
 (FIG. 7.48):
 ¥ Roof of the orbit is related to the anterior cranial fossa
 ¥ Floor of the orbit is related to the maxillary sinus
 ¥ Medial wall of the orbit is related to the ethmoidal cells
 The bones of the orbit are lined with periosteum called
-periorbita. At the optic canal and the superior orbital !
-sure, the periorbita is continuous with the dura mater of
+periorbita. At the optic canal and the superior orbital ! sure, the periorbita is continuous with the dura mater of
 the middle cranial fossa.
 Surface Anatomy of the Eyeball, Eyelids, and
 Lacrimal Apparatus
@@ -3385,25 +2402,15 @@ to inspect the living eye. Identify:
 *[G 656, 657; L 353; N 81;*
 R 135; C 593]
 ¥ Eyelashes (cilia)
-¥ Palpebral fi ssure (rima) - the opening between the
-of the anterior cranial fossa will be removed and the right
-orbit will be dissected from a superior approach. Cranial
+¥ Palpebral fi ssure (rima) - the opening between the of the anterior cranial fossa will be removed and the right orbit will be dissected from a superior approach. Cranial
 nerves III, IV, V 1, and VI will be followed through the supe-
-rior orbital ! ssure into the orbit and the extraocular mus-
-cles will be identi! ed. The left orbit will be dissected from
-an anterior approach. On the left side only, the anatomy
-of the eyelid will be studied and then the eyeball will be
-removed. The attachments of the extraocular muscles will
+rior orbital ! ssure into the orbit and the extraocular mus- cles will be identi! ed. The left orbit will be dissected from an anterior approach. On the left side only, the anatomy of the eyelid will be studied and then the eyeball will be removed. The attachments of the extraocular muscles will
 be studied.
 Skeleton of the Orbit
-The bones of the orbit form a four-sided pyramid. The
-base of the pyramid is the orbital margin and the apex of
-the pyramid is the optic canal. Viewed from above, the me-
-dial walls of the two orbits are parallel to each other and
-about 2.5 cm apart. The lateral walls of the two orbits form
+The bones of the orbit form a four-sided pyramid. The base of the pyramid is the orbital margin and the apex of
+the pyramid is the optic canal. Viewed from above, the me- dial walls of the two orbits are parallel to each other and about 2.5 cm apart. The lateral walls of the two orbits form
 a right angle to each other.
-Refer to a skull and identify the bones that participate
-in the formation of the walls of the orbit
+Refer to a skull and identify the bones that participate in the formation of the walls of the orbit
 (FIG. 7.47): [G 656;
 L 352; N 4; R 46; C 595]
 ¥ Frontal bone
@@ -3447,58 +2454,41 @@ Maxillary sinus
 Medial wall
 FIGURE 7.48
 Coronal section of the skull to show the relationships of
-¥ Medial and lateral palpebral commissures - where
-the upper and lower eyelids join
-¥ Medial and lateral angles (canthi) - the medial and
-lateral corners of the eye
-¥ Sclera - the whitish posterior ! ve-sixths of the exterior
-coat of the eyeball
-¥ Cornea - the transparent anterior one-sixth of the exte-
-rior coat of the eyeball
-¥ Iris - the colored diaphragm seen through the cornea
-¥ Pupil - the aperture in the center of the iris
+¥ Medial and lateral palpebral commissures-where the upper and lower eyelids join
+¥ Medial and lateral angles (canthi) - the medial and lateral corners of the eye
+¥ Sclera-the whitish posterior ! ve-sixths of the exterior coat of the eyeball
+¥ Cornea-the transparent anterior one-sixth of the exte- rior coat of the eyeball
+¥ Iris-the colored diaphragm seen through the cornea
+¥ Pupil-the aperture in the center of the iris
 In the medial angle of the eye, observe:
-¥ Lacrimal caruncle - a pink " eshy bump
-¥ Lacrimal lake - the area surrounding the lacrimal
-¥ Lacrimal papilla - a small bump on the medial end of
-each eyelid
-¥ Lacrimal puncta - a small opening at the apex of each
-lacrimal papilla
+¥ Lacrimal caruncle-a pink " eshy bump
+¥ Lacrimal lake-the area surrounding the lacrimal
+¥ Lacrimal papilla-a small bump on the medial end of each eyelid
+¥ Lacrimal puncta-a small opening at the apex of each lacrimal papilla
 Evert the lower lid slightly and observe:
 ¥ Margin of the eyelid - " at and thick
 ¥ Eyelashes (cilia) - arranged in two or three irregular
 Use an illustration to study the following features and re-
 late them to the living eye:
 *Grant's Atlas 661 | LWW Atlas 353 | Netter's 81 | Color Atlas 132 | Clemente's 600*
-¥ Bulbar conjunctiva - the membrane that lines the sur-
-face of the eyeball
-¥ Palpebral conjunctiva - the membrane that lines the
-inner surface of the eyelid
-¥ Superior and inferior conjunctival fornices (L. for-
-nix, arch) - the regions where the bulbar conjunctiva
-becomes continuous with the palpebral conjunctiva
-¥ Conjunctival sac - the potential space between the bul-
-bar conjunctiva and the palpebral conjunctiva
+¥ Bulbar conjunctiva-the membrane that lines the sur- face of the eyeball
+¥ Palpebral conjunctiva-the membrane that lines the inner surface of the eyelid
+¥ Superior and inferior conjunctival fornices (L. for- nix, arch) - the regions where the bulbar conjunctiva becomes continuous with the palpebral conjunctiva
+¥ Conjunctival sac-the potential space between the bul- bar conjunctiva and the palpebral conjunctiva
 Dissection Instructions
 *Eyelid and Lacrimal Apparatus [G 657, 661; L 352, 353;*
 N 81, 82; R 142; C 597, 598]
 **1.** Dissect the eyelid and lacrimal gland only in the
-**2.** Review the attachments of the
-orbicularis oculi
-muscle. Use a probe to raise the lateral part of the
-orbital portion of the orbicularis oculi muscle
+**2.** Review the attachments of the orbicularis oculi muscle. Use a probe to raise the lateral part of the orbital portion of the orbicularis oculi muscle
 and re" ect the muscle medially.
-**3.** Raise the thin palpebral portion of the orbicu-
-laris oculi muscle off the underlying tarsal plates
+**3.** Raise the thin palpebral portion of the orbicu- laris oculi muscle off the underlying tarsal plates
 and re" ect the muscle medially.
-**4.** The orbital septum is a sheet of connective tis-
-sue that is attached to the periosteum at the margin
+**4.** The orbital septum is a sheet of connective tis- sue that is attached to the periosteum at the margin
 of the orbit and to the tarsal plates (
 FIGS. 7.49 and
 7.50). The orbital septum separates the super!
 fascia of the face from the contents of the orbit.
-**5.** Identify the tarsal plates, which give shape to the
-eyelids (FIG. 7.49). Tarsal glands are embedded in
+**5.** Identify the tarsal plates, which give shape to the eyelids (FIG. 7.49). Tarsal glands are embedded in
 Lateral palpebral ligament
 Superior tarsal plate
 Lacrimal gland
@@ -3506,8 +2496,7 @@ Medial palpebral ligament
 Supraorbital nerve
 Orbital septum
 Lacrimal sac
-Nasolacrimal duct opening
-into nasal cavity
+Nasolacrimal duct opening into nasal cavity
 Infraorbital artery
 Infraorbital nerve
 Inferior tarsal
@@ -3518,8 +2507,7 @@ Orbital septum and tarsal plates.
 GRANTÕS DISSECTOR
 Orbital part of
 orbicularis oculi m.
-Orbital septum
-tarsal plate
+Orbital septum tarsal plate
 Conjunctival sac
 Inferior tarsal plate
 Orbital septum
@@ -3536,152 +2524,91 @@ Parasagittal section through the orbit.
 ### Tarsal Glands
 If the duct of a tarsal gland becomes obstructed, a chalazion
 (cyst) will develop. A chalazion will be located deep to the tar-
-sal plate, between it and the conjunctiva. In contrast, a hordeo-
-lum (stye) is the infl ammation of a sebaceous gland associated
-with the follicle of an eyelash and will be located superfi cial to
+sal plate, between it and the conjunctiva. In contrast, a hordeo- lum (stye) is the infl ammation of a sebaceous gland associated with the follicle of an eyelash and will be located superficial to
 the tarsal plate.
-**6.** The lacrimal gland occupies the lacrimal fossa
-in the frontal bone (FIG. 7.49). To ! nd the lacrimal
+**6.** The lacrimal gland occupies the lacrimal fossa in the frontal bone (FIG. 7.49). To ! nd the lacrimal
 gland, use a scalpel to cut through the orbital sep-
-tum adjacent to the orbital margin in the superolat-
-eral quadrant of the left orbit. Pass a probe through
-the incision and free the lacrimal gland from the
-lacrimal fossa. Note that the lacrimal gland drains
-into the superior conjunctival fornix by 6 to
+tum adjacent to the orbital margin in the superolat- eral quadrant of the left orbit. Pass a probe through the incision and free the lacrimal gland from the lacrimal fossa. Note that the lacrimal gland drains into the superior conjunctival fornix by 6 to
 10#short ducts (FIG. 7.51).
-**7.** Use a skull to identify the lacrimal groove at the me-
-dial side of the orbital margin. Observe that the
+**7.** Use a skull to identify the lacrimal groove at the me- dial side of the orbital margin. Observe that the
 Lacrimal gland
 Lacrimal ducts
-Superior lacrimal papilla
-and punctum
+Superior lacrimal papilla and punctum
 Lacrimal sac
 Inferior nasal concha
 Lacrimal caruncle
-Inferior lacrimal papilla
-and punctum
+Inferior lacrimal papilla and punctum
 Lacrimal canaliculi
 Nasolacrimal duct
 FIGURE 7.51
-Parts of the lacrimal apparatus.
-rior lacrimal crest of the maxilla forms the anterior
-border of the lacrimal groove. The
-medial palpebral
-ligament is attached to the anterior lacrimal crest and
-the lacrimal sac lies posterior to the medial palpebral
+Parts of the lacrimal apparatus. rior lacrimal crest of the maxilla forms the anterior border of the lacrimal groove. The medial palpebral ligament is attached to the anterior lacrimal crest and the lacrimal sac lies posterior to the medial palpebral
 ligament in the lacrimal groove (FIG. 7.49).
 **8.** Two lacrimal canaliculi drain lacrimal " uid from
 the medial angle of the eye into the lacrimal sac.
-The nasolacrimal duct extends inferiorly from the
-lacrimal sac and enters the inferior meatus of the
+The nasolacrimal duct extends inferiorly from the lacrimal sac and enters the inferior meatus of the
 nasal cavity (FIG. 7.51).
 **9.** Lacrimal " uid " ows from the lacrimal gland across
-the eyeball to the medial angle of the eye. Dur-
-ing crying, excess lacrimal " uid cannot be emptied
-through the lacrimal canaliculi and tears over"
-the lower eyelids. Increased drainage of tears into
+the eyeball to the medial angle of the eye. Dur- ing crying, excess lacrimal " uid cannot be emptied
+through the lacrimal canaliculi and tears over" the lower eyelids. Increased drainage of tears into
 the nasal cavity results in snif" ing, which is charac-
 teristic of crying.
 *Right Orbit from the Superior Approach [G 658;*
 L 356-358; N 86; R 140; C 601]
-**1.** Dissect only the right orbit from the superior ap-
-proach. Wear eye protection for all steps that require the
+**1.** Dissect only the right orbit from the superior ap- proach. Wear eye protection for all steps that require the
 use of bone cutters.
-**2.** In the " oor of the anterior cranial fossa, tap the or-
-bital part of the frontal bone with the side of the
-bone cutters until the bone cracks. Use the bone
-cutters to pick out the bone fragments and enlarge
-the opening in the roof of the orbit. Remove the
-roof of the orbit as far anteriorly as the superior
-orbital margin (FIG. 7.52).
-the posterior surface of each tarsal plate. Tarsal
-glands drain by small ori! ces that are located pos-
-terior to the eyelashes. Tarsal glands secrete an oily
+**2.** In the " oor of the anterior cranial fossa, tap the or- bital part of the frontal bone with the side of the bone cutters until the bone cracks. Use the bone cutters to pick out the bone fragments and enlarge the opening in the roof of the orbit. Remove the roof of the orbit as far anteriorly as the superior
+orbital margin (FIG. 7.52). the posterior surface of each tarsal plate. Tarsal
+glands drain by small ori! ces that are located pos- terior to the eyelashes. Tarsal glands secrete an oily
 substance onto the margin of the eyelid that pre-
 vents the over" ow of lacrimal " uid (tears).
-THE HEAD AND NECK 249
-tease open the " aps of periorbita and use scissors to
+THE HEAD AND NECK 249 tease open the " aps of periorbita and use scissors to
 remove them.
 **8.** The use of a ! ne probe and ! ne forceps is recom-
 mended from this point onward in the dissection.
 **9.** Three nerves enter the apex of the orbit by passing
 superior to the extraocular muscles:
 ¥ Frontal nerve (a branch of V 1) - courses from
-the apex of the orbit toward the superior or-
-bital margin (FIG. 7.52). Trace the frontal nerve
-anteriorly and observe that it divides into the
-supratrochlear nerve and the supraorbital
-¥ Lacrimal nerve (a branch of  V 1) - passes through
-the superior orbital ! ssure lateral to the frontal
-nerve and courses along the lateral wall of the or-
-bit. The lacrimal nerve is much smaller than the
-frontal nerve (FIG. 7.52). Follow the lacrimal nerve
+the apex of the orbit toward the superior or- bital margin (FIG. 7.52). Trace the frontal nerve anteriorly and observe that it divides into the supratrochlear nerve and the supraorbital
+¥ Lacrimal nerve (a branch of  V 1) - passes through the superior orbital ! ssure lateral to the frontal
+nerve and courses along the lateral wall of the or- bit. The lacrimal nerve is much smaller than the frontal nerve (FIG. 7.52). Follow the lacrimal nerve
 anterolaterally toward the lacrimal gland.
-¥ Trochlear nerve - passes through the supe-
-rior orbital ! ssure medial to the frontal nerve
+¥ Trochlear nerve-passes through the supe- rior orbital ! ssure medial to the frontal nerve
 (FIG. 7.52). Follow the trochlear nerve to the su-
 perior border of the superior oblique muscle,
-which it innervates. The trochlear nerve usu-
-ally enters the superior border of the superior
+which it innervates. The trochlear nerve usu- ally enters the superior border of the superior
 oblique muscle in its posterior one-third.
 **10.** While preserving the nerves, use forceps to pick
-out lobules of fat and expose the superior sur-
-face of the levator palpebrae superioris muscle
-(FIGS. 7.50 and 7.52). The levator palpebrae supe-
-rioris muscle attaches to the upper eyelid, which it
+out lobules of fat and expose the superior sur- face of the levator palpebrae superioris muscle
+(FIGS. 7.50 and 7.52). The levator palpebrae supe- rioris muscle attaches to the upper eyelid, which it
 **11.** Transect the levator palpebrae superioris muscle as
 far anteriorly as possible and re" ect it posteriorly.
-**12.** Identify the superior rectus muscle that lies
-immediately inferior to the levator palpebrae
-superioris muscle ( FIGS. 7.50 and 7.52). Clean
-the superior rectus muscle and observe that it is
+**12.** Identify the superior rectus muscle that lies immediately inferior to the levator palpebrae superioris muscle ( FIGS. 7.50 and 7.52). Clean the superior rectus muscle and observe that it is
 attached to the eyeball by a thin, broad tendon.
-**13.** Transect the superior rectus muscle close to the
-eyeball and re" ect it posteriorly (FIG. 7.53). Note
-that a branch of the superior division of the
-oculomotor nerve (III) reaches the inferior sur-
-face of the superior rectus muscle. A branch of the
-superior division passes around the medial side of
+**13.** Transect the superior rectus muscle close to the eyeball and re" ect it posteriorly (FIG. 7.53). Note that a branch of the superior division of the
+oculomotor nerve (III) reaches the inferior sur- face of the superior rectus muscle. A branch of the superior division passes around the medial side of
 the superior rectus muscle to innervate the leva-
 tor palpebrae superioris muscle.
 *[G 658; L 357; N 86;*
 R 141; C 603]
-**14.** On the medial side of the orbit, identify the
-perior oblique muscle and trace it anteriorly
-(FIG. 7.53). Observe that the tendon of the supe-
-rior oblique muscle passes through the trochlea
+**14.** On the medial side of the orbit, identify the perior oblique muscle and trace it anteriorly
+(FIG. 7.53). Observe that the tendon of the supe- rior oblique muscle passes through the trochlea
 (L.#trochlea, pulley), bends at an acute angle, and at-
 taches to the posterolateral portion of the eyeball.
-**3.** The frontal bone contains the
-frontal sinus that
-may extend into the roof of the orbit. Medially, the
-ethmoidal cells may extend into the roof of the
-orbit. If either situation occurs in your cadaver, you
-must remove the mucous membrane that lines the
-sinus and remove a second layer of thin bone to
+**3.** The frontal bone contains the frontal sinus that may extend into the roof of the orbit. Medially, the ethmoidal cells may extend into the roof of the orbit. If either situation occurs in your cadaver, you must remove the mucous membrane that lines the sinus and remove a second layer of thin bone to
 open the orbit.
-**4.** Identify the membrane just inferior to the roof of
-the orbit. This is the
-periorbita, which lines the
+**4.** Identify the membrane just inferior to the roof of the orbit. This is the periorbita, which lines the
 bones of the orbit.
-**5.** Push a probe posteriorly between the roof of the
-orbit and the periorbita. The probe should pass
+**5.** Push a probe posteriorly between the roof of the orbit and the periorbita. The probe should pass
 inferior to the lesser wing of the sphenoid bone,
-through the superior orbital !
-ssure, and into the
-middle cranial fossa. Use the probe to break the
+through the superior orbital ! ssure, and into the middle cranial fossa. Use the probe to break the
 lesser wing of the sphenoid bone.
-**6.** Use bone cutters to remove the fragments of the
-lesser wing of the sphenoid bone. Chip away the
+**6.** Use bone cutters to remove the fragments of the lesser wing of the sphenoid bone. Chip away the
 roof of the optic canal and remove the anterior cli-
 noid process (FIG. 7.52).
 **7.** Examine the periorbita and note that the frontal
-nerve may be visible through it. Use scissors to in-
-cise the periorbita from the apex of the orbit to the
-midpoint of the superior orbital margin. Use for-
-ceps to lift the periorbita off deeper structures and
-make a transverse incision through the periorbita,
-close to the superior orbital margin. Use a probe to
+nerve may be visible through it. Use scissors to in- cise the periorbita from the apex of the orbit to the
+midpoint of the superior orbital margin. Use for- ceps to lift the periorbita off deeper structures and
+make a transverse incision through the periorbita, close to the superior orbital margin. Use a probe to
 FIGURE 7.52
 Right orbit. Superior view.
 ethmoidal n.
@@ -3695,64 +2622,37 @@ Lacrimal nerve
 Superior rectus m.
 Frontal nerve
 GRANTÕS DISSECTOR
-**20.** Identify the anterior ethmoidal nerve, which is
-a small branch of the nasociliary nerve that passes
-through the anterior ethmoidal foramen. The an-
-terior ethmoidal nerve supplies part of the mucous
-membrane in the nasal cavity. Its terminal branch is
-the external nasal nerve that innervates the skin at
+**20.** Identify the anterior ethmoidal nerve, which is a small branch of the nasociliary nerve that passes
+through the anterior ethmoidal foramen. The an- terior ethmoidal nerve supplies part of the mucous membrane in the nasal cavity. Its terminal branch is the external nasal nerve that innervates the skin at
 the tip of the nose.
 **21.** In the middle cranial fossa, identify the oculomotor
 nerve within the lateral wall of the cavernous sinus.
-Follow the oculomotor nerve through the superior
-orbital ! ssure into the orbit where it branches into
+Follow the oculomotor nerve through the superior orbital ! ssure into the orbit where it branches into
 two divisions:
-¥ Superior division - innervates the levator palpe-
-brae superioris and the superior rectus muscles
-¥ Inferior division - innervates the medial rectus,
-inferior rectus, and inferior oblique muscles
+¥ Superior division-innervates the levator palpe- brae superioris and the superior rectus muscles
+¥ Inferior division-innervates the medial rectus, inferior rectus, and inferior oblique muscles
 **22.** The ciliary ganglion is a parasympathetic ganglion
-located between the optic nerve and the lateral rec-
-tus muscle. It is approximately 2 mm in diameter
-and is located about 1 cm anterior to the apex of the
-orbit (FIG. 7.53). Note that short ciliary nerves con-
-nect the ciliary ganglion to the posterior surface of
-the eyeball. Study the autonomic function of the
+located between the optic nerve and the lateral rec- tus muscle. It is approximately 2 mm in diameter and is located about 1 cm anterior to the apex of the
+orbit (FIG. 7.53). Note that short ciliary nerves con- nect the ciliary ganglion to the posterior surface of the eyeball. Study the autonomic function of the
 ciliary ganglion.
 **23.** Use an atlas illustration to study the course of the
-superior ophthalmic vein in the orbit. At the me-
-dial angle of the eye, the superior ophthalmic vein
+superior ophthalmic vein in the orbit. At the me- dial angle of the eye, the superior ophthalmic vein
 anastomoses with the angular vein, which is a tribu-
 *tary of the facial vein. Grant's Atlas 664 | LWW Atlas 356 | Netter's 85 | Clemente's 562*
-**15.** On the lateral side of the orbit, identify the
-rectus muscle (FIG. 7.53). The lateral rectus muscle
-arises by two heads from the common tendinous
-ring. The common tendinous ring surrounds the
-optic canal and part of the superior orbital !
-and it is the posterior attachment of the four rectus
-muscles. The optic nerve (II),  nasociliary nerve, oc-
-ulomotor nerve (III), and abducent nerve (VI) pass
+**15.** On the lateral side of the orbit, identify the rectus muscle (FIG. 7.53). The lateral rectus muscle arises by two heads from the common tendinous ring. The common tendinous ring surrounds the
+optic canal and part of the superior orbital ! and it is the posterior attachment of the four rectus
+muscles. The optic nerve (II),  nasociliary nerve, oc- ulomotor nerve (III), and abducent nerve (VI) pass
 through the common tendinous ring.
-**16.** Use scissors to cut the common tendinous ring
-between the attachments of the superior rectus
-and lateral rectus muscles. All structures pass-
-ing through the common tendinous ring are now
-**17.** Identify the abducent nerve (VI). The abducent
-nerve passes between the two heads of the lateral
-rectus muscle, turns laterally, and enters the me-
-dial surface of the lateral rectus muscle. Find the
-abducent nerve on the medial surface of the lateral
-rectus muscle near the apex of the orbit
+**16.** Use scissors to cut the common tendinous ring between the attachments of the superior rectus
+and lateral rectus muscles. All structures pass- ing through the common tendinous ring are now
+**17.** Identify the abducent nerve (VI). The abducent nerve passes between the two heads of the lateral
+rectus muscle, turns laterally, and enters the me- dial surface of the lateral rectus muscle. Find the abducent nerve on the medial surface of the lateral rectus muscle near the apex of the orbit
 (FIG. 7.53).
 **18.** Identify the nasociliary nerve, which is a branch of
-V1 (FIG. 7.53). Trace the nasociliary nerve through
-the orbit and note that it is much smaller than the
-frontal nerve. The nasociliary nerve  crosses supe-
-rior to the optic nerve and gives off several
+V1 (FIG. 7.53). Trace the nasociliary nerve through the orbit and note that it is much smaller than the
+frontal nerve. The nasociliary nerve  crosses supe- rior to the optic nerve and gives off several
 ciliary nerves to the posterior part of the eyeball.
-**19.** Follow the nasociliary nerve toward the medial
-wall of the orbit. Use forceps to pick out the fat
-that ! lls the intervals between muscles, nerves, and
+**19.** Follow the nasociliary nerve toward the medial wall of the orbit. Use forceps to pick out the fat that ! lls the intervals between muscles, nerves, and
 Anterior ethmoidal
 Levator palpebrae superioris m.
 Superior rectus m.
@@ -3776,12 +2676,7 @@ Deeper dissection of right orbit. Superior view.
 ### Clinical Correlation
 
 ### Ophthalmic Veins
-Anastomoses between the angular vein and the superior and
-inferior ophthalmic veins are of clinical importance. Infections
-of the upper lip, cheeks, and forehead may spread through the
-facial and angular veins into the ophthalmic veins and then
-into the cavernous sinus. Thrombosis of the cavernous sinus
-may result, leading to involvement of the abducent nerve and
+Anastomoses between the angular vein and the superior and inferior ophthalmic veins are of clinical importance. Infections of the upper lip, cheeks, and forehead may spread through the facial and angular veins into the ophthalmic veins and then into the cavernous sinus. Thrombosis of the cavernous sinus may result, leading to involvement of the abducent nerve and
 dysfunction of the lateral rectus muscle.
 **24.** Identify the optic nerve (II) (FIG. 7.53). The optic
 ÒnerveÓ is actually a brain tract and it is surrounded
@@ -3793,42 +2688,27 @@ it anteriorly to adduct the eyeball (turn it medially).
 Insert scissors into the orbit on the lateral side of
 the eyeball and cut the optic nerve.
 **6.** Pull the eyeball farther anteriorly and transect the
-superior and inferior oblique tendons near the sur-
-face of the eyeball and remove the eyeball from
-**7.** Study the enucleated orbit
-(FIG. 7.56). Use forceps
-to pick out lobules of fat from the posterior portion
-of the orbit. Find the nerve to the inferior oblique
-muscle and follow it posteriorly to the
+superior and inferior oblique tendons near the sur- face of the eyeball and remove the eyeball from
+**7.** Study the enucleated orbit (FIG. 7.56). Use forceps to pick out lobules of fat from the posterior portion of the orbit. Find the nerve to the inferior oblique muscle and follow it posteriorly to the
 *division of the oculomotor nerve (III). [G 652;*
 L 354; N 83; R 136; C 608]
-**25.** Identify the ophthalmic artery where it branches
-from the internal carotid artery
-(FIG. 7.54). In its
-course through the orbit, note that the ophthalmic
-artery usually crosses superior to the optic nerve
-and reaches the medial wall of the orbit. Use a
+**25.** Identify the ophthalmic artery where it branches from the internal carotid artery (FIG. 7.54). In its course through the orbit, note that the ophthalmic artery usually crosses superior to the optic nerve and reaches the medial wall of the orbit. Use a
 probe to gently tease out the posterior ciliary arter-
 ies that supply the eyeball.
 **26.** The medial rectus, inferior rectus, and inferior
 oblique muscles are not easily seen from the su-
-perior approach. They will be identi!
-ed from the
+perior approach. They will be identi! ed from the
 anterior approach.
 *Left Orbit from the Anterior Approach [G 657; L 354;*
 N 82, 84; R 135; C 605, 608]
 **1.** Use a probe to explore the conjunctival sac. Verify
 that the bulbar conjunctiva is attached to the sclera.
-**2.** To facilitate the dissection, remove both eyelids
-and the orbital septum. Examine the orbit from the
+**2.** To facilitate the dissection, remove both eyelids and the orbital septum. Examine the orbit from the
 anterior view and note:
 ¥ The lacrimal gland is located superolaterally.
 ¥ The trochlea is located superomedially.
 ¥ The inferior oblique muscle is attached infer-
-**3.** Review the attachments of the extraocular muscles
-on the eyeball. The four rectus muscles attach
-to the sclera near the cornea
-(FIG. 7.55). The two
+**3.** Review the attachments of the extraocular muscles on the eyeball. The four rectus muscles attach to the sclera near the cornea (FIG. 7.55). The two
 oblique muscles attach to the sclera on the poste-
 rior half of the eyeball.
 **4.** Use a probe to pick up the tendon of each rectus
@@ -3855,40 +2735,28 @@ Superior oblique m.
 Superior rectus m.
 FIGURE 7.55
 How to transect the muscles of the left eye.
-GRANTÕS DISSECTOR
-fossa and review the optic canal and superior orbital
-**2.** Use the dissected specimen to review the nerves that
-course along the lateral wall of the cavernous sinus and
-pass through the superior orbital !
-ssure to reach the
+GRANTÕS DISSECTOR fossa and review the optic canal and superior orbital
+**2.** Use the dissected specimen to review the nerves that course along the lateral wall of the cavernous sinus and
+pass through the superior orbital ! ssure to reach the
 apex of the orbit. Review the orbital course and func-
 tion of each of these cranial nerves.
-**3.** Review the course of the internal carotid artery through
-the cavernous sinus and note its relationship to the optic
+**3.** Review the course of the internal carotid artery through the cavernous sinus and note its relationship to the optic
 nerve near the optic canal. Note the origin of the oph-
 thalmic artery and its course through the optic canal.
 **4.** Review the course of the optic nerve through the optic
 canal to the eyeball.
-**5.** Review the attachments of each of the six extraocular
-muscles. Use the cadaver specimen to ! nd each of the
+**5.** Review the attachments of each of the six extraocular muscles. Use the cadaver specimen to ! nd each of the
 extraocular muscles.
-**6.** Use an illustration to review the movements of the
-eyeball and relate each movement to the extraocular
+**6.** Use an illustration to review the movements of the eyeball and relate each movement to the extraocular
 muscles that are responsible.
-**7.** Review the ciliary ganglion and note the origin of its
-presynaptic parasympathetic axons and the course of
-its postsynaptic axons to the eyeball. State the function
-of the two smooth muscles that are innervated by the
+**7.** Review the ciliary ganglion and note the origin of its presynaptic parasympathetic axons and the course of its postsynaptic axons to the eyeball. State the function of the two smooth muscles that are innervated by the
 ciliary ganglion.
 
 ### Disarticulation Of The Head
 Dissection Overview
 The head must be detached from the vertebral column to
-allow a posterior approach to the cervical viscera. The or-
-der of dissection will be as follows: The retropharyngeal
-space will be opened from the base of the skull to the supe-
-rior thoracic aperture. A wedge-shaped cut will be made in
-the occipital bone that will permit the skull to be removed
+allow a posterior approach to the cervical viscera. The or- der of dissection will be as follows: The retropharyngeal
+space will be opened from the base of the skull to the supe- rior thoracic aperture. A wedge-shaped cut will be made in the occipital bone that will permit the skull to be removed
 from the vertebral column.
 Skeleton of the Suboccipital Region
 Refer to a skeleton and identify the following:
@@ -3905,49 +2773,36 @@ Anterior tubercle
 Occipital condyle
 Pharyngeal tubercle
 Foramen magnum
-¥ Atlanto-occipital joint - between the occipital condyle
-and the superior articular facet of the atlas
+¥ Atlanto-occipital joint-between the occipital condyle and the superior articular facet of the atlas
 ¥ Transverse ligament of the atlas, holds the dens to the
 anterior arch of the atlas (FIG. 7.57)
 **8.** Trace the four rectus muscles to their attachments
 on the common tendinous ring.
-**9.** Identify the structures that pass through the com-
-mon tendinous ring: the
-optic nerve (II) and
+**9.** Identify the structures that pass through the com- mon tendinous ring: the optic nerve (II) and
 central artery of the retina, superior and in-
-ferior divisions of the oculomotor nerve (III),
-abducent nerve (VI), and nasociliary nerve
+ferior divisions of the oculomotor nerve (III), abducent nerve (VI), and nasociliary nerve
 (FIG. 7.56).
-**10.** Examine the cut surface of the optic nerve and try
-to identify the central artery of the retina, which
+**10.** Examine the cut surface of the optic nerve and try to identify the central artery of the retina, which
 may be seen as a dark spot on the cut surface.
-**11.** In most cases, the eyeball that is removed from the
-cadaver is poorly preserved. However, if the eyeball
-is in dissectible condition, use a new scalpel blade
-to cut it in half in the coronal plane. Remove the
+**11.** In most cases, the eyeball that is removed from the cadaver is poorly preserved. However, if the eyeball is in dissectible condition, use a new scalpel blade to cut it in half in the coronal plane. Remove the
 vitreous body.
 **12.** Note the following features of the eyeball:
 *[G 666;*
 L 359; N 87; R 133; C 609]
-¥ Fibrous (outer) layer - sclera (posterior ! ve-
+¥ Fibrous (outer) layer-sclera (posterior ! ve-
 sixths) and cornea (anterior one-sixth)
-¥ Vascular (middle) layer - choroid, ciliary body,
-¥ Inner layer - retina, partially detached in the
-¥ Macula - only seen in well-preserved specimens
-¥ Optic disc - where the optic nerve and retinal
-vessels enter or leave
-¥ Lens - may be replaced by a prosthetic implant
+¥ Vascular (middle) layer-choroid, ciliary body,
+¥ Inner layer-retina, partially detached in the
+¥ Macula-only seen in well-preserved specimens
+¥ Optic disc-where the optic nerve and retinal vessels enter or leave
+¥ Lens-may be replaced by a prosthetic implant
 Dissection Follow-up
-**1.** Use a skull to review the bones that form the margin
-of the orbit, the walls of the orbit, and the openings
-at the apex of the orbit. Examine the middle cranial
+**1.** Use a skull to review the bones that form the margin of the orbit, the walls of the orbit, and the openings at the apex of the orbit. Examine the middle cranial
 Superior oblique m.
 Levator palpebrae superioris m.
 Superior rectus m.
-Ciliary ganglion and
-parasympathetic
-root of CN III
-tendinous ring
+Ciliary ganglion and parasympathetic
+root of CN III tendinous ring
 Optic nerve (II)
 Central a. of retina
 Oculomotor nerve (III):
@@ -3962,36 +2817,19 @@ its relationship to the four rectus muscles and cranial nerves II, III, IV, and 
 THE HEAD AND NECK 253
 Dissection Instructions
 Retropharyngeal Space
-**1.** Review the structures that pass through the fora-
-men magnum: brainstem, vertebral arteries (left
-and right), and cervical roots of the accessory
-nerves (left and right). Review the hypoglossal
-nerve (XII) where it enters the hypoglossal canal
-(FIG. 7.45). Review the structures that enter the
-jugular foramen: glossopharyngeal nerve (IX), va-
-gus nerve (X), accessory nerve (XI), and sigmoid
+**1.** Review the structures that pass through the fora- men magnum: brainstem, vertebral arteries (left and right), and cervical roots of the accessory nerves (left and right). Review the hypoglossal nerve (XII) where it enters the hypoglossal canal (FIG. 7.45). Review the structures that enter the
+jugular foramen: glossopharyngeal nerve (IX), va- gus nerve (X), accessory nerve (XI), and sigmoid
 **2.** Detach the peripheral ends of the cutaneous
-branches of the cervical plexus (transverse cervi-
-cal, great auricular, lesser occipital) and move them
+branches of the cervical plexus (transverse cervi- cal, great auricular, lesser occipital) and move them
 posteriorly so that they remain attached to the ver-
 tebral column.
-**3.** Clean the borders (both anterior and posterior) of
-both sternocleidomastoid muscles all the way up to
-the mastoid process. Re" ect each sternocleidomas-
-toid muscle superiorly all the way up to its insertion
-on the mastoid process of the temporal bone, tak-
-ing care to preserve the accessory nerve. Leave the
+**3.** Clean the borders (both anterior and posterior) of both sternocleidomastoid muscles all the way up to
+the mastoid process. Re" ect each sternocleidomas- toid muscle superiorly all the way up to its insertion
+on the mastoid process of the temporal bone, tak- ing care to preserve the accessory nerve. Leave the
 muscles attached to the skull.
 **4.** With the skull facing away from you, insert the
-! ngers of both hands posterior to the sterno-
-cleidomastoid muscles and posterior to the carotid
-sheaths. Push your ! ngers medially until they
-touch in the midline to open up the space behind
-the viscera. Move your ! ngers superiorly all the
-way up to the base of the skull and inferiorly to
-the thorax. You should now have a clear separa-
-tion between the viscera and the vertebral column
-called the retropharyngeal (retrovisceral) space
+! ngers of both hands posterior to the sterno- cleidomastoid muscles and posterior to the carotid sheaths. Push your ! ngers medially until they touch in the midline to open up the space behind the viscera. Move your ! ngers superiorly all the way up to the base of the skull and inferiorly to
+the thorax. You should now have a clear separa- tion between the viscera and the vertebral column called the retropharyngeal (retrovisceral) space
 (FIG. 7.59, arrow).
 FIGURE 7.57
 Skeleton and ligaments of the atlantoaxial joint.
@@ -3999,8 +2837,7 @@ Anterior arch
 Superior articular facet
 Transverse process
 Transverse foramen
-Facet for dens
-articular facet
+Facet for dens articular facet
 Posterior arch
 Vertebral foramen
 Transverse ligament of atlas
@@ -4017,73 +2854,45 @@ External occipital protuberance
 Pretracheal fascia
 Loose connective
 Prevertebral fascia
-Arrow passing through
-retropharyngeal space
+Arrow passing through retropharyngeal space
 Carotid sheath
 FIGURE 7.59
 Transverse section through the neck showing the
 retropharyngeal space.
 Disarticulation of the Head
-**1.** The head will be removed from the vertebral col-
-umn by making a wedge-shaped cut in the occipital
-bone. The head will be released from the vertebral
-column without dissecting the atlanto-occipital
-joint and a portion of the occipital bone will remain
+**1.** The head will be removed from the vertebral col- umn by making a wedge-shaped cut in the occipital bone. The head will be released from the vertebral column without dissecting the atlanto-occipital joint and a portion of the occipital bone will remain
 attached to the vertebral column.
-GRANTÕS DISSECTOR
-with scissors, taking care not to injure the posterior
+GRANTÕS DISSECTOR with scissors, taking care not to injure the posterior
 surface of the pharynx.
-**8.** Identify the sympathetic trunk and the superior
-cervical sympathetic ganglion on the anterior
-surface of the cervical vertebral column
+**8.** Identify the sympathetic trunk and the superior cervical sympathetic ganglion on the anterior surface of the cervical vertebral column
 *[G 781;*
 L 310; N 29; C 541]. On the left side, identify the
-internal carotid nerve, which passes from the su-
-perior end of the superior cervical ganglion to the
-internal carotid artery. On the left side, sever the
-internal carotid nerve just superior to the superior
-cervical ganglion and leave the sympathetic trunk
-attached to the vertebral column. On the right
+internal carotid nerve, which passes from the su- perior end of the superior cervical ganglion to the internal carotid artery. On the left side, sever the internal carotid nerve just superior to the superior cervical ganglion and leave the sympathetic trunk attached to the vertebral column. On the right
 side, leave the internal carotid nerve intact and re-
 " ect the sympathetic trunk and the superior cervi-
 cal ganglion with the head and cervical viscera.
 **9.** Inspect the base of the skull from the posterior
-perspective and look for remnants of the C1 verte-
-bra (atlas) attached to the atlanto-occipital joint. If
-remnants of the C1 vertebra are present, use bone
+perspective and look for remnants of the C1 verte- bra (atlas) attached to the atlanto-occipital joint. If remnants of the C1 vertebra are present, use bone
 cutters to remove them.
 *Prevertebral and Lateral Vertebral Regions [G 780;*
 L 310; N 129; R 184; C 534]
-**1.** On the anterior surface of the cervical vertebral
-column, examine the
-prevertebral fascia. The
-prevertebral fascia covers the prevertebral muscles
-(longus colli and longus capitis muscles) and the
+**1.** On the anterior surface of the cervical vertebral column, examine the prevertebral fascia. The prevertebral fascia covers the prevertebral muscles (longus colli and longus capitis muscles) and the
 lateral vertebral muscles (anterior, middle, and pos-
 terior scalene muscles).
 **2.** On the left side of the cervical vertebral column,
-study the sympathetic trunk. Identify the supe-
-rior, middle, and inferior cervical sympathetic
-ganglia. Observe the gray rami communicantes
+study the sympathetic trunk. Identify the supe- rior, middle, and inferior cervical sympathetic ganglia. Observe the gray rami communicantes
 that connect the sympathetic ganglia with the an-
 terior rami of cervical spinal nerves. Frequently,
-the inferior cervical ganglion is fused with the !
-thoracic ganglion to form the
-cervicothoracic
+the inferior cervical ganglion is fused with the ! thoracic ganglion to form the cervicothoracic
 (stellate) ganglion.
-**3.** Identify the longus colli, longus capitis, and
-anterior scalene muscles (FIG. 7.61). Review the
-contributions to the brachial plexus made by the
+**3.** Identify the longus colli, longus capitis, and anterior scalene muscles (FIG. 7.61). Review the contributions to the brachial plexus made by the
 anterior rami of spinal nerves C5 to C8.
-**4.** Follow the vertebral artery into the transverse fora-
-men of vertebra C6 and observe where it emerges
-from the transverse foramen of the atlas (C1). Ap-
-preciate that the vertebral artery is well protected
+**4.** Follow the vertebral artery into the transverse fora- men of vertebra C6 and observe where it emerges
+from the transverse foramen of the atlas (C1). Ap- preciate that the vertebral artery is well protected
 within the transverse foramina.
 Dissection Follow-up
 **1.** Use a skull to review the anatomy of the occipital bone.
-**2.** In the cadaver, review the structures that pass through
-the foramen magnum, hypoglossal canal, and jugular
+**2.** In the cadaver, review the structures that pass through the foramen magnum, hypoglossal canal, and jugular
 **3.** Review the course of the sympathetic trunk from the
 upper thorax to the base of the skull.
 **2.** On the skull, examine the posterior cranial fossa
@@ -4091,120 +2900,66 @@ upper thorax to the base of the skull.
 ¥ Foramen magnum
 ¥ Groove for the sigmoid sinus
 ¥ Groove for the transverse sinus
-¥ Superior border of the petrous part of the
-temporal bone
+¥ Superior border of the petrous part of the temporal bone
 ¥ Jugular foramen
 ¥ Hypoglossal canal
-**3.** Take care to preserve the accessory nerve and the
-structures that exit the jugular foramina at the base
+**3.** Take care to preserve the accessory nerve and the structures that exit the jugular foramina at the base
 of the skull as you make the next two cuts.
-**4.** Use a saw to make two cuts through the occipital
-bone (FIG. 7.60, cuts 1 and 2). These cuts should be
-parallel to the superior border of the petrous part
-of the temporal bone and must pass posterior to
-the opening of the hypoglossal canal and into the
-anterior part of the foramen magnum
-. Externally,
-the saw cuts should pass posterior to the mastoid
-process of the temporal bone so that the attach-
-ment of the sternocleidomastoid muscle remains
-**5.** Use a chisel to cut transversely across the basilar
-part of the occipital bone to connect the anterior
-ends of cuts 1 and 2 ( FIG. 7.60, cut 3). Angle the
+**4.** Use a saw to make two cuts through the occipital bone (FIG. 7.60, cuts 1 and 2). These cuts should be parallel to the superior border of the petrous part of the temporal bone and must pass posterior to the opening of the hypoglossal canal and into the anterior part of the foramen magnum
+. Externally, the saw cuts should pass posterior to the mastoid
+process of the temporal bone so that the attach- ment of the sternocleidomastoid muscle remains
+**5.** Use a chisel to cut transversely across the basilar part of the occipital bone to connect the anterior ends of cuts 1 and 2 ( FIG. 7.60, cut 3). Angle the
 chisel toward the pharynx.
 **6.** Force the head anteriorly to release it from the
 vertebral column (use the chisel to pry it forward).
 The atlanto-occipital joint will be broken during
-**7.** Some of the deep muscles of the neck (rectus capi-
-tis anterior and longus capitis muscles) will adhere
-to the base of the skull as the skull begins to move
-away from the vertebral column. Cut these muscles
+**7.** Some of the deep muscles of the neck (rectus capi- tis anterior and longus capitis muscles) will adhere to the base of the skull as the skull begins to move away from the vertebral column. Cut these muscles
 Hypoglossal canal
 Jugular foramen
-Superior border of
-petrous part of
-temporal bone
+Superior border of petrous part of temporal bone
 FIGURE 7.60
 Cuts for head disarticulation.
 THE HEAD AND NECK 255
 Dissection Instructions
 *Muscles of the Pharyngeal Wall [G 792, 794; L 315,*
 316; N 67; R 167; C 641, 643]
-**1.** The cadaver should be in the supine position. Push
-the head anteroinferiorly and let the chin rest on the
-thorax. Use a probe to clean the buccopharyngeal
+**1.** The cadaver should be in the supine position. Push the head anteroinferiorly and let the chin rest on the thorax. Use a probe to clean the buccopharyngeal
 fascia from the posterior surface of the pharynx.
-**2.** Identify the
-inferior pharyngeal constrictor
-muscle. The anterior attachments of the inferior
-pharyngeal constrictor muscle are the oblique line
-of the thyroid cartilage and the lateral surface of
-the cricoid cartilage (FIG. 7.62B). The posterior at-
-tachment of the inferior pharyngeal constrictor
+**2.** Identify the inferior pharyngeal constrictor muscle. The anterior attachments of the inferior pharyngeal constrictor muscle are the oblique line of the thyroid cartilage and the lateral surface of
+the cricoid cartilage (FIG. 7.62B). The posterior at- tachment of the inferior pharyngeal constrictor
 muscle is the pharyngeal raphe (FIG. 7.62A).
-**3.** Identify the
-middle pharyngeal constrictor
-muscle. The anterior attachments of the middle
-pharyngeal constrictor muscle are the greater horn
-of the hyoid bone and the inferior portion of the
-stylohyoid ligament (FIG. 7.62B). The posterior
-attachment of the middle pharyngeal constric-
-tor muscle is the pharyngeal raphe. Note that the
-inferior part of the middle pharyngeal constrictor
+**3.** Identify the middle pharyngeal constrictor muscle. The anterior attachments of the middle pharyngeal constrictor muscle are the greater horn of the hyoid bone and the inferior portion of the stylohyoid ligament (FIG. 7.62B). The posterior
+attachment of the middle pharyngeal constric- tor muscle is the pharyngeal raphe. Note that the inferior part of the middle pharyngeal constrictor
 muscle lies deep to the inferior pharyngeal con-
 strictor muscle.
 **4.** Superior to the middle pharyngeal constrictor
-muscle, identify the superior pharyngeal con-
-strictor muscle. The anterior attachment of the
-superior pharyngeal constrictor muscle is the
-ygomandibular raphe and its posterior attach-
-ments are the pharyngeal raphe and
-tubercle of the occipital bone (FIG. 7.62A). Note
-that the inferior part of the superior pharyngeal
+muscle, identify the superior pharyngeal con- strictor muscle. The anterior attachment of the superior pharyngeal constrictor muscle is the
+ygomandibular raphe and its posterior attach- ments are the pharyngeal raphe and tubercle of the occipital bone (FIG. 7.62A). Note that the inferior part of the superior pharyngeal
 constrictor muscle lies deep to the middle pharyn-
 geal constrictor muscle.
-**5.** Use blunt dissection to de! ne the superior border
-of the superior pharyngeal constrictor muscle. The
-pharyngobasilar fascia is the dense connective tis-
-sue membrane that attaches the superior edge of
+**5.** Use blunt dissection to de! ne the superior border of the superior pharyngeal constrictor muscle. The
+pharyngobasilar fascia is the dense connective tis- sue membrane that attaches the superior edge of
 the superior constrictor to the base of the skull.
-**6.** The stylopharyngeus muscle is attached to the
-medial surface of the styloid process superiorly
-and to the inner aspect of the pharyngeal wall
-inferiorly. It enters the pharyngeal wall by pass-
-ing between the superior and middle pharyngeal
-constrictor muscles (FIG. 7.62A). The stylopharyn-
-geus muscle is innervated by the glossopharyngeal
+**6.** The stylopharyngeus muscle is attached to the medial surface of the styloid process superiorly and to the inner aspect of the pharyngeal wall
+inferiorly. It enters the pharyngeal wall by pass- ing between the superior and middle pharyngeal
+constrictor muscles (FIG. 7.62A). The stylopharyn- geus muscle is innervated by the glossopharyngeal
 nerve (IX).
 **7.** To ! nd the stylopharyngeus muscle, ! rst palpate
 the greater horn of the hyoid bone. One !
-width above the greater horn of the hyoid bone,
-use blunt dissection to ! nd the inferior end of the
-stylopharyngeus muscle where it passes between
-the superior pharyngeal constrictor muscle and the
+width above the greater horn of the hyoid bone, use blunt dissection to ! nd the inferior end of the stylopharyngeus muscle where it passes between the superior pharyngeal constrictor muscle and the
 middle pharyngeal constrictor muscle.
 **4.** Review the origin and relationships of the roots of the
 brachial plexus.
 Dissection Overview
-The airway crosses the digestive tract in the pharynx. The
-pharynx extends from the base of the skull to the inferior
-border of the cricoid cartilage (vertebral level C6). The
+The airway crosses the digestive tract in the pharynx. The pharynx extends from the base of the skull to the inferior border of the cricoid cartilage (vertebral level C6). The
 pharyngeal wall consists of three layers. From outside in-
 ward these layers are:
-¥ Buccopharyngeal fascia - the adventitia of the pharynx
-that is continuous with the connective tissue that covers
-the buccinator muscle
-¥ Muscular layer - composed of an outer circular part
-and an inner longitudinal part
-¥ Mucous membrane - has a thick submucosa that con-
-tributes to the pharyngobasilar fascia
-The order of dissection will be as follows: The external
-surface of the pharynx will be dissected from the posterior
-direction. The pharyngeal plexus of nerves will be identi!
-and the borders of the pharyngeal constrictor muscles will
-be de! ned. The stylopharyngeus muscle and glossopharyn-
-geal nerve will be identi! ed. The contents of the carotid
-sheath will be examined and cranial nerves IX, X, XI, and
+¥ Buccopharyngeal fascia-the adventitia of the pharynx that is continuous with the connective tissue that covers the buccinator muscle
+¥ Muscular layer-composed of an outer circular part and an inner longitudinal part
+¥ Mucous membrane-has a thick submucosa that con- tributes to the pharyngobasilar fascia
+The order of dissection will be as follows: The external surface of the pharynx will be dissected from the posterior
+direction. The pharyngeal plexus of nerves will be identi! and the borders of the pharyngeal constrictor muscles will
+be de! ned. The stylopharyngeus muscle and glossopharyn- geal nerve will be identi! ed. The contents of the carotid sheath will be examined and cranial nerves IX, X, XI, and
 XII will be followed from the base of the skull to their re-
 gions of distribution. The sympathetic trunk will be studied.
 Rectus capitis
@@ -4220,55 +2975,31 @@ Basilar part of occipital bone
 FIGURE 7.61
 Prevertebral muscles.
 GRANTÕS DISSECTOR
-**12.** Identify the glossopharyngeal nerve (IX), vagus
-nerve (X), and accessory nerve (XI) where they
-exit the jugular foramen medial to the internal jug-
-ular vein (FIG. 7.63A). Follow each nerve inferiorly
+**12.** Identify the glossopharyngeal nerve (IX), vagus nerve (X), and accessory nerve (XI) where they
+exit the jugular foramen medial to the internal jug- ular vein (FIG. 7.63A). Follow each nerve inferiorly
 and observe:
 ¥ Glossopharyngeal nerve (IX) - passes between
 the internal and external carotid arteries as it ap-
 proaches the stylopharyngeus muscle.
-¥ Vagus nerve - lies posterior to the internal
-carotid artery and internal jugular vein in the
-carotid sheath. Trace the vagus nerve from the
-base of the skull to the thorax. The
-laryngeal nerve arises from the vagus nerve
+¥ Vagus nerve-lies posterior to the internal carotid artery and internal jugular vein in the carotid sheath. Trace the vagus nerve from the base of the skull to the thorax. The laryngeal nerve arises from the vagus nerve
 about 2.5 cm inferior to the base of the skull.
-Trace the branches of the superior laryngeal
-nerve to the larynx (FIG. 7.63B). The pharyngeal
-branch of the vagus nerve arises near the base
-of the skull. Follow the pharyngeal branch to the
+Trace the branches of the superior laryngeal nerve to the larynx (FIG. 7.63B). The pharyngeal branch of the vagus nerve arises near the base of the skull. Follow the pharyngeal branch to the
 pharyngeal plexus.
-¥ Accessory nerve (XI) - usually passes between
-the internal jugular vein and the internal carotid
+¥ Accessory nerve (XI) - usually passes between the internal jugular vein and the internal carotid
 artery to reach the deep surface of the sterno-
 cleidomastoid muscle (FIG. 7.63A).
-**13.** Identify the hypoglossal nerve (XII) in the sub-
-mandibular triangle and follow it posteriorly and
-**8.** Use a probe to clean the posterior and lateral sur-
-faces of the stylopharyngeus muscle. Identify the
-glossopharyngeal nerve (IX) that crosses the pos-
-terior and lateral surfaces of the stylopharyngeus
-muscle to enter the pharynx
+**13.** Identify the hypoglossal nerve (XII) in the sub- mandibular triangle and follow it posteriorly and
+**8.** Use a probe to clean the posterior and lateral sur- faces of the stylopharyngeus muscle. Identify the
+glossopharyngeal nerve (IX) that crosses the pos- terior and lateral surfaces of the stylopharyngeus muscle to enter the pharynx
 (FIG. 7.63A). [G 792;
 L 316; N 71; R 165; C 644]
-**9.** Examine the inferior part of the inferior con-
-strictor muscle (FIG. 7.63B). Note that the most
-inferior ! bers of the inferior constrictor muscle
-are continuous with the circular ! bers of the
-**10.** Identify the
-pharyngeal plexus of nerves
-(FIG. 7.63A). The pharyngeal plexus is located on the
-posterolateral aspect of the pharynx. Note that the
+**9.** Examine the inferior part of the inferior con- strictor muscle (FIG. 7.63B). Note that the most inferior ! bers of the inferior constrictor muscle are continuous with the circular ! bers of the
+**10.** Identify the pharyngeal plexus of nerves (FIG. 7.63A). The pharyngeal plexus is located on the posterolateral aspect of the pharynx. Note that the
 pharyngeal plexus receives branches from the:
-¥ Glossopharyngeal nerve - sensory to the pha-
-ryngeal mucosa
-¥ Vagus nerve - motor to the pharyngeal constric-
-tor muscles
-¥ Superior cervical sympathetic ganglion - vasomotor
-**11.** Identify the contents of the carotid sheath from
-the posterior view (FIG. 7.63A). Follow the internal
-carotid artery superiorly as far as possible. Note
+¥ Glossopharyngeal nerve-sensory to the pha- ryngeal mucosa
+¥ Vagus nerve-motor to the pharyngeal constric- tor muscles
+¥ Superior cervical sympathetic ganglion-vasomotor
+**11.** Identify the contents of the carotid sheath from the posterior view (FIG. 7.63A). Follow the internal carotid artery superiorly as far as possible. Note
 that the internal jugular vein is lateral to the inter-
 nal carotid artery.
 Pharyngeal tubercle
@@ -4280,8 +3011,7 @@ Parathyroid glands
 Thyroid gland
 Pharyngeal raphe
 Stylohyoid m.
-Greater horn
-of hyoid bone
+Greater horn of hyoid bone
 Posterior belly of digastric m.
 Stylopharyngeus m.
 Pterygomandibular raphe
@@ -4312,8 +3042,7 @@ Submandibular gland
 Stylopharyngeus m
 Ascending pharyngeal a.
 Glossopharyngeal n. (IX)
-Superior cervical
-sympathetic ganglion
+Superior cervical sympathetic ganglion
 Pharyngeal tubercle
 Glossopharyngeal nerve (IX)
 Superior laryngeal n.:
@@ -4322,109 +3051,69 @@ External br.
 Right recurrent laryngeal nerve
 Vagus nerve (X)
 Hypoglossal nerve (XII)
-Pharyngeal plexus
-each nasal cavity and decide on which side the saw
-cut should be made in order to avoid the nasal
-**5.** On the chosen side, use a scalpel to cut through the
-cartilages of the external nose parallel to the nasal
+Pharyngeal plexus each nasal cavity and decide on which side the saw cut should be made in order to avoid the nasal
+**5.** On the chosen side, use a scalpel to cut through the cartilages of the external nose parallel to the nasal
 **6.** Examine a skull and study the bones through which
 you must cut:
 ¥ Nasal bone and frontal bone
 ¥ Cribriform plate of the ethmoid bone
 ¥ Body of the sphenoid bone
 ¥ Hard palate
-¥ Basilar part of the occipital bone as far as the
-foramen magnum
+¥ Basilar part of the occipital bone as far as the foramen magnum
 **7.** Saw through the skull from superior to inferior.
-Begin lateral to the crista galli (the side of the
-saw blade should touch the crista galli) and keep
-the blade close to the nasal septum. Cut through
-the nasal and frontal bones, ethmoid bone, body
-of the sphenoid, dorsum sellae, basilar part of the
-occipital bone, and hard palate. Stop when the saw
-has passed into the foramen magnum. Do not cut
+Begin lateral to the crista galli (the side of the saw blade should touch the crista galli) and keep the blade close to the nasal septum. Cut through the nasal and frontal bones, ethmoid bone, body of the sphenoid, dorsum sellae, basilar part of the occipital bone, and hard palate. Stop when the saw has passed into the foramen magnum. Do not cut
 the tongue or mandible at this time.
 superiorly as far as the base of the skull (FIG. 7.63B).
-Note that the hypoglossal nerve passes lateral to
-the internal and external carotid arteries but medial
+Note that the hypoglossal nerve passes lateral to the internal and external carotid arteries but medial
 to the internal jugular vein.
-**14.** On the right side of the cadaver, verify that the
-superior cervical sympathetic ganglion
-sympathetic trunk
-are posterior and medial to the
+**14.** On the right side of the cadaver, verify that the superior cervical sympathetic ganglion sympathetic trunk are posterior and medial to the
 carotid sheath (FIG. 7.63A).
-**15.** On the right side of the specimen, identify the
-internal carotid nerve
-that passes from the su-
-perior end of the superior cervical ganglion to the
+**15.** On the right side of the specimen, identify the internal carotid nerve
+that passes from the su- perior end of the superior cervical ganglion to the
 internal carotid artery.
 Bisection of the Head
-**1.** Use a scalpel to cut the posterior wall of the phar-
-ynx in the midline. Start at the superior end of the
-esophagus and cut through the pharyngeal raphe
+**1.** Use a scalpel to cut the posterior wall of the phar- ynx in the midline. Start at the superior end of the esophagus and cut through the pharyngeal raphe
 up to the pharyngeal tubercle.
 *LWW Atlas 317*
 **2.** Use a scalpel to divide the uvula and the soft palate
 in the median plane.
 **3.** Turn the specimen and use a scalpel to cut through
 the upper lip in the midline.
-**4.** A sagittal cut must be made through the skull very
-close to the median plane. The nasal septum may
-not be in the median plane, so you must examine
+**4.** A sagittal cut must be made through the skull very close to the median plane. The nasal septum may not be in the median plane, so you must examine
 GRANTÕS DISSECTOR
 
 ### Clinical Correlation
 Enlarged pharyngeal tonsils are called adenoids. Adenoids
 obstruct the fl ow of air from the nose through the nasopharynx,
 making mouth breathing necessary.
-**6.** The oropharynx lies posterior to the oral cavity. It
-is bounded superiorly by the soft palate and extends
-inferiorly to the level of the epiglottis
+**6.** The oropharynx lies posterior to the oral cavity. It is bounded superiorly by the soft palate and extends inferiorly to the level of the epiglottis
 (FIG. 7.64).
-**7.** In the oropharynx, identify the
-palatoglossal
-fold. The palatoglossal fold forms a dividing line
-between the oral cavity and the oropharynx. This
+**7.** In the oropharynx, identify the palatoglossal fold. The palatoglossal fold forms a dividing line between the oral cavity and the oropharynx. This
 transitional region between the oral cavity and oro-
 pharynx is called the fauces.
 **8.** Identify the palatopharyngeal fold, which is pos-
-terior to the palatoglossal fold. The palatopha-
-ryngeal fold descends along the lateral wall of the
-oropharynx. Between the palatoglossal fold and
-the palatopharyngeal fold is the
+terior to the palatoglossal fold. The palatopha- ryngeal fold descends along the lateral wall of the oropharynx. Between the palatoglossal fold and the palatopharyngeal fold is the
 palatine tonsil.
 Use a mirror to identify the palatine tonsil on
 **9.** The laryngopharynx lies posterior to the larynx.
-This portion of the pharynx extends from the hyoid
-bone to the lower border of the cricoid cartilage
+This portion of the pharynx extends from the hyoid bone to the lower border of the cricoid cartilage
 (FIG. 7.64). Grant's Atlas 796 | LWW Atlas 317 | Netter's 66 | Color Atlas 163 | Clemente's 645
-**8.** The two superior halves of the head should sep-
-arate from each other. The tongue should be
+**8.** The two superior halves of the head should sep- arate from each other. The tongue should be
 *Internal Aspect of the Pharynx [G 814; L 318, 319;*
 N 63; R 155; C 642]
-**1.** The lumen of the pharynx communicates anteri-
-orly with three cavities: nose, mouth, and larynx
+**1.** The lumen of the pharynx communicates anteri- orly with three cavities: nose, mouth, and larynx
 (FIG. 7.64). Identify the parts of the pharynx:
 nasopharynx, oropharynx, and laryngopharynx.
-**2.** The nasopharynx lies posterior to the nose and
-superior to the soft palate (FIG. 7.64). Identify the
-posterior nasal aperture (choana) that is the
-transition region from the nasal cavity to the naso-
-pharynx. The left and right choanae are separated
+**2.** The nasopharynx lies posterior to the nose and superior to the soft palate (FIG. 7.64). Identify the posterior nasal aperture (choana) that is the
+transition region from the nasal cavity to the naso- pharynx. The left and right choanae are separated
 by the posterior end of the nasal septum.
 *[G 800;*
 L 318; N 64; C 615]
-**3.** On the lateral wall of the nasopharynx, identify
-the opening of the pharyngotympanic tube
+**3.** On the lateral wall of the nasopharynx, identify the opening of the pharyngotympanic tube
 (auditory tube, eustachian tube).
 **4.** Superior to the opening of the pharyngotympanic
-tube, identify the torus tubarius, which is the car-
-tilage of the pharyngotympanic tube that is covered
-by mucosa (FIG. 7.64). The salpingopharyngeal
-fold extends posteroinferiorly from the torus
-**5.** Superior and posterior to the torus tubarius, identi-
-fy the pharyngeal recess. The pharyngeal tonsil
-(adenoid) is located in the mucous membrane
+tube, identify the torus tubarius, which is the car- tilage of the pharyngotympanic tube that is covered by mucosa (FIG. 7.64). The salpingopharyngeal fold extends posteroinferiorly from the torus
+**5.** Superior and posterior to the torus tubarius, identi- fy the pharyngeal recess. The pharyngeal tonsil (adenoid) is located in the mucous membrane
 above the pharyngeal recess.
 Nasal septum (cut)
 Vocal folds of larynx
@@ -4432,16 +3121,15 @@ Laryngopharynx
 Epiglottic vallecula
 Palatopharyngeal
 Palatine tonsil
-Palatoglossal fold
-pharyngotympanic tube
+Palatoglossal fold pharyngotympanic tube
 Nasopharynx Pharyngeal
 Torus tubarius
 Pharyngeal recess
 FIGURE 7.64
 Regions of the pharynx.
 THE HEAD AND NECK 259
-¥ Nasal septum - bony part
-¥ Middle nasal concha - part of the ethmoid bone
+¥ Nasal septum-bony part
+¥ Middle nasal concha-part of the ethmoid bone
 ¥ Inferior nasal concha
 Use an illustration to identify the bony features of the
 lateral nasal wall (FIG. 7.66): [G 697; L 337; N 37; R 48;
@@ -4471,12 +3159,11 @@ Skeleton of the nasal region.
 **10.** In the midline of the laryngopharynx, identify the
 epiglottis and the inlet (aditus) of the larynx.
 Farther inferiorly, identify the
-piriform recess,
-which is lateral to the midline. The borders of the
+piriform recess, which is lateral to the midline. The borders of the
 piriform recess are:
-¥ Medial - larynx
-¥ Lateral - thyroid cartilage
-¥ Posterior - inferior pharyngeal constrictor muscle
+¥ Medial-larynx
+¥ Lateral-thyroid cartilage
+¥ Posterior-inferior pharyngeal constrictor muscle
 Dissection Follow-up
 **1.** Review the attachments, innervation, and action of the
 pharyngeal constrictor muscles.
@@ -4493,19 +3180,10 @@ poglossal (XII).
 Dissection Overview
 There are two nasal cavities: right and left. The nos-
 tril  (naris) is the anterior entrance to the nasal cavity.
-Posteriorly, each nasal cavity opens into the nasopharynx
-through a choana. The nasal cavity is lined by mucosa that
-is  attached directly to bones and cartilages. The bones and
-cartilages give the walls of the nasal cavity their character-
-istic contours. The superior one-third of the nasal mucosa
-is  olfactory in nature and the remainder is respiratory in
-nature. The nasal mucosa is highly vascular and capable of
+Posteriorly, each nasal cavity opens into the nasopharynx through a choana. The nasal cavity is lined by mucosa that is  attached directly to bones and cartilages. The bones and
+cartilages give the walls of the nasal cavity their character- istic contours. The superior one-third of the nasal mucosa is  olfactory in nature and the remainder is respiratory in nature. The nasal mucosa is highly vascular and capable of
 engorgement.
-The order of dissection will be as follows: The nose and
-nasal cartilages will be studied. The nasal septum will be
-examined and removed. The features of the lateral nasal
-wall will be studied. The openings of the paranasal sinuses
-will be identi! ed. The maxillary sinus will be opened and
+The order of dissection will be as follows: The nose and nasal cartilages will be studied. The nasal septum will be examined and removed. The features of the lateral nasal wall will be studied. The openings of the paranasal sinuses will be identi! ed. The maxillary sinus will be opened and
 Skeleton of the Nasal Cavity
 In an anterior view of the skull, identify (FIG. 7.65): [G 615;
 L 298; N 4; R 22; C 567]
@@ -4517,52 +3195,32 @@ Anterior nasal spine
 GRANTÕS DISSECTOR
 Nasal Cavity
 **1.** The boundaries of the nasal cavity are:
-¥ Roof - a narrow region bounded by the nasal
-septum and by parts of three other bones: na-
-sal bone, cribriform plate of ethmoid bone, and
-sphenoid bone
-¥ Floor - palatine process of the maxilla and hori-
-zontal plate of the palatine bone
-¥ Medial wall - nasal septum
+¥ Roof-a narrow region bounded by the nasal
+septum and by parts of three other bones: na- sal bone, cribriform plate of ethmoid bone, and sphenoid bone
+¥ Floor-palatine process of the maxilla and hori- zontal plate of the palatine bone
+¥ Medial wall-nasal septum
 ¥ Lateral wall (FIG. 7.66) - maxilla, lacrimal bone,
-ethmoid bone, inferior nasal concha, and per-
-pendicular plate of the palatine bone
-**2.** In the cadaver, observe that the bones and carti-
-lages of the nasal cavity are obscured by the mucosa
+ethmoid bone, inferior nasal concha, and per- pendicular plate of the palatine bone
+**2.** In the cadaver, observe that the bones and carti- lages of the nasal cavity are obscured by the mucosa
 that covers them. The vessels and nerves of the na-
 sal cavity are contained within this mucosa.
 *Nasal Septum Grant's Atlas 697 | LWW Atlas 336 | Netter's 38 | Color Atlas 146 | Clemente's 615*
-**1.** Examine the half of the head that contains the
-sal septum. Strip the mucosa completely off of the
-nasal septum and identify the perpendicular plate
-of the ethmoid bone, vomer, and septal cartilage
+**1.** Examine the half of the head that contains the sal septum. Strip the mucosa completely off of the nasal septum and identify the perpendicular plate of the ethmoid bone, vomer, and septal cartilage
 (FIG. 7.68).
 **2.** Use a probe and forceps to remove the bony and
-cartilaginous parts of the nasal septum. Leave in-
-tact the mucosa that lines the other side of the nasal
-septum. In the mucosa of the nasal septum, identify
-the nasopalatine nerve and the sphenopalatine
-artery (FIG. 7.69). Note that the nasopalatine nerve
-and the sphenopalatine artery pass diagonally down
+cartilaginous parts of the nasal septum. Leave in- tact the mucosa that lines the other side of the nasal septum. In the mucosa of the nasal septum, identify the nasopalatine nerve and the sphenopalatine artery (FIG. 7.69). Note that the nasopalatine nerve and the sphenopalatine artery pass diagonally down
 Dissection Instructions
 *External Nose Grant's Atlas 696 | Netter's 35 | Color Atlas 49 | Clemente's 613*
-**1.** On the cadaver, palpate the nasal bone. Inferior to
-the nasal bone palpate the lateral nasal cartilage
-(FIG. 7.67). The lateral nasal cartilage gives shape to
+**1.** On the cadaver, palpate the nasal bone. Inferior to the nasal bone palpate the lateral nasal cartilage (FIG. 7.67). The lateral nasal cartilage gives shape to
 the bridge of the nose.
-**2.** The lateral nasal cartilage is an extension of the
-septal cartilage. The septal cartilage separates the
-right and left nasal cavities and forms the anterior
+**2.** The lateral nasal cartilage is an extension of the septal cartilage. The septal cartilage separates the right and left nasal cavities and forms the anterior
 part of the nasal septum.
-**3.** Lateral to the septal cartilage is the
-alar cartilage
+**3.** Lateral to the septal cartilage is the alar cartilage
 (FIG. 7.67). The alar cartilage gives shape to the me-
 dial side of the nostril.
-Sphenoid bone:
-sphenoidal sinus
+Sphenoid bone: sphenoidal sinus
 Sphenoidal sinus
-Medial plate
-of pterygoid
+Medial plate of pterygoid
 Lateral plate
 Pterygoid hamulus
 Palatine bone:
@@ -4588,45 +3246,32 @@ THE HEAD AND NECK 261
 340; N 36; R 144, 145; C 615]
 **1.** Remove the mucosa and remnants of the nasal
 **2.** Inspect the lateral wall of the nasal cavity (FIG. 7.70).
-¥ Sphenoethmoidal recess - above the superior
+¥ Sphenoethmoidal recess-above the superior
 ¥ Superior concha
-¥ Superior meatus - inferior to the superior concha
+¥ Superior meatus-inferior to the superior concha
 ¥ Middle concha
-¥ Middle meatus - inferior to the middle concha
+¥ Middle meatus-inferior to the middle concha
 ¥ Inferior concha
-¥ Inferior meatus - inferior to the inferior concha
-¥ Vestibule - the area superior to the nostril and
-anterior to the inferior meatus
-¥ Atrium - the area superior to the vestibule and
-anterior to the middle meatus
-**3.** Use scissors to remove the inferior concha. Use
-a probe and forceps to remove the mucosa from
-the lateral wall of the inferior meatus. Identify the
+¥ Inferior meatus-inferior to the inferior concha
+¥ Vestibule-the area superior to the nostril and anterior to the inferior meatus
+¥ Atrium-the area superior to the vestibule and anterior to the middle meatus
+**3.** Use scissors to remove the inferior concha. Use a probe and forceps to remove the mucosa from the lateral wall of the inferior meatus. Identify the
 opening of the nasolacrimal duct (FIG. 7.71).
-**4.** Use scissors to remove the middle concha. In the
-middle meatus, identify a curved slit, the semilunar
-hiatus (hiatus semilunaris) (FIG. 7.71). Posterior
-to the curvature of the semilunar hiatus, identify
-the ethmoidal bulla (bulla ethmoidalis), which
-bulges into the nasal cavity.
-the nasal septum from the sphenopalatine foramen
+**4.** Use scissors to remove the middle concha. In the middle meatus, identify a curved slit, the semilunar hiatus (hiatus semilunaris) (FIG. 7.71). Posterior to the curvature of the semilunar hiatus, identify the ethmoidal bulla (bulla ethmoidalis), which
+bulges into the nasal cavity. the nasal septum from the sphenopalatine foramen
 to the incisive canal. In addition to the nasal sep-
-tum, the nasopalatine nerve and sphenopalatine ar-
-tery supply a portion of the oral mucosa that covers
+tum, the nasopalatine nerve and sphenopalatine ar- tery supply a portion of the oral mucosa that covers
 the hard palate.
-**3.** Note that the mucosa near the cribriform plate is
-the olfactory area (FIG. 7.69). The olfactory area
+**3.** Note that the mucosa near the cribriform plate is the olfactory area (FIG. 7.69). The olfactory area
 also extends down the lateral wall of the nasal cav-
 ity for a short distance.
 Sphenoidal sinus
 Soft palate
-Nasal crest
-of palatine bone
+Nasal crest of palatine bone
 Palatine process
 Nasal crest
 Anterior nasal spine
-Perpendicular
-plate of ethmoid
+Perpendicular plate of ethmoid
 FIGURE 7.68
 Left side of the nasal septum.
 Region of olfactory epithelium
@@ -4639,8 +3284,7 @@ FIGURE 7.69
 Nerve and arterial supply to the mucosa of the nasal
 septum. Left side of septum is shown.
 Sphenoidal sinus
-Opening of the
-pharyngotympanic tube
+Opening of the pharyngotympanic tube
 Inferior meatus
 Middle meatus
 Superior meatus
@@ -4654,8 +3298,7 @@ GRANTÕS DISSECTOR
 ### Clinical Correlation
 
 ### Sphenoidal Sinus
-Surgical approaches to the pituitary gland take advantage of
-the fact that the sphenoidal sinus and nasal cavity provide a
+Surgical approaches to the pituitary gland take advantage of the fact that the sphenoidal sinus and nasal cavity provide a
 direct approach.
 **10.** Note that the ethmoidal cells are located between
 the nasal cavity and the orbit ( FIGS. 7.72 and 7.73).
@@ -4670,11 +3313,9 @@ opening of the middle ethmoidal cells.
 cells in the superior meatus.
 **8.** Identify the opening of the sphenoidal sinus in
 the sphenoethmoidal recess.
-**9.** Examine the sphenoidal sinus (FIG. 7.71). The
-sphenoidal sinus is a paired structure that is
+**9.** Examine the sphenoidal sinus (FIG. 7.71). The sphenoidal sinus is a paired structure that is
 lined by mucosa that is continuous with the mu-
-cosa of#the nasal cavity. Note that the sphenoi-
-dal sinus lies directly inferior to the hypophyseal
+cosa of#the nasal cavity. Note that the sphenoi- dal sinus lies directly inferior to the hypophyseal
 *fossa and pituitary gland. [G 704; L 336; N 48;*
 R 144; C 617]
 Openings of posterior ethmoidal cells
@@ -4686,10 +3327,8 @@ Opening of pharyngotympanic tube
 Inferior concha (cut)
 Opening of nasolacrimal duct
 Ethmoidal bulla
-Rod entering opening
-of frontal sinus
-Opening of anterior
-ethmoidal cells
+Rod entering opening of frontal sinus
+Opening of anterior ethmoidal cells
 Opening of maxillary
 Nasal vestibule
 Semilunar hiatus:
@@ -4697,8 +3336,7 @@ Frontal sinus
 FIGURE 7.71
 Openings in the lateral wall of the right nasal cavity.
 Crista galli
-Orbital part of
-frontal bone
+Orbital part of frontal bone
 Posterior ethmoidal
 Sphenoidal sinus
 Middle ethmoidal cells
@@ -4706,8 +3344,7 @@ Anterior ethmoidal cells
 Frontal sinus
 FIGURE 7.72
 Paranasal sinuses. Superior view.
-Crista galli
-maxillary sinus
+Crista galli maxillary sinus
 Inferior nasal concha
 Nasal septum
 Middle nasal concha
@@ -4716,16 +3353,11 @@ Middle meatus
 Ethmoidal cells
 FIGURE 7.73
 Coronal section through the maxillary sinus.
-THE HEAD AND NECK 263
-mucosa on its inferior surface. Numerous mucous glands
-(palatine glands) are present on the oral surface of the
+THE HEAD AND NECK 263 mucosa on its inferior surface. Numerous mucous glands (palatine glands) are present on the oral surface of the
 The order of dissection will be as follows: The mu-
 cosal folds of the inner pharyngeal wall will be reviewed.
 The mucosa will be stripped from the inner surface of the
-pharynx and the muscles that constitute the inner longi-
-tudinal muscle layer will be examined. Muscles that move
-the soft palate will then be studied. The nerves and blood
-vessels of the palate will be identi! ed. The palatine canal
+pharynx and the muscles that constitute the inner longi- tudinal muscle layer will be examined. Muscles that move the soft palate will then be studied. The nerves and blood vessels of the palate will be identi! ed. The palatine canal
 and pterygopalatine fossa will be dissected from the me-
 dial aspect. The pterygopalatine ganglion will be identi!
 The nerves and vessels of the nasal cavity and palate will be
@@ -4742,16 +3374,14 @@ Horizontal plate
 Greater palatine foramen
 Lesser palatine foramina
 Posterior nasal spine
-The ethmoidal cells may be observed from the
-superior perspective by reviewing the dissection of
+The ethmoidal cells may be observed from the superior perspective by reviewing the dissection of
 the orbit that was completed previously.
 **11.** The maxillary sinus is a three-sided pyra-
 mid with an average adult capacity of 15 mL.
 Observe# an  illustration of a coronal section
 through the maxillary sinus and note the follow-
 ing (FIG. 7.73):
-¥ The roof of the maxillary sinus is the " oor of the
-orbit and the infraorbital nerve innervates the
+¥ The roof of the maxillary sinus is the " oor of the orbit and the infraorbital nerve innervates the
 mucosa of the sinus.
 ¥ The " oor of the maxillary sinus is the alveolar
 process of the maxilla.
@@ -4763,28 +3393,18 @@ into the maxillary sinus.
 
 ### Maxillary Sinus
 When the head is in the upright position, the maxillary  sinus
-cannot drain. If infections of the maxillary sinus persist,
-an opening may be surgically created through the inferior
-meatus near the fl oor of the maxillary sinus to promote
-If the roots of maxillary teeth project into the maxillary si-
-nus, they are covered only by mucosa. During extraction of
-a maxillary molar or premolar tooth, the mucosa superior to
-the projecting root may be torn. As a result, a fi stula may be
+cannot drain. If infections of the maxillary sinus persist, an opening may be surgically created through the inferior meatus near the fl oor of the maxillary sinus to promote
+If the roots of maxillary teeth project into the maxillary si- nus, they are covered only by mucosa. During extraction of a maxillary molar or premolar tooth, the mucosa superior to the projecting root may be torn. As a result, a fi stula may be
 formed between the oral cavity and the maxillary sinus.
 Dissection Follow-up
-**1.** Use an illustration and the dissected specimen to
-review the features of the lateral wall of the nasal
+**1.** Use an illustration and the dissected specimen to review the features of the lateral wall of the nasal
 **2.** Review the relationship of the paranasal sinuses to the
 orbit, anterior cranial fossa, and nasal cavity.
 **3.** Review the drainage point of each paranasal sinus.
 
 ### Hard Palate And Soft Palate
 Dissection Overview
-The palate forms the " oor of the nasal cavity and the roof
-of the oral cavity. The palate consists of two portions: the
-hard palate forms the anterior two-thirds and the
-palate constitutes the posterior one-third. The palate is
-covered by nasal mucosa on its superior surface and oral
+The palate forms the " oor of the nasal cavity and the roof of the oral cavity. The palate consists of two portions: the hard palate forms the anterior two-thirds and the palate constitutes the posterior one-third. The palate is covered by nasal mucosa on its superior surface and oral
 Incisive foramen
 Alveolar process
 Palatine process
@@ -4810,27 +3430,12 @@ the presence of palatine glands.
 tine aponeurosis.
 ¥ The mobility of the soft palate is due to muscles
 that attach to its posterior two-thirds.
-**3.** Use blunt dissection to remove the mucosa from the
-palatoglossal fold and identify the palatoglossus
-muscle, which lies within the fold (FIG. 7.77). The
-superior attachment of the palatoglossus muscle is
-the palatine aponeurosis and its inferior  attachment
-is the lateral side of the tongue. The palatoglossus
-muscle elevates the tongue and depresses the soft
-**4.** Remove the mucosa from the palatopharyngeal
-fold and identify the palatopharyngeus muscle
-(FIG. 7.77 ). The superior attachments of the palato-
-pharyngeus muscle are the hard palate and palatine
-aponeurosis and its inferior attachments are the
+**3.** Use blunt dissection to remove the mucosa from the palatoglossal fold and identify the palatoglossus muscle, which lies within the fold (FIG. 7.77). The superior attachment of the palatoglossus muscle is the palatine aponeurosis and its inferior  attachment is the lateral side of the tongue. The palatoglossus muscle elevates the tongue and depresses the soft
+**4.** Remove the mucosa from the palatopharyngeal fold and identify the palatopharyngeus muscle
+(FIG. 7.77 ). The superior attachments of the palato- pharyngeus muscle are the hard palate and palatine aponeurosis and its inferior attachments are the
 thyroid cartilage and pharyngeal wall. The palato-
 pharyngeus muscle elevates the larynx during swal-
-**5.** Remove the mucosa from the salpingopharyn-
-geal fold and identify the
-salpingopharyngeus
-muscle (FIG. 7.77 ). The superior attachment of the
-salpingopharyngeus muscle is the cartilage of the
-pharyngotympanic tube. Its inferior attachments
-and action are the same as the palatopharyngeus
+**5.** Remove the mucosa from the salpingopharyn- geal fold and identify the salpingopharyngeus muscle (FIG. 7.77 ). The superior attachment of the salpingopharyngeus muscle is the cartilage of the pharyngotympanic tube. Its inferior attachments and action are the same as the palatopharyngeus
 ¥ Sphenoid bone
 Hamulus of the medial plate of the pterygoid
 Medial plate of the pterygoid process
@@ -4861,8 +3466,7 @@ Inferior orbital
 Sphenopalatine
 Pterygopalatine
 Pterygomaxillary
-Lateral plate of
-pterygoid process
+Lateral plate of pterygoid process
 FIGURE 7.75
 Entry to the pterygopalatine fossa and nasal cavity from
 the infratemporal fossa.
@@ -4882,74 +3486,47 @@ Inferior nasal concha
 FIGURE 7.76
 Mucosal folds in the pharynx.
 THE HEAD AND NECK 265
-**10.** Remove the mucosa from the posterior border
-of the medial plate of the pterygoid process
+**10.** Remove the mucosa from the posterior border of the medial plate of the pterygoid process
 (FIG. 7.77). Identify the tensor veli palatini mus-
-cle, which lies lateral to the medial plate. The su-
-perior attachment of the tensor veli palatini muscle
-is the scaphoid fossa. The belly of the tensor veli
-palatini muscle is located between the medial and
-lateral plates of the pterygoid process. Its ten-
-don turns medially around the
-hamulus of the
-medial pterygoid plate and forms the palatine
+cle, which lies lateral to the medial plate. The su- perior attachment of the tensor veli palatini muscle is the scaphoid fossa. The belly of the tensor veli palatini muscle is located between the medial and
+lateral plates of the pterygoid process. Its ten- don turns medially around the hamulus of the medial pterygoid plate and forms the palatine
 aponeurosis. The tensor veli palatini muscle tens-
 es the soft palate. Palpate the hamulus and !
 tendon of the tensor veli palatini muscle.
-**11.** Five muscles of the soft palate and pharynx are in-
-nervated by the vagus nerve (X) via the pharyngeal
+**11.** Five muscles of the soft palate and pharynx are in- nervated by the vagus nerve (X) via the pharyngeal
 plexus: salpingopharyngeus, levator veli palatini, pal-
 atoglossus, palatopharyngeus, and musculus uvulae.
 The tensor veli palatini muscle is innervated by the
 mandibular division of the trigeminal nerve (V
-**12.** To remove the mucosa from the hard palate, use a
-probe to raise the mucosa on the inferior surface of
+**12.** To remove the mucosa from the hard palate, use a probe to raise the mucosa on the inferior surface of
 the hard palate where it was cut during head bisection.
 Grasp the mucosa with forceps or a hemostat and use
-blunt dissection to peel it from medial to lateral. De-
-tach the mucosa along the medial side of the alveolar
+blunt dissection to peel it from medial to lateral. De- tach the mucosa along the medial side of the alveolar
 *process of the maxilla. Grant's Atlas 689 | Netter's 52 | Color Atlas 147 | Clemente's 620*
-**13.** Identify the greater palatine nerve and artery
-where they emerge from the
-greater palatine
-foramen (FIG. 7.78). Use blunt dissection to follow
-them anteriorly. Note that the
-nasopalatine nerve
-and the distal end of the sphenopalatine artery
-supply the mucosa over the anterior part of the
+**13.** Identify the greater palatine nerve and artery where they emerge from the greater palatine foramen (FIG. 7.78). Use blunt dissection to follow them anteriorly. Note that the nasopalatine nerve and the distal end of the sphenopalatine artery supply the mucosa over the anterior part of the
 hard palate (FIG. 7.78).
-muscle, with which it blends. Note that the pala-
-topharyngeus and salpingopharyngeus muscles
-contribute to the inner longitudinal muscle layer of
+muscle, with which it blends. Note that the pala- topharyngeus and salpingopharyngeus muscles contribute to the inner longitudinal muscle layer of
 the pharynx.
-**6.** Remove the remaining mucosa from the inner sur-
-face of the nasopharynx and oropharynx. Identify
-the stylopharyngeus muscle, which enters the
+**6.** Remove the remaining mucosa from the inner sur- face of the nasopharynx and oropharynx. Identify the stylopharyngeus muscle, which enters the
 pharynx between the superior and middle pharyn-
 geal constrictor muscles (FIG. 7.77). The stylopha-
 ryngeus muscle lies anterior and parallel to the pal-
 atopharyngeus and salpingopharyngeus muscles,
 and all three blend near their inferior ends.
-**7.** The gap between the superior border of the su-
-perior pharyngeal constrictor muscle and the base
+**7.** The gap between the superior border of the su- perior pharyngeal constrictor muscle and the base
 of the skull is closed by the pharyngobasilar fas-
-cia. Passing through this gap are the pharyngo-
-tympanic tube and the levator veli palatini muscle
+cia. Passing through this gap are the pharyngo- tympanic tube and the levator veli palatini muscle
 (FIG. 7.77).
 **8.** The pharyngotympanic tube (auditory tube)
-connects the nasopharynx to the tympanic cav-
-ity. The part of the pharyngotympanic tube that
-is closest to the pharynx is cartilaginous (approxi-
-mately two-thirds of its length) and the part that is
+connects the nasopharynx to the tympanic cav- ity. The part of the pharyngotympanic tube that
+is closest to the pharynx is cartilaginous (approxi- mately two-thirds of its length) and the part that is
 closest to the middle ear passes through the tem-
 poral bone.
 **9.** Remove the mucosa from the torus levatorius and
 identify the levator veli palatini muscle (FIG. 7.77).
 The superior attachments of the levator veli pala-
-tini muscle are the cartilage of the pharyngotym-
-panic tube and the adjacent part of the temporal
-bone. Its inferior attachment is the palatine apo-
-neurosis. The levator veli palatini muscle elevates
+tini muscle are the cartilage of the pharyngotym- panic tube and the adjacent part of the temporal
+bone. Its inferior attachment is the palatine apo- neurosis. The levator veli palatini muscle elevates
 the soft palate.
 Stylopharyngeus m.
 Middle pharyngeal
@@ -4969,8 +3546,7 @@ Inferior nasal concha
 Tensor veli palatini m.
 Lesser palatine a.
 Pterygoid hamulus
-Musculus uvulae
-in soft palate
+Musculus uvulae in soft palate
 Palatoglossus m.
 Glossopharyngeal n. (IX)
 Stylohyoid ligament
@@ -4979,36 +3555,21 @@ Muscles of the pharyngeal wall. Internal view.
 GRANTÕS DISSECTOR
 Sphenopalatine Foramen and Pterygopalatine
 *Fossa Grant's Atlas 689 | LWW Atlas 340 | Netter's 41 | Color Atlas 147 | Clemente's 616*
-**1.** Do not dissect the arterial network of the lateral
-nasal wall but use an atlas illustration to study
-the following branches of the
-sphenopalatine
+**1.** Do not dissect the arterial network of the lateral nasal wall but use an atlas illustration to study the following branches of the sphenopalatine
 *artery: Grant's Atlas 699 | LWW Atlas 340 | Netter's 40 | Color Atlas 146 | Clemente's 616*
-¥ Posterior lateral nasal arteries - to the lateral
-¥ Posterior septal branch - to the superior part
-of the nasal septum
+¥ Posterior lateral nasal arteries-to the lateral
+¥ Posterior septal branch-to the superior part of the nasal septum
 **2.** Remove the mucosa from the posterior part of the
 lateral nasal wall.
 **3.** Use a probe to locate the
-sphenopalatine fora-
-men, which is located at the posterior end of the
-middle nasal concha (FIG. 7.79). Insert the probe
-into the sphenopalatine foramen and direct it in-
-feriorly toward the greater palatine foramen. Pull
-the probe medially to break the medial wall of the
+sphenopalatine fora- men, which is located at the posterior end of the middle nasal concha (FIG. 7.79). Insert the probe
+into the sphenopalatine foramen and direct it in- feriorly toward the greater palatine foramen. Pull the probe medially to break the medial wall of the
 greater palatine canal.
 **4.** Identify the greater palatine nerve, the lesser
-palatine nerve, and the descending palatine ar-
-tery in the greater palatine canal
-(FIG. 7.80). The
-descending palatine artery is one of the terminal
+palatine nerve, and the descending palatine ar- tery in the greater palatine canal (FIG. 7.80). The descending palatine artery is one of the terminal
 branches of the maxillary artery.
-**5.** At the inferior end of the greater palatine canal, use
-a ! ne probe or needle to separate the nerves and
-vessels. Note that the descending palatine artery
-**14.** Posterior to the greater palatine nerve, identify
-the lesser palatine nerve and artery. Use blunt
-dissection to follow them to the soft palate, which
+**5.** At the inferior end of the greater palatine canal, use a ! ne probe or needle to separate the nerves and vessels. Note that the descending palatine artery
+**14.** Posterior to the greater palatine nerve, identify the lesser palatine nerve and artery. Use blunt dissection to follow them to the soft palate, which
 they supply.
 *Tonsillar Bed Grant's Atlas 802 | LWW Atlas 318 | Netter's 64 | Color Atlas 147 | Clemente's 620*
 **1.** Identify the palatine tonsil (FIG. 7.76). In older
@@ -5017,91 +3578,63 @@ spicuous or may have been surgically removed.
 When present, the palatine tonsil is located in
 the tonsillar bed. The boundaries of the tonsil-
 lar bed are:
-¥ Anterior - palatoglossal fold
-¥ Posterior - palatopharyngeal fold
-¥ Lateral - superior pharyngeal constrictor
-**2.** If the cadaver has a palatine tonsil, use blunt dissec-
-tion to remove it (FIG. 7.76). Section the tonsil and
+¥ Anterior-palatoglossal fold
+¥ Posterior-palatopharyngeal fold
+¥ Lateral-superior pharyngeal constrictor
+**2.** If the cadaver has a palatine tonsil, use blunt dissec- tion to remove it (FIG. 7.76). Section the tonsil and
 observe the crypts that extend into its surface.
-**3.** The glossopharyngeal nerve (IX) passes between
-the superior and the middle pharyngeal constrictor
+**3.** The glossopharyngeal nerve (IX) passes between the superior and the middle pharyngeal constrictor
 muscles to enter the tonsillar bed. Remove the mu-
-cosa from the tonsillar bed and observe the glosso-
-pharyngeal nerve (FIG. 7.77). The glossopharyngeal
-nerve innervates the mucosa of the posterior one-
-third of the tongue and the posterior wall of the
+cosa from the tonsillar bed and observe the glosso- pharyngeal nerve (FIG. 7.77). The glossopharyngeal
+nerve innervates the mucosa of the posterior one- third of the tongue and the posterior wall of the
 Musculus uvulae
 Palatopharyngeus m.
 Palatoglossus m.
 Superior pharyngeal
 constrictor m.
 Levator veli palatini m.
-Hamulus of medial
-pterygoid plate
+Hamulus of medial pterygoid plate
 Tensor veli palatini
 Palatine aponeurosis
 Buccinator m.
-Lesser palatine
-nerve and artery
-Greater palatine
-nerve and artery
+Lesser palatine nerve and artery
+Greater palatine nerve and artery
 Nasopalatine n. and
-sphenopalatine a.
-in incisive foramen
-Transverse folds of
-mucous membrane
-Openings of ducts
-of palatine glands
+sphenopalatine a. in incisive foramen
+Transverse folds of mucous membrane
+Openings of ducts of palatine glands
 Palatine glands
 (mucosa removed)
 Palatoglossal arch
-Palatine tonsil
-in tonsillar bed
+Palatine tonsil in tonsillar bed
 Palatopharyngeal arch
 FIGURE 7.78
 Muscles, nerves, and vessels of the soft palate. Inferior view.
-THE HEAD AND NECK 267
-divides to give rise to the greater palatine artery
+THE HEAD AND NECK 267 divides to give rise to the greater palatine artery
 and the lesser palatine artery (FIG. 7.80).
 **6.** Place the ! ne probe between the greater palatine
-nerve and the lesser palatine nerve and slide it su-
-periorly until it meets resistance. This is the inferior
+nerve and the lesser palatine nerve and slide it su- periorly until it meets resistance. This is the inferior
 border of the pterygopalatine ganglion (FIG. 7.80).
 The pterygopalatine ganglion is the location for
-synapse of presynaptic axons of the facial nerve (VII)
-that course ! rst in the greater petrosal nerve and
-then in the nerve of the pterygoid canal. Postsynap-
-tic axons that arise in the pterygopalatine ganglion
-distribute with branches of the maxillary division
+synapse of presynaptic axons of the facial nerve (VII) that course ! rst in the greater petrosal nerve and
+then in the nerve of the pterygoid canal. Postsynap- tic axons that arise in the pterygopalatine ganglion distribute with branches of the maxillary division
 of the trigeminal nerve (V
-2). The pterygopalatine
-ganglion stimulates secretion from the mucosa of
-the nasal cavity, paranasal sinuses, nasopharynx, roof
-of the mouth, and soft palate. The pterygopalatine
+2). The pterygopalatine ganglion stimulates secretion from the mucosa of the nasal cavity, paranasal sinuses, nasopharynx, roof of the mouth, and soft palate. The pterygopalatine
 ganglion also stimulates the lacrimal gland.
 **7.** The nerve of the pterygoid canal enters the ptery-
-gopalatine fossa from posteriorly. To !
-nd it, remove
+gopalatine fossa from posteriorly. To ! nd it, remove
 the mucosa from the " oor of the sphenoidal sinus.
-Frequently, a ridge in the " oor of the sphenoidal
-sinus marks the location of the pterygoid canal
-(FIG. 7.80). Use a probe to break open the pterygoid
+Frequently, a ridge in the " oor of the sphenoidal sinus marks the location of the pterygoid canal (FIG. 7.80). Use a probe to break open the pterygoid
 canal and identify the nerve of the pterygoid canal.
-**8.** Con! rm that the nerve of the pterygoid canal ends
-anteriorly in the pterygopalatine ganglion. The
-nerve of the pterygoid canal contains presynaptic
-parasympathetic axons from the greater petrosal
-nerve and postsynaptic sympathetic axons from the
+**8.** Con! rm that the nerve of the pterygoid canal ends anteriorly in the pterygopalatine ganglion. The nerve of the pterygoid canal contains presynaptic parasympathetic axons from the greater petrosal nerve and postsynaptic sympathetic axons from the
 deep petrosal nerve.
-**9.** Turn the specimen and approach it from the lat-
-eral aspect. Deep in the
+**9.** Turn the specimen and approach it from the lat- eral aspect. Deep in the
 infratemporal fossa,
 *identify: Grant's Atlas 675 | LWW Atlas 330 | Netter's 69 | Color Atlas 80 | Clemente's 565*
-¥ Maxillary artery - courses deeply toward the
+¥ Maxillary artery-courses deeply toward the
 pterygomaxillary ! ssure. Near the pterygomax-
 Sphenopalatine foramen
-Medial plate of
-pterygoid process
+Medial plate of pterygoid process
 Greater palatine foramen
 Horizontal plate
 Perpendicular plate
@@ -5121,100 +3654,73 @@ Anterior ethmoidal
 Olfactory bulb
 FIGURE 7.80
 Nerve and arterial supply to the mucosa of the lateral wall
-of the nasal cavity. Pterygopalatine ganglion.
-illary ! ssure, the maxillary artery gives rise to
-¥ Sphenopalatine artery - passes through the
-pterygopalatine fossa and then through the
-sphenopalatine foramen to enter the nasal cavity
-¥ Descending palatine artery - descends to
-enter the greater palatine canal where it was
-dissected from the medial side
-¥ Infraorbital artery - passes through the inferior
-orbital ! ssure to enter the infraorbital canal and
-emerge on the face at the infraorbital foramen
-¥ Maxillary division of the trigeminal nerve
-(V2) - courses from the foramen rotundum to
-the inferior orbital ! ssure. The maxillary divi-
-sion passes through the pterygopalatine fossa
-and gives off pterygopalatine branches that will
+of the nasal cavity. Pterygopalatine ganglion. illary ! ssure, the maxillary artery gives rise to
+¥ Sphenopalatine artery-passes through the pterygopalatine fossa and then through the sphenopalatine foramen to enter the nasal cavity
+¥ Descending palatine artery-descends to enter the greater palatine canal where it was dissected from the medial side
+¥ Infraorbital artery-passes through the inferior orbital ! ssure to enter the infraorbital canal and emerge on the face at the infraorbital foramen
+¥ Maxillary division of the trigeminal nerve (V2) - courses from the foramen rotundum to
+the inferior orbital ! ssure. The maxillary divi- sion passes through the pterygopalatine fossa and gives off pterygopalatine branches that will
 form the greater and lesser palatine nerves.
 Dissection Follow-up
 **1.** Use the dissected specimen and an illustration to
 reconstruct the branching pattern of the maxillary di-
-vision of the trigeminal nerve. Use a skull and the dis-
-sected specimen to follow the maxillary division from
+vision of the trigeminal nerve. Use a skull and the dis- sected specimen to follow the maxillary division from
 the trigeminal ganglion through the foramen rotun-
 dum, pterygopalatine fossa, and inferior orbital !
 to the infraorbital groove.
-**2.** Review the distribution of the following branches of
-the maxillary division of the trigeminal nerve: greater
+**2.** Review the distribution of the following branches of the maxillary division of the trigeminal nerve: greater
 GRANTÕS DISSECTOR
 *Surface Anatomy of the Oral Vestibule LWW Atlas 333 | Netter's 51 | Clemente's 619*
-Use a mirror to examine your mouth and a clean !
-palpate the following structures through the mucosa that
+Use a mirror to examine your mouth and a clean ! palpate the following structures through the mucosa that
 lines the oral vestibule:
 Alveolar process
 Anterior surface (above the alveolar process)
 Alveolar process
-Coronoid process and the tendon of the tempo-
-ralis muscle
-¥ Masseter muscle - best palpated when the teeth are
-¥ Communication between the oral vestibule and the
-oral cavity proper - posterior to the third molar tooth
+Coronoid process and the tendon of the tempo- ralis muscle
+¥ Masseter muscle-best palpated when the teeth are
+¥ Communication between the oral vestibule and the oral cavity proper-posterior to the third molar tooth
 Turn down your lower lip and lift your upper lip.
 the frenulum in the midline of each lip.
-Examine the inner surface of your cheek. Identify the
-opening of the parotid duct located lateral to the second
+Examine the inner surface of your cheek. Identify the opening of the parotid duct located lateral to the second
 maxillary molar tooth.
 Surface Anatomy of the Oral Cavity Proper
 Again use a mirror to observe the borders of your oral
-¥ Lateral and anterior - the teeth and gums
-¥ Superior - the hard palate
-¥ Inferior - the mucosa covering the tongue and sublin-
-¥ Posterior - the palatoglossal folds (right and left)
+¥ Lateral and anterior-the teeth and gums
+¥ Superior-the hard palate
+¥ Inferior-the mucosa covering the tongue and sublin-
+¥ Posterior-the palatoglossal folds (right and left)
 In your oral cavity, identify:
 Median sulcus
 ¥ Sublingual area
 Frenulum of the tongue (sublingual frenulum)
 Sublingual fold (plica sublingualis)
 Sublingual caruncle
-Opening of submandibular duct - on the sublin-
-gual caruncle
-Deep lingual veins - seen on either side of the fren-
-ulum of the tongue
+Opening of submandibular duct-on the sublin- gual caruncle
+Deep lingual veins-seen on either side of the fren- ulum of the tongue
 Dissection Instructions
 *Tongue Grant's Atlas 682 | LWW Atlas 334 | Netter's 58 | Color Atlas 149 | Clemente's 628*
 **1.** Inspect the
 tongue in the cadaver specimen.
 Identify (FIG. 7.81):
-¥ Root - the posterior one-third
-¥ Body - the anterior two-thirds
-palatine, lesser palatine, nasopalatine, and infraorbital
+¥ Root-the posterior one-third
+¥ Body-the anterior two-thirds palatine, lesser palatine, nasopalatine, and infraorbital
 **3.** Return to the carotid triangle of the neck and follow
-the external carotid artery superiorly into the infra-
-temporal fossa. Review the origin of the maxillary
+the external carotid artery superiorly into the infra- temporal fossa. Review the origin of the maxillary
 artery and its course through the infratemporal fossa.
-Review all branches of the maxillary artery that you
-dissected previously. Use an illustration to review the
-terminal branches of the maxillary artery (posterior su-
-perior alveolar, infraorbital, descending palatine, and
+Review all branches of the maxillary artery that you dissected previously. Use an illustration to review the
+terminal branches of the maxillary artery (posterior su- perior alveolar, infraorbital, descending palatine, and
 sphenopalatine) and use the dissected specimen to re-
 view these branches where you have dissected them.
 **4.** Review the muscles that move the soft palate. State
 their attachments and actions.
-**5.** Review the pharyngeal wall, placing the pharyngeal
-constrictor muscles and the muscles of the soft palate
-into the correct muscle layers (inner longitudinal or
+**5.** Review the pharyngeal wall, placing the pharyngeal constrictor muscles and the muscles of the soft palate into the correct muscle layers (inner longitudinal or
 outer circular).
-**6.** Review the pharyngeal plexus on the posterior surface
-of the pharynx and recall its role in innervation of the
-pharyngeal mucosa and the muscles of the pharynx and
+**6.** Review the pharyngeal plexus on the posterior surface of the pharynx and recall its role in innervation of the pharyngeal mucosa and the muscles of the pharynx and
 soft palate.
 **7.** Use the dissected specimen and an illustration to review
 the course of the glossopharyngeal nerve from the jugu-
 lar foramen to the posterior one-third of the tongue.
-**8.** Recall the rule of innervation of the muscles of the soft
-palate: Five muscles of the soft palate are innervated
+**8.** Recall the rule of innervation of the muscles of the soft palate: Five muscles of the soft palate are innervated
 by the vagus nerve (X) via the pharyngeal  plexus:
 salpingopharyngeus, levator veli palatini, palato-
 glossus, palatopharyngeus, and musculus uvulae.
@@ -5223,71 +3729,48 @@ mandibular division of the trigeminal nerve (V3).
 
 ### Oral Region
 Dissection Overview
-The oral region includes the oral cavity and its contents
-(teeth, gums, and tongue), the palate, and the part of the
-oropharynx that contains the palatine tonsils. The palate
+The oral region includes the oral cavity and its contents (teeth, gums, and tongue), the palate, and the part of the oropharynx that contains the palatine tonsils. The palate
 and palatine tonsils have been dissected previously.
 The oral cavity consists of:
-¥ Oral vestibule - bounded externally by the lips and
+¥ Oral vestibule-bounded externally by the lips and
 cheeks and internally by the teeth and gums.
-¥ Oral cavity proper - the area between the alveolar
-arches and teeth. The largest content of the oral cavity
+¥ Oral cavity proper-the area between the alveolar arches and teeth. The largest content of the oral cavity
 proper is the tongue.
-The order of dissection will be as follows: The super!
-cial features of the oral region will be examined on a living
-person. On the cadaver, the tongue will be inspected and
+The order of dissection will be as follows: The super! cial features of the oral region will be examined on a living person. On the cadaver, the tongue will be inspected and
 the tongue and mandible will be bisected in the midline.
-The intrinsic muscles of the tongue will be inspected. The
-sublingual region will be studied and the dissection of the
+The intrinsic muscles of the tongue will be inspected. The sublingual region will be studied and the dissection of the
 deep part of the submandibular gland will be completed.
 Finally, the extrinsic muscles of the tongue will be studied.
 THE HEAD AND NECK 269
-Lingual papillae - four types: vallate, ! liform,
-fungiform, and foliate
-**2.** Note that the body of the tongue lies horizontally in
-the oral cavity and the root of the tongue lies more
-vertically. The root of the tongue constitutes the low-
-er part of the anterior boundary of the
+Lingual papillae-four types: vallate, ! liform, fungiform, and foliate
+**2.** Note that the body of the tongue lies horizontally in the oral cavity and the root of the tongue lies more
+vertically. The root of the tongue constitutes the low- er part of the anterior boundary of the
 oropharynx.
 **3.** At the root of the tongue (FIG. 7.81), identify:
-¥ Median glossoepiglottic fold - a midline fold
-of mucosa between the dorsum of the tongue
-and the epiglottis
-¥ Lateral glossoepiglottic fold - between the
-dorsum of the tongue and the lateral border of
-the epiglottis
-¥ Epiglottic vallecula - a depression between the
-median and lateral glossoepiglottic folds
+¥ Median glossoepiglottic fold-a midline fold of mucosa between the dorsum of the tongue and the epiglottis
+¥ Lateral glossoepiglottic fold-between the dorsum of the tongue and the lateral border of the epiglottis
+¥ Epiglottic vallecula-a depression between the median and lateral glossoepiglottic folds
 Bisection of the Tongue and Mandible
 **1.** Turn the specimen to expose the submental trian-
 gle. Use a new scalpel blade for this dissection.
-**2.** Use the scalpel to cut the
-mylohyoid muscles
-along their median raphe. Use a probe to separate
+**2.** Use the scalpel to cut the mylohyoid muscles along their median raphe. Use a probe to separate
 the mylohyoid muscles from deeper structures.
 **3.** Identify the geniohyoid muscle, which is deep to
-the mylohyoid muscle (FIG. 7.82). The anterior at-
-tachment of the geniohyoid muscle is the inferior
+the mylohyoid muscle (FIG. 7.82). The anterior at- tachment of the geniohyoid muscle is the inferior
 mental spine of the mandible, and its posterior at-
 tachment is the body of the hyoid bone. The genio-
 hyoid muscle pulls the hyoid bone  anteriorly.
-**4.** Use blunt dissection to separate the geniohyoid
-muscles in the midline. Use a saw to cut through
-the mandible in the median plane. Do not allow
-the saw to pass between the genioglossus muscles
+**4.** Use blunt dissection to separate the geniohyoid muscles in the midline. Use a saw to cut through the mandible in the median plane. Do not allow the saw to pass between the genioglossus muscles
 on the deep side of the mandible.
-Terminal sulcus (sulcus terminalis) - divides the
-anterior two-thirds from the posterior one-third
-Lingual tonsil - posterior to the terminal sulcus
-Foramen cecum - in the midline at the point of
-the terminal sulcus
+Terminal sulcus (sulcus terminalis) - divides the anterior two-thirds from the posterior one-third
+Lingual tonsil-posterior to the terminal sulcus
+Foramen cecum-in the midline at the point of the terminal sulcus
 Median sulcus
 Foramen cecum
 Terminal sulcus
 Lingual tonsil
 Lingual papillae:
-Median sulcus
-glossoepiglottic fold
+Median sulcus glossoepiglottic fold
 Epiglottic vallecula
 Median glossoepiglottic fold
 FIGURE 7.81
@@ -5302,16 +3785,11 @@ constrictor m.
 Stylohyoid ligament
 Styloglossus m. (cut)
 Soft palate (cut)
-Deep part of right
-submandibular gland
-Lingual nerve curving
-under submandibular duct
-Cut edge of
-sublingual mucosa
+Deep part of right submandibular gland
+Lingual nerve curving under submandibular duct
+Cut edge of sublingual mucosa
 Sublingual gland
-Sublingual fold
-submandibular
-duct on sublingual
+Sublingual fold submandibular duct on sublingual
 Mandible (cut)
 Genioglossus m. (cut)
 Geniohyoid m. (cut)
@@ -5321,50 +3799,28 @@ Dissection of sublingual region. Right side, tongue removed.
 GRANTÕS DISSECTOR
 Note that the deep part of the submandibular gland
 is located on the deep side of the mylohyoid muscle.
-**5.** Turn the specimen to expose the infratemporal
-fossa. Find the lingual nerve and trace it into the
-sublingual region. Observe that the lingual nerve
-passes lateral, inferior, and medial to the subman-
-dibular duct (FIG. 7.82). The lingual nerve has several
-branches that supply the mucosa of the anterior two-
-thirds of the tongue with general sensation and taste
+**5.** Turn the specimen to expose the infratemporal fossa. Find the lingual nerve and trace it into the sublingual region. Observe that the lingual nerve
+passes lateral, inferior, and medial to the subman- dibular duct (FIG. 7.82). The lingual nerve has several
+branches that supply the mucosa of the anterior two- thirds of the tongue with general sensation and taste
 *! bers. Grant's Atlas 785 | LWW Atlas 332 | Netter's 61 | Color Atlas 153 | Clemente's 626*
-**6.** Near the third mandibular molar tooth, identify the
-submandibular ganglion that is suspended below the
+**6.** Near the third mandibular molar tooth, identify the submandibular ganglion that is suspended below the
 lingual nerve. Read a textbook description of the para-
 sympathetic function of the submandibular ganglion.
 **7.** Turn the specimen so that the submandibular tri-
-angle is exposed. De! ne the attachment of the my-
-lohyoid muscle to the hyoid bone. Use scissors to
-detach the mylohyoid muscle from the hyoid bone
+angle is exposed. De! ne the attachment of the my- lohyoid muscle to the hyoid bone. Use scissors to detach the mylohyoid muscle from the hyoid bone
 and re" ect the muscle superiorly.
-**8.** Find the hypoglossal nerve (XII) and use a probe
-to trace it into the sublingual region. Note that the
-hypoglossal nerve passes between the deep part of
-the submandibular gland and the hyoglossus muscle
-(FIG. 7.82). Observe that both the hypoglossal nerve
-and the lingual nerve pass between the hyoglossus
-muscle and the mylohyoid muscle to enter the sub-
-lingual region. The course of the hypoglossal nerve
+**8.** Find the hypoglossal nerve (XII) and use a probe to trace it into the sublingual region. Note that the hypoglossal nerve passes between the deep part of the submandibular gland and the hyoglossus muscle (FIG. 7.82). Observe that both the hypoglossal nerve and the lingual nerve pass between the hyoglossus
+muscle and the mylohyoid muscle to enter the sub- lingual region. The course of the hypoglossal nerve
 is inferior to the course of the lingual nerve.
-**9.** Observe the hyoglossus muscle (FIG. 7.83). The in-
-ferior attachments of the hyoglossus muscle are the
-body and greater horn of the hyoid bone and its supe-
-rior attachment is the lateral side of the tongue. The
+**9.** Observe the hyoglossus muscle (FIG. 7.83). The in- ferior attachments of the hyoglossus muscle are the
+body and greater horn of the hyoid bone and its supe- rior attachment is the lateral side of the tongue. The
 hyoglossus muscle depresses and retracts the tongue.
-**10.** Near the superior end of the hyoglossus muscle,
-identify the styloglossus muscle (FIG. 7.83). The
-**5.** Do not bisect the epiglottis, the hyoid bone, or
-the larynx at this time. Use a scalpel to bisect the
-tongue in the median plane, beginning at the apex
+**10.** Near the superior end of the hyoglossus muscle, identify the styloglossus muscle (FIG. 7.83). The
+**5.** Do not bisect the epiglottis, the hyoid bone, or the larynx at this time. Use a scalpel to bisect the tongue in the median plane, beginning at the apex
 and proceeding toward the epiglottis. Cut as far in-
 feriorly as the hyoid bone.
-**6.** On the sectioned surface of the tongue, identify the
-genioglossus muscle. The anterior attachment of
-the genioglossus muscle is the superior mental spine
-of the mandible and its posterior attachments are the
-hyoid bone and the tongue. The  genioglossus mus-
-cle protrudes the tongue. The genioglossus muscle
+**6.** On the sectioned surface of the tongue, identify the genioglossus muscle. The anterior attachment of the genioglossus muscle is the superior mental spine of the mandible and its posterior attachments are the
+hyoid bone and the tongue. The  genioglossus mus- cle protrudes the tongue. The genioglossus muscle
 is innervated by the hypoglossal nerve (XII).
 
 ### Clinical Correlation
@@ -5372,10 +3828,7 @@ is innervated by the hypoglossal nerve (XII).
 ### Hypoglossal Nerve
 The genioglossus muscle protrudes the tongue. If one genio-
 glossus muscle does not function (hypoglossal nerve dysfunc-
-tion on that side), the tongue cannot be protruded in the mid-
-line. The functional side of the tongue protrudes normally and
-the side with the dysfunctional nerve is protruded less or not
-at all. Therefore, in testing for hypoglossal nerve lesions, the
+tion on that side), the tongue cannot be protruded in the mid- line. The functional side of the tongue protrudes normally and the side with the dysfunctional nerve is protruded less or not at all. Therefore, in testing for hypoglossal nerve lesions, the
 protruded tongue deviates toward the side of the nerve lesion.
 *Sublingual Region Grant's Atlas 785 | LWW Atlas 332 | Netter's 51 | Color Atlas 153 | Clemente's 621*
 **1.** Use the cadaver specimen to review the sublingual
@@ -5386,19 +3839,12 @@ features that were identi! ed in your oral cavity:
 ¥ Opening of the submandibular duct
 **2.** Carefully use a scalpel to incise the mucous mem-
 brane along the medial surface of the mandible.
-Start the incision at the frenulum of the tongue and
-stop near the second mandibular molar tooth. Use
+Start the incision at the frenulum of the tongue and stop near the second mandibular molar tooth. Use
 a probe and forceps to peel the mucosa medially.
-**3.** Identify the sublingual gland immediately deep to
-the mucosa (FIG. 7.82). The sublingual gland rests
-on the mylohyoid muscle. The sublingual gland has
-about 12 short ducts that drain along the summit of
+**3.** Identify the sublingual gland immediately deep to the mucosa (FIG. 7.82). The sublingual gland rests on the mylohyoid muscle. The sublingual gland has about 12 short ducts that drain along the summit of
 the sublingual fold.
-**4.** Use a probe to dissect along the medial side of the
-sublingual gland and ! nd the submandibular duct
-(FIG. 7.82). Follow the submandibular duct anteri-
-orly to its opening on the sublingual caruncle. Use
-a probe to trace the submandibular duct posteriorly
+**4.** Use a probe to dissect along the medial side of the sublingual gland and ! nd the submandibular duct
+(FIG. 7.82). Follow the submandibular duct anteri- orly to its opening on the sublingual caruncle. Use a probe to trace the submandibular duct posteriorly
 to the deep part of the submandibular gland.
 Lingual artery
 Sublingual gland
@@ -5412,93 +3858,64 @@ Sublingual a.
 FIGURE 7.83
 Blood supply to the tongue. Lateral view.
 THE HEAD AND NECK 271
-muscles, suprahyoid muscles, and stylopharyngeus muscle)
-control the position of the larynx in the neck. In its neutral
+muscles, suprahyoid muscles, and stylopharyngeus muscle) control the position of the larynx in the neck. In its neutral
 position, the larynx is located at vertebral levels C3 to C6.
 The order of dissection will be as follows: Illustrations
 and models will be used to study the cartilages of the larynx.
 Dissection of the larynx involves removal of the mucous
 membrane and identi! cation of the underlying muscles.
 First, the mucosa will be removed from the posterior part
-of the larynx to expose two intrinsic muscles. The left lam-
-ina of the thyroid cartilage will then be removed to
-the remaining intrinsic muscles. The larynx will be opened
-and the mucosal features will be studied. Finally, the nerves
+of the larynx to expose two intrinsic muscles. The left lam- ina of the thyroid cartilage will then be removed to the remaining intrinsic muscles. The larynx will be opened and the mucosal features will be studied. Finally, the nerves
 to the larynx will be reviewed.
 *Skeleton of the Larynx Grant's Atlas 804 | LWW Atlas 320 | Netter's 77 | Color Atlas 158 | Clemente's 651*
-The skeleton of the larynx is responsible for maintain-
-ing a patent airway. It consists of a series of articulated
-cartilages that are united by membranes. Use an illustra-
-tion and a model of the larynx to study the cartilages and
+The skeleton of the larynx is responsible for maintain- ing a patent airway. It consists of a series of articulated
+cartilages that are united by membranes. Use an illustra- tion and a model of the larynx to study the cartilages and
 membranes (FIG. 7.84). Identify:
-¥ Epiglottic cartilage - an unpaired cartilage that lies
-posterior to the tongue and hyoid bone. The
-the epiglottic cartilage is attached to the inner surface of
+¥ Epiglottic cartilage-an unpaired cartilage that lies posterior to the tongue and hyoid bone. The the epiglottic cartilage is attached to the inner surface of
 the angle formed by the thyroid laminae.
-¥ Thyrohyoid membrane - connects the superior border
+¥ Thyrohyoid membrane-connects the superior border
 of the thyroid cartilage to the hyoid bone. When the su-
 prahyoid and infrahyoid muscles move the hyoid bone,
 the larynx also moves because of this membrane.
-¥ Thyroid cartilage - formed by two laminae that are
-joined in the anterior midline to form the
-prominence. The superior horn of the thyroid car-
-tilage projects superiorly. The
-inferior horn of the
-thyroid cartilage articulates with the cricoid cartilage
+¥ Thyroid cartilage-formed by two laminae that are joined in the anterior midline to form the
+prominence. The superior horn of the thyroid car- tilage projects superiorly. The inferior horn of the thyroid cartilage articulates with the cricoid cartilage
 through the cricothyroid joint.
-¥ Cricoid cartilage - shaped like a ring (Gr. krikos, ring).
+¥ Cricoid cartilage-shaped like a ring (Gr. krikos, ring).
 Its lamina is a broad, " at area that is positioned posteri-
 orly and its arch is located anteriorly.
 The arytenoid cartilages are located on the superior bor-
 der of the lamina of the cricoid cartilage. Each arytenoid car-
-tilage is pyramid-shaped and it articulates with the cricoid car-
-tilage through a synovial joint. Each arytenoid cartilage has a
+tilage is pyramid-shaped and it articulates with the cricoid car- tilage through a synovial joint. Each arytenoid cartilage has a
 muscular process for attachment of intrinsic laryngeal mus-
 cles and a vocal process for attachment of the vocal ligament.
 The arytenoid cartilages are capable of several movements:
 ¥ Tilting anteriorly and posteriorly
 ¥ Sliding toward each other (adduction)
 ¥ Sliding away from each other (abduction)
-Use an illustration to identify the
-vocal ligaments
-(FIG. 7.84). The posterior end of each vocal ligament is attached
-to the vocal process of an arytenoid cartilage. The anterior
-end of each vocal ligament is attached to the inner surface of
-the thyroid cartilage at the angle formed by the laminae.
-superior attachment of the styloglossus muscle
+Use an illustration to identify the vocal ligaments (FIG. 7.84). The posterior end of each vocal ligament is attached to the vocal process of an arytenoid cartilage. The anterior end of each vocal ligament is attached to the inner surface of
+the thyroid cartilage at the angle formed by the laminae. superior attachment of the styloglossus muscle
 is the styloid process and its inferior attach-
-ment is the lateral side of the tongue. The stylo-
-glossus muscle retracts the tongue and draws it
+ment is the lateral side of the tongue. The stylo- glossus muscle retracts the tongue and draws it
 *superiorly. Grant's Atlas 788 | Netter's 59*
 **11.** Use an atlas illustration to study the
-intrinsic mus-
-cles of the tongue and note that they consist of
-vertical, transverse, superior longitudinal, and
+intrinsic mus- cles of the tongue and note that they consist of vertical, transverse, superior longitudinal, and
 *inferior longitudinal groups of fi bers. [G  685;*
 L 333; N 60; R 149; C 629]
 **12.** Return to the carotid triangle and locate the
-gual artery where it arises from the external carot-
-id artery (FIG. 7.83). Follow the lingual artery until
-it passes medial to the hyoglossus muscle. When
-the sublingual artery branches off, the lingual ar-
-teryÕs name changes to deep lingual artery. The
-deep lingual artery is usually located within 5 mm
+gual artery where it arises from the external carot- id artery (FIG. 7.83). Follow the lingual artery until it passes medial to the hyoglossus muscle. When
+the sublingual artery branches off, the lingual ar- teryÕs name changes to deep lingual artery. The deep lingual artery is usually located within 5 mm
 of the inferior surface of the tongue.
 **13.** The intrinsic muscles of the tongue and the three
-extrinsic muscles of the tongue (styloglossus, ge-
-nioglossus, and hyoglossus) are innervated by the
+extrinsic muscles of the tongue (styloglossus, ge- nioglossus, and hyoglossus) are innervated by the
 hypoglossal nerve (XII).
 Dissection Follow-up
 **1.** Review the surface features of the tongue.
 **2.** Review the innervation of the lingual mucosa.
 **3.** Follow the submandibular duct from the submandibu-
 lar triangle to the sublingual caruncle.
-**4.** Trace the lingual nerve from the infratemporal fossa to
-the tongue. Note the relationship of the lingual nerve
-to the submandibular duct, hyoglossus muscle, and
+**4.** Trace the lingual nerve from the infratemporal fossa to the tongue. Note the relationship of the lingual nerve to the submandibular duct, hyoglossus muscle, and
 mylohyoid muscle.
-**5.** Review the chorda tympani and the role that it plays in
-sensory innervation of the tongue and parasympathetic
+**5.** Review the chorda tympani and the role that it plays in sensory innervation of the tongue and parasympathetic
 innervation of the submandibular and sublingual glands.
 **6.** Locate the submandibular ganglion and state its function.
 **7.** Trace the hypoglossal nerve from the base of the skull to
@@ -5509,46 +3926,28 @@ and action of each extrinsic muscle.
 **9.** Use an illustration and the dissected specimen to review
 the origin and course of the facial and lingual  arteries.
 Dissection Overview
-The larynx is contained in the visceral compartment of the
-neck. The thyroid gland lies anterior to it and the pharynx
-posterior to it. The larynx is the entrance to the airway and
+The larynx is contained in the visceral compartment of the neck. The thyroid gland lies anterior to it and the pharynx posterior to it. The larynx is the entrance to the airway and
 it contains the glottis, a valve that serves the dual func-
-tion of controlling the airway and producing sound dur-
-ing phonation. The intrinsic muscles of the larynx control
-the glottis. The extrinsic muscles of the larynx (infrahyoid
+tion of controlling the airway and producing sound dur- ing phonation. The intrinsic muscles of the larynx control the glottis. The extrinsic muscles of the larynx (infrahyoid
 GRANTÕS DISSECTOR
-**4.** Open the posterior wall of the pharynx to expose
-the posterior surface of the larynx. Palpate the
+**4.** Open the posterior wall of the pharynx to expose the posterior surface of the larynx. Palpate the
 ina of the cricoid cartilage. Lateral to the lamina,
 identify the piriform recess.
 **5.** Use blunt dissection to remove the mucosa from the
-piriform recess. Immediately deep to the mucosa, iden-
-tify the internal branch of the superior laryngeal
+piriform recess. Immediately deep to the mucosa, iden- tify the internal branch of the superior laryngeal
 nerve and the inferior laryngeal nerve (FIG. 7.85).
-**6.** Use blunt dissection to strip the mucosa from the
-lamina of the cricoid cartilage and expose the
-terior cricoarytenoid muscle (FIG. 7.85). The in-
-ferior attachment of the posterior cricoarytenoid
-muscle is the posterior surface of the lamina of the
-cricoid cartilage and its superior attachment is the
-muscular process of the arytenoid cartilage. The
-posterior cricoarytenoid muscle causes the aryte-
-noid cartilage to rotate, moving the vocal process
+**6.** Use blunt dissection to strip the mucosa from the lamina of the cricoid cartilage and expose the
+terior cricoarytenoid muscle (FIG. 7.85). The in- ferior attachment of the posterior cricoarytenoid muscle is the posterior surface of the lamina of the cricoid cartilage and its superior attachment is the muscular process of the arytenoid cartilage. The
+posterior cricoarytenoid muscle causes the aryte- noid cartilage to rotate, moving the vocal process
 laterally (abduction of the vocal folds).
-**7.** Superior to the posterior cricoarytenoid muscle, iden-
-tify the arytenoid muscle (FIG. 7.85). The arytenoid
-muscle attaches to both arytenoid cartilages. Observe
-that the arytenoid muscle has transverse fi bers and
+**7.** Superior to the posterior cricoarytenoid muscle, iden- tify the arytenoid muscle (FIG. 7.85). The arytenoid muscle attaches to both arytenoid cartilages. Observe that the arytenoid muscle has transverse fi bers and
 oblique fi bers. The arytenoid muscle slides the aryte-
 noid cartilages together  (adduction of the vocal folds).
 **8.** The cricothyroid joint is a synovial joint that is
-reinforced by short ligaments. Observe that the re-
-current laryngeal nerve enters the larynx by passing
-posterior to the cricothyroid joint. At this location,
-the name of the recurrent laryngeal nerve changes
+reinforced by short ligaments. Observe that the re- current laryngeal nerve enters the larynx by passing
+posterior to the cricothyroid joint. At this location, the name of the recurrent laryngeal nerve changes
 to inferior laryngeal nerve.
-**9.** On the left side only, disarticulate the cricothyroid
-joint. Carefully cut the thyrohyoid membrane. Use
+**9.** On the left side only, disarticulate the cricothyroid joint. Carefully cut the thyrohyoid membrane. Use
 scissors to cut the left lamina of the thyroid carti-
 Dissection Instructions
 *Intrinsic Muscles of the Larynx [G 808, 809;*
@@ -5564,17 +3963,11 @@ Thyrohyoid muscle
 ¥ Internal branch of the superior laryngeal nerve
 ¥ Superior laryngeal artery
 ¥ External branch of the superior laryngeal nerve
-**2.** On the external surface of the larynx, identify the
-cricothyroid muscle. The inferior attachment of
-the cricothyroid muscle is the lateral surface of the
-cricoid cartilage and its superior attachment is the
+**2.** On the external surface of the larynx, identify the cricothyroid muscle. The inferior attachment of the cricothyroid muscle is the lateral surface of the cricoid cartilage and its superior attachment is the
 inferior margin of the thyroid cartilage. The crico-
-thyroid muscle tilts the thyroid cartilage anteriorly,
-which lengthens the vocal fold. The cricothyroid
-muscle is innervated by the external branch of the
+thyroid muscle tilts the thyroid cartilage anteriorly, which lengthens the vocal fold. The cricothyroid muscle is innervated by the external branch of the
 superior laryngeal nerve.
-**3.** To expose the posterior surface of the larynx, move
-the head forward and allow the chin to rest on the
+**3.** To expose the posterior surface of the larynx, move the head forward and allow the chin to rest on the
 thoracic wall.
 FIGURE 7.84
 Cartilages of the larynx.
@@ -5590,51 +3983,36 @@ Vocal process
 Posterior View
 Medial View
 Vocal ligament
-THE HEAD AND NECK 273
-tidis (L. rima, a cleft or crack). The rima glottidis and
+THE HEAD AND NECK 273 tidis (L. rima, a cleft or crack). The rima glottidis and
 the vocal folds collectively are called the glottis.
-**15.** Review the function of the intrinsic muscles of the
-larynx. The posterior cricoarytenoid muscle is
+**15.** Review the function of the intrinsic muscles of the larynx. The posterior cricoarytenoid muscle is
 the only muscle that opens the rima glottidis.
-The cricothyroid muscle tilts the thyroid cartilage
-anteriorly and tenses the vocal fold (higher pitch
-of voice). The thyroarytenoid muscle tilts the thy-
-roid cartilage posteriorly and relaxes the vocal fold
+The cricothyroid muscle tilts the thyroid cartilage anteriorly and tenses the vocal fold (higher pitch
+of voice). The thyroarytenoid muscle tilts the thy- roid cartilage posteriorly and relaxes the vocal fold
 (lower pitch of voice).
 
 ### Clinical Correlation
-Laryngospasm is a spasmodic closure of the glottis and it is life
-threatening. Spasm of the intrinsic laryngeal muscles that close
+Laryngospasm is a spasmodic closure of the glottis and it is life threatening. Spasm of the intrinsic laryngeal muscles that close
 the glottis may be produced by irritating chemicals, by severe al-
 lergic reactions, and sometimes as a side effect of medications.
 The vocal folds can be readily visualized and inspected with
 the aid of a mirror (indirect laryngoscopy) or with a laryngo-
-scope (direct laryngoscopy). Persistent hoarseness is an indi-
-cation for laryngoscopy. Persistent hoarseness may be caused
+scope (direct laryngoscopy). Persistent hoarseness is an indi- cation for laryngoscopy. Persistent hoarseness may be caused
 by changes of the vocal folds or it may indicate that the recur-
-rent laryngeal nerve is compromised in the thorax or neck.
-lage 5 mm to the left of the midline. Re" ect the
-thyroid lamina inferiorly and detach it from the
+rent laryngeal nerve is compromised in the thorax or neck. lage 5 mm to the left of the midline. Re" ect the thyroid lamina inferiorly and detach it from the
 cricothyroid muscle.
 **10.** Medial to the thyroid lamina that was removed, iden-
 tify the lateral cricoarytenoid muscle (FIG. 7.85).
-The inferior attachment of the lateral cricoaryte-
-noid muscle is the arch of the cricoid cartilage and
-its superior attachment is the muscular process of the
-arytenoid cartilage. The lateral cricoarytenoid muscle
-causes the arytenoid cartilage to rotate, moving the
+The inferior attachment of the lateral cricoaryte- noid muscle is the arch of the cricoid cartilage and its superior attachment is the muscular process of the arytenoid cartilage. The lateral cricoarytenoid muscle causes the arytenoid cartilage to rotate, moving the
 vocal process medially  (adduction of the vocal fold).
-**11.** Identify the thyroarytenoid muscle, which is lo-
-cated superior to the lateral cricoarytenoid muscle
-(FIG. 7.85). The anterior attachment of the thyro-
-arytenoid muscle is the inner surface of the thyroid
+**11.** Identify the thyroarytenoid muscle, which is lo- cated superior to the lateral cricoarytenoid muscle
+(FIG. 7.85). The anterior attachment of the thyro- arytenoid muscle is the inner surface of the thyroid
 cartilage and its posterior attachment is the ante-
 rior surface of the arytenoid cartilage. The thyro-
 arytenoid muscle tilts the arytenoid cartilage ante-
 riorly, relaxing the vocal fold.
 **12.** The vocalis muscle cannot be seen in dissection.
-The vocalis muscle is formed by the medial ! bers
-of the thyroarytenoid muscle. The vocalis muscle is
+The vocalis muscle is formed by the medial ! bers of the thyroarytenoid muscle. The vocalis muscle is
 attached to the vocal ligament and it modi!
 tension in localized parts of the vocal fold, modu-
 lating pitch.
@@ -5646,8 +4024,7 @@ terval between the vocal folds is called the rima glot-
 Thyroarytenoid muscle
 Aryepiglottic muscle
 Thyroepiglottic muscle
-Arytenoid muscle:
-cricoarytenoid
+Arytenoid muscle: cricoarytenoid
 Inferior laryngeal nerve
 Cricothyroid joint
 Posterior View
@@ -5659,44 +4036,30 @@ GRANTÕS DISSECTOR
 Dissection Follow-up
 **1.** Replace the head and larynx in their correct anatomi-
 cal positions.
-**2.** Use a cross-sectional drawing of the neck and the
-dissected specimen to review the relationship of the
-larynx to the vertebral column, carotid sheaths, and
+**2.** Use a cross-sectional drawing of the neck and the dissected specimen to review the relationship of the larynx to the vertebral column, carotid sheaths, and
 other cervical viscera.
-**3.** Trace the right and left vagus nerves into the thorax
-and follow the right and left recurrent laryngeal nerves
+**3.** Trace the right and left vagus nerves into the thorax and follow the right and left recurrent laryngeal nerves
 from the thorax to the larynx. Note the differences.
 **4.** Review the branches of the external carotid artery.
-**5.** Follow the superior thyroid artery to the thyroid gland
-and review the course of the superior laryngeal artery as
-it passes through the thyrohyoid membrane to enter the
-larynx. Recall that the superior laryngeal artery courses
+**5.** Follow the superior thyroid artery to the thyroid gland and review the course of the superior laryngeal artery as it passes through the thyrohyoid membrane to enter the larynx. Recall that the superior laryngeal artery courses
 with the internal branch of the superior laryngeal nerve.
-**6.** Review the course of the superior laryngeal nerve from
-the vagus nerve to its bifurcation. Follow the external
+**6.** Review the course of the superior laryngeal nerve from the vagus nerve to its bifurcation. Follow the external
 laryngeal branch to the cricothyroid muscle.
-**7.** Use the dissected specimen to review the attachments
-and action of each intrinsic laryngeal muscle that was
+**7.** Use the dissected specimen to review the attachments and action of each intrinsic laryngeal muscle that was
 identi! ed during dissection.
 **8.** Review the movements of the vocal folds during pho-
 nation, quiet breathing, and rapid breathing.
 Dissection Overview
-The ear is composed of three parts: external ear, middle
-ear, and internal ear. The external ear consists of the
-ricle and the external acoustic meatus. The middle ear
-is within the tympanic cavity of the temporal bone. The
-ossicles (bones of the middle ear) are located in the middle
+The ear is composed of three parts: external ear, middle ear, and internal ear. The external ear consists of the ricle and the external acoustic meatus. The middle ear is within the tympanic cavity of the temporal bone. The ossicles (bones of the middle ear) are located in the middle
 ear. The internal ear (vestibulocochlear organ) is the neu-
 rologic part of the ear, which is contained within the pe-
 trous portion of the temporal bone.
-The order of dissection will be as follows: The parts of
-the external ear will be examined. The facial nerve will be
+The order of dissection will be as follows: The parts of the external ear will be examined. The facial nerve will be
 Hyoepiglottic
 Median thyrohyoid
 Thyroid cartilage
 Median cricothyroid
-Cricoid cartilage
-constrictor muscles
+Cricoid cartilage constrictor muscles
 Aryepiglottic fold
 Vestibular fold
 Laryngeal vestibule:
@@ -5709,44 +4072,31 @@ In addition, cut the arch of the cricoid cartilage in
 the midline anteriorly.
 **2.** Open the larynx and observe that the
 cavity has three parts (FIG. 7.86):
-¥ Vestibule - superior to the vestibular folds
-¥ Ventricle - the depression between the vestibu-
-lar fold and the vocal fold
-¥ Infraglottic cavity - inferior to the vocal folds
-and continuous with the trachea
-**3.** Examine the epiglottis and note that it moves pos-
-teriorly during swallowing to close the laryngeal
-**4.** Inspect the mucosa that lines the interior of the lar-
-ynx and identify the vestibular fold (false  vocal
-fold) and the vocal fold (true vocal fold). The
+¥ Vestibule-superior to the vestibular folds
+¥ Ventricle-the depression between the vestibu- lar fold and the vocal fold
+¥ Infraglottic cavity-inferior to the vocal folds and continuous with the trachea
+**3.** Examine the epiglottis and note that it moves pos- teriorly during swallowing to close the laryngeal
+**4.** Inspect the mucosa that lines the interior of the lar- ynx and identify the vestibular fold (false  vocal fold) and the vocal fold (true vocal fold). The
 vocal ligament is located within the vocal fold.
 **5.** Examine the ventricle. The ventricle may extend
 into a recess called the saccule.
 **6.** Review the nerve supply to the larynx:
 ¥ Internal branch of the superior laryngeal
-nerve - provides sensory innervation to the mu-
-cosa of the vocal fold and to the mucosa superior
-to the vocal folds
-¥ External branch of the superior laryngeal
-nerve - innervates the cricothyroid muscle (and
+nerve-provides sensory innervation to the mu- cosa of the vocal fold and to the mucosa superior to the vocal folds
+¥ External branch of the superior laryngeal nerve-innervates the cricothyroid muscle (and
 also the inferior pharyngeal constrictor muscle)
 ¥ Inferior laryngeal branch of the recurrent
-laryngeal nerve - innervates all of the intrin-
-sic muscles of the larynx except the cricothyroid
-muscle, and provides sensory innervation to the
-mucosa inferior to the vocal folds
+laryngeal nerve-innervates all of the intrin- sic muscles of the larynx except the cricothyroid muscle, and provides sensory innervation to the mucosa inferior to the vocal folds
 THE HEAD AND NECK 275
-¥ Concha - the deepest part of the auricle
+¥ Concha-the deepest part of the auricle
 ¥ Antitragus
 ¥ Lobule of the auricle
 **2.** Note that the auricular cartilage (FIG. 7.88B) gives
 the auricle its shape. There is no cartilage in the lob-
-ule. Palpate the auricular cartilage on yourself. By pal-
-pation, verify that the auricular cartilage is continuous
+ule. Palpate the auricular cartilage on yourself. By pal- pation, verify that the auricular cartilage is continuous
 with the cartilage of the external acoustic meatus.
 **3.** The external acoustic meatus begins at the deepest
-part of the concha and ends at the tympanic mem-
-brane (a distance of about 2.5 cm in adults). The wall
+part of the concha and ends at the tympanic mem- brane (a distance of about 2.5 cm in adults). The wall
 of the outer one-third of the external acoustic me-
 atus is cartilaginous and the inner two-thirds is bony.
 **4.** Note that the external acoustic meatus is S-shaped,
@@ -5754,28 +4104,19 @@ atus is cartilaginous and the inner two-thirds is bony.
 feriorly. The external acoustic meatus is straight-
 ened for examination by pulling the auricle  upward,
 outward, and backward.
-**5.** Study an illustration of the external surface of the
-tympanic membrane and relate its surface features
+**5.** Study an illustration of the external surface of the tympanic membrane and relate its surface features
 to the structures that lie in the middle ear.
 *[G 712;*
 L 361; N 93; R 126; C 659]
 *Middle Ear (Tympanic Cavity) [G 714; L 360; N 97;*
 R 130; C 667]
-**1.** This dissection approach is intended for use on a
-decalci! ed temporal bone. It may also be used on
-a calci! ed temporal bone if the appropriate power
+**1.** This dissection approach is intended for use on a decalci! ed temporal bone. It may also be used on a calci! ed temporal bone if the appropriate power
 tool is available. Wear eye protection when cutting bone.
 **2.** The tympanic cavity is an air-! lled space within
-the temporal bone. It is separated from the exter-
-nal acoustic meatus by the tympanic membrane
-and from the middle cranial fossa by the
-tympani (FIG. 7.89). The tympanic cavity will be ap-
-proached by removing the tegmen tympani portion
-of the " oor of the middle cranial fossa (FIG. 7.90).
-followed from the posterior cranial fossa into the internal
-acoustic meatus and the roof of the tympanic cavity will be
-removed. The auditory ossicles will be identi!
-ossicle will be removed. The temporal bone will be cut to
+the temporal bone. It is separated from the exter- nal acoustic meatus by the tympanic membrane and from the middle cranial fossa by the
+tympani (FIG. 7.89). The tympanic cavity will be ap- proached by removing the tegmen tympani portion
+of the " oor of the middle cranial fossa (FIG. 7.90). followed from the posterior cranial fossa into the internal acoustic meatus and the roof of the tympanic cavity will be
+removed. The auditory ossicles will be identi! ossicle will be removed. The temporal bone will be cut to
 reveal the medial and lateral walls of the tympanic cavity.
 The tympanic membrane will be studied. Features of the
 medial wall of the tympanic cavity will be examined.
@@ -5783,8 +4124,7 @@ Temporal Bone
 Refer to a skull. On the intracranial surface of the
 ral bone, identify (FIG. 7.87): Grant's Atlas 715 | LWW Atlas 362 | Netter's 11 | Color Atlas 30 | Clemente's 586
 ¥ Groove for the greater petrosal nerve
-¥ Tegmen tympani - a portion of the " oor of the middle
-cranial fossa that forms the roof of the tympanic cavity
+¥ Tegmen tympani-a portion of the " oor of the middle cranial fossa that forms the roof of the tympanic cavity
 ¥ Internal acoustic meatus
 On the external surface of the temporal bone, review the
 *following: Grant's Atlas 621 | LWW Atlas 362 | Netter's 10 | Color Atlas 32 | Clemente's 591*
@@ -5798,8 +4138,8 @@ Dissection Instructions
 *External Ear Grant's Atlas 709 | LWW Atlas 361 | Netter's 93 | Color Atlas 124 | Clemente's 657*
 **1.** Examine the auricle of the cadaver and identify
 (FIG. 7.88A):
-¥ Helix - the rim of the auricle
-¥ Antihelix - the curved prominence anterior to
+¥ Helix-the rim of the auricle
+¥ Antihelix-the curved prominence anterior to
 Temporal bone:
 Groove for the greater
 petrosal n.
@@ -5844,103 +4184,63 @@ FIGURE 7.89
 Schematic drawing of the walls of the tympanic cavity. Right ear with the lateral wall opened,
 in anterolateral view.
 **3.** Obtain a decalci! ed temporal bone specimen.
-If#the dura mater is still present in the middle cra-
-nial fossa of the specimen, peel it off the superior
-surface of the temporal bone. Start at the superior
-border of the petrous part of the temporal bone
+If#the dura mater is still present in the middle cra- nial fossa of the specimen, peel it off the superior surface of the temporal bone. Start at the superior border of the petrous part of the temporal bone
 and peel the dura mater in an anterior direction.
 **4.** Look for the greater petrosal nerve in the groove
 for the greater petrosal nerve ( FIGS. 7.87 and 7.90).
 Note that the greater petrosal nerve lies
 the dura mater and the bone.
-**5.** Refer to a schematic illustration of the middle ear
-and orient yourself to the features of the
-THE HEAD AND NECK 277
-late ganglion, and the greater petrosal nerve
+**5.** Refer to a schematic illustration of the middle ear and orient yourself to the features of the
+THE HEAD AND NECK 277 late ganglion, and the greater petrosal nerve
 (FIG. 7.90).
 In the dissected specimen, the modiolus of the cochlea
 may be seen, depending on the plane of cut.
-**12.** The semicircular canals lie posterior to the internal
-acoustic meatus. The semicircular canals may be
+**12.** The semicircular canals lie posterior to the internal acoustic meatus. The semicircular canals may be
 seen as a series of tiny holes in the bone.
 **13.** To open the tympanic cavity, use forceps to remove
-the tegmen tympani. Observe the auditory ossi-
-cles within the tympanic cavity (FIG. 7.90). Note that
-the malleus is attached to the tympanic membrane,
-the incus occupies an intermediate position, and the
+the tegmen tympani. Observe the auditory ossi- cles within the tympanic cavity (FIG. 7.90). Note that
+the malleus is attached to the tympanic membrane, the incus occupies an intermediate position, and the
 stapes is the most medial of the auditory  ossicles.
 The malleus and incus are easily seen from the supe-
 rior view. The stapes is located more inferiorly, mak-
 ing observation more dif! cult.
-**14.** Use ! ne forceps to remove the incus. Leave the mal-
-leus attached to the tympanic membrane
+**14.** Use ! ne forceps to remove the incus. Leave the mal- leus attached to the tympanic membrane
 (FIG. 7.91).
 **15.** Looking down from above, identify the
-membrane on the lateral wall of the tympanic cav-
-ity. Attempt to identify the tendon of the tensor
-tympani muscle, a thin strand of tissue that spans
-from the medial wall of the tympanic cavity to the
+membrane on the lateral wall of the tympanic cav- ity. Attempt to identify the tendon of the tensor tympani muscle, a thin strand of tissue that spans from the medial wall of the tympanic cavity to the
 handle of the malleus.
-**16.** Insert a scalpel blade into the opening created by re-
-moving the incus (FIG. 7.91). Angle the blade parallel
+**16.** Insert a scalpel blade into the opening created by re- moving the incus (FIG. 7.91). Angle the blade parallel
 to the internal surface of the tympanic membrane.
-Make a cut that extends down the pharyngotym-
-panic tube and divides the middle ear into medial
-and lateral walls (see FIG. 7.91 for  correct placement
-of the cut). Make this cut parallel to the superior
+Make a cut that extends down the pharyngotym- panic tube and divides the middle ear into medial and lateral walls (see FIG. 7.91 for  correct placement of the cut). Make this cut parallel to the superior
 border of the petrous part of the temporal bone.
-**17.** On the lateral wall of the tympanic cavity, observe
-the tympanic membrane and identify the
+**17.** On the lateral wall of the tympanic cavity, observe the tympanic membrane and identify the
 the tympanic cavity (FIG. 7.89): [G 712, 716, 717;
 L 363; N 92; R 122; C 659]
-¥ Lateral - the tympanic membrane
-¥ Posterior - the aditus (L. aditus, inlet or ac-
-cess), an opening into the mastoid air cells
-¥ Medial - the promontory and oval window (fe-
-nestra vestibuli) containing the base (footplate) of
-¥ Anterior - the opening of the pharyngotympan-
-¥ Superior - tegmen tympani
-¥ Inferior - the " oor of the tympanic cavity,
-which is closely related to the jugular fossa and
-the jugular bulb
-**6.** Turn to the temporal bone specimen
-(FIG. 7.90). In
-the posterior cranial fossa, identify the facial nerve
-(VII) and the vestibulocochlear nerve (VIII) as
+¥ Lateral-the tympanic membrane
+¥ Posterior-the aditus (L. aditus, inlet or ac- cess), an opening into the mastoid air cells
+¥ Medial-the promontory and oval window (fe- nestra vestibuli) containing the base (footplate) of
+¥ Anterior-the opening of the pharyngotympan-
+¥ Superior-tegmen tympani
+¥ Inferior-the " oor of the tympanic cavity, which is closely related to the jugular fossa and the jugular bulb
+**6.** Turn to the temporal bone specimen (FIG. 7.90). In the posterior cranial fossa, identify the facial nerve (VII) and the vestibulocochlear nerve (VIII) as
 they enter the internal acoustic meatus.
 **7.** Use a scalpel to remove the roof of the internal
-acoustic meatus and follow the facial and vestibu-
-locochlear nerves laterally as they pass through
-the internal acoustic meatus. Remain superior to
+acoustic meatus and follow the facial and vestibu- locochlear nerves laterally as they pass through the internal acoustic meatus. Remain superior to
 the nerves when cutting the internal acoustic me-
 atus (FIG. 7.90). Grant's Atlas 715 | LWW Atlas 362 | Netter's 94 | Clemente's 667
 **8.** Follow the facial nerve laterally until it makes a
-sharp bend in the posterior direction. At this bend,
-identify the geniculate ganglion and the origin of
+sharp bend in the posterior direction. At this bend, identify the geniculate ganglion and the origin of
 the greater petrosal nerve (FIG. 7.90). The genicu-
-late ganglion contains cell bodies of sensory neu-
-rons. The greater petrosal nerve carries presynaptic
-parasympathetic ! bers to the pterygopalatine gan-
-glion for innervation of the mucous membranes of
-the nasal and upper oral cavities, and the lacrimal
+late ganglion contains cell bodies of sensory neu- rons. The greater petrosal nerve carries presynaptic
+parasympathetic ! bers to the pterygopalatine gan- glion for innervation of the mucous membranes of the nasal and upper oral cavities, and the lacrimal
 gland. The presynaptic parasympathetic nerve !
 bers do not synapse in the geniculate ganglion.
-**9.** The greater petrosal nerve courses anteromedi-
-ally within the temporal bone and emerges on the
-" oor of the middle cranial fossa at the hiatus for the
-greater petrosal nerve. It then passes inferiorly and
-medially on the surface of the temporal bone in the
-groove for the greater petrosal nerve. The greater
-petrosal nerve enters the carotid canal. On the sur-
-face of the internal carotid artery, the greater petrosal
-nerve joins the deep petrosal nerve to form the
-of the pterygoid canal. The nerve of the pterygoid
+**9.** The greater petrosal nerve courses anteromedi- ally within the temporal bone and emerges on the
+" oor of the middle cranial fossa at the hiatus for the greater petrosal nerve. It then passes inferiorly and medially on the surface of the temporal bone in the groove for the greater petrosal nerve. The greater
+petrosal nerve enters the carotid canal. On the sur- face of the internal carotid artery, the greater petrosal nerve joins the deep petrosal nerve to form the of the pterygoid canal. The nerve of the pterygoid
 canal carries the presynaptic ! bers of the greater pe-
 trosal nerve to the pterygopalatine ganglion.
-**10.** Do not attempt to follow the facial nerve through the
-temporal bone. The facial nerve enters the facial canal
-at the geniculate ganglion. It travels a short distance
-in a posterolateral direction, then turns inferiorly and
+**10.** Do not attempt to follow the facial nerve through the temporal bone. The facial nerve enters the facial canal at the geniculate ganglion. It travels a short distance in a posterolateral direction, then turns inferiorly and
 exits the skull at the stylomastoid foramen.
 **11.** The cochlea lies anterior to the internal acoustic me-
 atus in the angle formed by the facial nerve, the genicu-
@@ -5950,41 +4250,30 @@ tympani (cut)
 FIGURE 7.91
 Angle of cut to separate the medial and lateral walls of the
 tympanic cavity.
-GRANTÕS DISSECTOR
-tympani (FIG. 7.92B). The chorda tympani passes
+GRANTÕS DISSECTOR tympani (FIG. 7.92B). The chorda tympani passes
 between the malleus and the incus.
 *[G 717; L 363;*
 N 94; R 126; C 663]
 **18.** On the medial wall of the tympanic cavity, identify
 (FIG. 7.92A): Grant's Atlas 716 | LWW Atlas 363 | Netter's 94 | Color Atlas 126 | Clemente's 664
-¥ Promontory - a low elevation.
-¥ Stapes - still attached to the oval window (fe-
+¥ Promontory-a low elevation.
+¥ Stapes-still attached to the oval window (fe-
 nestra vestibuli). Look for the stapedius ten-
-don, about 1-mm long, passing from the pyrami-
-dal eminence to the stapes. The stapedius muscle
+don, about 1-mm long, passing from the pyrami- dal eminence to the stapes. The stapedius muscle
 is innervated by the facial nerve (VII).
 ¥ Round window (fenestra cochleae) - postero-
 inferior to the promontory.
-¥ Tensor tympani muscle - attaches to the pha-
-ryngotympanic tube and sphenoid bone medial-
-ly, and to the manubrium (handle) of the malleus
+¥ Tensor tympani muscle-attaches to the pha-
+ryngotympanic tube and sphenoid bone medial- ly, and to the manubrium (handle) of the malleus
 laterally. Its tendon crosses the tympanic cavity.
 It is innervated by the mandibular division of the
 trigeminal nerve (V 3).
-**19.** Note that the tympanic cavity and its associated
-recesses and air cells are covered with mucous
-membrane. The glossopharyngeal nerve (IX) in-
-nervates the mucous membrane of the tympanic
-cavity. It forms the tympanic plexus under the
+**19.** Note that the tympanic cavity and its associated recesses and air cells are covered with mucous
+membrane. The glossopharyngeal nerve (IX) in- nervates the mucous membrane of the tympanic cavity. It forms the tympanic plexus under the
 mucosa that covers the promontory.
 *Internal Ear Grant's Atlas 720 | LWW Atlas 365 | Netter's 96 | Color Atlas 129 | Clemente's 667*
-The vestibulocochlear organ is best seen in sectioned
-histologic material. If you wish to dissect the internal
-ear, use a decalci! ed temporal bone. Refer to appropri-
-ate atlas illustrations and use a single-edge razor blade
-to cut thin slices of the temporal bone. This procedure
-will expose the canals, chambers, and nerve pathways of
-the internal ear. A dissecting microscope should be used
+The vestibulocochlear organ is best seen in sectioned histologic material. If you wish to dissect the internal
+ear, use a decalci! ed temporal bone. Refer to appropri- ate atlas illustrations and use a single-edge razor blade to cut thin slices of the temporal bone. This procedure will expose the canals, chambers, and nerve pathways of the internal ear. A dissecting microscope should be used
 to visualize these structures.
 Dissection Follow-up
 **1.** Use an illustration to review the external appearance of
@@ -5994,29 +4283,24 @@ malleus and the chorda tympani.
 **3.** Review the course of the facial nerve from the internal
 acoustic meatus to the facial muscles.
 **4.** Review the course of the greater petrosal nerve from
-the geniculate ganglion to the pterygopalatine gan-
-glion. Summarize the distribution of the postsynaptic
+the geniculate ganglion to the pterygopalatine gan- glion. Summarize the distribution of the postsynaptic
 axons that arise in the pterygopalatine ganglion.
-**5.** Review the course of the special sensory ! bers
-contained in the chorda tympani beginning at the
+**5.** Review the course of the special sensory ! bers contained in the chorda tympani beginning at the
 tongue and ending at the internal acoustic meatus.
 Where are the cell bodies for these sensory axons
 **6.** Review the course of the presynaptic parasympathet-
 ic axons that synapse in the submandibular ganglion.
 Review the distribution of the postsynaptic axons that
 arise from the submandibular ganglion.
-**7.** Review all branches of the glossopharyngeal nerve,
-including those that give rise to the lesser petrosal
-Tendon of stapedius m.
-emerging from pyramidal
+**7.** Review all branches of the glossopharyngeal nerve, including those that give rise to the lesser petrosal
+Tendon of stapedius m. emerging from pyramidal
 Geniculate ganglion
 Facial canal
 Round window
 Pharyngotympanic
 Internal carotid a. and
 internal jugular v.
-Facial nerve in
-facial canal
+Facial nerve in facial canal
 Tensor tympani:
 Chorda tympani
 Tegmen tympani
@@ -6032,16 +4316,14 @@ B. Lateral wall.
 ### I N D E X
 Page numbers in italics indicate ! gures; those followed by Ò
 bÓ indicate boxes.
-celiac trunk, 102-107, 105
-diaphragm, 123, 123-124, 124b
+celiac trunk, 102-107, 105 diaphragm, 123, 123-124, 124b
 duodenum, 112-114, 113
 gallbladder, 102-107, 108
 gastrointestinal tract, 114-116
 hepatic portal vein, 112-114, 113
 inferior mesenteric artery, 110-112, 111
 kidneys, 117-118, 119-120
-large intestine, 110-112, 111
-liver, 102-107, 106, 107b
+large intestine, 110-112, 111 liver, 102-107, 106, 107b
 pancreas, 112-114, 113
 peritoneum and peritoneal cavity,
 posterior abdominal viscera, 116-121,
@@ -6051,8 +4333,7 @@ regions, 89, 90
 small intestine, 107-110
 spleen, 102-107
 stomach, 102-107, 103, 115
-superior mesenteric artery, 107-110,
-suprarenal glands, 119, 119, 120b
+superior mesenteric artery, 107-110, suprarenal glands, 119, 119, 120b
 surface anatomy, 89, 89
 Abdominal aorta, 108-110, 110, 117, 120
 Abdominal viscera, 99-100, 100
@@ -6067,8 +4348,7 @@ transversus abdominis, 94-95
 posterior, 116-121, 117, 121-123
 re" ection of, 98-99
 skeleton of, 92, 92
-super! cial fascia, 90, 90-91, 91
-super! cial veins, 91 b
+super! cial fascia, 90, 90-91, 91 super! cial veins, 91 b
 Abducent nerve, 241, 241, 243, 250
 Abductor pollicis longus tendon, 54, 55
 Accessory nerve, 11, 208, 212, 241, 241,
@@ -6099,8 +4379,7 @@ Anatomical planes, 3
 Anatomical position, dissection and, 2-3, 3
 Anatomical snuffbox, 55, 57
 Anatomical variation, 3
-Anconeus muscle, 39, 39
-injuries, 203 b
+Anconeus muscle, 39, 39 injuries, 203 b
 joints of, 202, 202-203
 Ansa cervicalis, 210, 212, 213
 Anterior axillary fold, 21, 21
@@ -6137,8 +4416,7 @@ Biceps brachii muscle, 21, 21
 Biceps femoris, 181
 Blunt dissection, 2
 Bony landmarks, for dissection, 3
-Brachial artery, 37, 37, 37b, 44
-high bifurcation of, 44 b
+Brachial artery, 37, 37, 37b, 44 high bifurcation of, 44 b
 Brachial plexus, 32-33, 33, 218
 Brachiocephalic vein, 216
 Brachioradialis muscle, 44, 53, 54
@@ -6336,8 +4614,7 @@ Femoral nerve, 122, 173, 174
 motor branches, 174
 Femoral triangle, 171, 171-172, 171b, 173
 Femoral vein, 170, 171, 173
-Femur, 199, 199
-neck, 200 b
+Femur, 199, 199 neck, 200 b
 Fibrous joint capsule, 199
 Fibula, 184-185
 Fibular artery, 188, 189
@@ -6346,8 +4623,7 @@ Fibularis brevis muscle, 190, 190
 Fibularis longus muscle, 190, 190
 Fibularis longus tendon, 197
 Fibularis tertius muscle, 190-191
-Fibular nerve, 183, 193, 193
-common, 191, 192 b
+Fibular nerve, 183, 193, 193 common, 191, 192 b
 super! cial, 168, 190, 190
 Fibular retinaculum, superior, 190,
 Filum terminale internum, 18,
@@ -6444,8 +4720,7 @@ skeleton, 246
 surface anatomy, 246
 palate, 263-268
 pterygopalatine fossa and nasal cavity,
-skeleton, 263, 263
-sphenopalatine foramen and
+skeleton, 263, 263 sphenopalatine foramen and
 pterygopalatine fossa, 266
 tonsillar bed, 266
 parotid region, 226-228, 227
@@ -6456,8 +4731,7 @@ muscles and nerves, 255-257, 256, 257,
 scalp, 228, 228-229, 228b, 229
 skull, 218-220, 219, 220, 221
 interior, 235-239
-suboccipital region, 252-253, 253
-prevertebral and lateral vertebral
+suboccipital region, 252-253, 253 prevertebral and lateral vertebral
 regions, 254
 retropharyngeal space, 253
 temporal region, 230-235
@@ -6529,8 +4803,7 @@ Jugular foramen, 254
 Jugular notch, 21, 21
 Jugular vein, 208, 210, 213, 213, 216, 217,
 Kidneys, 117-118, 119-120
-Kidney stones, 119 b, 141b, 156b
-injuries, 201 b
+Kidney stones, 119 b, 141b, 156b injuries, 201 b
 joints of, 200-201, 201
 Mesovarium, 152, 153
 Metacarpophalangeal joints, 61, 61, 62
@@ -6652,8 +4925,7 @@ Mesoappendix, 102
 Mesometrium, 152, 153
 Mesosalpinx, 152, 153
 Labial arteries, 224
-Labium majus, 147
-lymphatic drainage, 148 b
+Labium majus, 147 lymphatic drainage, 148 b
 preparation, 3
 Lacrimal apparatus, surface anatomy, 247,
 Lacrimal bone, 246
@@ -6746,8 +5018,7 @@ Puborectalis muscle, 146, 147, 160, 162
 Pudendal artery, 137, 143, 144, 160
 internal, 143, 143-144
 Pudendal canal, 129, 129
-Pudendal nerve, 129, 129, 137
-block, 151b
+Pudendal nerve, 129, 129, 137 block, 151b
 Pulmonary artery, 68, 68, 71, 72
 Pulmonary ligament, 69, 71
 Pulmonary pleura, 68
@@ -6810,9 +5081,7 @@ deep, 136, 136
 Perineum, 125, 127, 132
 Periorbita, 249
 Peritoneal cavity, 99-102
-Peritoneum, 99-102, 101
-female, 152, 152, 152b
-male, 137, 137-138, 138b
+Peritoneum, 99-102, 101 female, 152, 152, 152b male, 137, 137-138, 138b
 Pes anserinus, 184
 Petrosal sinus, 243
 Phalanges, 185, 186
@@ -6853,8 +5122,7 @@ Oropharynx, 258
 Ovarian ligament, 153, 153
 Palate, 263-268
 pterygopalatine fossa and nasal cavity, 264
-skeleton, 263, 263
-sphenopalatine foramen and
+skeleton, 263, 263 sphenopalatine foramen and
 pterygopalatine fossa, 266
 tonsillar bed, 266
 Palatine aponeurosis, 265, 266
@@ -6923,8 +5191,7 @@ Tentorial notch, 239
 Teres major muscle, 24
 Teres minor muscle, 24
 Testicular varicocele, 117 b
-Testis, 131, 131
-lymphatic drainage, 131 b
+Testis, 131, 131 lymphatic drainage, 131 b
 Thenar muscles, 50-51
 Thoracic aperture, 215
 Thoracic artery, 216
@@ -6935,8 +5202,7 @@ Thoracic vertebrae, 6, 6-7
 Thoracic wall, anterior, 66-67, 68 b
 removal, 67
 Thoracodorsal artery, 11
-Thoracodorsal nerve, 11
-injury, 34 b
+Thoracodorsal nerve, 11 injury, 34 b
 Thoracolumbar fascia, 13
 heart in, 73, 73-82, 74, 75
 intercostal space and muscles, 65,
@@ -7191,3 +5457,6 @@ brachial plexus, 32-33, 33
 ---
 
 *Atlas References: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+
+---
+*Atlas: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
