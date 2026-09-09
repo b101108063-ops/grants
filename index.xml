@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Grant&#39;s Dissector 15th Edition on My New Hugo Site</title>
+		<link>https://example.org/</link>
+		<description>Recent content in Grant&#39;s Dissector 15th Edition on My New Hugo Site</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Chapter 1: The Back</title>
+				<link>https://example.org/docs/ch1_back/ch1/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://example.org/docs/ch1_back/ch1/</guid>
+				<description>&lt;h1 id=&#34;chapter-1-the-back&#34;&gt;Chapter 1: The Back&lt;/h1&gt;&#xA;&lt;h2 id=&#34;atlas-references&#34;&gt;ATLAS REFERENCES&lt;/h2&gt;&#xA;&lt;p&gt;G = Grant’s Atlas, 13th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;L = LWW Atlas of Anatomy, 1st ed., page number&lt;/p&gt;&#xA;&lt;p&gt;N = Netter’s Atlas, 5th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;R = Color Atlas of Anatomy, 7th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;C = Clemente’s Atlas, 6th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;The back region contains the superficial muscles of the&lt;/p&gt;&#xA;&lt;p&gt;back, the intermediate muscles of the back, and the&lt;/p&gt;&#xA;&lt;p&gt;deep muscles of the back. All of these muscles attach to&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chapter 2: The Upper Limb</title>
+				<link>https://example.org/docs/ch2_upper_limb/ch2/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://example.org/docs/ch2_upper_limb/ch2/</guid>
+				<description>&lt;h1 id=&#34;chapter-2-the-upper-limb&#34;&gt;Chapter 2: The Upper Limb&lt;/h1&gt;&#xA;&lt;h2 id=&#34;atlas-references&#34;&gt;ATLAS REFERENCES&lt;/h2&gt;&#xA;&lt;p&gt;G = Grant’s Atlas, 13th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;L = LWW Atlas of Anatomy, 1st ed., page number&lt;/p&gt;&#xA;&lt;p&gt;N = Netter’s Atlas, 5th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;R = Color Atlas of Anatomy, 7th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;C = Clemente’s Atlas, 6th ed., plate number&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lateral epicondyle&lt;/li&gt;&#xA;&lt;li&gt;Olecranon&lt;/li&gt;&#xA;&lt;li&gt;Flexor muscle mass (in the forearm)&lt;/li&gt;&#xA;&lt;li&gt;Extensor muscle mass (in the forearm)&lt;/li&gt;&#xA;&lt;li&gt;Carpal bones (on the dorsum of the wrist)&lt;/li&gt;&#xA;&lt;li&gt;Styloid process of the radius&lt;/li&gt;&#xA;&lt;li&gt;Styloid process of the ulna&lt;/li&gt;&#xA;&lt;li&gt;Thenar eminence&lt;/li&gt;&#xA;&lt;li&gt;Hypothenar eminence&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cutaneous-nerves&#34;&gt;CUTANEOUS NERVES&lt;/h2&gt;&#xA;&lt;p&gt;Dissection Overview&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chapter 3: The Thorax</title>
+				<link>https://example.org/docs/ch3_thorax/ch3/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://example.org/docs/ch3_thorax/ch3/</guid>
+				<description>&lt;h1 id=&#34;chapter-3-the-thorax&#34;&gt;Chapter 3: The Thorax&lt;/h1&gt;&#xA;&lt;h2 id=&#34;atlas-references&#34;&gt;ATLAS REFERENCES&lt;/h2&gt;&#xA;&lt;p&gt;G = Grant’s Atlas, 13th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;L = LWW Atlas of Anatomy, 1st ed., page number&lt;/p&gt;&#xA;&lt;p&gt;N = Netter’s Atlas, 5th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;R = Color Atlas of Anatomy, 7th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;C = Clemente’s Atlas, 6th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;The heart and lungs are fragile organs, and the main func-&lt;/p&gt;&#xA;&lt;p&gt;tion of the thorax is to house and protect them. The protec-&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chapter 4: The Abdomen</title>
+				<link>https://example.org/docs/ch4_abdomen/ch4/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://example.org/docs/ch4_abdomen/ch4/</guid>
+				<description>&lt;h1 id=&#34;chapter-4-the-abdomen&#34;&gt;Chapter 4: The Abdomen&lt;/h1&gt;&#xA;&lt;h2 id=&#34;atlas-references&#34;&gt;ATLAS REFERENCES&lt;/h2&gt;&#xA;&lt;p&gt;G = Grant’s Atlas, 13th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;L = LWW Atlas of Anatomy, 1st ed., page number&lt;/p&gt;&#xA;&lt;p&gt;N = Netter’s Atlas, 5th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;R = Color Atlas of Anatomy, 7th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;C = Clemente’s Atlas, 6th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;The abdomen is the portion of the trunk that lies between&lt;/p&gt;&#xA;&lt;p&gt;the thorax and the pelvis. The abdominal cavity is divided&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chapter 5: The Pelvis and Perineum</title>
+				<link>https://example.org/docs/ch5_pelvis/ch5/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://example.org/docs/ch5_pelvis/ch5/</guid>
+				<description>&lt;h1 id=&#34;chapter-5-the-pelvis-and-perineum&#34;&gt;Chapter 5: The Pelvis and Perineum&lt;/h1&gt;&#xA;&lt;h2 id=&#34;atlas-references&#34;&gt;ATLAS REFERENCES&lt;/h2&gt;&#xA;&lt;p&gt;G = Grant’s Atlas, 13th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;L = LWW Atlas of Anatomy, 1st ed., page number&lt;/p&gt;&#xA;&lt;p&gt;N = Netter’s Atlas, 5th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;R = Color Atlas of Anatomy, 7th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;C = Clemente’s Atlas, 6th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;The Pelvis and&lt;/p&gt;&#xA;&lt;p&gt;Perineum&lt;/p&gt;&#xA;&lt;p&gt;by three fused bones: pubis, ischium, and ilium. The&lt;/p&gt;&#xA;&lt;p&gt;point of fusion of these three bones is the acetabulum.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chapter 6: The Lower Limb</title>
+				<link>https://example.org/docs/ch6_lower_limb/ch6/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://example.org/docs/ch6_lower_limb/ch6/</guid>
+				<description>&lt;h1 id=&#34;chapter-6-the-lower-limb&#34;&gt;Chapter 6: The Lower Limb&lt;/h1&gt;&#xA;&lt;h2 id=&#34;atlas-references&#34;&gt;ATLAS REFERENCES&lt;/h2&gt;&#xA;&lt;p&gt;G = Grant’s Atlas, 13th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;L = LWW Atlas of Anatomy, 1st ed., page number&lt;/p&gt;&#xA;&lt;p&gt;N = Netter’s Atlas, 5th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;R = Color Atlas of Anatomy, 7th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;C = Clemente’s Atlas, 6th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;The Lower Limb&lt;/p&gt;&#xA;&lt;p&gt;The functional requirements of the lower limb are weight&lt;/p&gt;&#xA;&lt;p&gt;bearing, locomotion, and maintenance of equilibrium. As&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chapter 7: The Head and Neck</title>
+				<link>https://example.org/docs/ch7_head_neck/ch7/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://example.org/docs/ch7_head_neck/ch7/</guid>
+				<description>&lt;h1 id=&#34;chapter-7-the-head-and-neck&#34;&gt;Chapter 7: The Head and Neck&lt;/h1&gt;&#xA;&lt;h2 id=&#34;atlas-references&#34;&gt;ATLAS REFERENCES&lt;/h2&gt;&#xA;&lt;p&gt;G = Grant’s Atlas, 13th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;L = LWW Atlas of Anatomy, 1st ed., page number&lt;/p&gt;&#xA;&lt;p&gt;N = Netter’s Atlas, 5th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;R = Color Atlas of Anatomy, 7th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;C = Clemente’s Atlas, 6th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;The Head and Neck&lt;/p&gt;&#xA;&lt;p&gt;The study of head and neck anatomy provides a considerable&lt;/p&gt;&#xA;&lt;p&gt;intellectual challenge because the region is packed with&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>https://example.org/docs/ch1_back/ch1_%E6%95%B4%E7%90%86/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://example.org/docs/ch1_back/ch1_%E6%95%B4%E7%90%86/</guid>
+				<description>&lt;h1 id=&#34;chapter-1-the-back&#34;&gt;Chapter 1: The Back&lt;/h1&gt;&#xA;&lt;h1 id=&#34;第一章背部&#34;&gt;第一章：背部&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;atlas-references圖譜參照&#34;&gt;ATLAS REFERENCES｜圖譜參照&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;G&lt;/strong&gt; = Grant&amp;rsquo;s Atlas，第 13 版，頁碼&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;L&lt;/strong&gt; = LWW Atlas of Anatomy，第 1 版，頁碼&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;N&lt;/strong&gt; = Netter&amp;rsquo;s Atlas，第 5 版，圖版號&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; = Color Atlas of Anatomy，第 7 版，頁碼&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;C&lt;/strong&gt; = Clemente&amp;rsquo;s Atlas，第 6 版，圖版號&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;背部區域包含背部的淺層肌肉、中層肌肉與深層肌肉。這些肌肉皆附著於脊柱。脊柱具有雙重功能：構成身體的中軸，並為脊髓提供保護性的骨性覆蓋。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;surface-anatomy表面解剖&#34;&gt;SURFACE ANATOMY｜表面解剖&lt;/h2&gt;&#xA;&lt;p&gt;本區域的表面解剖可在活體或大體標本上進行研究。在大體標本上，固定處理可能使骨質與保存良好的軟組織難以區分。將大體標本擺為俯臥位（面部朝下），並嘗試觸摸以下結構（圖 1.1）：&lt;em&gt;[G 322; L 5; N 149; C 325]&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;枕外隆凸（External occipital protuberance）&lt;/li&gt;&#xA;&lt;li&gt;斜方肌上部（Superior border of the trapezius muscle）&lt;/li&gt;&#xA;&lt;li&gt;第七頸椎棘突（Spinous process of C7，脊椎隆起，vertebra prominens）&lt;/li&gt;&#xA;&lt;li&gt;肩胛岡（Spine of the scapula，位於 T3 椎體水平）&lt;/li&gt;&#xA;&lt;li&gt;肩峰（Acromion of the scapula）&lt;/li&gt;&#xA;&lt;li&gt;肩胛骨內側（椎）緣（Medial (vertebral) border of the scapula）&lt;/li&gt;&#xA;&lt;li&gt;肩胛骨下角（Inferior angle of the scapula，位於 T7 椎體水平）&lt;/li&gt;&#xA;&lt;li&gt;胸椎棘突（Spinous processes of thoracic vertebrae）&lt;/li&gt;&#xA;&lt;li&gt;豎脊肌（Erector spinae muscle，於腰椎區最明顯）&lt;/li&gt;&#xA;&lt;li&gt;正中溝（Median furrow）&lt;/li&gt;&#xA;&lt;li&gt;背闊肌外側緣（後腋皺褶，Lateral border of the latissimus dorsi muscle）&lt;/li&gt;&#xA;&lt;li&gt;髂嵴（Iliac crest，位於 L4 椎體水平）&lt;/li&gt;&#xA;&lt;li&gt;髂後上棘（Posterior superior iliac spine）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;skeleton-of-the-back背部骨骼&#34;&gt;SKELETON OF THE BACK｜背部骨骼&lt;/h2&gt;&#xA;&lt;p&gt;參照骨架標本。於肩胛骨上辨識以下結構（圖 1.2）：&lt;em&gt;[G 483; L 32; N 408; R 371; C 112]&lt;/em&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
