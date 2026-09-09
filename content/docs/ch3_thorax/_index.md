@@ -1,1426 +1,816 @@
 ---
-title: "Chapter 3: The Thorax"
+title: "第3章：胸腔"
 description: "Grant's Dissector 15th Edition - The Thorax"
 weight: 3
 ---
 
-# Chapter 3: The Thorax
+# 第3章：胸腔（The Thorax）
 
-> **Atlas參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
-
-
-# Chapter 3: The Thorax
-
-> **Atlas參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
-
-
-# Grant's Dissector 15th Edition: The Thorax
-
-> **Atlas References:** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's abdominal musculature and, because of this, these two
-false ribs are also called fl oating ribs.
-Examine the sternum and identify (FIG. 3.4): [G 14;
-L 163; N 180; R 193; C 141]
-- Jugular notch (suprasternal notch)
-- Manubrium (L. manubrium, handle)
-- Sternal angle (at the attachment of the second costal car-
-tilage; also at the level of the T4/T5 intervertebral disc)
-- Body
-- Xiphoid process (Gr. xiphos, sword)
-Examine a scapula and identify (FIG. 3.4): [G 487; L 32;
-N 179; R 189; C 112]
-- Acromion
-- Coracoid process
-Observe that the medial end of the clavicle articulates with the manubrium of the sternum (sternoclavicular joint) and the lateral end of the clavicle articulates with
-the acromion of the scapula (acromioclavicular joint)
-(FIG. 3.4).
-
-### Pectoral Region
-Instructions for dissection of the pectoral region are found in Chapter 2, The Upper Limb. If you are dissecting the thorax before the upper limb, the pectoral region must be
-- The head of a rib usually articulates with two vertebral bodies and their intervertebral disc. For example, the head of rib 5 articulates with vertebral bodies T4 and
-T5 (FIG. 3.3). The 1st, 10th, 11th, and 12th ribs are ex- ceptions to this rule-their heads articulate with only
-one vertebral body.
-- The tubercle of a rib articulates with the transverse cos-
-tal facet on the transverse process of the thoracic verte-
-bra of the same number (FIG. 3.3).
-- A costal cartilage is attached to the anterior end of each
-Ribs are classifi ed by the way their costal cartilage ar-
-ticulates (FIG. 3.4):
-- True ribs (ribs 1 to 7) - have a costal cartilage that is
-attached directly to the sternum.
-- False ribs (ribs 8 to 12) - have a costal cartilage that
-is not directly attached to the sternum. The costal carti- lage of ribs 8 through 10 is attached to the costal carti- lage of the rib above. The costal cartilage of ribs 11 and
-12 is not attached to a skeletal element but ends in the
-FIGURE 3.2
-Typical left rib. Posterior view.
-Articular facet for transverse process
-Costal angle
-Costal groove
-Articular facets for bodies of vertebrae
-FIGURE 3.3
-Part of the thoracic vertebral column. Right lateral view.
-Intervertebral
-Spinal nerve T5
-Intervertebral
-Articular processes
-Spinal nerve T3
-Transverse costal facet
-Shaft of rib 5
-Head of rib 5
-FIGURE 3.4
-Skeleton of the thoracic region.
-Sternoclavicular joint
-Superior thoracic aperture
-Jugular (suprasternal) notch
-Body of sternum
-Sternal angle
-Xiphoid process
-Costal margin
-Inferior thoracic aperture
-(thoracic outlet)
-Acromioclavicular joint
-
-## The Thorax laterally and note that it passes deep to the external
-intercostal muscle.
-**7.** With the probe as a guide, use scissors to cut the external intercostal muscle from the rib above and
-reflect it inferiorly (FIG. 3.5). Continue the cut later-
-ally to the midaxillary line.
-**8.** Identify the internal intercostal muscle. The in- ternal intercostal muscle attaches to the superior border of the rib below and the inferior border of the rib above. The internal intercostal muscle de- presses the rib above. Note that the fi ber direction of the internal intercostal muscle is perpendicular to the fi ber direction of the external intercostal
-muscle (FIG. 3.5).
-**9.** Begin at the lateral border of the sternum and detach the internal intercostal muscle from its attachment on rib 5. Continue to detach the in- ternal intercostal muscle as far laterally as the midaxillary line. Reflect the muscle superiorly
-(FIG. 3.5).
-**10.** Identify the fourth intercostal nerve and the fourth posterior intercostal artery and vein in- ferior to rib 4. The intercostal nerve and vessels run in the plane between the internal intercos- tal muscle and innermost intercostal muscle (FIG. 3.6). The innermost intercostal muscle has the same fi ber direction, attachments, and action as
-the internal intercostal muscle, but it does not ex-
-*tend as far anteriorly in the intercostal space. [G 22;*
-L 170; N 185; R 214; C 10]
-**11.** The intercostal nerve and vessels supply the inter- costal muscles, the skin of the thoracic wall, and the parietal pleura. Use FIGURE 3.6 to study the course
-and distribution of a typical intercostal nerve.
-dissected now. Turn to pages 26 to 30, complete that dissec-
-tion, and return to this page.
-
-### Intercostal Space And
-
-### Intercostal Muscles
-Dissection Overview
-The interval between adjacent ribs is called the  intercostal space. The intercostal space is truly a space only in a skele- ton, as three layers of muscle fi ll the intercostal space in the
-living body and in the cadaver. From superficial to deep, the three layers of muscle are external intercostal muscle, internal intercostal muscle, and innermost intercostal
-There are 11 intercostal spaces on each side of the tho- rax. Each is numbered according to the rib that forms its superior boundary. For example, the fourth intercostal
-space is located between ribs 4 and 5.
-The order of dissection will be as follows: The external intercostal muscle will be studied in the fourth intercostal space and will be reflected. The internal intercostal muscle will then be studied in the fourth intercostal space and will be reflected. Branches of intercostal nerves and blood ves- sels will be identifi ed. The innermost intercostal muscle
-will be identifi ed.
-Dissection Instructions
-**1.** Detach the serratus anterior muscle from its proximal attachments on the upper eighth or ninth
-ribs and reflect it laterally.
-**2.** Palpate the ribs and the intercostal spaces. Begin at the level of the sternal angle (attachment of the
-second costal cartilage) and identify each intercos-
-tal space by number.
-**3.** Dissect intercostal space 4 (the space between ribs
-**4.** Identify the external intercostal muscle (FIG. 3.5).
-The external intercostal muscle attaches to the inferior border of the rib above and the superior border of the rib below. The external intercostal muscle elevates the rib below. Note that the fi bers of the external intercostal muscles pass diagonally
-*toward the anterior midline as they descend. [G 21;*
-L 166; N 183; R 207; C 148]
-**5.** Identify the external intercostal membrane, which is located at the anterior end of the inter- costal space between the costal cartilages. Note that the fi bers of the external intercostal muscle end at the lateral edge of the external intercostal
-**6.** Insert a probe deep to the external intercostal membrane just lateral to the border of the ster- num in the fourth intercostal space. Push the probe
-intercostal m.,
-Internal intercostal m.
-Intercostal:
-Innermost intercostal m.
-Internal intercostal m.
-External intercostal m.
-Collateral vessels
-Costal groove
-intercostal m.
-Innermost intercostal m.
-Internal intercostal m., reflected
-FIGURE 3.5
-Structures in the intercostal space. A. Anterior view.
-B. Coronal section at the midaxillary line.
-**3.** Use an illustration and your dissected specimen to review the origin, course, and branches of the posterior
-intercostal artery and intercostal nerve.
-**4.** Consult a dermatome chart and compare the der- matome pattern to the distribution of the intercostal
-*nerves. Grant's Atlas 348 | LWW Atlas 162 | Netter's 159 | Color Atlas 205 | Clemente's 10*
-
-### Removal Of The Anterior
-
-### Thoracic Wall
-Dissection Overview
-To view the contents of the thoracic cavity, the anterior tho- racic wall must be removed. The goal of this dissection is to remove the thoracic wall with the costal pleura attached to its inner surface. The structures to be removed include the
-**12.** The anterior end of the intercostal space is sup- plied by anterior intercostal branches of the internal thoracic artery. The internal thoracic artery runs a vertical course just lateral to the
-border of the sternum and crosses the deep sur-
-*faces of the costal cartilages. [G 24; L 167, 168;*
-N 183; R 208; C 148]
-Dissection Follow-up
-**1.** Replace the internal and external intercostal muscles in
-their correct anatomical positions.
-**2.** Review the muscles that lie in the intercostal space.
-Review their actions. Understand how they assist res-
-piration by elevating and depressing the ribs.
-Body of 4th thoracic vertebra
-Spinal cord
-Anterior ramus
-(intercostal nerve)
-4th thoracic spinal nerve
-Posterior ramus
-Anterior branch
-Posterior branch
-Anterior cutaneous branches of
-4th intercostal nerve:
-Lateral branch
-Medial branch
-Transversus thoracis
-External intercostal
-External intercostal
-Internal intercostal
-Innermost intercostal
-Parietal pleura
-Lateral cutaneous branches
-of 4th intercostal nerve:
-Posterior cutaneous branches of
-posterior ramus of 4th thoracic nerve:
-Lateral branch
-Medial branch
-FIGURE 3.6
-Course and distribution of the fourth thoracic spinal nerve.
-
-## The Thorax
-**6.** Use a saw or bone cutters to cut ribs 1 to 5 in the
-midaxillary line on both sides of the thorax.
-**7.** With a scalpel, make a series of vertical cuts through the muscles in intercostal spaces 1 to 5 in the midax- illary line. The cuts should be aligned with the cut ribs. Make the cut deep enough to cut the parietal
-**8.** Use scissors to cut the intercostal muscles and un- derlying costal pleura from the upper border of rib
-6 on both sides of the thorax.
-**9.** Gently, elevate the inferior end of the sternum along with the attached portions of the severed costal cartilages and ribs. Near the lower end of the sternum, identify the right and left internal tho- racic vessels. Cut the internal thoracic vessels at
-the level of the fi fth sternocostal joint.
-**10.** Continue to elevate the inferior end of the thoracic wall and cut the parietal pleura with scissors where it reflects from the inner surface of the thoracic
-wall onto the mediastinum.
-**11.** Cut the internal thoracic vessels at the level of the fi rst rib. Remove the anterior thoracic wall with the
-internal thoracic vessels attached.
-**12.** Observe the internal surface of the anterior tho- racic wall and identify the costal pleura. Use blunt dissection to remove the parietal pleura from the inner surface of the anterior thoracic
-**13.** Identify the transversus thoracis muscle [G 25;
-L 168; N 184; R 206; C 147]. Observe that the infe- rior attachment of the transversus thoracis muscle is on the sternum and its superior attachments are on costal cartilages 2 to 6. The transversus thoracis
-muscle depresses the ribs.
-**14.** The internal thoracic artery and veins are locat- ed between the transversus thoracis muscle and the
-costal cartilages.
-**15.** Follow the internal thoracic artery inferiorly and identify at least one of the anterior intercostal branches. Note that posterior to the sixth or sev- enth costal cartilage, the internal thoracic artery divides into the superior epigastric artery and the musculophrenic artery. This division may be seen on the cadaver rather than on the thoracic wall
-Dissection Follow-up
-**1.** Replace the anterior thoracic wall in its correct ana-
-tomical position.
-**2.** Replace the serratus anterior muscle in its correct
-anatomical position.
-**3.** Replace the pectoralis minor muscle, making sure that
-its proximal attachments touch ribs 3, 4, and 5.
-**4.** Replace the pectoralis major muscle in its correct anatomical position. proximal ends of both clavicles, the manubrium and body
-of the sternum, the anterior and lateral portions of ribs 1
-through 5, and the contents of intercostal spaces 1 to 4.
-The order of dissection will be as follows: The sterno- cleidomastoid muscle and infrahyoid neck muscles will be detached from their sternal and clavicular attachments. The clavicles will be cut at their midlength. The costal cartilages
-and sternum will be cut at the level of the xiphisternal joint.
-The ribs and contents of the intercostal spaces will be cut
-at the midaxillary line. The thoracic wall will be removed,
-and the inner surface of the thoracic wall will be studied.
-*Dissection Instructions [G 767; L 308; N 27, 28;*
-R 174; C 519]
-**1.** Reflect the pectoralis major muscle laterally. Re- fl ect the pectoralis minor muscle superiorly. Reflect
-the serratus anterior muscle laterally.
-**2.** Use scissors to cut the sternocleidomastoid muscle where it is attached to the superior margin of the sternum and the superior surface of the clavicle. Use
-blunt dissection to loosen the distal 5 cm of the ster-
-nocleidomastoid muscle and reflect it superiorly.
-**3.** Use your fi ngers to push the infrahyoid muscles
-posteriorly with enough force to tear their attach-
-ments to the deep surface of the sternum.
-**4.** Cut both clavicles at their midlength using a saw
-(FIG. 3.7, cuts 1 and 2).
-**5.** At the level of the xiphisternal joint (approximately at the level of intercostal space 5), use a saw to make a transverse cut across the sternum and costal carti- lages (FIG. 3.7, cut 3). Allow the saw to pass through
-the bone and cartilage, but not into the deeper tissues.
-Cut ribs and intercostal muscles along green lines
-FIGURE 3.7
-Cuts used to remove the anterior thoracic wall.
-- Diaphragmatic pleura-lines the superior surface of the diaphragm
-- Cervical pleura (cupula) - extends superior to the fi rst rib
-The parietal pleura is sharply folded where the cos- tal pleura meets the diaphragmatic pleura and where the costal pleura meets the mediastinal pleura. The folds are called lines of pleural reflection. The lines of pleural
-reflection are acute, and the inner surfaces of the pari-
-etal pleurae are in contact with one another (FIG. 3.8).
-The areas where parietal pleura contacts parietal pleura are called pleural recesses. The two costomediastinal recesses (left and right) occur posterior to the sternum where costal pleura meets mediastinal pleura. The two costodiaphragmatic recesses (left and right) are located
-at the most inferior limits of the parietal pleura (FIG. 3.8).
-During quiet inspiration, the inferior border of the lung
-*does not extend into the costodiaphragmatic recess. [G 30;*
-L 172; N 190; R 265; C 152]
-The endothoracic fascia is a small amount of connective
-tissue that attaches the costal pleura to the thoracic wall.
-Each lung is completely covered with visceral pleura (pulmonary pleura). At the root of the lung, the visceral
-pleura becomes continuous with the mediastinal pleura.
-The pleural cavity is the space between the visceral pleura and the parietal pleura (FIG. 3.8). In the living body, the pleural cavity is a potential space, and visceral pleura
-touches parietal pleura.
-**5.** Review the attachments and the action of the pectoral
-muscles, the serratus anterior muscle, and the transver-
-sus thoracis muscle.
-**6.** Study the course of the internal thoracic artery from its
-origin to its bifurcation and name its branches.
-
-### Clinical Correlation
-
-### Anterior Thoracic Wall
-The anterior and lateral approaches to the contents of the thorax are the two most common surgical approaches. In the anterior approach, the sternum is split vertically in the mid- line. This approach does not cross major vessels and allows good access to the heart. The incision through the sternum is closed with stainless steel wires. In the lateral approach, an intercostal space is incised to provide access to the lungs or to
-structures posterior to the heart.
-
-### Pleural Cavities
-Dissection Overview
-The thorax has two apertures (FIG. 3.4). The superior thoracic aperture (thoracic inlet) is relatively small and bounded by the manubrium of the sternum, the right and
-left fi rst ribs, and the body of the fi rst thoracic vertebra.
-Structures pass between the thorax, the neck, and the upper limb through the superior thoracic aperture (e.g., trachea, esophagus, vagus nerves, thoracic duct, major blood
-The inferior thoracic aperture (thoracic outlet) is larger and bounded by the xiphisternal joint, the costal margin, ribs 11 and 12, and the body of vertebra T12. The diaphragm attaches to the structures that form the bound- aries of the inferior thoracic aperture and it separates the thoracic cavity from the abdominal cavity. Several large
-structures (e.g., aorta, thoracic duct, inferior vena cava,
-esophagus, vagus nerves) pass between the thorax and ab-
-domen through openings in the diaphragm.
-The thorax contains two pleural cavities (right and left) and the mediastinum. The two pleural cavities occupy the lateral parts of the thoracic cavity and each contains one lung. The mediastinum (L. quod per medium stat, that which
-stands in the middle) is the region between the two pleu- ral cavities. It contains the heart, aorta, trachea, esopha- gus, and other structures that pass to or from the head and
-*neck. Grant's Atlas 30 | LWW Atlas 173 | Netter's 190 | Color Atlas 243 | Clemente's 149*
-Each pleural cavity is lined by a serous membrane called
-the parietal pleura (FIG. 3.8). The parietal pleura has sub-
-divisions that are regionally named:
-- Costal pleura-lines the inner surface of the thoracic wall
-- Mediastinal pleura-lines the mediastinum
-Costal pleura intercostal muscles
-Visceral pleura
-Pleural cavity
-Diaphragmatic pleura
-Costodiaphragmatic recess
-Line of pleural reflection
-Mediastinal pleura
-Inferior lobe
-Endothoracic fascia
-Cervical pleura
-Root of lung containing:
-Apex of left lung
-Main bronchus
-Pulmonary artery
-Pulmonary veins
-FIGURE 3.8
-The pleurae, pleural cavity, and pleural reflections.
-
-## The Thorax
-Dissection Overview
-The order of dissection will be as follows: The surface fea- tures and relationships of the lungs that can be seen from
-an anterior view will be studied with the lungs in the thorax.
-Then the lungs will be removed, and the study of surface
-features and relationships of the lungs will be completed.
-The hilum of the lung will be studied.
-Dissection Instructions
-Lungs in the Thorax
-**1.** Observe the lungs in situ (FIG. 3.9). [G 27; L 174, 175;
-N 192; R 268; C 152]
-**2.** Each lung has three surfaces: costal, mediastinal, and diaphragmatic. You can see only the costal
-surface with the lung in situ.
-**3.** Observe the oblique fi ssure on both lungs. Re- place the anterior thoracic wall and observe that the oblique fi ssure lies deep to the fi fth rib laterally and that it is deep to the sixth costal cartilage ante- riorly. Clinicians may refer to the oblique fi ssure as
-the major fi ssure.
-**4.** Remove the anterior thoracic wall and identify the horizontal fi ssure on the right lung. Replace the anterior thoracic wall and observe that the hori- zontal fi ssure lies deep to the fourth rib and fourth costal cartilage. Clinicians may refer to the hori- zontal fi ssure as the minor fi ssure or transverse
-**5.** Note that the right lung has three lobes (superior, middle, and inferior). The left lung has two lobes
-(superior and inferior).
-Dissection Instructions
-**1.** Use your hands to explore the right and left pleural cavities. Caution: The cut ends of the ribs are sharp and can cut you. To reduce the risk of injury, blunt the ends of ribs 1 to 5 or place folded paper towels over the cut ends of the ribs before you begin to palpate
-the pleural cavities.
-
-### Clinical Correlation
-
-### Pleural Cavity
-Under pathologic conditions, the potential space of the pleural cavity may become a real space. For example, if air enters the pleural cavity (pneumothorax), the lung collapses due to the
-elasticity of its tissue.
-Excess fl uid may accumulate in the pleural cavity, com- press the lung, and produce breathing diffi culties. The fl uid could be serous fl uid (plural effusion) or blood resulting from
-trauma (hemothorax).
-**2.** Use paper towels to remove fl uid that may have
-collected in the pleural cavity.
-**3.** Identify the parts of the parietal pleura: costal, diaphragmatic, mediastinal, and cervical. Part of the costal pleura was removed with the anterior
-thoracic wall.
-**4.** Place your fi ngers in the costodiaphragmatic recess. Follow it posteriorly and notice the acute
-angle that the diaphragm makes with the inner sur-
-face of the thoracic wall.
-**5.** Place your hand between the lung and the mediasti- num and palpate the root of the lung. At the root of the lung, the mediastinal pleura is continuous with
-the visceral pleura. Palpate the pulmonary liga-
-ment, which extends inferior to the root of the lung.
-**6.** The root of the lung is attached to the mediasti- num. All other parts of the lung should slide freely against the parietal pleura. Pleural adhesions may occur between visceral and parietal pleurae. Pleural adhesions are the result of disease processes, and
-you should use your fi ngers to break them.
-Dissection Follow-up
-**1.** Replace the anterior thoracic wall in its correct ana-
-tomical position.
-**2.** Use an illustration and the dissected specimen to project
-the lines of pleural reflection to the anterior thoracic wall.
-**3.** Review the course of the intercostal nerves and under- stand that they provide somatic innervation (including
-pain fi bers) to the costal pleura.
-Trachea and
-Aortic arch
-Cardiac notch
-Pericardium
-FIGURE 3.9
-The lungs in situ. Anterior view.
-**6.** Identify the borders of the lung: anterior, poste-
-rior, and inferior.
-**7.** Recall that each lung has a superior lobe and an
-inferior lobe separated by the oblique fi ssure.
-Note that most of the inferior lobe lies posteriorly and that most of the superior lobe lies anteriorly in
-the thorax (FIG. 3.10).
-**8.** Recall that the right lung has a horizontal fi ssure,
-which defi nes a small middle lobe (FIG. 3.10). Iden-
-tify the middle lobe.
-**9.** Identify the cardiac notch on the superior lobe of the left lung (FIGS. 3.9 and 3.10). The cardiac notch is located on the anterior border of the left lung, and in
-the anatomical position it is anterior to the heart.
-**10.** Identify the lingula of the left lung. The lingula is the inferior, medial portion of the superior lobe of the left lung. It is the homolog of the middle lobe
-of the right lung.
-**11.** Identify several contact impressions on the me-
-diastinal surface of each lung (FIGS. 3.11 and 3.12).
-These impressions illustrate the close proximity of
-the mediastinal structures to the lung.
-On the mediastinal surface of the right lung,
-*identify: Grant's Atlas 36 | LWW Atlas 190 | Netter's 193 | Color Atlas 249 | Clemente's 160*
-- Cardiac impression
-- Esophagus impression
-- Arch of the azygos vein impression
-- Superior vena cava impression
-On the mediastinal surface of the left lung,
-- Cardiac impression
-- Aortic arch impression
-- Thoracic aorta impression
-**6.** Observe that the apex of the lung lies anterior to the neck of the fi rst rib (superior to the body of the fi rst rib). Therefore, the apex of the lung and the cervical
-pleura lie superior to the plane of the superior tho-
-racic aperture and are actually located in the neck.
-**7.** Identify the pericardium that occupies the midline between the lungs. The pericardium contains the
-**8.** Insert your hand into the pleural cavity between the heart and the lung and palpate the root of the lung. Feel the hard structures within the root of the lung. These are the pulmonary vessels fi lled
-with clotted blood and the main bronchus.
-**9.** Observe that the phrenic nerve and pericardia- cophrenic vessels pass anterior to the root of the lung and are medial to the mediastinal pleura. Use an illustration to observe that the vagus nerve
-*passes posterior to the root of the lung. [G 82, 83;*
-L 194, 195; N 224, 225; R 280, 281; C 166, 167]
-Removal of the Lungs
-**1.** Preserve the phrenic nerve, pericardiacophrenic
-vessels, and vagus nerve during lung removal.
-**2.** Place your hand into the pleural cavity between the lung and mediastinum. Retract the lung laterally to
-stretch the root of the lung.
-**3.** While retracting the lung, use scissors to transect the root of the lung halfway between the lung and the mediastinum. Take care not to cut into the
-mediastinum or the lung. Remove both lungs.
-**4.** Compare the two lungs (FIG. 3.10). Note that the right lung is shorter but has greater volume than
-*the left lung. Grant's Atlas 34 | LWW Atlas 189 | Netter's 193 | Color Atlas 249 | Clemente's 158*
-**5.** Identify the surfaces of the lung: costal, medias-
-tinal, and diaphragmatic.
-Oblique fissure
-Cardiac notch
-Anterior border
-Inferior border
-FIGURE 3.10
-The lungs in lateral view.
-
-## The Thorax
-Arch of azygos vein impression
-Right brachiocephalic vein impression
-Superior vena cava impression
-Cardiac impression
-Anterior border
-Horizontal fissure
-Middle lobe
-Diaphragmatic surface
-Superior lobe
-Oblique fissure
-Inferior lobe
-Structures of hilum:
-Pulmonary artery
-Bronchial artery
-Bronchopulmonary lymph nodes
-Superior and inferior pulmonary veins
-Posterior border
-Esophagus impression
-Pulmonary ligament
-Inferior border
-FIGURE 3.11
-Mediastinal surface of the right lung.
-Aortic arch impression
-Cardiac impression
-Anterior border
-Cardiac notch
-Diaphragmatic surface
-Superior lobe
-Oblique fissure
-Inferior lobe
-Structures of hilum:
-Pulmonary artery
-Bronchial artery
-Main bronchus
-Bronchopulmonary lymph nodes
-Superior and inferior pulmonary veins
-Posterior border
-Thoracic aorta
-Pulmonary ligament
-Inferior border
-FIGURE 3.12
-Mediastinal surface of the left lung.
-Sternal angle
-Pericardium
-FIGURE 3.13
-Boundaries and subdivisions of the mediastinum.
-MEDIASTINUM
-Dissection Overview
-The region between the two pleural cavities is the medias-
-tinum. The boundaries of the mediastinum are:
-- Superior boundary-superior thoracic aperture
-- Inferior boundary-diaphragm
-- Anterior boundary-sternum
-- Posterior boundary-bodies of vertebrae T1 to T12
-- Lateral boundaries-mediastinal pleurae (left and right)
-For descriptive purposes, the mediastinum is divided into four parts (FIG. 3.13). An imaginary transverse plane at the level of the sternal angle intersects the intervertebral disc between vertebrae T4 and T5. The plane of the sternal angle separates the superior mediastinum from the in- ferior mediastinum. The pericardium divides the inferior
-*mediastinum into three parts: Grant's Atlas 31 | LWW Atlas 194 | Color Atlas 245 | Clemente's 170*
-- Anterior mediastinum-the part that lies between the sternum and the pericardium. In children and adoles- cents, part of the thymus may be found in the anterior
-mediastinum.
-- Middle mediastinum-the part that contains the peri-
-cardium, the heart, and the roots of the great vessels.
-- Posterior mediastinum-the part that lies posterior to the pericardium and anterior to the bodies of ver- tebrae T5 to T12. The posterior mediastinum contains
-structures that pass between the neck, thorax, and abdo-
-men (esophagus, vagus nerves, azygos system of veins,
-thoracic duct, thoracic aorta).
-The plane of the sternal angle is an important thoracic
-landmark that marks the level of the:
-- Superior border of the pericardium
-- Bifurcation of the trachea
-**12.** Examine the hilum of the lung (FIGS. 3.11 and
-3.12). Identify the main bronchus, pulmonary artery, and pulmonary veins. At the hilum, the main bronchus usually lies posterior to the pulmo- nary vessels, and the pulmonary artery is superior
-to the pulmonary veins. To help distinguish the ar- teries from the veins, compare the relative thick- ness of the walls of the vessels (arteries have thicker walls). To distinguish the main bronchus from the
-pulmonary vessels, look for cartilage in its wall.
-**13.** At the hilum of each lung, use blunt dissection to
-follow the main bronchus into the lung.
-**14.** In the left lung, identify the superior and inferior
-*lobar (secondary) bronchi. [G 43; L 192; N 197;*
-R 247; C 162]
-**15.** In the right lung, identify the superior, middle, and inferior lobar bronchi. Note that the right superior lobar bronchus passes superior to the right pulmonary artery and, therefore, it is also
-called the "eparterial bronchus."
-**16.** Use blunt dissection to follow one lobar bronchus ap- proximately 3 to 4 cm deeper into the lung tissue until it branches into several segmental bronchi. The right lung contains 10 segmental bronchi and the left lung contains 9. Each segmental bronchus supplies one bronchopulmonary segment of the lung. In your textbook, read a description of the bronchopulmonary
-segments and the internal organization of the lung.
-**17.** Identify the bronchial artery. The bronchial ar- tery courses along the surface of the main bron- chus. The lumen of the bronchial artery may be seen where the main bronchus was cut during lung
-removal (FIGS. 3.11 and 3.12).
-**18.** The hilum of the lung contains lymph nodes, lymph vessels, and autonomic nerve fi bers. Use an
-*illustration to confi rm this. [G 44, 45; L 190; N 202,*
-203; R 275; C 166, 167]
-**19.** Note that the lungs have a rich nerve supply via the anterior and posterior pulmonary plexuses. Sympa- thetic contributions are received from the right and left sympathetic trunks, whereas parasympathetic contributions are received from the right and left
-vagus nerves.
-Dissection Follow-up
-**1.** Review the parts of the lungs.
-**2.** Replace the lungs in their correct anatomical positions
-within the pleural cavities.
-**3.** Replace the anterior thoracic wall. Project the borders, surfaces, and fi ssures of the lungs to the surface of the
-thoracic wall.
-**4.** Review the relationship of the pleural reflections to the
-thoracic wall.
-**5.** Review the costomediastinal and costodiaphragmatic
-
-## The Thorax
-**3.** Compare and contrast the structures that can be seen on the right side of the mediastinum to those that can
-be seen on the left side of the mediastinum.
-**4.** Review the relationship of the phrenic nerve to the
-root of the lung and the pericardium.
-
-### Middle Mediastinum
-Dissection Overview
-The middle mediastinum contains the pericardium, the heart, and the roots of the great vessels. The pericar- dium is a sac that encloses the heart, and it is pierced by the great vessels (aorta, pulmonary trunk, superior vena cava, inferior vena cava, and four pulmonary veins). The outer surface of the pericardium is fi brous, whereas the
-inner surface of the pericardium is serous and smooth.
-The pericardium is attached to the central tendon of the diaphragm. Thus, the pericardium and the heart move up
-and down with the diaphragm during inspiration and ex-
-The order of dissection will be as follows: The pericar- dium will be opened and its relationship to the heart and great vessels will be explored. The characteristics of the pa- rietal serous pericardium will then be studied. The heart
-will be removed by cutting the great vessels.
-Dissection Instructions
-*Heart in the Thorax Grant's Atlas 51 | LWW Atlas 177 | Netter's 206 | Color Atlas 268 | Clemente's 174*
-**1.** Open the pericardium in the following  manner (FIG. 3.14). Use forceps to elevate the anterior surface of the pericardium. Use scissors to make
-- End of the ascending aorta
-- Beginning and end of the arch of the aorta
-- Beginning of the thoracic aorta
-It is worth noting that some structures that course through the mediastinum (esophagus, vagus nerve, phrenic
-nerve, and thoracic duct) pass through more than one me-
-diastinal subdivision.
-The order of dissection will be as follows: The mediasti- nal pleura will be examined, and mediastinal structures will be palpated. The costal and mediastinal pleurae will then
-be removed.
-Dissection Instructions
-**1.** Observe the mediastinal pleura. You may be able
-to see structures through the mediastinal pleura.
-*Grant's Atlas 82 | LWW Atlas 194 | Netter's 224 | Color Atlas 280*
-**2.** Palpate the mediastinal structures through the me- diastinal pleura. Observe that, as you move from anterior to posterior, the mediastinal pleura is in contact with the pericardium and root of the lung, and either the esophagus (right side) or the
-thoracic aorta (left side).
-**3.** Follow the mediastinal pleura further posteriorly until it contacts the sides of the vertebral bodies. At this location, the mediastinal pleura becomes the
-costal pleura.
-**4.** To examine the mediastinum more closely, the
-pleura must be removed bilaterally.
-**5.** Use your fi ngers to pick up the costal pleura in the midaxillary line near the cut ends of ribs 1 to 5. Peel
-the costal pleura off the inner surface of the poste-
-rior thoracic wall, moving from lateral to medial.
-Note that the endothoracic fascia provides a nat- ural cleavage plane for separation of costal pleura
-from the thoracic wall.
-**6.** Continue to remove the costal pleura where it covers the vertebral column and the mediastinal pleura where it covers the esophagus or aorta and
-the pericardium.
-**7.** Identify the left and right phrenic nerves and the left and right pericardiacophrenic vessels. The phrenic nerve and pericardiacophrenic vessels are located between the mediastinal pleura and the pericardium about 1.5 cm anterior to the root of the lung. Follow the phrenic nerve and pericardia- cophrenic vessels to the diaphragm. Each phrenic nerve is the only motor innervation to half of the
-Dissection Follow-up
-**1.** Review the parts of the parietal pleura.
-**2.** Note that the transition from parietal to visceral pleura
-occurs at the root of the lung.
-Vertical cut
-Transverse cuts
-Pericardium
-FIGURE 3.14
-How to open the pericardium.
-- Superior border-formed by the right and left atria and auricles
-Note that the right, inferior, and left borders of the heart are easily seen on a chest radiograph. The superior heart border is not easily seen on a chest
-radiograph.
-**7.** Identify the apex of the heart. Note that the apex of the heart is part of the left ventricle. The apex of the heart is normally located deep to the left fi fth intercostal space, approximately 9 cm from the
-**8.** Identify the base of the heart. The left atrium and
-part of the right atrium form the base of the heart.
-Clinicians often refer to the emergence of the great
-vessels from the heart as its base.
-**9.** Observe that the inner surface of the pericardium is lined by the smooth, shiny parietal layer of serous
-pericardium.
-**10.** Use the cadaver and an illustration to observe that the parietal layer of serous pericardium is reflected onto the heart as the visceral layer of serous pericardium (epicardium). The line of reflection of parietal serous pericardium to visceral serous pericardium occurs at the roots
-*of the great vessels. [G 51; L 178; N 206; R 269;*
-**11.** The pericardial cavity is a potential space between the parietal and visceral layers of the serous peri- cardium. Normally it contains only a thin fi lm of a vertical cut through the pericardium from the diaphragm to the ascending aorta. Make the two transverse cuts as illustrated in FIGURE 3.14 and
-open the fl aps widely.
-**2.** Identify the following structures (FIG. 3.15):  superior vena cava, ascending aorta, arch of the aorta, and
-pulmonary trunk.
-**3.** Use your fi ngers to gently open the interval be-
-tween the concavity of the aortic arch and pul- monary trunk, and identify the ligamentum ar- teriosum (FIG. 3.15). The ligamentum arteriosum connects the left pulmonary artery to the arch of
-**4.** Use a probe to dissect the left vagus nerve where
-it crosses the left side of the aortic arch (FIG. 3.15).
-Identify the initial portion of the left recurrent laryngeal nerve. The left recurrent laryngeal nerve is located inferior to the aortic arch and posterior
-to the ligamentum arteriosum.
-**5.** Examine the heart and identify the chambers that can be seen from the anterior view: right atrium, right ventricle, and left ventricle (FIG. 3.15). Note that the right ventricle forms most of the  anterior
-surface of the heart.
-**6.** Identify the borders of the heart:
-- Right border-formed by the right atrium
-- Inferior border-formed by the right ventricle and a small part of the left ventricle
-- Left border-formed by the left ventricle
-FIGURE 3.15
-Anterior view of the heart in situ.
-First rib (cut)
-Arch of aorta
-Left vagus nerve
-Left recurrent laryngeal
-Ligamentum arteriosum
-Ascending aorta
-Pulmonary trunk
-Left auricle
-Left lung (retracted)
-Left ventricle
-Left border
-Left phrenic nerve and pericardiacophrenic
-Right ventricle
-Inferior border
-Right coronary artery in coronary
-Pericardium (cut)
-Right border
-Right auricle
-Right atrium
-Right lung (retracted)
-Superior vena cava
-Right phrenic nerve and pericardiacophrenic
-Anterior interventricular artery in anterior interventricular sulcus
-
-## The Thorax
-
-### Clinical Correlation
-PERICARDIUM
-Infl ammatory diseases can cause fl uid to accumulate in the pericardial cavity (pericardial effusion). Bleeding into the pericar- dial cavity (hemopericardium) may result from penetrating heart wounds or perforation of a weakened heart muscle following myocardial infarction. Because the pericardium is composed of fi brous connective tissue, it cannot stretch, and fl uids collected
-in the pericardial cavity compress the heart (cardiac tamponade).
-Removal of the Heart
-**1.** The heart will be detached from the great vessels
-along the lines of reflection of the serous pericar-
-dium (FIG. 3.16).
-**2.** Place a probe through the transverse pericardial  sinus.
-**3.** Use scissors to cut the ascending aorta and the pulmonary trunk anterior to the probe, about
-1.5 cm superior to the point where the aorta and
-pulmonary trunk emerge from the heart.
-**4.** Use scissors to cut the superior vena cava about
-1 cm superior to its junction with the right atrium.
-**5.** Lift the apex of the heart superiorly and cut the infe-
-rior vena cava close to the surface of the  diaphragm.
-**6.** While lifting the apex of the heart, cut the four pulmonary veins where they form the boundary of the oblique pericardial sinus (FIG. 3.16). Cut the serous fl uid that lubricates the serous surfaces and
-allows free movement of the heart within the peri-
-**12.** Place your right hand in the pericardial cavity with your fi ngers posterior to the heart. Lift the heart gently and push your fi ngers superiorly until they
-are stopped by the reflection of serous pericardium.
-Your fi ngertips are located in the oblique pericar- dial  sinus (FIG. 3.16). Remove your hand from the
-*oblique pericardial sinus. [G 53; L 179; N 209; R 272;*
-**13.** In the transverse plane, push your right index fi n- ger posterior to the pulmonary trunk and ascend- ing aorta. Proceed from left to right until your fi ngertip emerges between the superior vena cava and the aortic arch. Your fi nger is in the transverse
-pericardial sinus (FIG. 3.16).
-**14.** Anterior to the aorta, gently insert the tip of a probe between the pericardium and the ascend- ing aorta. Slowly advance the probe until it stops. This is the superior limit of the pericardial
-**15.** Use your fi ngers to explore the lines of reflection of the serous pericardium where the great vessels (aorta, pulmonary trunk, superior vena cava, infe- rior vena cava, and four pulmonary veins) enter and
-exit the heart (FIG. 3.16).
-**16.** Replace the anterior thoracic wall into its correct anatomical position. Use the cadaver and an illus- tration to project the outline of the heart to the
-*surface of the thoracic wall. [G 28; L 172, 173; N 190;*
-R 252; C 149]
-FIGURE 3.16
-Inner surface of the posterior wall of the pericardium
-showing pericardial sinuses and reflections of the serous pericardium.
-(retracted)
-Right pulmonary
-Inferior vena cava
-Pulmonary trunk
-Oblique pericardial sinus
-Pericardium (cut) pericardial sinus
-Structures in root
-Left pulmonary veins
-Left lung (retracted)
-Superior vena cava
-Superior limit of pericardium
-Ascending aorta
-- Right pulmonary surface-formed mainly by the right atrium
-**3.** Note that the coronary sulcus and the interventric- ular sulci mark the boundaries of the four chambers
-of the heart.
-**4.** On the surface of the heart, identify the chambers
-(FIG. 3.15):
-- Right atrium and right auricle
-- Right ventricle
-- Left ventricle
-- Left atrium and left auricle
-**5.** Examine the heart in superior view. Identify:
-- Aorta and aortic valve
-- Pulmonary trunk and pulmonary valve
-- Superior vena cava
-**6.** Examine the diaphragmatic surface of the heart
-and identify:
-- Opening of the inferior vena cava
-- Posterior interventricular sulcus
-**7.** Note that the cardiac veins and coronary arteries are
-located in the coronary and interventricular sulci.
-*Cardiac Veins Grant's Atlas 57 | LWW Atlas 183 | Netter's 211 | Color Atlas 262 | Clemente's 176*
-**1.** As you study the vessels of the heart, realize that they (and the fat that surrounds them) are located between the visceral pericardium (epicardium) and
-the muscular wall of the heart.
-**2.** The cardiac veins course superficial to the coro- nary arteries, so they will be dissected fi rst. The coronary sulcus and the interventricular sulci are fi lled with fat that must be removed to observe the
-vessels. Use blunt dissection to remove the fat.
-**3.** Identify the coronary sinus on the diaphragmatic surface of the heart (FIG. 3.17B). The coronary sinus is a dilated portion of the venous system of the heart that is located in the coronary sulcus. The coronary sinus is about 2 to 2.5 cm in length and opens into the right atrium. Its opening will be seen when the
-internal features of the right atrium are dissected.
-**4.** Use a probe to clean the surface of the coronary sinus.
-**5.** Follow the coronary sinus superiorly in the coro- nary sulcus to the point where it receives the great
-cardiac vein (FIG. 3.17B).
-**6.** Use blunt dissection to follow the great cardiac
-vein onto the sternocostal surface of the heart.
-The great cardiac vein courses from the apex of the heart toward the coronary sinus in the anterior
-interventricular sulcus (FIG. 3.17A).
-**7.** In the posterior interventricular sulcus, identify the
-middle cardiac vein and trace it to the coronary sinus.
-**8.** Near the inferior end of the coronary sinus, iden- tify the small cardiac vein. Use a probe to dissect pulmonary veins very close to the inner surface of
-the pericardial sac.
-**7.** The heart is now held in place only by reflections of the serous pericardium from its posterior surface
-to the inner surface of the pericardial sac (FIG. 3.16).
-Cut these reflections and remove the heart.
-**8.** Refer to FIGURE 3.16. Examine the posterior aspect of the pericardium and identify the openings of eight
-vessels and the lines of the pericardial reflections.
-Dissection Follow-up
-**1.** Review the parts of the mediastinum and state their
-boundaries.
-**2.** Review the attachments of the pericardium to the dia-
-phragm and to the roots of the great vessels.
-**3.** Review the embryonic origin of the transverse and
-oblique pericardial sinuses.
-**4.** Compare the appearance and functional properties of the
-parietal serous pericardium to those of the parietal pleura.
-
-### External Features Of The Heart
-Dissection Overview
-Dissection of the heart will proceed in two stages: The external features of the heart will be studied, including its vascular supply. The internal features of each chamber of
-the heart will then be studied.
-Dissection Instructions
-Surface Features
-**1.** Examine the external surface of the heart. Iden-
-tify the following (FIG. 3.15): [G 48, 49; L 180; N 208;
-R 252; C 176, 177]
-- Coronary (atrioventricular) sulcus (L. sulcus, a
-groove; pl. sulci) - runs around the heart, sepa-
-rating the atria from the ventricles.
-- Anterior interventricular sulcus and the pos-
-terior interventricular sulcus-the interven- tricular sulci indicate the location of the inter- ventricular septum. The interventricular sulci
-join the coronary sulcus at a right angle.
-**2.** Identify the surfaces of the heart:
-- Sternocostal (anterior) surface-formed main- ly by the right ventricle
-- Diaphragmatic (inferior) surface-formed mainly by the left ventricle and a small part of the right ventricle
-- Left pulmonary surface-formed mainly by the left ventricle. The pulmonary surface of the heart is in contact with the cardiac impression of
-the left lung.
-
-## The Thorax ascending aorta. Identify the right, left, and pos- terior semilunar cusps of the aortic valve. Behind each valve cusp is a small pocket called an aortic
-sinus (right, left, and posterior, respectively).
-**2.** In the left aortic sinus, identify the opening of the left coronary artery. Insert the tip of a probe into the opening. On the surface of the heart, palpate the tip of the probe between the left auricle and the pulmonary trunk. This is the initial portion of the
-left coronary artery.
-**3.** Use blunt dissection to clean the left coronary ar- tery. The left coronary artery is quite short. In the coronary sulcus, the left coronary artery divides into the anterior interventricular branch and the
-circumflex branch (FIG. 3.18A).
-**4.** Trace the anterior interventricular branch in the anterior interventricular sulcus to the apex of the heart. Clinicians call the anterior interventricular branch of the left coronary artery the left anterior descending (LAD) artery. Note that the anterior
-interventricular artery accompanies the great car-
-**5.** Follow the circumflex branch of the left coro- nary artery in the coronary sulcus and around the left border of the heart (FIG. 3.18B). The circumflex branch of the left coronary artery has several un- named branches that supply the posterior wall of the left ventricle. The circumflex branch of the left coronary artery accompanies the coronary sinus in
-the coronary sulcus.
-**6.** To begin the dissection of the right coronary ar-
-tery, identify its opening in the right aortic sinus.
-Insert the tip of a probe into its opening. On the surface of the heart, palpate the tip of the probe in the coronary sulcus between the right auricle and the ascending aorta. This is the beginning of the
-right coronary artery.
-**7.** Use blunt dissection to clean the right coronary artery and identify the anterior right atrial branch (FIG. 3.18A). The anterior right atrial branch arises close to the origin of the right coronary artery and ascends along the anterior wall of the right atrium toward the superior vena cava. The anterior right atrial branch gives rise to the sinuatrial nodal branch, which supplies
-the sinuatrial node.
-**8.** Follow the right coronary artery in the coronary sulcus. If possible, preserve the anterior cardiac veins. The right marginal branch of the right cor- onary artery usually arises near the inferior border of the heart. The right marginal branch accompa- nies the small cardiac vein along the inferior border
-of the heart.
-**9.** Continue to follow the right coronary artery in the coronary sulcus onto the diaphragmatic surface of the heart (FIG. 3.18B). When the right coronary the small cardiac vein and follow it to the anterior
-surface of the heart where it courses along the infe-
-rior border of the heart (FIG. 3.17A).
-**9.** Anterior cardiac veins bridge the atrioventricular
-sulcus between the right atrium and right ventricle.
-The anterior cardiac veins drain the anterior wall
-of the right ventricle directly into the right atrium.
-Anterior cardiac veins pass superficial to the right
-coronary artery.
-**10.** Note that most veins of the heart are tributaries to the coronary sinus. The anterior cardiac veins are
-the exceptions to this rule.
-*Coronary Arteries Grant's Atlas 56 | LWW Atlas 182 | Netter's 211 | Color Atlas 262 | Clemente's 176*
-**1.** Begin the dissection of the coronary arteries by observing the aortic valve in the lumen of the
-Oblique vein of left atrium
-Coronary sinus cardiac vein cardiac vein
-Posterior vein of left ventricle
-FIGURE 3.17
-Cardiac veins and coronary sinus. A. Anterior view.
-B. Posterior view.
-Oblique vein of left atrium
-Coronary sinus (ghosted)
-Great cardiac
-Middle cardiac vein (ghosted)
-Inferior vena cava
-Superior vena cava
-
-### Clinical Correlation
-
-### Coronary Arteries
-In approximately 75% of hearts, the right coronary artery gives rise to the posterior interventricular branch and supplies the left ventricular wall and posterior portion of the interventricu- lar septum. In approximately 15% of hearts, the left coronary artery gives rise to the posterior interventricular branch. Other
-variations account for 10%.
-Dissection Follow-up
-**1.** Review the borders of the heart.
-**2.** On the surface of the heart, review the boundaries of
-the four chambers.
-**3.** Review the coronary sulcus and interventricular sulci of
-the heart and the vessels that course within these sulci.
-**4.** Trace a drop of blood from the right aortic sinus to the
-coronary sinus, naming all vessels that are involved.
-**5.** Trace a drop of blood from the left aortic sinus to the apex of the heart and its venous return to the coronary
-sinus, naming all vessels that are involved.
-
-### Internal Features Of The Heart
-Dissection Overview
-The atria and ventricles of the heart will be opened and their internal features will be studied. The cuts that will be used are designed to preserve most of the vessels that you have previously dissected. The heart will contain clot- ted blood, which must be removed. The clots will be hard
-and may need to be broken before they can be extracted.
-The chambers will be dissected in the sequence that blood passes through the heart: right atrium, right ventricle, left atrium, and left ventricle. All descriptions are based
-on the heart in the anatomical position.
-Dissection Instructions
-*Right Atrium Grant's Atlas 62 | LWW Atlas 184 | Netter's 214 | Color Atlas 258 | Clemente's 182*
-**1.** The cuts used to open the right atrium are illus-
-trated in FIGURE 3.19.
-**2.** Use scissors to make a cut through the tip of the right auricle. Insert one blade of the scissors through the opening and make a short horizontal
-cut toward the right (FIG. 3.19, cut 1).
-**3.** Turn the scissors and cut through the anterior wall of the right atrium in an inferior direction. Stop
-superior to the inferior vena cava (FIG. 3.19, cut 2).
-**4.** Make a horizontal cut toward the left, stopping just
-short of the coronary sulcus (FIG. 3.19, cut 3).
-artery reaches the posterior interventricular sul- cus, it gives rise to the posterior interventricu- lar branch. The posterior interventricular branch courses along the posterior interventricular sulcus to the apex of the heart, where it anastomoses with the anterior interventricular branch of the left cor- onary artery. The posterior interventricular branch
-accompanies the middle cardiac vein.
-**10.** Note that the artery to the atrioventricular node arises from the right coronary artery at the crux of the heart, which is the point where the posterior interventricular sulcus meets the coronary sulcus
-(FIG. 3.18B).
-Anterior right atrial branch
-Sinuatrial (SA) nodal branch
-Right marginal branch of right coronary artery
-Anterior interventricular branch (left anterior descending) of left coronary artery
-Left marginal
-Circumflex branch of left coronary artery
-Left auricle (ghosted)
-Left coronary artery (ghosted)
-Pulmonary trunk
-Ascending aorta
-Right auricle
-Posterior left ventricular
-Right pulmonary
-Crux of heart
-Posterior interventricular branch (posterior descending) of right coronary artery
-Circumflex branch of left coronary
-Site of AV node
-Atrioventricular (AV) nodal branch
-Right coronary
-artery (ghosted)
-Left coronary artery
-Sinuatrial (SA) nodal branch
-FIGURE 3.18
-Coronary arteries and their branches. A. Anterior view.
-B. Posterior view.
-
-## The Thorax
-
-### Clinical Correlation
-
-### Fossa Ovalis
-The fossa ovalis is the remnant of the foramen ovale. In fetal life, blood from the placenta is delivered to the heart by way of the inferior vena cava. This oxygen-rich and nutrient-rich blood is directed toward the foramen ovale, which allows pas- sage into the left atrium and out to the body without passing
-through the lungs.
-Aortic valve
-Pulmonary valve
-Cut for left
-Cuts for right right atrium
-FIGURE 3.19
-Cuts used to open the right atrium, right ventricle, and left
-ventricle of the heart.
-FIGURE 3.20
-Interior of the right atrium showing approximate locations of
-the sinuatrial and atrioventricular nodes. Anterior wall reflected to the left.
-Superior vena cava
-Pectinate muscles
-Crista terminalis
-Opening of right atrioventricular valve coronary sinus
-Inferior vena cava
-Valve of inferior
-Fossa ovalis
-Limbus fossa ovalis atrioventricular node
-Sinuatrial node
-**5.** Turn the fl ap of the atrial wall toward the left and open the right atrium widely (FIG. 3.20). Remove blood clots and take the heart to the sink to rinse it
-with water.
-**6.** Observe the inner surface of the anterior wall of
-the right atrium. Identify (FIG. 3.20):
-- Pectinate muscles-horizontal ridges of muscle
-- Crista terminalis-a vertical ridge of muscle that connects the pectinate muscles
-**7.** Observe the posterior wall of the right atrium.
-Identify (FIG. 3.20):
-- Opening of the superior vena cava
-- Opening and valve of the inferior vena cava
-- Opening and valve of the coronary sinus
-- Fossa ovalis and the limbus fossa ovalis
-(L. limbus, a border).
-**8.** Parts of the conducting system of the heart are located in the walls of the right atrium, but can- not be seen in dissection. Familiarize yourself with their approximate locations in the dissected speci- men (FIG. 3.20). The sinuatrial node (SA node) lies at the superior end of the crista terminalis at the junction between the right atrium and the superior vena cava. The atrioventricular node (AV node) is located in the interatrial septum, above the opening
-of the coronary sinus.
-**9.** Identify the opening of the right atrioventricular
-valve, which leads into the right ventricle.
-*Right Ventricle Grant's Atlas 63 | LWW Atlas 184 | Netter's 214 | Color Atlas 261 | Clemente's 182*
-**1.** The cuts used to open the right ventricle are illus-
-trated in FIGURE 3.19.
-**2.** Insert your fi nger into the pulmonary trunk and determine the level of the pulmonary valve. Im- mediately inferior to the level of the pulmonary valve, use scissors to make a short horizontal cut through the anterior wall of the right ventricle
-(FIG. 3.19, cut 4).
-**3.** Insert one blade of the scissors into the right end of cut 4 and make a cut parallel to the coronary sulcus (FIG. 3.19, cut 5). This cut should be about 1 cm from the coronary sulcus and should end at the in- ferior border of the heart. Cut only the ventricular
-wall, not the atrioventricular valve cusp.
-**4.** Insert your fi nger through the opening in the ventricular wall and palpate the interventricular septum. From the left end of cut 4, make a cut to- ward the inferior border of the heart (FIG. 3.19, cut
-6). This cut should be about 2 cm to the right of the anterior interventricular sulcus and should parallel
-the right side of the interventricular septum.
-**5.** Turn the fl ap of the right ventricular wall inferiorly
-(FIG. 3.21).
-**6.** Remove blood clots. Use care to avoid damaging the chordae tendineae. Rinse the right ventricle
-with water.
-**12.** Identify the opening of the pulmonary trunk
-(FIG. 3.21). The conus arteriosus (infundibulum) is the cone-shaped portion of the right ventricle in- ferior to the opening of the pulmonary trunk. The
-inner wall of the conus arteriosus is smooth.
-**13.** Observe that the pulmonary valve consists of three semilunar cusps: anterior, right, and left
-(FIG. 3.21). Grant's Atlas 66 | LWW Atlas 184 | Netter's 216 | Color Atlas 259 | Clemente's 176
-**14.** Look into the pulmonary trunk from above and examine the superior surface of the semilunar valve. Observe that each semilunar valve cusp has one fi brous nodule and two lunules. The nodule and lunules help to seal the valve cusps and prevent
-backfl ow of blood during diastole.
-*Left Atrium Grant's Atlas 64 | LWW Atlas 185 | Netter's 215 | Color Atlas 258 | Clemente's 184*
-**1.** Examine the posterior surface of the heart. Ob- serve the openings of the four pulmonary veins into the left atrium. The pulmonary veins are usu- ally arranged in pairs, two from the right lung and
-two from the left lung.
-**2.** The cut used to open the left atrium is illustrated in
-FIGURE 3.22A.
-**3.** Use scissors to make an inverted U-shaped cut through the posterior wall of the left atrium. Do not cut into the openings of the pulmonary veins; cut
-between them. Turn the fl ap inferiorly (FIG. 3.22B).
-**7.** Identify the opening of the right atrioventricular valve. The right atrioventricular valve is also called
-the tricuspid valve. Observe that the right atrio-
-ventricular valve has three cusps: anterior, septal,
-and posterior (FIG. 3.21).
-**8.** Identify the chordae tendineae. Observe that these delicate tendons pass from the valve cusps to the apices of papillary muscles. The papil- lary muscles arise from the walls of the right
-**9.** Identify the three papillary muscles: anterior, septal, and posterior. The anterior papillary mus- cle is the largest. The septal papillary muscle is very small and may be multiple. Note that the chordae
-tendineae of each papillary muscle attach to the ad-
-jacent sides of two valve cusps.
-**10.** Observe that the inner surface of the wall of the right ventricle is roughened by muscular ridges
-called trabeculae carneae (L. trabs, wooden beam;
-carneus, fl eshy).
-**11.** Identify the septomarginal trabecula (moderator band). The septomarginal trabecula extends from the interventricular septum to the base of the ante- rior papillary muscle. The septomarginal trabecula contains part of the right bundle of the conducting
-system, the part that stimulates the anterior papil-
-lary muscle.
-Pulmonary trunk
-Conus arteriosus
-Septal papillary muscle
-Interventricular septum
-Septomarginal
-Anterior papillary muscle
-Trabeculae carneae
-Superior vena cava
-Right auricle
-Right atrium
-Right atrioventricular
-Anterior cusp
-Septal cusp
-Posterior cusp
-Chordae tendineae
-Posterior papillary muscle
-FIGURE 3.21
-Interior of the right ventricle. Anterior wall reflected inferiorly.
-
-## The Thorax
-Left pulmonary foramen ovale
-Right pulmonary
-Left atrium
-Posterior wall of left atrium
-(reflected)
-Left auricle
-Left ventricle
-Coronary sinus
-Left pulmonary
-Pulmonary trunk
-Left pulmonary
-Superior vena cava
-Right pulmonary
-Inferior vena cava
-Cut for left atrium
-FIGURE 3.22
-The left atrium of the heart. A. Cuts used to open the left
-atrium. B. Interior of the left atrium. Posterior wall reflected inferiorly.
-Opening of right coronary artery
-Right cusp of aortic valve
-Interventricular
-Pulmonary trunk
-Left ventricle
-Apex of heart
-Trabeculae carneae
-Posterior papillary muscle
-Anterior papillary
-Chordae tendineae
-Left cusp of aortic valve
-Aortic sinus
-(behind valve cusp)
-Anterior cusp of left atrioventricular valve
-Left atrioventricular
-Posterior cusp of left atrioventricular valve
-Opening of left coronary artery
-Posterior cusp of aortic valve:
-Ascending aorta (opened)
-Membranous part
-Muscular part
-FIGURE 3.23
-Interior of the left ventricle. Oblique view.
-**4.** Remove blood clots and rinse with water.
-**5.** Note that the inner surface of the wall of the left atrium is smooth except for its auricle, which has a
-rough inner surface.
-**6.** Observe the following features in the left atrium
-(FIG. 3.22B):
-- Valve of the foramen ovale on the interatrial
-- Opening into the left auricle
-- Opening of the left atrioventricular valve
-*Left Ventricle Grant's Atlas 65 | LWW Atlas 185 | Netter's 215 | Color Atlas 258 | Clemente's 185*
-**1.** The cut used to open the left ventricle is illustrated in FIGURE 3.19. Note that the following procedure will cut the anterior interventricular branch of the
-left coronary artery and the great cardiac vein.
-**2.** Look into the aorta from above and identify the aortic valve. Identify three semilunar valve
-*cusps: right, left, and posterior. [G 66, 67; L 185;*
-N 216, 217; R 259; C 176]
-**3.** Insert one blade of the scissors between the left and
-right semilunar cusps (FIG. 3.19).
-**4.** Make a cut through the anterior wall of the as- cending aorta between the left and right semilunar cusps (FIG. 3.19, cut 7). This cut should be anterior
-and parallel to the left coronary artery.
-**5.** Continue the cut to the apex of the heart. The cut should be about 2 cm to the left of the anterior interventricular sulcus and should be parallel to the left side of the interventricular septum. The cut will cross the anterior interventricular branch of the left coronary artery and the great cardiac
-**6.** Open the left ventricle and the ascending aorta widely
-(FIG. 3.23). Remove blood clots and rinse with water.
-**7.** In the left ventricle, identify the left atrioven-
-tricular valve (bicuspid valve, mitral valve).
-Identify the anterior cusp and the posterior cusp
-(FIG. 3.23).
-**8.** Identify the anterior papillary muscle and the posterior papillary muscle. Observe that the chordae tendineae of each papillary muscle attach
-to both valve cusps.
-**9.** Observe that the inner surface of the wall of the left
-ventricle is roughened by trabeculae carneae.
-**10.** Examine the aortic valve. Again identify its right, left, and posterior semilunar cusps. Observe that
-**7.** Use an illustration to review the conducting system of the heart and relate the illustration to the dissected
-
-### Superior Mediastinum
-Dissection Overview
-The superior mediastinum contains structures that pass be- tween the thorax and the neck or the thorax and the upper limb. These structures include several of the great vessels and their primary branches, the trachea, the esophagus, and
-the thoracic duct.
-The order of dissection will be as follows: The brachioce- phalic veins will be studied and reflected superiorly to expose the aortic arch. The aortic arch and its branches will be dis- sected. Note that only the proximal ends of some of the large vessels will be seen in this dissection. The distal parts of these vessels will be dissected with the neck or the upper limb. The trachea and its bifurcation will be studied. The upper part of
-the esophagus and the vagus nerves will be dissected.
-Dissection Instructions
-**1.** Review the boundaries of the superior mediasti-
-num (FIG. 3.13).
-- Superior-superior thoracic aperture
-- Posterior-bodies of vertebrae T1 to T4
-- Anterior-manubrium of the sternum
-- Lateral-mediastinal pleurae (left and right)
-- Inferior-plane of the sternal angle
-**2.** Remove the anterior thoracic wall.
-**3.** Identify the thymus [G 68-71; L 177; N 206; R 268].
-In the newborn, the thymus is an active lymphatic
-organ that can be visualized on a chest radiograph.
-The thymus is replaced by connective tissue and fat after puberty. In the adult, the thymus is a fatty
-mass that lies immediately posterior to the manu-
-brium of the sternum. It may be diffi cult to recog-
-nize the thymus in the cadaver.
-**4.** Remove the remnant of the thymus by blunt dis-
-**5.** Trace the superior vena cava superiorly until it bifurcates. Identify the left brachiocephalic vein (FIG. 3.24). Use blunt dissection to clean the left brachiocephalic vein and free it from the structures
-that lie posterior to it.
-**6.** Identify the right brachiocephalic vein. The two brachiocephalic veins meet to form the superior vena cava posterior to the inferior border of the
-right fi rst costal cartilage.
-**7.** Follow the superior vena cava inferiorly. Note that the superior vena cava passes anterior to the root of
-*the right lung. Grant's Atlas 82 | LWW Atlas 179 | Netter's 224 | Color Atlas 280 | Clemente's 166* each semilunar valve cusp has one nodule and two
-**11.** Palpate the muscular part of the interventricu- lar septum. Place the thumb of your right hand in the right ventricle and your index fi nger in the left ventricle and palpate the thickness of the muscular
-part of the interventricular septum.
-**12.** Move your thumb and index fi nger superiorly along the interventricular septum and palpate the thin membranous part of the interventricular septum. It is located inferior to the attachment of
-the right cusp of the aortic valve.
-**13.** In the aorta, observe the openings of the coronary
-arteries and study their relationship to the semilu-
-nar valve cusps and the aortic sinuses. The poste- rior cusp is also called the noncoronary cusp be- cause there is no coronary artery arising from its
-**14.** Use an illustration to study the conducting  system
-*of the heart. Grant's Atlas 60 | LWW Atlas 187 | Netter's 219 | Color Atlas 261 | Clemente's 188*
-Recall that the SA node is in the wall of the right atrium, at the superior end of the crista termina- lis near the superior vena cava. Impulses from the
-SA node pass through the wall of the right atrium
-to the AV node. Impulses that originate in the AV
-node pass in the AV bundle through the membra- nous part of the interventricular septum. Subse- quently, the AV bundle divides into right and left bundles, which lie on either side of the muscular part of the interventricular septum and stimulate
-the ventricles to contract.
-Dissection Follow-up
-**1.** Review the internal features of each of the chambers of
-**2.** Replace the heart into the thorax in its correct ana- tomical position. Return the anterior thoracic wall to its anatomical position. Use an illustration, a textbook description, and the dissected specimen to project the
-heart valves to the surface of the anterior thoracic wall.
-**3.** Read a description of the auscultation point used to lis- ten to each heart valve. Locate each auscultation point on the anterior thoracic wall, and then lift the anterior
-thoracic wall to observe the location of the ausculta-
-tion point relative to the heart.
-**4.** Review the course of blood as it passes through the heart, beginning in the superior vena cava and ending in the ascending aorta. In the correct sequence, name all of
-the chambers and valves that the blood passes through.
-**5.** Review the blood supply to the heart. Trace a drop of blood from the left coronary artery and the right coro- nary artery to the coronary sinus, naming all vessels
-**6.** Review the connections of the great vessels to the heart.
-
-## The Thorax the concavity of the arch of the aorta to the left
-pulmonary artery (FIG. 3.24).
-**14.** Identify the left vagus nerve and the left recur- rent laryngeal nerve on the left side of the arch of the aorta (FIG. 3.24). Follow the left vagus nerve in- feriorly and note that it passes posterior to the root of the left lung toward the esophagus.  Review the relationship of the left recurrent laryngeal nerve to
-the ligamentum arteriosum.
-**15.** On the right side, note that the right vagus nerve passes posterior to the root of the right lung (FIG. 3.25). The right recurrent laryngeal nerve
-**8.** Identify the azygos vein on the right side of the mediastinum. The arch of the azygos vein passes superior to the root of the right lung and drains
-into the posterior surface of the superior vena cava.
-**9.** Cut the superior vena cava just superior to the entrance of the azygos vein. Reflect the superior vena cava and the attached brachiocephalic veins
-supe riorly.
-**10.** Identify the right phrenic nerve and the left phrenic nerve that pass posterior to the brachio- cephalic veins (FIG. 3.24). The phrenic nerves were
-previously dissected in the middle mediastinum.
-Note that the right and left phrenic nerves pass
-anterior to the roots of the right and left lungs, re- spectively. Demonstrate that the phrenic nerves ac- company the pericardiacophrenic vessels and that
-they enter the superior surface of the diaphragm.
-**11.** Identify the arch of the aorta (FIG. 3.24). The arch
-of the aorta begins and ends at the level of the ster-
-*nal angle. Grant's Atlas 83 | LWW Atlas 179 | Netter's 225 | Color Atlas 281 | Clemente's 167*
-**12.** Identify the three arteries that arise from the arch of the aorta (FIG. 3.24). From anterior to posterior
-these arteries are:
-- Brachiocephalic trunk
-- Left common carotid artery
-- Left subclavian artery
-**13.** Identify the ligamentum arteriosum. The liga- mentum arteriosum is a fi brous cord that connects
-Right phrenic nerve
-Right vagus nerve
-Right recurrent laryngeal nerve
-Right subclavian artery and vein
-Brachiocephalic trunk
-Right and left brachiocephalic veins
-Superior vena cava
-Azygos vein
-Right internal jugular vein and right common carotid artery
-Thoracic aorta
-Pulmonary trunk
-Arch of aorta
-Left recurrent laryngeal nerve
-Left subclavian artery and vein
-Esophageal plexus
-Left phrenic nerve
-Thoracic duct
-Left phrenic nerve
-Left common carotid artery and left internal jugular vein
-Left vagus nerve
-Right phrenic nerve
-FIGURE 3.24
-Relationships of the phrenic nerves and the vagus nerves
-to the great vessels in the superior mediastinum.
-
-### Clinical Correlation
-
-### Left Recurrent Laryngeal Nerve
-The left recurrent laryngeal nerve has a close relationship to the aortic arch and passes through the superior medi- astinum. In cases of mediastinal tumors or an aneurysm of the aortic arch, the left recurrent laryngeal nerve may be compressed, resulting in paralysis of the left vocal fold and
-hoarseness.
-Dissection Follow-up
-**1.** Replace the contents of the superior mediastinum into
-their correct anatomical positions.
-**2.** Return the anterior thoracic wall to its correct ana- tomical position. Project the structures of the superior
-mediastinum to the surface of the thoracic wall.
-**3.** Remove the anterior thoracic wall.
-**4.** Review the formation of the superior vena cava and the
-position of the arch of the azygos vein.
-**5.** Review the position of the ascending aorta and the po-
-sition of the arch of the aorta.
-**6.** Review the branches of the arch of the aorta.
-**7.** Compare the positions of the phrenic and vagus nerves
-to the root of the lung.
-**8.** Contrast the thoracic course of the left recurrent laryn- geal nerve to the thoracic course of the right  recurrent (a branch of the right vagus nerve) loops around
-the right subclavian artery.
-**16.** Identify the trachea. Note that the esophagus lies
-posterior to the trachea in the superior mediasti-
-num, but do not attempt to dissect it.
-**17.** Identify the bifurcation of the trachea. The tra- chea bifurcates at the plane of the sternal angle to form the right main bronchus and the left main bronchus. Note that the arch of the azygos vein passes superior to the right main bronchus and the arch of the aorta passes superior to the left main
-bronchus (FIG. 3.25).
-**18.** Look for tracheobronchial lymph nodes located
-around the trachea near its bifurcation.
-**19.** Palpate the anterior and posterior surfaces of the trachea near its bifurcation. Observe that the tra- cheal rings are C-shaped and that the open part of
-the "C" is located posteriorly.
-**20.** Observe that the esophagus is located posterior to the trachea in close relationship to the open part of
-the tracheal cartilages.
-**21.** Compare the right and left main bronchi. Observe that the right main bronchus is larger in diameter, shorter, and oriented more vertically than the left
-main bronchus.
-**22.** Use a fi gure to study the inner surface of the tra- cheal bifurcation. Inside the tracheal bifurcation is a ridge of cartilage called the carina (L. carina, keel
-of a boat).
-Right vagus nerve
-Root of right lung
-Arch of azygos vein
-Azygos vein
-Thoracic duct
-Right recurrent laryngeal nerve
-Left recurrent laryngeal nerve
-Esophageal plexus
-Root of left lung
-Cardiac plexus
-Anterior and posterior vagal trunks
-Left vagus nerve
-FIGURE 3.25
-Branches of the arch of the aorta. The major veins have
-been removed.
-
-### Clinical Correlation
-
-### Bifurcation Of The Trachea
-During bronchoscopy, the carina serves as an important land- mark because it lies between the superior ends of the right and left main bronchi. The carina is usually positioned slightly to the left of the median plane of the trachea. When foreign bodies are aspirated, they usually enter the right main bronchus because it
-is wider and more vertically oriented than the left main bronchus.
-
-## The Thorax
-- Anterior-pericardium
-- Lateral-mediastinal pleurae (left and right)
-- Inferior-diaphragm
-**2.** Review the inner surface of the posterior wall of
-the pericardium (FIG. 3.16).
-**3.** Place the heart back into the pericardium. From the right side of the thorax, examine the relation- ship of the heart to the esophagus. Note that the esophagus lies immediately posterior to the left atrium and part of the left ventricle. Remove the
-**4.** Remove the posterior wall of the pericardium in the
-area of the oblique pericardial sinus (FIG. 3.26).
-Identify the esophagus. The esophagus is a mus-
-cular tube that sits just to the right of the midline.
-To the left and slightly posterior to the esophagus
-is the thoracic aorta.
-**5.** Use blunt dissection to remove the remainder of the posterior wall of the pericardium. Leave the portion adhering to the diaphragm undisturbed. Use scissors to cut the pericardium at its attachments to the great vessels and diaphragm, and place the pericardium in
-*the tissue container. Grant's Atlas 84 | LWW Atlas 196 | Netter's 226 | Color Atlas 274 | Clemente's 202*
-**6.** Use blunt dissection to clean the esophagus. Note that the surface of the esophagus is covered by the esophageal plexus of nerves (FIG. 3.26). The esophageal plexus innervates the inferior portion of
-the esophagus.
-Right main bronchus
-(retracted)
-Right pulmonary veins
-Mediastinal
-plura (cut)
-Azygos vein
-Left pulmonary veins
-Superior vena cava
-Posterior intercostal veins and arteries
-Inferior vena cava
-Thoracic duct
-Esophageal plexus on esophagus
-Left lung (retracted)
-Phrenic nerve and pericardiacophrenic
-Thoracic aorta
-Pericardium (cut edge)
-Pulmonary trunk
-Aortic arch
-Left main bronchus
-FIGURE 3.26
-Structures located posterior to the heart and pericardium.
-The pericardium has been removed.
-laryngeal nerve. Relate this difference to the embry-
-onic origin of the arteries.
-
-### Posterior Mediastinum
-Dissection Overview
-The posterior mediastinum contains structures that course between the thorax and the abdomen. The posterior me- diastinum lies posterior to the pericardium. To emphasize their close relationship to the heart, the structures in the posterior mediastinum will be approached through the
-posterior wall of the pericardium.
-The order of dissection will be as follows: The peri- cardium will be reviewed and its posterior wall will be re- moved. The close relationship of the pericardium to the esophagus will be studied and then the pericardium will be removed. The esophagus will be studied. The azygos vein and its tributaries will be studied. The thoracic duct will be identifi ed. Then, the descending aorta and its branches
-will be dissected. Finally, the thoracic portion of the sympa-
-thetic trunk and its branches will be dissected.
-Dissection Instructions
-**1.** Review the boundaries of the posterior medias-
-tinum (FIG. 3.13):
-- Superior-plane of the sternal angle
-- Posterior-bodies of vertebrae T5 to T12
-**7.** Find the right vagus nerve where it crosses the anterior surface of the right subclavian artery (FIG. 3.25). Follow it posterior to the root of the right lung. Confi rm that the fi bers of the right  vagus
-nerve spread out on the surface of the esophagus.
-**8.** Identify the left vagus nerve as it crosses the left side of the arch of the aorta (FIG. 3.25). Follow the left vagus nerve posterior to the root of the left lung and confi rm that its fi bers contribute to the
-esophageal plexus.
-**9.** Note that the esophageal plexus forms the ante- rior vagal trunk and the posterior vagal trunk just supe rior to the diaphragm (FIG. 3.25). The vagal trunks are found on the inferior part of the esoph- agus just before it passes through the diaphragm and, due to the curvature of the diaphragm, they
-may not be visible at this stage of the dissection.
-The vagal trunks pass through the diaphragm with
-the esophagus and innervate a large part of the gas-
-trointestinal tract.
-**10.** Identify the azygos vein where it arches superior
-to the root of the right lung (FIGS. 3.25 and 3.27).
-Clean the azygos vein and follow it inferiorly to the level of the diaphragm. Note that the posterior intercostal veins on the right side are  tributaries
-*to the azygos vein. [G 80; L 194, 198; N 232; R 279;*
-**11.** Identify the thoracic duct (FIG. 3.27). To fi nd the thoracic duct, retract the esophagus to the left and explore the area between the azygos vein and the thoracic aorta. The thoracic duct lies immediately to the left of the azygos vein and it is posterior to the esophagus. The thoracic duct is thin walled and easily torn. It has the appearance of a small vein
-*without blood in it. Grant's Atlas 78 | LWW Atlas 199 | Netter's 295 | Color Atlas 277 | Clemente's 203*
-**12.** Use a probe to free the thoracic duct from the surrounding connective tissue. The thoracic duct may be a network of several smaller ducts instead of a single duct. Inferiorly, the thoracic duct passes through the diaphragm with the thoracic aorta. Su- periorly, the thoracic duct terminates by draining into the junction of the left internal jugular vein and left subclavian vein (FIG. 3.27). Do not attempt
-to demonstrate its termination at this time.
-**13.** Note that the thoracic duct crosses the anterior
-surface of the right posterior intercostal arteries,
-the hemiazygos vein, and the accessory hemia-
-zygos vein.
-**14.** On the left side of the posterior mediastinum, observe that the left posterior intercostal veins drain into the hemiazygos vein or accessory hemiazygos vein. The hemiazygos and accessory hemiazygos veins cross the bodies of the eighth and ninth thoracic vertebrae, respectively, and
-Arch of azygos vein
-Azygos vein
-Right posterior intercostal veins hemiazygos vein
-Superior vena cava
-Sympathetic trunk
-Thoracic splanchnic
-Thoracic duct
-Subcostal vein (cut)
-Esophageal veins
-Hemiazygos vein
-Innermost intercostal
-Left posterior intercostal veins
-Thoracic aorta
-Thoracic duct
-Left brachiocephalic vein
-Left superior intercostal vein
-FIGURE 3.27
-Contents of the posterior mediastinum. The esophagus and diaphragm have been removed and the thoracic aorta is ghosted to expose the
-veins and thoracic duct.
-
-## The Thorax
-**22.** Use a probe to dissect the greater splanchnic
-nerve on both the right and left sides (FIG. 3.27).
-Note that the greater splanchnic nerve receives contributions from the fi fth through the ninth thoracic sympathetic ganglia and that it is not completely formed until lower thoracic levels. As an aid to identifi cation, observe that the greater splanchnic nerve is found on the sides of vertebral bodies T5 to T9, whereas the sympathetic trunk crosses the heads of ribs 5 to 9 (i.e., the sympa- thetic trunk is located posterior to the greater
-splanchnic nerve).
-**23.** The lesser splanchnic nerve arises from the 10th and 11th thoracic sympathetic ganglia. The least splanchnic nerve arises from the 12th thoracic sympathetic ganglion (FIG. 3.27). Due to the curva- ture of the diaphragm, these two nerves cannot be
-seen at this time.
-Dissection Follow-up
-**1.** Review the boundaries of the anterior, middle, and
-posterior mediastina.
-**2.** Study a transverse section through the midlevel of the thorax and identify the contents of the posterior mediastinum. Note the relationship of the contents of the posterior mediastinum to the heart and vertebral
-**3.** Review the course and function of an intercostal nerve,
-naming all structures that it innervates.
-**4.** Review the parts of the aorta (ascending, arch,  thoracic),
-naming all branches and describing their distribution.
-**5.** Review the origin and course of the right and left pos-
-terior intercostal arteries.
-**6.** Name the structures in the posterior mediastinum that cross anterior to the right posterior intercostal terminate by draining into the azygos vein. Note
-that variations of the azygos system are common.
-**15.** Examine the branches of the thoracic aorta.
-**16.** Identify the esophageal arteries and the left bronchial arteries. These small arteries are un- paired vessels that arise from the anterior surface of the aorta. They are distinguished by their area of
-distribution.
-**17.** Dissect one pair of posterior intercostal arteries (right and left). Follow them to their intercostal space. The right posterior intercostal arteries cross the midline on the anterior surface of the vertebral bodies. Note that the right posterior intercostal arteries pass posterior to all other contents of the
-posterior mediastinum.
-**18.** On both sides of the thorax, identify and clean one intercostal nerve. Follow it laterally until it dis- appears posterior to the innermost intercostal
-**19.** On both sides of the thorax, identify the sympa- thetic trunk. Starting high in the thorax, follow the sympathetic trunk inferiorly and observe that
-it crosses the heads of ribs 2 to 9. Inferior to rib 9,
-observe that the sympathetic trunk lies more ante-
-riorly, on the sides of the thoracic vertebral bod-
-*ies. Grant's Atlas 84 | LWW Atlas 194 | Netter's 234 | Color Atlas 280 | Clemente's 206*
-**20.** Observe that the sympathetic trunk has one sym- pathetic ganglion for each thoracic vertebral level
-(FIG. 3.27).
-**21.** Demonstrate that two rami communicantes (white ramus communicans, gray ramus com- municans) connect each intercostal nerve with
-its corresponding thoracic sympathetic ganglion.
-During dissection, it is impossible to distinguish white and gray rami from each other based on col- or. However, the more lateral of the two rami is the
-white ramus communicans.
-
-### C H A P T E R
-ATLAS REFERENCES:
-G = Grant's Atlas, 13th ed., page number
-L = LWW Atlas of Anatomy, 1st ed., page number
-N = Netter's Atlas, 5th ed., plate number
-R = Color Atlas of Anatomy, 7th ed., page number
-C = Clemente's Atlas, 6th ed., plate number
-The abdomen is the portion of the trunk that lies between the thorax and the pelvis. The abdominal cavity is divided
-from the thoracic cavity by the diaphragm but it is continu-
-ous with the pelvic cavity. Viscera contained within the ab- dominal cavity are not bilaterally symmetrical. Therefore, it is worth noting that use of the words "right" and "left" in names and instructions refers to the right and left sides of
-the cadaver in the anatomical position.
-
-### Surface Anatomy
-Firm fi xation of tissues in the cadaver may make it dif- fi cult to distinguish between bony landmarks and well- fi xed soft tissue structures. Place the cadaver in the supine position and attempt to palpate the following structures
-(FIG. 4.1): Grant's Atlas 100 | LWW Atlas 213 | Netter's 240
-- Xiphoid process
-- Costal margin
-- Pubic symphysis
-- Pubic crest
-- Pubic tubercle
-- Anterior superior iliac spine
-- Tubercle of the iliac crest
-To prepare patient notes, you will need to understand the terminology used to describe the abdomen. The
-quadrant and regional systems are both in common use.
-The   quadrant system divides the abdomen by means of
-the transumbilical plane and the median plane (FIG. 4.2).
-The quadrant system is suitable for general descriptions and will be used to describe the position of organs in this dissection guide. The regional system divides the
-The Abdomen
-Xiphoid process
-Costal margin
-Tubercle of the iliac crest
-Anterior superior iliac spine
-Pubic tubercle
-Pubic crest
-Pubic symphysis
-Inguinal ligament
-FIGURE 4.1
-Surface anatomy of the abdomen.
-FIGURE 4.2
-The four abdominal quadrants.
-Transumbilical
-Left upper quadrant
-Left lower quadrant
-Right lower quadrant
-Right upper quadrant
-Median plane
-Dissection Instructions
-Skin Incisions
-**1.** Refer to FIGURE 4.5.
-**2.** Make a midline skin incision from the xiphisternal junction (C) to the pubic symphysis (E), encircling
-the umbilicus.
-**3.** Make an incision from the xiphoid process (C)
-along the costal margin to a point on the midaxil-
-lary line (V). If the thorax has been dissected previ-
-ously, this incision has been made.
-**4.** Make a skin incision beginning 3 cm below the pubic crest (E). Extend this incision laterally, 3 cm inferior to the inguinal ligament to a point 3 cm below the anterior superior iliac spine. Continue the incision posteriorly, 3 cm below the iliac crest
-to a point on the midaxillary line (F).
-**5.** Make a vertical skin incision along the midaxillary
-line from point V to point F.
-**6.** Make a transverse skin incision from the umbilicus
-to the midaxillary line.
-**7.** Reflect the skin from medial to lateral, detach it along
-the midaxillary line, and place it in the tissue container.
-Superfi cial Fascia
-**1.** Use a probe to tear through the superficial fascia about 7.5 cm lateral to the midline (FIG. 4.6). The superficial epigastric artery and vein are in the
-superficial fascia in this area, but do not make a spe-
-cial effort to fi nd them.
-**2.** Dissect through the superficial fascia down to the aponeurosis of the external oblique muscle. On the medial side of the cut, use your fi ngers to separate the superficial fascia from the aponeurosis of the exter- nal oblique muscle (FIG. 4.6, arrow 1). As you remove the superficial fascia, observe that its deep  surface is
-abdomen based on the right and left midclavicular lines,
-the subcostal plane, and the transtubercular plane (FIG. 4.3).
-Clinical complaints may be more specifi cally described us-
-ing the regional  system.
-
-### Superficial Fascia Of The
-
-### Anterolateral Abdominal Wall
-Dissection Overview
-The contents of the abdominal cavity are protected by the anterolateral abdominal wall. The organization of the lay- ers forming the anterolateral abdominal wall is illustrated in FIGURE 4.4. The superficial fascia is unique in this region
-in that it has a superficial fatty layer called Camper's fas-
-cia and a deep membranous layer called Scarpa's fascia.
-The membranous layer is noteworthy because it attaches to the fascia lata of the thigh and is continuous with named
-*fascias in the perineum. Grant's Atlas 109 | LWW Atlas 218 | Netter's 246 | Color Atlas 213 | Clemente's 230*
-FIGURE 4.3
-The nine abdominal regions.
-Right hypochondriac
-Midclavicular
-Left hypochondriac
-Left lumbar
-Left inguinal
-Hypogastric
-Right inguinal
-Transtubercular
-Right lumbar
-Subcostal plane
-FIGURE 4.4
-Layers of the anterior abdominal wall.
-Superficial fascia:
-Fatty layer (Camper's)
-Membranous layer
-External oblique m.
-Internal oblique m.
-Transversus abdominis m.
-Transversalis fascia
-Extraperitoneal fascia
-Parietal peritoneum
-FIGURE 4.5
-Skin incisions.
-
+> **Atlas 參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
 
 ---
 
-*Atlas References: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+## 骨骼概觀
+
+檢視胸椎辨識以下結構（圖 3.3）：[G 12; L 161; N 180; R 193; C 132]
+- **椎體（Body of vertebra）**
+- **橫突（Transverse process）**
+- **關節突（Articular processes）**
+- **橫突肋骨關節面（Transverse costal facet）**—與肋骨結節關節
+- **肋骨凹頭關節面（Articular facets for vertebral bodies）**—與肋骨頭關節
+
+### 肋骨與軟骨
+
+肋骨分為典型肋骨與非典型肋骨（圖 3.2）：
+- **典型肋骨（第 3 至 9 肋）**具有以下特徵：肋骨頭、肋骨頸、肋骨角、肋骨溝
+- **非典型肋骨（第 1、2、10、11、12 肋）**各有其特異之處
+
+肋骨的關節：
+- 肋骨頭通常與兩個椎體及其椎間盤關節（例如：第 5 肋骨頭關節於 T4 與 T5 椎體）
+- 肋骨結節與同節胸椎橫突的橫突肋骨關節面關節
+- 每一肋骨的前端附有**肋軟骨（costal cartilage）**
+
+肋骨依其肋軟骨與胸骨的連接方式分類（圖 3.4）：
+- **真肋（True ribs，第 1 至 7 肋）**—肋軟骨直接附著於胸骨
+- **假肋（False ribs，第 8 至 12 肋）**—肋軟骨不直接附著於胸骨
+  - 第 8 至 10 肋軟骨附著於其上方肋骨的軟骨
+  - 第 11、12 肋為**浮動肋（floating ribs）**，不附著於任何骨骼結構
+
+### 胸骨
+
+檢視胸骨辨識以下結構（圖 3.4）：[G 14; L 163; N 180; R 193; C 141]
+- **胸骨上切跡（Jugular/suprasternal notch）**
+- **胸骨柄（Manubrium）**
+- **胸骨角（Sternal angle）**—第 2 肋軟骨附著處，相當於 T4/T5 椎間盤高度
+- **胸骨體（Body）**
+- **劍突（Xiphoid process）**
+
+### 肩胛骨
+
+檢視肩胛骨辨識以下結構（圖 3.4）：[G 487; L 32; N 179; R 189; C 112]
+- **肩峰（Acromion）**
+- **喙突（Coracoid process）**
+
+觀察：
+- 鎖骨內側端與胸骨柄關節（**胸鎖關節 sternoclavicular joint**）
+- 鎖骨外側端與肩峰關節（**肩鎖關節 acromioclavicular joint**）
+
+### 胸廓的兩個開口
+
+胸廓有兩個開口（圖 3.4）：
+
+**上胸廓開口（Superior thoracic aperture / thoracic inlet）：**
+- 境界：胸骨柄、第一胸椎體、左、右第一肋
+- 結構（如氣管、食道、迷走神經、胸導管、主要血管）經此通過頸部與上肢
+
+**下胸廓開口（Inferior thoracic aperture / thoracic outlet）：**
+- 境界：劍突、肋骨緣、第 11、12 肋、T12 椎體
+- 橫膈附著於此並分隔胸腔與腹腔
 
 ---
-*Atlas: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+
+## 胸區（Pectoral Region）
+
+胸區的解剖步驟見第 2 章 Upper Limb。若在解剖上肢前先解剖胸區，則胸區必須此時解剖。請參閱第 26 至 30 頁完成該解剖後返回本頁。
 
 ---
-*Atlas: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+
+## 肋間隙與肋間肌（Intercostal Space and Intercostal Muscles）
+
+### 解剖概觀
+
+肋骨之間的間隙稱為**肋間隙（intercostal space）**。在活體及大體標本中，三層肌肉充滿肋間隙。由淺至深依次為：
+- **外部肋間肌（External intercostal muscle）**
+- **內部肋間肌（Internal intercostal muscle）**
+- **最內側肋間肌（Innermost intercostal muscle）**
+
+胸廓每側有 11 個肋間隙，依其上方肋骨編號（例如：第 4 肋間隙位於第 4 與第 5 肋之間）。
+
+### 解剖步驟
+
+**1.** 將**前鋸肌（Serratus anterior muscle）**自第 8、9 肋的近端附著處游離並側向翻開。
+
+**2.** 觸摸肋骨與肋間隙。自胸骨角（第 2 肋軟骨附著處）開始，依序辨識各肋間隙。
+
+**3.** 選擇第 4 肋間隙（介於第 4、5 肋之間）進行解剖。
+
+**4.** 辨識**外部肋間肌（圖 3.5）**。[G 21; L 166; N 183; R 207; C 148]
+   - 外部肋間肌附著於上位肋骨的下緣與下位肋骨的上緣
+   - 作用為**抬升下位肋骨**
+   - 注意：外部肋間肌纖維向下斜行，朝向正中線
+
+**5.** 辨識**外部肋間膜（external intercostal membrane）**，位於肋軟骨處的肋間隙前端。
+
+**6.** 在第 4 肋間隙胸骨外側緣，將探針插入外部肋間膜深層。沿探針方向，可見其通過外部肋間肌深層。
+
+**7.** 以探針為指引，用剪刀切割外部肋間肌，自肋骨上緣向下翻開至腋中線。
+
+**8.** 辨識**內部肋間肌（圖 3.5）**。
+   - 內部肋間肌附著於下位肋骨的上緣與上位肋骨的下緣
+   - 作用為**下壓上位肋骨**
+   - 注意：內部肋間肌纖維方向與外部肋間肌垂直
+
+**9.** 自胸骨外側緣起，將內部肋間肌自第 5 肋的附著處游離，繼續剝離至腋中線，向上翻開。
+
+**10.** 辨識第 4 肋間神經與第 4 後肋間動靜脈，位於第 4 肋下方。[G 22; L 170; N 185; R 214; C 10]
+    - 肋間神經與血管行走於內部肋間肌與最內側肋間肌之間的平面
+    - 最內側肋間肌與內部肋間肌的纖維方向、附著處和作用相同，但向前延伸較短
+
+**11.** 肋間神經與血管供應肋間肌、胸壁皮膚與壁層肋膜。參考圖 3.6 研究典型肋間神經的行程與分布。
+
+**12.** 肋間隙前端由**胸廓內動脈（internal thoracic artery）**的前肋間支供應。胸廓內動脈紧贴胸骨外側緣垂直走行。[G 24; L 167, 168; N 183; R 208; C 148]
+
+> **臨床重點**：肋間神經阻斷常用於胸壁手術的術後鎮痛。須注意神經的精確位置與行程。
+
+### 解剖複習
+
+**1.** 將內、外部肋間肌復位。
+
+**2.** 複習肋間隙內的肌肉及其作用（抬升與下壓肋骨以助呼吸）。
+
+**3.** 參考圖譜複習後肋間動脈與肋間神經的起源、行程與分支。
+
+**4.** 參照皮節圖比較皮節模式與肋間神經分布。[G 348; L 162; N 159; R 205; C 10]
+
+---
+
+## 胸廓前壁的移除（Removal of the Anterior Thoracic Wall）
+
+### 解剖概觀
+
+為觀察胸腔內容物，須移除胸廓前壁。本解剖的目標是移除附有壁層肋膜的胸壁，包括：
+- 兩側鎖骨的近端
+- 胸骨柄與胸骨體
+- 第 1 至 5 肋的前份與側份
+- 第 1 至 4 肋間隙的內容物
+
+### 解剖步驟 [G 767; L 308; N 27, 28; R 174; C 519]
+
+**1.** 將**胸大肌（Pectoralis major muscle）**側向翻開，**胸小肌（Pectoralis minor muscle）**向上翻開，**前鋸肌（Serratus anterior）**側向翻開。
+
+**2.** 用剪刀於胸骨上緣與鎖骨上表面附著處切斷**胸鎖乳突肌（Sternocleidomastoid muscle）**。用鈍性剝離游離該肌遠端 5 cm，向上翻開。
+
+**3.** 用手指將**舌骨下肌群（infrahyoid muscles）**向後推，撕裂其於胸骨深面的附著。
+
+**4.** 用鋸在鎖骨中點處切斷兩側鎖骨（圖 3.7，切割 1、2）。
+
+**5.** 在劍突關節（xiphisternal joint，相當於第 5 肋間隙高度）水平，用鋸横向切斷胸骨與肋軟骨（圖 3.7，切割 3）。鋸通過骨與軟骨即可，勿深入深層組織。
+
+**6.** 在兩側腋中線處用鋸或骨剪切斷第 1 至 5 肋。
+
+**7.** 用手術刀在第 1 至 5 肋間隙的腋中線處做一系列垂直切口，切開肌肉並切穿壁層肋膜。
+
+**8.** 用剪刀沿第 6 肋上緣切斷兩側的肋間肌與壁層肋膜。
+
+**9.** 輕輕抬起胸骨下端（連同切斷的肋軟骨與肋骨），在胸骨下端附近辨識左右**胸廓內血管（internal thoracic vessels）**，在第 5 胸肋關節處切斷。
+
+**10.** 繼續抬起胸廓前壁，用剪刀在壁層肋膜從胸廓內壁反折至縱隔處切斷。
+
+**11.** 在第 1 肋高度切斷胸廓內血管。移除前胸壁（胸廓內血管隨附）。
+
+**12.** 觀察前胸壁內表面，辨識**壁層肋膜（costal pleura）**。用鈍性剝離移除壁層肋膜。
+
+**13.** 辨識**胸橫肌（Transversus thoracis muscle）**。[G 25; L 168; N 184; R 206; C 147]
+    - 下方附著於胸骨，上方附著於第 2 至 6 肋軟骨
+    - 作用為**下壓肋骨**
+
+**14.** **胸廓內動脈與靜脈**位於胸橫肌與肋軟骨之間。
+
+**15.** 向下追蹤胸廓內動脈，辨識至少一支**前肋間支（anterior intercostal branch）**。注意在第 6 或第 7 肋軟骨後方，胸廓內動脈分為**上腹壁上動脈（superior epigastric artery）**與**肌膈動脈（musculophrenic artery）**。
+
+### 解剖複習
+
+**1.** 將前胸壁復位。
+
+**2.** 將前鋸肌復位。
+
+**3.** 將胸小肌復位，確保其近端附著於第 3、4、5 肋。
+
+**4.** 將胸大肌復位。
+
+**5.** 複習胸肌、前鋸肌與胸橫肌的附著處與作用。
+
+**6.** 複習胸廓內動脈從起源到分叉的行程並列舉其分支。
+
+> **臨床重點**：前胸壁與側胸壁的手術入路是胸腔內最常見的手術途徑。前入路在正中線縱切胸骨，不跨越主要血管，可良好暴露心臟。胸骨切口以不鏽鋼絲關閉。側入路則經肋間隙進入，以暴露肺臟或心臟後方的結構。
+
+---
+
+## 肋膜腔（Pleural Cavities）
+
+### 胸腔的兩個開口
+
+**上胸廓開口（Superior thoracic aperture / thoracic inlet）：**
+- 境界：胸骨柄、左、右第一肋、第一胸椎體
+- 結構通過此處在胸腔、頸部與上肢之間通行
+
+**下胸廓開口（Inferior thoracic aperture / thoracic outlet）：**
+- 境界：劍突關節、肋骨緣、第 11、12 肋、T12 椎體
+- 橫膈附著於形成下緣的結構上，分隔胸腔與腹腔
+
+### 胸腔的構成
+
+胸腔包含兩個肋膜腔（左、右）與**縱隔（mediastinum）**。兩側肋膜腔占據胸腔的側部，各容納一側肺臟。縱隔是位於兩側肋膜腔之間的區域，包含**心臟、主動脈、氣管、食道**及來往頭頸部的其他結構。[G 30; L 173; N 190; R 243; C 149]
+
+### 肋膜
+
+每個肋膜腔由名為**壁層肋膜（parietal pleura）**的漿膜襯裡（圖 3.8）。壁層肋膜依部位命名：
+- **肋骨肋膜（Costal pleura）**—襯裡胸廓內表面
+- **縱隔肋膜（Mediastinal pleura）**—襯裡縱隔
+- **膈肋膜（Diaphragmatic pleura）**—覆於橫膈上表面
+- **頸肋膜（Cervical pleura / cupula）**—向上突出於第一肋
+
+**肋膜反折線（lines of pleural reflection）**：壁層肋膜在肋骨肋膜與膈肋膜交匯處、以及肋骨肋膜與縱隔肋膜交匯處形成尖銳的折彎。肋膜反折線為尖角，壁層肋膜的內面相接觸。
+
+**肋膜隱窩（pleural recesses）**：壁層肋膜互相接觸的區域稱為肋膜隱窩：
+- **兩側的肋心包隱窩（costomediastinal recesses）**—位於胸骨後方，肋骨肋膜與縱隔肋膜交匯處
+- **兩側的肋膈隱窩（costodiaphragmatic recesses）**—位於壁層肋膜的最下界
+
+> **臨床重點**：平靜吸氣時，肺下緣不伸入肋膈隱窩。在病理狀態下（如氣胸或胸腔積液），肋膜腔的潜在空間可變為實際空間，導致肺臟受壓或塌陷。
+
+**胸內筋膜（endothoracic fascia）**：少量連接組織，附著壁層肋膜於胸壁。
+
+每側肺臟完全被**臟層肋膜（visceral pleura / pulmonary pleura）**覆蓋。在肺門處，臟層肋膜與縱隔肋膜延續。
+
+**肋膜腔（pleural cavity）**：臟層肋膜與壁層肋膜之間的空間（圖 3.8）。在活體中為潜在空間，臟層與壁層肋膜互相接觸。
+
+---
+
+## 肺臟（Lungs）
+
+### 解剖概觀
+
+解剖順序：首先以胸腔內前視圖觀察肺臟的表面特徵與關係；然後移除肺臟，完成表面特徵與關係的研究；最後研究肺門。
+
+### 肺臟在胸腔內
+
+**1.** 觀察胸腔內的肺臟（圖 3.9）。[G 27; L 174, 175; N 192; R 268; C 152]
+
+**2.** 每側肺臟有三個面：**肋面（costal）**、**縱隔面（mediastinal）**、**膈面（diaphragmatic）**。在原位只能看到肋面。
+
+**3.** 觀察兩側肺臟的**斜裂（oblique fissure）**。裝回前胸壁可見斜裂位於第 5 肋外側深層及第 6 肋軟骨前方。臨床上亦稱**大裂（major fissure）**。
+
+**4.** 移除前胸壁，辨識右肺的**水平裂（horizontal fissure）**。復位前胸壁可見水平裂位於第 4 肋與第 4 肋軟骨深層。臨床上亦稱**小裂（minor fissure / transverse fissure）**。
+
+**5.** 右肺有三葉（**上、中、下**），左肺有兩葉（**上、下**）。
+
+**6.** 肺尖位於第 1 肋頸（第一肋骨體）前方。因此肺尖與頸肋膜突出於上胸廓開口平面之上，實際上位於頸部。
+
+**7.** 辨識心包，位於兩肺之間的正中線。心包容納心臟。
+
+**8.** 將手插入心臟與肺之間的肋膜腔，觸摸肺門。感受肺門內的硬結構，為充满凝血的肺血管與支氣管。
+
+**9.** 觀察**膈神經（phrenic nerve）**與**心包膈血管（pericardiacophrenic vessels）**行走於肺門前方、縱隔肋膜內側。參考圖譜可見**迷走神經（vagus nerve）**行走於肺門後方。[G 82, 83; L 194, 195; N 224, 225; R 280, 281; C 166, 167]
+
+### 肺臟的移除
+
+**1.** 移除肺臟時保留膈神經、心包膈血管與迷走神經。
+
+**2.** 將手插入肺與縱隔之間的肋膜腔，向外側牽拉肺臟以拉緊肺門。
+
+**3.** 保持牽拉，用剪刀在肺與縱隔之間切斷肺門約一半深度。注意勿切入縱隔或肺臟。移除兩側肺臟。
+
+**4.** 比較兩側肺臟（圖 3.10）。右肺較短但容積較大。[G 34; L 189; N 193; R 249; C 158]
+
+**5.** 辨識肺臟的面：**肋面、縱隔面、膈面**。
+
+**6.** 辨識肺臟的邊界：**前緣、後緣、下緣**。
+
+**7.** 回想每側肺臟有上葉與下葉，以斜裂分開。大部分下葉位於後方，大部分上葉位於前方（圖 3.10）。
+
+**8.** 回想右肺有水平裂，界定出小的**中葉（middle lobe）**（圖 3.10）。辨識中葉。
+
+**9.** 辨識左肺上葉的**心切跡（cardiac notch）**（圖 3.9、3.10）。心切跡位於左肺前緣，在解剖學位置上位於心臟前方。
+
+**10.** 辨識左肺的**舌葉（lingula）**。舌葉為左肺上葉的下內側部分，相當於右肺中葉的同源結構。
+
+**11.** 辨識每側肺臟縱隔面上的接觸壓痕（圖 3.11、3.12）。
+
+右肺縱隔面：[G 36; L 190; N 193; R 249; C 160]
+- **心壓跡（Cardiac impression）**
+- **食道壓跡（Esophagus impression）**
+- **奇靜脈弓壓跡（Arch of azygos vein impression）**
+- **上腔靜脈壓跡（Superior vena cava impression）**
+
+左肺縱隔面：
+- **心壓跡（Cardiac impression）**
+- **主動脈弓壓跡（Aortic arch impression）**
+- **胸主動脈壓跡（Thoracic aorta impression）**
+
+**12.** 檢視肺門（圖 3.11、3.12）。辨識**支氣管（main bronchus）**、**肺動脈（pulmonary artery）**、**肺靜脈（pulmonary veins）**。
+    - 肺門處，主支氣管通常位於肺血管後方
+    - 肺動脈位於肺靜脈上方
+    - 比較血管壁厚度有助於區分動靜脈（動脈壁較厚）
+    - 支氣管壁有軟骨，可與血管區分
+
+**13.** 在每側肺門處，用鈍性剝離向下追蹤主支氣管入肺。
+
+**14.** 在左肺辨識**上、下肺葉支氣管（lobar/secondary bronchi）**。[G 43; L 192; N 197; R 247; C 162]
+
+**15.** 在右肺辨識**上、中、下肺葉支氣管**。注意右肺上葉支氣管行走於右肺动脉上方，因此亦稱**上支氣管（eparterial bronchus）**。
+
+**16.** 用鈍性剝離追蹤一支肺葉支氣管深入肺組織約 3-4 cm，直到分支為數支**肺段支氣管（segmental bronchi）**。右肺有 10 支肺段支氣管，左肺有 9 支。每一肺段支氣管供應一個支氣管肺段。
+
+**17.** 辨識**支氣管動脈（bronchial artery）**。支氣管動脈沿主支氣管表面走行。在肺移除時主支氣管被切斷處可見支氣管動脈管腔。
+
+**18.** 肺門含淋巴結、淋巴管與自發神經纖維。參考圖譜確認。[G 44, 45; L 190; N 202, 203; R 275; C 166, 167]
+
+**19.** 肺臟有豐富的神經支配，接受來自前、後肺叢的神經。前、後肺叢的交感神經來自左、右交感神經幹，副交感神經來自左、右迷走神經。
+
+### 解剖複習
+
+**1.** 複習肺臟的各部分。
+
+**2.** 將肺臟復位於肋膜腔內的正確解剖位置。
+
+**3.** 復位前胸壁。將肺臟的邊界、面與裂投射到胸壁表面。
+
+**4.** 複習肋膜反折線與胸壁的關係。
+
+**5.** 複習肋心包隱窩與肋膈隱窩。
+
+> **臨床重點**：在病理狀態下，肋膜腔的潜在空間可變為實際空間。例如空氣進入肋膜腔（氣胸）時，肺臟因其組織彈性而塌陷。過多液體（胸腔積液 pleural effusion 或血胸 hemothorax）可積聚於肋膜腔，壓迫肺臟導致呼吸困難。
+
+---
+
+## 縱隔（Mediastinum）
+
+### 概觀
+
+兩側肋膜腔之間的區域為**縱隔（mediastinum）**。縱隔的境界：
+- **上界**：上胸廓開口
+- **下界**：橫膈
+- **前界**：胸骨
+- **後界**：T1-T12 椎體
+- **側界**：左、右縱隔肋膜
+
+為描述目的，縱隔分為四部分（圖 3.13）。經胸骨角（相當於 T4/T5 椎間盤高度）的橫平面將縱隔分為上縱隔與下縱隔。心包將下縱隔再分為三部分：[G 31; L 194; R 245; C 170]
+
+- **前縱隔（Anterior mediastinum）**：位於胸骨與心包之間。兒童與青少年時期，部分胸腺可見於此。
+- **中縱隔（Middle mediastinum）**：含心包、心臟與大血管根部。
+- **後縱隔（Posterior mediastinum）**：位於心包之後、T5-T12 椎體之前。含來往頸部、胸腔與腹腔的結構（食道、迷走神經、奇靜脈系、胸導管、胸主動脈）。
+
+胸骨角平面是重要的胸部界標，標誌著：
+- 心包的上界
+- 氣管的叉點
+- 升主動脈的末端、主動脈弓的起末端
+- 胸主動脈的起點
+
+> **臨床重點**：某些通過縱隔的結構（食道、迷走神經、膈神經、胸導管）穿越一個以上的縱隔分區。
+
+### 上縱隔（Superior Mediastinum）
+
+#### 解剖概觀
+
+上縱隔含來往胸腔與頸部或上肢的結構，包括若干大血管及其主要分支、氣管、食道與胸導管。
+
+#### 解剖步驟
+
+**1.** 複習上縱隔的境界（圖 3.13）：
+    - **上**：上胸廓開口
+    - **後**：T1-T4 椎體
+    - **前**：胸骨柄
+    - **側**：左、右縱隔肋膜
+    - **下**：胸骨角平面
+
+**2.** 移除前胸壁。
+
+**3.** 辨識**胸腺（thymus）**。[G 68-71; L 177; N 206; R 268]
+    - 新生兒期，胸腺為活性淋巴器官，可在胸部 X 光片上顯影
+    - 青春期後胸腺被結締組織與脂肪取代
+    - 成人胸腺為脂肪團塊，位於胸骨柄正後方，在大體標本上可能難以辨認
+
+**4.** 用鈍性剝離移除胸腺殘餘。
+
+**5.** 向上追蹤**上腔靜脈（superior vena cava）**至其分叉，辨識**左頭臂靜脈（left brachiocephalic vein）**（圖 3.24）。用鈍性剝離游離並暴露左頭臂靜脈。
+
+**6.** 辨識**右頭臂靜脈（right brachiocephalic vein）**。左右頭臂靜脈在右側第一肋軟骨下緣後方匯合形成上腔靜脈。
+
+**7.** 向下追蹤上腔靜脈。注意上腔靜脈行走於**右肺門前方**。[G 82; L 179; N 224; R 280; C 166]
+
+**8.** 辨識右側的**奇靜脈（azygos vein）**。奇靜脈弓向上跨越右肺門，注入上腔靜脈後表面。
+
+**9.** 在奇靜脈入口上方切斷上腔靜脈。將上腔靜脈與頭臂靜脈向上翻開。
+
+**10.** 辨識行走於頭臂靜脈後方的**右、左膈神經**（圖 3.24）。這些結構先前已於中縱隔解剖。確認左右膈神經分别行走於左右肺門前方。確認膈神經伴隨心包膈血管並進入橫膈上表面。
+
+**11.** 辨識**主動脈弓（arch of the aorta）**（圖 3.24）。主動脈弓的起止均在胸骨角平面。[G 83; L 179; N 225; R 281; C 167]
+
+**12.** 辨識主動脈弓的三條分支（圖 3.24）：
+    - **頭臂幹（Brachiocephalic trunk）**
+    - **左頸總動脈（Left common carotid artery）**
+    - **左鎖骨下動脈（Left subclavian artery）**
+
+**13.** 辨識**動脈韌帶（ligamentum arteriosum）**。為連接左肺動脈與主動脈弓下表面的纖維索（圖 3.24）。
+
+**14.** 辨識左側的**左迷走神經（left vagus nerve）**與**左喉返神經（left recurrent laryngeal nerve）**（圖 3.24）。向下追蹤左迷走神經，注意其經過左肺門後方走向食道。複習左喉返神經與動脈韌帶的關係。
+
+**15.** 右側，**右迷走神經（right vagus nerve）**經過右肺門後方（圖 3.25）。右喉返神經（右迷走神經的分支）繞過右鎖骨下动脉。
+
+**16.** 辨識**氣管（trachea）**。注意食道位於上縱隔中氣管的後方。
+
+**17.** 辨識**氣管叉（bifurcation of the trachea）**。氣管在胸骨角平面分為左右主支氣管。注意奇靜脈弓跨越右主支氣管上方，主動脈弓跨越左主支氣管上方（圖 3.25）。
+
+**18.** 查找位於氣管叉附近的**氣管支氣管淋巴結（tracheobronchial lymph nodes）**。
+
+**19.** 觸摸氣管叉附近的前後表面。觀察氣管環呈 C 形，開口的 C 面向後。
+
+**20.** 觀察食道位於氣管後方，緊鄰氣管軟骨的開口側。
+
+**21.** 比較左右主支氣管。右主支氣管口徑較大、長度較短、走行更垂直。
+
+**22.** 參考圖譜研究氣管叉的內表面。氣管叉內有軟骨嵴稱為**隆凸（carina）**（圖 3.25）。
+
+### 中縱隔（Middle Mediastinum）
+
+#### 心包（Pericardium）
+
+##### 解剖概觀
+
+中縱隔含心包、心臟與大血管根部。心包是包繞心臟的囊，被大血管（主動脈、肺幹、上腔靜脈、下腔靜脈、四支肺靜脈）貫穿。心包外表面為纖維層，內表面為漿膜層且光滑。
+
+心包附著於橫膈的中央腱。因此在吸氣與呼氣時，心包與心臟隨橫膈上下移動。
+
+##### 解剖步驟
+
+**心臟在胸腔內** [G 51; L 177; N 206; R 268; C 174]
+
+**1.** 按以下方式打開心包（圖 3.14）：
+    - 用鑷子提起心包前表面
+    - 用剪刀從膈到升主動脈做垂直切口
+    - 如圖 3.14 所示做兩條橫切口，廣泛打開皮瓣
+
+**2.** 辨識以下結構（圖 3.15）：**上腔靜脈、升主動脈、主動脈弓、肺幹**。
+
+**3.** 用手指輕輕分開主動脈弓凹面與肺幹之間的間隙，辨識**動脈韌帶（ligamentum arteriosum）**（圖 3.15）。連接左肺動脈與主動脈弓下表面。
+
+**4.** 用探針在左迷走神經越過主動脈弓左側處進行解剖，辨識**左喉返神經**的起始部分（圖 3.15）。左喉返神經位於主動脈弓下方、動脈韌帶後方。
+
+**5.** 檢視心臟，辨識前視圖可見的心腔（圖 3.15）：**右心房、右心室、左心室**。注意右心室構成心臟大部分的前表面。
+
+**6.** 辨識心臟的邊界：
+    - **右緣**：由右心房構成
+    - **下緣**：由右心室及小部分左心室構成
+    - **左緣**：由左心室構成
+    - **上緣**：由左右心房及左右心耳構成
+
+> **臨床重點**：右、下、左心臟邊界在胸部 X 光片上易於顯示，上邊界則不易顯示。
+
+**7.** 辨識**心尖（apex of the heart）**。心尖為左心室的一部分。正常位於左第 5 肋間隙深層，約距正中線 9 cm 處。
+
+**8.** 辨識**心底（base of the heart）**。左心房與部分右心房構成心底。臨床醫師常將大血管從心臟發出處稱為心底。
+
+**9.** 觀察心包內表面由光滑發亮的**壁層漿膜（parietal serous pericardium）**襯裡。
+
+**10.** 參考大體標本與圖譜，觀察壁層漿膜在心臟表面反折為**臟層漿膜（visceral serous pericardium / epicardium）**。壁層漿膜至臟層漿膜的反折線位於大血管根部。[G 51; L 178; N 206; R 269; C 175]
+
+**11.** **心包腔（pericardial cavity）**為壁層與臟層漿膜之間的潜在空間，正常只含少量液體。
+
+**12.** 將右手四指伸入心包腔，手指位於心臟後方。輕輕向上抬手，手指被漿膜反折阻擋。指尖位於**斜心包竇（oblique pericardial sinus）**內（圖 3.16）。[G 53; L 179; N 209; R 272; C 175]
+
+**13.** 在橫切面上，將右手食指插入肺幹與升主動脈後方，自左向右直至指尖出現於上腔靜脈與主動脈弓之間。手指位於**橫心包竇（transverse pericardial sinus）**內（圖 3.16）。
+
+**14.** 在主動脈前方，小心將探針尖端插入心包與升主動脈之間。緩慢推進至受阻。此為心包腔的上界。
+
+**15.** 用手指探索大血管（主動脈、肺幹、上腔靜脈、下腔靜脈、四支肺靜脈）出入心臟處的漿膜反折線（圖 3.16）。
+
+**16.** 將前胸壁復位於正確解剖位置。參考大體標本與圖譜，將心臟輪廓投射到胸壁表面。[G 28; L 172, 173; N 190; R 252; C 149]
+
+##### 心臟移除
+
+**1.** 心臟將沿漿膜反折線從大血管游離（圖 3.16）。
+
+**2.** 將探針穿過橫心包竇。
+
+**3.** 用剪刀在主、肺幹前方、距心臟發出處約 1.5 cm 處切斷升主動脈與肺幹。
+
+**4.** 用剪刀在右心房交界上方約 1 cm 處切斷上腔靜脈。
+
+**5.** 向上抬起心尖，在近膈表面處切斷下腔靜脈。
+
+**6.** 向上抬手，在四支肺靜脈形成斜心包竇境界處切斷（圖 3.16）。切開潤滑漿膜表面、允許心臟在心包內自由移動的漿膜液。
+
+**7.** 心臟此時僅靠心臟後表面至心包內表面的漿膜反折維持。切斷這些反折，取出心臟。
+
+**8.** 參考圖 3.16。檢視心包後表面，辨識八支血管的開口與心包反折線。
+
+> **臨床重點**：發炎性疾病可導致心包腔積液（心包積液 pericardial effusion）。穿透性心臟傷或心肌梗塞後心臟肌肉變弱破裂可致血液進入心包腔（血心包 hemopericardium）。由於心包由纖維結締組織構成無法伸展，積液會壓迫心臟（心臟壓塞 cardiac tamponade）。
+
+##### 解剖複習
+
+**1.** 複習縱隔各部分的境界。
+
+**2.** 複習心包附著於橫膈與大血管根部的結構。
+
+**3.** 複習橫與斜心包竇的胚胎起源。
+
+**4.** 比較壁層漿膜心包與壁層肋膜的外觀與功能特性。
+
+---
+
+## 心臟外部特徵（External Features of the Heart）
+
+### 解剖概觀
+
+心臟解剖分兩階段：首先研究心臟的外部特徵，包括血管供應；然後研究各心腔的內部特徵。
+
+### 表面特徵
+
+**1.** 檢視心臟外表（圖 3.15）。[G 48, 49; L 180; N 208; R 252; C 176, 177]
+    - **冠狀溝（Coronary/atrioventricular sulcus）**：環繞心臟，分隔心房與心室
+    - **前室間溝（Anterior interventricular sulcus）**與**後室間溝（Posterior interventricular sulcus）**：標誌室間隔的位置，與冠狀溝垂直交匯
+
+**2.** 辨識心臟的面：
+    - **胸肋面（Sternocostal/anterior surface）**：主要由右心室構成
+    - **膈面（Diaphragmatic/inferior surface）**：主要由左心室及小部分右心室構成
+    - **左肺面（Left pulmonary surface）**：主要由左心室構成，與左肺的心壓跡相鄰
+    - **右肺面（Right pulmonary surface）**：主要由右心房構成
+
+**3.** 注意冠狀溝與室間溝標誌著四個心腔的邊界。
+
+**4.** 在心臟表面辨識各心腔（圖 3.15）：
+    - **右心房與右心耳（Right atrium and right auricle）**
+    - **右心室（Right ventricle）**
+    - **左心室（Left ventricle）**
+    - **左心房與左心耳（Left atrium and left auricle）**
+
+**5.** 以上視圖檢視心臟，辨識：
+    - **主動脈與主動脈瓣（Aorta and aortic valve）**
+    - **肺幹與肺動脈瓣（Pulmonary trunk and pulmonary valve）**
+    - **上腔靜脈（Superior vena cava）**
+
+**6.** 檢視心臟膈面，辨識：
+    - **下腔靜脈開口（Opening of inferior vena cava）**
+    - **後室間溝（Posterior interventricular sulcus）**
+
+**7.** 心臟靜脈與冠狀动脉位於冠狀溝與室間溝內。
+
+---
+
+## 心臟血管（Blood Vessels of the Heart）
+
+### 心臟靜脈（Cardiac Veins）[G 57; L 183; N 211; R 262; C 176]
+
+**1.** 研究心臟血管時，注意它們（及其周圍脂肪）位於臟層心包（心外膜）與心肌之間。
+
+**2.** 心臟靜脈行於冠狀动脉淺方。先解剖靜脈。冠狀溝與室間溝內充滿脂肪，須清除以顯露血管。用鈍性剝離清除脂肪。
+
+**3.** 在心臟膈面辨識**冠狀竇（coronary sinus）**（圖 3.17B）。冠狀竇為心臟靜脈系統的膨大部分，位於冠狀溝內，長約 2-2.5 cm，開口於右心房。右心房內部解剖時將見到其開口。
+
+**4.** 用探針清理冠狀竇表面。
+
+**5.** 向上沿冠狀溝追蹤冠狀竇至接受**大心臟靜脈（great cardiac vein）**處（圖 3.17B）。
+
+**6.** 用鈍性剝離向上追蹤大心臟靜脈至胸肋面。大心臟靜脈自心尖沿前室間溝走向冠狀竇（圖 3.17A）。
+
+**7.** 在後室間溝辨識**中心臟靜脈（middle cardiac vein）**，追蹤至冠狀竇。
+
+**8.** 在冠狀竇下端附近辨識**小心臟靜脈（small cardiac vein）**。用探針解剖小心臟靜脈至心臟前表面，沿下緣走行（圖 3.17A）。
+
+**9.** **心前靜脈（Anterior cardiac veins）**跨越房室溝連接右心房與右心室。心前靜脈引流右心室前壁，直接注入右心房。心前靜脈越過右冠狀动脉前方。
+
+**10.** 大部分心臟靜脈為冠狀竇的支流。**心前靜脈是例外**。
+
+### 冠狀动脉（Coronary Arteries）[G 56; L 182; N 211; R 262; C 176]
+
+**1.** 從主動脈瓣在主動脈腔內的觀察開始冠狀动脉解剖。辨識主動脈瓣的**右、左、後半月瓣（right, left, posterior semilunar cusps）**。每瓣膜後方有小囊稱為**主動脈竇（aortic sinus）**。
+
+**2.** 在左主動脈竇，辨識**左冠狀动脉開口**。將探針插入開口。在心臟表面觸摸探針尖端，位於左心耳與肺幹之間。為左冠狀动脉的起始部分。
+
+**3.** 用鈍性剝離清理左冠狀动脉。左冠狀动脉較短，在冠狀溝內分為**前室間支（anterior interventricular branch）**與**旋支（circumflex branch）**（圖 3.18A）。
+
+**4.** 沿前室間溝追蹤前室間支至心尖。臨床上稱左冠狀动脉的前室間支為**左前降支（LAD）**。前室間动脉伴行大心臟靜脈。
+
+**5.** 沿冠狀溝追蹤左冠狀动脉旋支至心左緣（圖 3.18B）。旋支有數條分支供應左心室後壁，伴行冠狀竇。
+
+**6.** 開始右冠狀动脉解剖，辨識其在**右主動脈竇**的開口。將探針插入。在心臟表面觸摸探針尖端，位於冠狀溝內右心耳與升主動脈之間。為右冠狀动脉的起始。
+
+**7.** 用鈍性剝離清理右冠狀动脉，辨識**右心房前支（anterior right atrial branch）**（圖 3.18A）。右心房前支近右冠狀动脉起始處發出，向上沿右心房前壁走向上腔靜脈，發出**竇房結支（sinuatrial nodal branch）**供應竇房結。
+
+**8.** 沿冠狀溝追蹤右冠狀动脉。盡量保留心前靜脈。右冠狀动脉常在下緣附近發出**右緣支（right marginal branch）**，伴行小心臟靜脈沿下緣走行。
+
+**9.** 繼續沿冠狀溝追蹤右冠狀动脉至膈面（圖 3.18B）。右冠狀动脉達後室間溝時發出**後室間支（posterior interventricular branch）**，沿後室間溝至心尖，與左冠狀动脉前室間支吻合。 後室間支伴行中心臟靜脈。
+
+**10.** **房室結动脉（artery to atrioventricular node）**起自右冠狀动脉，位於**心臟十字（crux of heart）**處——即後室間溝與冠狀溝交匯處（圖 3.18B）。
+
+> **臨床重點**：約 75% 的心臟，右冠狀动脉發出後室間支，供應左心室壁與室間隔後份。約 15% 的心臟，左冠狀动脉發出後室間支。其餘變異約占 10%。
+
+### 解剖複習
+
+**1.** 複習心臟的邊界。
+
+**2.** 複習心臟表面四個心腔的邊界。
+
+**3.** 複習心臟的冠狀溝與室間溝，以及行走於溝內的血管。
+
+**4.** 追蹤一滴血液從右主動脈竇至冠狀竇的全程，命名所有涉及的血管。
+
+**5.** 追蹤一滴血液從左主動脈竇至心尖及其靜脈回流至冠狀竇的全程，命名所有涉及的血管。
+
+---
+
+## 心臟內部特徵（Internal Features of the Heart）
+
+### 解剖概觀
+
+心臟各心房與心室將被打開，研究其內部特徵。切口設計的原則是保留已解剖的血管。心臟內有血塊，須先清除再提取。
+
+解剖順序按血液通過心臟的順序：**右心房 → 右心室 → 左心房 → 左心室**。所有描述均基於心臟的解剖學位置。
+
+### 右心房（Right Atrium）[G 62; L 184; N 214; R 258; C 182]
+
+**1.** 圖 3.19 示打開右心房的切口。
+
+**2.** 用剪刀在右心耳尖端做一切口。將剪刀一葉插入切口，做一短水平切口向右（圖 3.19，切口 1）。
+
+**3.** 翻轉剪刀，向下切開右心房前壁，在下腔靜脈上方停止（圖 3.19，切口 2）。
+
+**4.** 做水平切口向左，止於冠狀溝前方（圖 3.19，切口 3）。
+
+**5.** 將心房壁翻向左側，廣泛打開右心房（圖 3.20）。清除血塊，將心臟帶至水槽沖洗。
+
+**6.** 觀察右心房前壁內表面，辨識（圖 3.20）：
+    - **梳狀肌（Pectinate muscles）**：水平的肌肉峭
+    - **終嵴（Crista terminalis）**：垂直肌肉峭，連接梳狀肌
+
+**7.** 觀察右心房後壁，辨識（圖 3.20）：
+    - **上腔靜脈開口**
+    - **下腔靜脈開口及其瓣膜**
+    - **冠狀竇開口及其瓣膜**
+    - **卵圓窩（Fossa ovalis）**及其**卵圓窩緣（Limbus fossa ovalis）**
+
+**8.** 心臟傳導系統的部分位於右心房壁內，解剖時無法看到。在解剖標本上熟悉其大約位置（圖 3.20）：
+    - **竇房結（SA node）**：位於終嵴上端、右心房與上腔靜脈交界處
+    - **房室結（AV node）**：位於房間隔、冠狀竇口上方
+
+**9.** 辨識**右房室孔（右心房與右心室之間的開口）**，通往右心室。
+
+> **臨床重點**：卵圓窩是胎兒時期的卵圓孔遺蹟。胎兒期，來自胎盤的血液經下腔靜脈送達心臟，含氧與營養豐富的血液被導向卵圓孔，使其進入左心房並繞過肺部供應全身。
+
+### 右心室（Right Ventricle）[G 63; L 184; N 214; R 261; C 182]
+
+**1.** 圖 3.19 示打開右心室的切口。
+
+**2.** 將手指插入肺幹以確定肺動脈瓣的位置。在肺動脈瓣下方，立即用剪刀做一短水平切口，穿過右心室前壁（圖 3.19，切口 4）。
+
+**3.** 將剪刀一葉插入切口 4 右端，做一切口平行於冠狀溝（圖 3.19，切口 5）。約距冠狀溝 1 cm，止於心臟下緣。只切心室壁，勿切房室瓣葉。
+
+**4.** 將手指經心室壁切口插入，觸摸室間隔。從切口 4 左端向下做切口（圖 3.19，切口 6）。約距前室間溝右側 2 cm，平行於室間隔右側。
+
+**5.** 將右心室壁向下翻開（圖 3.21）。
+
+**6.** 清除血塊，注意勿損傷**腱索（chordae tendineae）**。冲淨右心室。
+
+**7.** 辨識**右房室孔**，即**三尖瓣（tricuspid valve）**。觀察三尖瓣有三個葉：**前葉（anterior）**、**隔葉（septal）**、**後葉（posterior）**（圖 3.21）。
+
+**8.** 辨識**腱索**，觀察這些細腱從瓣葉連接至乳頭肌頂端。乳頭肌自心室壁生出。
+
+**9.** 辨識三個乳頭肌：**前乳頭肌（anterior）**、**隔乳頭肌（septal）**、**後乳頭肌（posterior）**。前乳頭肌最大。隔乳頭肌很小，可為多條。注意每條乳頭肌的腱索附著於兩相鄰瓣葉的相鄰邊。
+
+**10.** 觀察右心室壁內表面因肌性峭而粗糙，稱為**肉柱（trabeculae carneae）**。
+
+**11.** 辨識**隔緣肉柱（septomarginal trabecula / moderator band）**。隔緣肉柱從室間隔延伸至前乳頭肌基部，內含傳導系統的一部分，刺激前乳頭肌。
+
+**12.** 辨識**肺幹開口**（圖 3.21）。**漏斗部（conus arteriosus / infundibulum）**為肺幹開口下方、右心室內的錐形部分，內表面光滑。
+
+**13.** 觀察**肺動脈瓣**由三個半月瓣組成：**前、右、左**（圖 3.21）。[G 66; L 184; N 216; R 259; C 176]
+
+**14.** 從上方檢視肺幹，觀察半月瓣上表面。每個半月瓣有一纖維結節與兩個新月區（lunules），協助密封瓣葉防止舒張期血液逆流。
+
+### 左心房（Left Atrium）[G 64; L 185; N 215; R 258; C 184]
+
+**1.** 檢視心臟後表面。觀察四支肺靜脈開口於左心房。肺靜脈通常成對排列，兩支來自右肺，兩支來自左肺。
+
+**2.** 圖 3.22A 示打開左心房的切口。
+
+**3.** 用剪刀在左心房後壁做倒 U 形切口。勿切入肺靜脈開口，於其之間切開。將皮瓣向下翻（圖 3.22B）。
+
+**4.** 清除血塊，冲洗。
+
+**5.** 注意左心房壁內表面除心耳外是光滑的。左心耳內表面粗糙。
+
+**6.** 觀察左心房的以下特徵（圖 3.22B）：
+    - 房間隔上的**卵圓孔瓣（valve of foramen ovale）**
+    - **左心耳開口**
+    - **左房室孔開口**
+
+### 左心室（Left Ventricle）[G 65; L 185; N 215; R 258; C 185]
+
+**1.** 圖 3.19 示打開左心室的切口。本操作將切斷左冠狀动脉前室間支與大心臟靜脈。
+
+**2.** 從上方檢視主動脈，辨識**主動脈瓣**。辨識三個半月瓣：**右、左、後**。[G 66, 67; L 185; N 216, 217; R 259; C 176]
+
+**3.** 將剪刀一葉插入左、右半月瓣之間（圖 3.19）。
+
+**4.** 在左、右半月瓣之間向前做切口，穿過升主動脈前壁（圖 3.19，切口 7）。此切口向前並平行於左冠狀动脉。
+
+**5.** 繼續切口至心尖。切口約距前室間溝左側 2 cm，平行於室間隔左側。將橫斷左冠狀动脉前室間支與大心臟靜脈。
+
+**6.** 廣泛打開左心室與升主動脈（圖 3.23）。清除血塊，冲洗。
+
+**7.** 在左心室辨識**左房室瓣（二尖瓣、mitral valve）**。辨識**前葉（anterior cusp）**與**後葉（posterior cusp）**（圖 3.23）。
+
+**8.** 辨識**前乳頭肌（anterior papillary muscle）**與**後乳頭肌（posterior papillary muscle）**。注意每條乳頭肌的腱索附著於兩瓣葉。
+
+**9.** 觀察左心室壁內表面因**肉柱（trabeculae carneae）**而粗糙。
+
+**10.** 檢視主動脈瓣。再次辨識其右、左、後半月瓣。觀察每個半月瓣有一結節與兩個新月區。位於主動脈竇內（圖 3.23）。
+
+**11.** 觸摸**肌性室間隔（muscular part of interventricular septum）**。將右手拇指放在右心室、食指放在左心室，觸摸肌性室間隔的厚度。沿室間隔向上移動拇指與食指，觸摸**膜性室間隔（membranous part）**。位於主動脈瓣右葉附著處下方。
+
+**12.** 在主動脈內觀察冠狀动脉的開口，研究其與半月瓣及主動脈竇的關係。**後葉**亦稱**無冠葉（noncoronary cusp）**，因為其後方無冠狀动脉發出。
+
+### 解剖複習
+
+**1.** 複習各心腔的內部特徵。
+
+**2.** 將心臟復位於胸腔內的正確解剖位置。將前胸壁復位。參考圖譜與描述，將心臟瓣膜投射到前胸壁表面。
+
+**3.** 閱讀各心臟瓣膜聽診點的描述。找到每個聽診點在胸壁上的位置，然後提起胸壁觀察聽診點與心臟的位置關係。
+
+**4.** 複習血液通過心臟的全程，從上腔靜脈至升主動脈，依序命名所有經過的心腔與瓣膜。
+
+**5.** 複習心臟血液供應。追蹤一滴血液從左、右冠狀动脉至冠狀竇的全程，命名所有涉及的血管。
+
+**6.** 複習大血管與心臟的連接。
+
+---
+
+## 後縱隔（Posterior Mediastinum）
+
+### 解剖概觀
+
+後縱隔含來往胸腔與腹腔的結構。位於心包之後。為強調與心臟的密切關係，將通過心包後壁接近後縱隔結構。
+
+解剖順序：複習心包並移除其後壁。研究心包與食道的密切關係後移除心包。解剖食道。解剖奇靜脈及其屬支。辨識胸導管。然後解剖降主動脈及其分支。最後解剖交感神經幹的胸部及其分支。
+
+### 解剖步驟
+
+**1.** 複習後縱隔的境界（圖 3.13）：
+    - **上**：胸骨角平面
+    - **後**：T5-T12 椎體
+    - **前**：心包
+    - **側**：左、右縱隔肋膜
+    - **下**：橫膈
+
+**2.** 複習心包後壁內表面（圖 3.16）。
+
+**3.** 將心臟放回心包內。從右側胸腔檢視心臟與食道的關係。注意食道位於左心房與部分左心室的正後方。移除心包。
+
+**4.** 移除斜心包竇處的心包後壁（圖 3.26）。辨識**食道（esophagus）**。食道為肌性管道，位於正中線稍右側。左側及左後方為**胸主動脈（thoracic aorta）**。
+
+**5.** 用鈍性剝離移除其餘心包後壁。保留附著於橫膈的部分。沿大血管與橫膈的附著處剪開心包，放入組織容器。[G 84; L 196; N 226; R 274; C 202]
+
+**6.** 用鈍性剝離清理食道表面。注意食道表面覆有**食道叢（esophageal plexus）**（圖 3.26）。食道叢支配食道下段。
+
+**7.** 找到右迷走神經越過右鎖骨下动脉前方處（圖 3.25）。追蹤其至右肺門後方。確認右迷走神經纖維散開覆於食道表面。
+
+**8.** 辨識左迷走神經越過主動脈弓左側處（圖 3.25）。追蹤至左肺門後方，確認其纖維構成食道叢。
+
+**9.** 注意食道叢在橫膈上方形成**前迷走神經幹（anterior vagal trunk）**與**後迷走神經幹（posterior vagal trunk）**（圖 3.25）。迷走神經幹位於食道下段，由於橫膈的彎曲，此時可能尚不可見。迷走神經幹隨食道穿過橫膈，支配大部分胃腸道。
+
+**10.** 辨識奇靜脈弓跨越右肺門上方處（圖 3.25、3.27）。清理奇靜脈，向下追蹤至橫膈。觀察右側後肋間靜脈為奇靜脈的屬支。[G 80; L 194, 198; N 232; R 279; C 203]
+
+**11.** 辨識**胸導管（thoracic duct）**（圖 3.27）。為找到胸導管，將食道向左牽拉，在奇靜脈與胸主動脈之間探索。胸導管位於奇靜脈左方、食道後方。胸導管壁薄易撕裂，外觀似無血的小靜脈。[G 78; L 199; N 295; R 277; C 203]
+
+**12.** 用探針游離胸導管。胸導管可能為多條小導管網而非單一導管。下方胸導管隨胸主動脈穿過橫膈。上方胸導管終於左頸內靜脈與左鎖骨下靜脈匯合處（圖 3.27）。此時勿嘗試顯示其終點。
+
+**13.** 注意胸導管越過右後肋間动脉、半奇靜脈與副半奇靜脈前方。
+
+**14.** 在左側，觀察左後肋間靜脈引流至半奇靜脈或副半奇靜脈。半奇靜脈與副半奇靜脈分別越過第 8、9 胸椎椎體，終於注入奇靜脈。注意奇靜脈系常有變異。
+
+**15.** 檢視胸主動脈的分支。
+
+**16.** 辨識**食道动脉（esophageal arteries）**與**左支氣管动脉（left bronchial arteries）**。這些小动脉為不成對血管，起自主動脈前表面，以其分布區域辨別。
+
+**17.** 解剖一對後肋間动脉（左、右）。追蹤至其肋間隙。右後肋間动脉越過椎體前方中線。右後肋間动脉行走於後縱隔所有其他結構的後方。
+
+**18.** 在兩側胸腔辨識並清理一條肋間神經。向外追蹤至消失在最內側肋間肌後方。
+
+**19.** 在兩側胸腔辨識**交感神經幹（sympathetic trunk）**。自胸腔高位向下追蹤，觀察其越過第 2-9 肋骨頭。第 9 肋下方，交感神經幹移至更前方，位於胸椎椎體側方。[G 84; L 194; N 234; R 280; C 206]
+
+**20.** 觀察交感神經幹每個胸椎平面有一個**交感神經節（sympathetic ganglion）**（圖 3.27）。
+
+**21.** 演示兩條**交通支（rami communicantes）**（白交通支、白支；灰交通支、灰支）連接每條肋間神經及其相應的胸交感神經節。解剖時無法以顏色區分白支與灰支。但兩者中外側的為白交通支。
+
+**22.** 用探針在左右兩側解剖**大內臟神經（greater splanchnic nerve）**（圖 3.27）。注意大內臟神經接受第 5-9 胸交感神經節的纖維，在較低胸椎平面才完全形成。作為識別標誌，觀察大內臟神經位於 T5-T9 椎體側方，而交感神經幹越過第 5-9 肋骨頭（即交感神經幹位於大內臟神經後方）。
+
+**23.** **小內臟神經（lesser splanchnic nerve）**起自第 10、11 胸交感神經節。**最小內臟神經（least splanchnic nerve）**起自第 12 胸交感神經節（圖 3.27）。由於橫膈彎曲，此兩神經此時尚不可見。
+
+### 解剖複習
+
+**1.** 複習前、中、後縱隔的境界。
+
+**2.** 研讀胸腔中份橫切面，辨識後縱隔的內容物。注意後縱隔內容物與心臟及椎骨的關係。
+
+**3.** 複習肋間神經的行程與功能，列舉其支配的所有結構。
+
+**4.** 複習主動脈各部分（升部、主動脈弓、胸主動脈），列舉所有分支並描述其分布。
+
+**5.** 複習左右後肋間动脉的起源與行程。
+
+**6.** 列舉越過右後肋間动脉前方的後縱隔結構。
+
+> **臨床重點**：左喉返神經與主動脈弓關係密切，穿越上縱隔。在縱隔腫瘤或主動脈弓瘤病例中，左喉返神經可受壓，導致左聲帶麻痺與聲音嘶啞。
+
+> **臨床重點**：支氣管鏡檢時，隆凸是重要界標，位於左右主支氣管上端之間。隆凸通常位於氣管正中平面稍左側。異物吸入後通常進入右主支氣管，因為右主支氣管口徑較大且走行更垂直。

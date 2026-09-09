@@ -6,732 +6,600 @@ weight: 1
 
 # Chapter 1: The Back
 
-> **Atlas參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
-
-
-# Chapter 1: The Back
-
-> **Atlas參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
-
-
-# Grant's Dissector 15th Edition: The Back
-
-> **Atlas References:** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
-
-The vertebral column (FIG. 1.2) consists of 33 verte- brae: 7 cervical (C), 12 thoracic (T), 5 lumbar (L), 5 sacral (S), and 4 coccygeal (Co). The upper 24 vertebrae (cervi- cal, thoracic, and lumbar) allow flexibility and movement of the vertebral column, whereas the sacral vertebrae are fused to provide rigid support of the pelvic girdle. A typi- cal thoracic vertebra will be described, and the cervical and
-*lumbar vertebrae will be compared to it. [G 292; L 6; N 150;*
-R 193; C 392]
-Refer to a disarticulated thoracic vertebra and identify
-(FIG. 1.3): Grant's Atlas 104 | LWW Atlas 9 | Netter's 151 | Color Atlas 190 | Clemente's 393
-- Body
-- Vertebral arch-formed by the combination of pedicles and laminae
-- Pedicle (2)
-- Lamina (2)
-- Vertebral foramen
-- Transverse process (2)
-- Transverse costal facet
-- Spinous process
-- Articular processes-superior and inferior
-- Vertebral notches-superior and inferior
-- Costal facets-superior and inferior
-The spinous process of a thoracic vertebra is long, slender, and directed inferiorly over the spinous process of the vertebra that is inferior to it. Articulation with ribs is a characteristic of thoracic vertebrae. The head of a
-On the ilium, identify (FIG. 1.2): [G 317; L 5; N 474; R 188;
-- Iliac crest
-- Posterior superior iliac spine
-On the occipital bone, identify (FIG. 1.2):
-- External occipital protuberance (inion)
-- Superior nuchal line
-On the temporal bone, identify (FIG. 1.2):
-- Mastoid process
-External occipital
-protuberance (inion)
-Superior nuchal line
-Inferior nuchal line
-Mastoid process
-Superior angle
-Medial border
-Inferior angle
-Iliac crest
-Posterior superior iliac spine
-FIGURE 1.2
-Skeleton of the back and vertebral column.
-Superior and inferior articular processes
-Superior and inferior costal facets
-Inferior vertebral notch
-Spinous process
-Vertebral foramen articular process
-Transverse process
-Transverse process
-Transverse costal facet
-Superior vertebral notch
-FIGURE 1.3
-Typical thoracic vertebra in lateral and superior view.
-
-## The Back
-The sacrum is formed by five fused vertebrae and it does not have identifiable spines or transverse processes. On the
-posterior surface of the sacrum, identify (FIG. 1.6): [G 314;
-L 12; N 154; R 191; C 399]
-- Median sacral crest
-- Posterior (dorsal) sacral foramina
-- Sacral hiatus
-The coccyx is a small triangular bone formed by four rudimentary coccygeal vertebrae that are fused together (FIG. 1.6). rib  articulates with the bodies of two adjacent vertebrae (FIG. 1.4). The tubercle of a rib articulates with the trans- verse costal facet of the thoracic vertebra of the same number (i.e., the tubercle of rib 5 articulates with the transverse costal facet of vertebra T5). An intervertebral disc and the articular processes unite two adjacent ver- tebrae. The vertebral notches of two adjacent vertebrae combine to form an intervertebral foramen. A spinal
-nerve passes through the intervertebral foramen.
-Cervical vertebrae differ from thoracic vertebrae in the following ways (FIG. 1.5): Cervical vertebrae have smaller bodies, larger vertebral foramina, shorter spinous processes which bifurcate at the tip, and transverse processes that contain a foramen transversarium. On an articulated skel- eton, identify the following features common to nearly all
-*cervical vertebrae: Grant's Atlas 298 | LWW Atlas 7 | Netter's 19 | Color Atlas 190 | Clemente's 388*
-- Transverse process
-- Foramen transversarium
-- Spinous process
-On a skeleton, observe the following features of indi-
-vidual cervical vertebrae:
-- Atlas (C1) does not have a body
-- Axis (C2) has the dens, which is the body of C1 that has become fused to C2 during development
-- Vertebra prominens (C7) has the most prominent spi- nous process in the cervical region, hence its name
-Lumbar vertebrae differ from thoracic vertebrae in the following ways (FIG. 1.5): Lumbar vertebrae have larger bodies, have broad spinous processes that project posteri- orly, and do not have transverse costal facets for ribs. On a skeleton, observe the lumbar vertebrae and notice that
-their spines do not overlap like the spines of thoracic verte-
-*brae. Grant's Atlas 306 | LWW Atlas 11 | Netter's 152 | Color Atlas 190 | Clemente's 396*
-Spinal nerve T5
-Intervertebral
-Articular processes
-Spinal nerve T3
-Intervertebral disc
-Head of rib 5
-Transverse costal facet
-Shaft of rib 5
-FIGURE 1.4
-Part of the thoracic vertebral column.
-Spinous process
-Vertebral foramen transversarium
-Spinous process
-Vertebral foramen
-Spinous process
-Transverse costal
-Superior costal facet
-FIGURE 1.5
-Comparison of cervical, thoracic, and lumbar vertebrae.
-medial side (G). If the upper limb has been dissect-
-ed previously, this incision has already been made.
-**7.** Make a skin incision that begins at G on the me- dial surface of the arm and extends superiorly to the  axilla. Extend this incision inferiorly along the
-lateral surface of the trunk, through V to T.
-**8.** Make a transverse skin incision from R to B supe-
-rior to the scapula and superior to the acromion.
-**9.** At the level of the inferior angle of the scapula, make a transverse skin incision from the midline
-(U) to the midaxillary line (V).
-**10.** To facilitate skinning, make several parallel trans- verse incisions above and below the one described in step 9. The strips of skin that result should be
-about 7.5-cm wide to make skinning easier.
-**11.** Remove the skin from medial to lateral. Detach the
-skin and place it in the tissue container.
-
-### Skin And Superficial Fascia
-Dissection Overview
-The order of dissection will be as follows: The skin will be
-removed from the back, the posterior surface of the neck,
-and the posterior surface of the proximal upper limb.
-Posterior cutaneous nerves will be studied. The superfi-cial fascia will then be removed.
-Dissection Instructions
-Skin Incisions
-**1.** Refer to FIGURE 1.7.
-**2.** Use a scalpel to make a skin incision in the mid- line from the external occipital protuberance (X) to the tip of the coccyx (S). The skin is approximately
-6-mm thick in this region.
-**3.** Make an incision from the tip of the coccyx (S) to the midaxillary line (T). This incision should pass
-approximately 3 cm inferior to the iliac crest.
-**4.** Make a transverse skin incision from the external occipital protuberance (X) laterally to the base of
-the mastoid process (M).
-**5.** Make a skin incision along the lateral surface of the neck and superior border of the trapezius muscle (M to B). Extend this incision to point F, about
-halfway down the arm.
-**6.** At point F, make an incision around the anterior and posterior surfaces of the arm, meeting on the
-FIGURE 1.6
-Sacrum and coccyx.
-Sacral canal
-Posterior sacral
-Sacral hiatus
-Tip of coccyx
-Superior articular
-Median sacral
-FIGURE 1.7
-Skin incisions.
-
-## The Back
-**3.** Reflect the superficial fascia of the back from me- dial to lateral. Detach the superficial fascia by cut- ting it along the skin incision lines and place it in
-the tissue container.
-**4.** In the neck, reflect the superficial fascia only as far laterally as the superior border of the trapezius muscle. Do not cut the deep fascia along the superior border of the trapezius muscle. The accessory nerve is superficial at this location and it is in danger of
-Dissection Follow-up
-**1.** Review the branching pattern of a typical spinal nerve
-and understand that cutaneous branches of the poste-
-rior rami innervate the skin of the back.
-**2.** Study a dermatome chart and become familiar with the
-*concept of segmental innervation. [G 348; L 27; N 159;*
-
-### Superficial Muscles Of The Back
-Dissection Overview
-The superficial muscles of the back are the trapezius,
-latissimus dorsi, rhomboid major, rhomboid minor,
-and levator scapulae.
-The order of dissection will be as follows: The superficial
-surface and borders of the trapezius muscle will be cleaned.
-The trapezius muscle will be examined and reflected. The latissimus dorsi muscle will be studied and reflected. The rhomboid major muscle, rhomboid minor muscle, and le- vator scapulae muscle will be identifi ed. Dissection of the
-superficial back muscles should be performed bilaterally.
-Dissection Instructions
-*Trapezius Muscle Grant's Atlas 323 | LWW Atlas 17 | Netter's 168 | Color Atlas 226 | Clemente's 373*
-**1.** Clean the fat and connective tissue from the surface of the trapezius muscle (L. trapezoides, an irregu- lar four-sided fi gure) (FIG. 1.10). Clearly defi ne its inferolateral border but do not disturb the superolat- eral border of the trapezius muscle. Observe the medial attachment of the trapezius muscle on the external occipital protuberance, the nuchal ligament, and
-the spinous processes of vertebrae C7 to T12.
-**2.** Observe the lateral attachments of the trapezius muscle on the clavicle and scapula. The trapezius
-muscle has three parts, each of which has a distinct-
-ly different action:
-- Superior part-attaches to the lateral one-third
-of the clavicle and it elevates the scapula.
-Superfi cial Fascia
-**1.** In the superficial fascia, locate the occipital artery and the greater occipital nerve (FIG. 1.8). First, fi nd the occipital artery and then look on its medial
-side for the greater occipital nerve. The greater oc- cipital nerve is the posterior (dorsal) ramus of spi- nal nerve C2. The greater occipital nerve pierces the trapezius muscle about 3 cm inferolateral to the external occipital protuberance. The deep fascia in this area is very dense and tough. There- fore, it may be diffi cult to fi nd the greater occipital
-*nerve, even though it is a large nerve. [G 323; L 16;*
-N 172; R 226; C 382]
-**2.** Read a description of the posterior (dorsal) ra- mus of a spinal nerve. The posterior cutaneous branches of the posterior rami pierce the trapezius muscle or the latissimus dorsi muscle to enter the
-superficial fascia (FIG. 1.9) Grant's Atlas 22 | LWW Atlas 21 | Netter's 185 | Color Atlas 229.
-To save time, make no deliberate effort to display
-posterior cutaneous branches of the posterior rami.
-FIGURE 1.8
-Greater occipital nerve and occipital artery.
-External occipital protuberance of occipital bone
-Parietal bone
-Semispinalis
-Splenius m.
-Sternocleidomastoid m.
-Trapezius m.
-Posterior cutaneous branches
-of posterior rami C4-C6
-- Middle part-attaches to the acromion and spine of the scapula and it retracts the scapula
-- Inferior part-attaches near the medial end of the spine of the scapula and it depresses the
-**3.** Prepare the trapezius muscle for reflection. First, insert your fi ngers deep to the inferolateral border of the muscle (medial to the inferior angle of the scapula) and move them superiorly as far as possible to break the connective tissue that lies between the
-trapezius muscle and the deeper muscles of the back.
-**4.** Next, use scissors to detach the trapezius muscle
-from its medial attachment on the spinous process-
-es and the nuchal ligament (FIG. 1.10, dashed line).
-Start at the inferior end of the muscle and continue the cut superiorly as far as the external occipital
-protuberance.
-**5.** Use scissors to make a short transverse cut (2.5 cm) across the superior end of the trapezius muscle to detach it from the superior nuchal line. Spare the greater occipital nerve, and do not extend the transverse
-cut beyond the superolateral border of the trapezius muscle.
-**6.** Use scissors to cut the trapezius muscle from its lateral attachments on the spine and acromion of the scapula (FIG. 1.10, dashed line). Make this cut very close to the scapular spine. Leave the
-Body of thoracic vertebra
-Spinal cord
-Anterior ramus
-Spinal nerve
-Posterior ramus
-Lateral branch
-Medial branch
-Cutaneous branches
-Erector spinae muscle
-Rhomboid major muscle
-Trapezius muscle
-Latissimus dorsi
-Anterior branch
-Lateral cutaneous intercostal nerve
-Posterior branch
-FIGURE 1.9
-Branches of a typical spinal nerve.
-Superolateral border
-of trapezius m.
-Semispinalis m.
-Thoracolumbar
-Iliac crest
-Triangle of auscultation
-Splenius m.
-ator scapulae m.
-Rhomboid minor m.
-Rhomboid major m.
-External occipital protuberance
-Inferolateral border
-of trapezius m.
-FIGURE 1.10
-How to reflect the muscles of the back.
-
-## The Back
-Rhomboid Major and Rhomboid Minor Muscles
-*Grant's Atlas 324 | LWW Atlas 17 | Netter's 171 | Color Atlas 226 | Clemente's 373*
-**1.** Clean the surface and borders of the rhomboid (rhomboideus) minor muscle and the rhomboid
-major muscle (Gr. rhombos, shaped like a kite).
-**2.** The medial attachments of the rhomboid minor muscle are the nuchal ligament and the spinous processes of vertebrae C7 and T1. The lateral attachment of the rhomboid minor muscle is the medial border of the scapula at the level of the
-scapular spine.
-**3.** The medial attachments of the rhomboid major muscle are the spinous processes of vertebrae T2 to
-T5. The lateral attachment of the rhomboid major muscle is the medial border of the scapula inferior
-to the scapular spine.
-**4.** Typically, the separation between the rhomboid muscles is not very obvious and the two muscles must be separated from each other using their
-lateral attachments as a guide.
-**5.** The rhomboid muscles retract the scapula, rotate the scapula to depress the glenoid cavity, and hold
-the scapula close to the thoracic wall.
-**6.** To reflect the rhomboid muscles, insert your fi n- gers deep to the inferior border of the rhomboid
-major muscle and separate it from deeper muscles.
-**7.** Working from inferior to superior, use scissors to
-detach the rhomboid major muscle from its me- dial attachments on the spinous processes. Con- tinue the cut superiorly and detach the rhomboid minor muscle from its medial attachments on the spinous processes. Reflect these two muscles
-**8.** On the deep surface of the two rhomboid muscles near their lateral attachments, use blunt dissec- tion to fi nd the dorsal scapular nerve and dorsal scapular vessels. The dorsal scapular nerve and vessels course parallel to the medial border of the
-**9.** The dorsal scapular artery may branch directly from the subclavian artery, or it may arise from the transverse cervical artery, in which case it is also known as the deep branch of the transverse
-cervical artery.
-*Levator Scapulae Muscle [G 324; L 17; N 168; R 222;*
-**1.** Identify the levator scapulae muscle (L. levare, to raise). At this stage of the dissection, the levator
-scapulae muscle can be seen only near its attach-
-ment on the scapula.
-**2.** Note that the superior attachments of the levator scapulae muscle are the transverse processes of the
-upper four cervical vertebrae. Do not dissect its su- perior attachments. trapezius muscle attached to the clavicle and the
-cervical fascia.
-**7.** Reflect the trapezius muscle superolaterally. Leave
-the cervical fascia attached along the superior bor-
-der of the trapezius muscle to act as a hinge.
-**8.** Study the deep surface of the reflected trapezius muscle. Find the plexus of nerves formed by the accessory nerve (cranial nerve XI) and branches of the anterior (ventral) rami of spinal nerves
-C3 and C4. The accessory nerve provides motor innervation to the trapezius muscle; the branches of nerves C3 and C4 are sensory (proprioception). The superficial branch of the transverse cervical artery accompanies the nerves. The transverse cervical
-vein may be removed to clear the dissection fi eld.
-**9.** The accessory nerve passes through the posterior triangle of the neck but do not follow the nerve into
-the posterior triangle at this time. The posterior tri-
-angle will be dissected with the neck.
-*Latissimus Dorsi Muscle [G 323; L 17; N 168; R 226;*
-**1.** Clean the surface and borders of the latissimus
-dorsi muscle (L. latissimus, widest) (FIG. 1.10).
-**2.** The medial attachments of the latissimus dorsi muscle are the spines of vertebrae T7 to T12, the thoracolumbar fascia, and the iliac crest. The latis- simus dorsi muscle also has a medial attachment to
-ribs 9 to 12, lateral to their angles.
-**3.** Note that the lateral attachment of the latissimus dorsi muscle is the fl oor of the intertubercular sul- cus on the anterior side of the humerus but do not dissect this attachment. The latissimus dorsi muscle receives the thoracodorsal nerve and artery on its anterior surface near its lateral attachment. The lateral attachment of the latissimus dorsi muscle, its nerve, and its artery will be dissected with the
-upper limb.
-**4.** To reflect the latissimus dorsi muscle, insert your fi ngers deep to the superior border of the muscle (medial to the inferior angle of the scapula), and break the plane of loose connective tissue that lies between it and deeper muscles. Raise the latis- simus dorsi muscle enough to insert scissors and cut through its medial attachment on the thoraco- lumbar fascia and the spines of the lower thoracic vertebrae (FIG. 1.10, dashed line). Do not cut close to the lumbar spinous processes; cut through the
-muscle fi bers where they attach to the thoracolum-
-bar fascia.
-**5.** Reflect the latissimus dorsi muscle laterally. Do not disturb its attachment to the ribs. It may also have
-an attachment to the inferior angle of the scapula.
-If so, do not disturb its attachment to the inferior
-angle of the scapula. dorsi muscle. If you do not see the serratus  posterior muscles, look for them on the deep surface of the reflected rhomboid
-muscles or the reflected latissimus dorsi muscle.
-**1.** The medial attachments of the serratus posterior
-superior muscle are the nuchal ligament and the spi- nous processes of vertebrae C7 to T3. Its lateral attach- ments are the superior borders of ribs 2 to 5, lateral to
-their angles.
-**2.** The medial attachments of the serratus posterior inferior muscle are the spinous processes of verte- brae T11 to L2. Its lateral attachments are the inferior
-borders of ribs 9 to 12, lateral to their angles.
-**3.** The serratus posterior muscles are respiratory (inspi- ratory) muscles, and they are innervated by intercostal
-
-### Deep Muscles Of The Back
-Dissection Overview
-The deep muscles of the back act on the vertebral
-column. There are many deep muscles of the back (FIG. 1.11)
-and only a few will be dissected: splenius capitis muscle, splenius cervicis muscle, semispinalis capitis muscle, and erector spinae muscle. All of the deep muscles of the
-back are innervated by posterior rami of spinal nerves.
-The order of dissection will be as follows: The deep
-muscles of the posterior neck (splenius capitis and  cervicis) will be studied and reflected. The semispinalis capitis mus- cle will be identifi ed. The erector spinae muscle will be dissected and the three columns of muscle that comprise its
-component parts will be identifi ed.
-Dissection Instructions
-*Splenius Muscle Grant's Atlas 325 | LWW Atlas 18 | Netter's 168 | Color Atlas 226 | Clemente's 376*
-**1.** Detach the serratus posterior superior muscle from
-the spines of vertebrae C7 to T3 and reflect it later-
-ally. Leave it attached to the ribs.
-**2.** Identify the splenius muscle (Gr. splenion, bandage) (FIG. 1.10). The fi bers of the splenius muscle course obliquely across the neck. The inferior attachment of the splenius muscle is the nuchal ligament and the
-spinous processes of vertebrae C7 to T6.
-**3.** The splenius muscle has two parts that are named
-according to their superior attachments:
-- Splenius capitis muscle (L. caput, head) - attached to the mastoid process of the temporal
-bone and the superior nuchal line of the occipi-
-- Splenius cervicis muscle (L. cervix, neck) - attached to the transverse processes of vertebrae
-**3.** The inferior attachment of the levator scapulae
-muscle is on the superior angle of the scapula.
-**4.** The dorsal scapular nerve and artery supply the levator scapulae muscle. The dorsal scapular nerve and artery pass anterior (deep) to the inferior end
-of the levator scapulae muscle.
-**5.** The levator scapulae muscle elevates the scapula and rotates the scapula to depress the glenoid
-Dissection Follow-up
-**1.** Replace the superficial muscles of the back in their cor-
-rect anatomical positions.
-**2.** Use the dissected specimen to review the attachments, action, innervation, and blood supply of each muscle
-that you have dissected.
-**3.** Review the movements that occur between the scapula
-and the thoracic wall.
-**4.** Use an illustration to observe the origin of the trans-
-verse cervical artery and the origin of the dorsal scapu-
-lar artery.
-**5.** Observe two triangles associated with the latissimus dorsi muscle: the triangle of auscultation and the
-lumbar triangle (FIG. 1.10).
-
-### Clinical Correlation
-*TRIANGLES OF THE BACK [G 323, 324; L 17;*
-N 248; C 373]
-The triangle of auscultation is bounded by the latissimus dorsi muscle, the trapezius muscle, and the rhomboid major muscle. Within the triangle of auscultation, intercostal space 6 has no overlying muscles. This area is particularly well  suited for auscultation (listening to sounds produced by thoracic
-organs, particularly the lungs).
-The lumbar triangle is bounded by the latissimus dorsi muscle, the external oblique muscle, and the iliac crest. The fl oor of the lumbar triangle is the internal oblique muscle of the abdomen. On rare occasions, the lumbar triangle is the site of
-a lumbar hernia.
-
-### Intermediate Muscles Of The Back
-*Grant's Atlas 324 | LWW Atlas 17 | Netter's 168 | Color Atlas 228 | Clemente's 374*
-The intermediate muscles of the back are the serratus posterior superior muscle and the serratus posterior in- ferior muscle. The serratus posterior superior and inferior muscles are very thin muscles, which may have been acciden- tally reflected with the rhomboid muscles or the  latissimus
-
-## The Back
-**2.** Use a scalpel to incise the posterior surface of the
-thoracolumbar fascia beginning at the midtho- racic level and extending to the sacrum. This fas- cia is very thin at thoracic levels but becomes very thick at lumbar and sacral levels. Use blunt dissec- tion to separate the thoracolumbar fascia from the posterior surface of the erector spinae muscle. Re- move the thoracolumbar fascia and place it in the
-tissue container.
-**3.** Beginning at the midthoracic level, use your fi ngers to separate the three columns of the erector spi- nae. Continue to separate the columns inferiorly as far as possible. The columns of the erector spinae muscle are fused to each other at the level of the
-sacrum and ilium and they cannot easily be sepa-
-rated at lower levels.
-**4.** Identify (FIG. 1.11):
-- Spinalis muscle-the most medial column of the erector spinae muscle. The inferior at- tachments of the spinalis muscle are on spinous processes. Its superior attachments are also on spinous processes. The spinalis muscle is
-present at lumbar, thoracic, and cervical verte-
-bral levels.
-- Longissimus muscle (L. longissimus, the longest) - the intermediate column of the erec- tor spinae muscle. Its inferior attachment is on the sacrum and its superior attachments are the transverse processes of the thoracic and cervical vertebrae. Note that its most superior portion, the longissimus capitis muscle, attaches to the
-mastoid process of the temporal bone.
-- Iliocostalis muscle-the lateral column of the erector spinae muscle. Its inferior attachment
-is the ilium (iliac crest), and its superior attach-
-ments are on ribs (L. costa, rib).
-**5.** All three columns of the erector spinae muscle extend the vertebral column when both sides work together. If only one side of the erector spinae mus- cle is active, it bends the vertebral column laterally
-toward the side that is active.
-*Transversospinal Group of Muscles [G 328; L 19;*
-N 170; R 223; C 378]
-The transversospinal group of muscles is located deep to the erector spinae muscle. The muscles in the transversospinal group attach to transverse processes and spinous processes (FIG. 1.11). The muscles of the transversospinal group cause rotational and lateral bending movements between adjacent vertebrae and act to stabilize the  vertebral column. A number of muscles
-comprise this group: the semispinalis, the multifi dus,
-and more deeply, the  rotatores.
-**4.** The two parts of the splenius muscle are not easily distinguished from each other at this stage of the dissection. Detach both parts of the splenius mus- cle from their inferior attachments on the nuchal ligament and the spinous processes of vertebrae
-**5.** Reflect the muscles laterally, leaving their superior
-attachments undisturbed.
-*Erector Spinae Muscle Grant's Atlas 325 | LWW Atlas 18 | Netter's 169 | Color Atlas 222 | Clemente's 377*
-The erector spinae muscle (L. erector, one who erects)
-lies deep to the intermediate muscle layer. It is com-
-posed of three columns of muscle: spinalis, longissimus,
-and iliocostalis. The intent of this dissection is to iden-
-tify these three columns of muscle (FIG. 1.11).
-**1.** Detach the serratus posterior inferior muscle from its medial attachments on the spinous processes of vertebrae T11 to L3. Reflect it laterally, leaving it
-attached to the ribs.
-FIGURE 1.11
-Deep muscles of the back.
-Semispinalis:
-Longissimus
-Erector spinae:
-Cervicis m.
-Thoracis m.
-Multifidus m.
-Spinalis m.
-Longissimus m.
-Iliocostalis m. semispinalis capitis muscle will be reflected. The muscles that bound the suboccipital triangle will be identifi ed. The contents of the suboccipital region (vertebral artery and
-suboccipital nerve) will be studied.
-Dissection Instructions
-**1.** One again, identify the semispinalis capitis
-*muscle (FIGS. 1.11, 1.13). [G 330; L 19, 20; N 170;*
-R 238; C 377]
-**2.** Find the greater occipital nerve where it pen- etrates the semispinalis capitis muscle. Use blunt dissection to follow the greater occipital nerve
-deeply through the semispinalis capitis muscle.
-Detach the semispinalis capitis muscle close to the occipital bone and reflect it inferiorly. Preserve the
-greater occipital nerve.
-**3.** Deep to the semispinalis capitis muscle, follow the greater occipital nerve to the lower border of the obliquus capitis inferior muscle. Note that the
-greater occipital nerve (posterior ramus of C2)
-emerges between vertebrae C1 and C2.
-**4.** Identify and clean the three muscles that form the boundaries of the suboccipital triangle
-(FIG. 1.13): Grant's Atlas 333 | LWW Atlas 20 | Netter's 172 | Color Atlas 238 | Clemente's 385
-- Obliquus capitis inferior muscle forms the in- ferior boundary of the suboccipital triangle. Ver- ify that the medial attachment of the obliquus capitis inferior muscle is the spinous process of the axis (C2). Its lateral attachment is on the
-transverse process of the atlas (C1).
-- Rectus capitis posterior major muscle forms
-the medial boundary of the suboccipital triangle.
-Confi rm that the medial attachment of the rec- tus capitis posterior major muscle is the spinous process of the axis. Its lateral attachment is the
-inferior nuchal line of the occipital bone.
-*Semispinalis Capitis Muscle [G 326; L 19; N 169; R 222;*
-**1.** Identify the semispinalis capitis muscle (L. semi, half; L. spinalis, spine) (FIG. 1.11). The  semispinalis capitis muscle is the most superficial member of the transversospinal group of muscles. The semispina- lis capitis muscle lies deep to the splenius capitis
-and cervicis muscles and its fi bers course vertically,
-parallel to the vertebral column.
-**2.** The inferior attachments of the semispinalis capi- tis muscle are the transverse processes of the upper
-thoracic vertebrae.
-**3.** The superior attachment of the semispinalis capitis muscle is the occipital bone between the superior and inferior nuchal lines. Note that the greater occipital
-nerve passes through the semispinalis capitis muscle.
-**4.** Do not dissect the semispinalis capitis muscle fur-
-ther at this time.
-**5.** Do not dissect the other muscles of the transverso-
-spinal group.
-Dissection Follow-up
-Use the dissected specimen to review the location, innerva- tion, and action of each muscle or column of muscles in the
-deep group of back muscles.
-
-### Suboccipital Region
-Dissection Overview
-On a skull, identify (FIG. 1.2): [G 698; L 300, 301; N 10; R 32;
-- Superior nuchal line
-- Inferior nuchal line
-- External occipital protuberance
-- Foramen magnum
-On the atlas (C1 vertebra), identify (FIG. 1.12): [G 299; L 7;
-N 19; R 200; C 388]
-- Posterior tubercle
-- Posterior arch
-- Groove for the vertebral artery
-- Transverse process
-- Foramen transversarium
-On the axis (C2 vertebra), identify (FIG. 1.12):
-- Spinous process
-- Transverse process
-- Foramen transversarium
-The order of dissection will be as follows: The greater occipital nerve will be identifi ed and followed deeply. The
-Spinous process
-of axis (C2)
-Posterior tubercle of atlas (C1)
-Posterior arch transversarium
-FIGURE 1.12
-Posterior view of the atlas (C1) and axis (C2).
-
-## The Back (FIG. 1.13). Note that the suboccipital nerve ( posterior ramus of C1) emerges between the  occipital bone and the atlas (C1 vertebra). The  suboccipital nerve supplies motor innervation to the muscles of the suboccipital region. The suboccipital nerve is the only posterior ramus of a  cervical spinal nerve that
-has no cutaneous distribution.
-**7.** Identify the vertebral artery. Use an illustration to study the course of the vertebral artery through
-*the neck and into the skull. [G 335; L 13, 20; N 135;*
-R 168; C 543]
-Dissection Follow-up
-**1.** Review the actions of the suboccipital muscles.
-**2.** Review the distribution of the branches of a thoracic posterior ramus and compare the thoracic pattern to the distribution of the posterior rami of spinal nerves
-VERTEBRAL CANAL, SPINAL CORD,
-
-### And Meninges
-Dissection Overview
-The vertebral canal is a bony tube formed by the stacked vertebral foramina of the cervical vertebrae, thoracic vertebrae, lumbar vertebrae, and sacral  canal (FIG. 1.14). The vertebral canal encloses and protects the spinal cord, its membranes (spinal meninges), and
-blood vessels.
-The spinal cord begins at the foramen magnum of the occipital bone and usually terminates in the adult at the  level of the second lumbar vertebra. Because the spi- nal cord is shorter than the vertebral canal, the spinal cord segments are found at higher vertebral levels than their names
-would suggest (FIG. 1.14).
-The spinal cord is not uniform in diameter through- out its length. It has a cervical enlargement (FIG. 1.14) that corresponds to spinal cord segments C4 to T1 and a  lumbar enlargement that corresponds to spinal cord segments L2 to S3. There are 31 pairs of spinal nerves
-(8  cervical, 12 thoracic, 5 lumbar, 5 sacral, and 1 coccy-
-geal) (FIG. 1.14), which emerge between adjacent vertebrae.
-Most spinal nerves are numbered according to the vertebra above them as they pass through the intervertebral fora- men (i.e., spinal nerve T1 exits the vertebral canal below vertebra T1). However, in the cervical region, spinal nerves are numbered differently-they are numbered according to the vertebra below. For example, spinal nerve C1 exits the vertebral canal above vertebra C1, and the C8 spinal nerve does not have a
-correspondingly numbered cervical vertebra.
-The order of dissection will be as follows: The erec- tor spinae muscles will be removed to expose the lami- nae of the vertebrae. The laminae will then be cut and
-removed (laminectomy) to expose the spinal meninges.
-- Obliquus capitis superior muscle forms the
-lateral boundary of the suboccipital triangle.
-Confi rm that the inferior attachment of the
-obliquus capitis superior muscle is the trans- verse process of the atlas. Its superior attach- ment is the occipital bone between the superior
-and inferior nuchal lines.
-**5.** The muscles that bound the suboccipital triangle produce extension and lateral bending of the head at the atlanto-occipital joints and rotation of the
-head at the atlantoaxial joints.
-**6.** The contents of the suboccipital triangle are the suboccipital nerve and the vertebral artery
-Greater occipital
-Occipital artery atlanto-occipital
-Vertebral artery
-Semispinalis capitis m. (cut)
-Trapezius m. (cut)
-Greater occipital
-Semispinalis capitis m.
-Rectus capitis
-posterior minor m.
-Rectus capitis
-posterior major m.
-Spinous process
-of axis (C2)
-Obliquus capitis inferior m.
-Vertebral artery process of atlas
-Obliquus capitis
-superior m.
-Occipital artery
-Splenius capitis m. (cut and
-Semispinalis
-Posterior tubercle
-of atlas (C1)
-Greater occipital nerve (C2)
-Communicating branch
-Suboccipital
-Suboccipital
-FIGURE 1.13
-Suboccipital region.
-**3.** Use a chisel or power saw to cut the laminae of vertebrae T6 to T12 on both sides of the spinous processes. Make this cut at the lateral end of the laminae to gain wide exposure to the vertebral canal. The cutting instrument should be angled at
-45° to the vertical (FIG. 1.15).
-**4.** Use a scalpel to cut the interspinous ligament between vertebrae T6 and T7 and between vertebrae T12 and L1. Preserve the interspinous
-ligaments between these levels to keep the inter-
-vening spines together.
-**5.** Use a chisel to pry the six spinous processes and their laminae out as a unit. The dura mater will
-Laminectomy will begin at thoracic levels and will be ex- tended inferiorly. The spinal meninges will be examined and will be opened to expose the spinal cord. The spinal
-cord will then be studied.
-Dissection Instructions
-**1.** Wear eye protection for all steps that require the use of a
-chisel, bone saw, or bone cutters.
-**2.** Use a scalpel to remove the erector spinae  muscles bilaterally from vertebral levels T4 to S3. The lami- nae must be cleanly exposed. Use scraping motions with a chisel to clean the muscle fragments off the
-laminae after the muscles have been removed.
-FIGURE 1.14
-The spinal cord within the vertebral canal.
-Lateral View
-31 pairs of spinal nerves
-Frontal View
-24 separate vertebrae and
-2 composite vertebrae
-Subarachnoid space enlargement enlargement
-Medulla oblongata
-C1 vertebra
-Conus medullaris
-Subarachnoid
-Cauda equina
-L5 vertebra
-L1 vertebra
-T1 vertebra
-
-## The Back
-
-### Clinical Correlation
-
-### Vertebral Venous Plexuses
-The veins of the vertebral venous plexuses are valveless, permitting blood to fl ow superiorly or inferiorly depending on blood pressure gradients. The vertebral venous plexuses can serve as routes for metastasis of cancer from the pelvis to the
-vertebrae, vertebral canal, and cranial cavity.
-**2.** Identify the dura mater. The dural sac ends in-
-feriorly at vertebral level S2 (FIG. 1.16A). [G 338;
-L 22, 24; N 157; R 230; C 403]
-**3.** In the thoracic region, lift a fold of dura mater with forceps and use scissors to cut a small o pening in its posterior midline. Use scissors to extend the cut inferiorly to vertebral level S2. Attempt to do this without damaging the underlying arachnoid
-mater. Retract the dura mater.
-**4.** Identify the arachnoid mater (FIG. 1.17B). It is very delicate. Incise the arachnoid mater in the posterior remain in the vertebral canal with the spinal cord
-and will be undamaged.
-**6.** On the deep surface of the removed spinous speci- men, observe the ligamenta flava. The ligamenta
-fl ava connect the laminae of adjacent vertebrae.
-**7.** Continue the laminectomy procedure inferiorly.
-Use direct observation of the vertebral canal to help you make the cuts correctly. Exercise caution
-in lower lumbar and sacral regions, as the verte- bral canal curves sharply posteriorly (superficially) (FIG. 1.16A). Do not drive the chisel or push the saw through the sacrum as the tool will penetrate the
-**8.** When fi nished with the laminectomy, you should see the posterior surface of the dura mater from
-vertebral levels T6 to S2.
-Spinal Meninges
-**1.** Once the laminectomy is completed, the epidural (extradural) space is exposed. It contains fat and veins. Use blunt dissection to remove the epidural fat and the posterior internal vertebral  venous
-*plexus from the epidural space. [L 26; N 163;*
-Cut edge of lamina
-FIGURE 1.15
-How to open the vertebral canal. the tip of the conus medullaris. It ends at verte- bral level S2, where it becomes encircled by the
-lower end of the dural sac.
-- Filum terminale externum (coccygeal liga- ment) (FIG. 1.16A, B) is made of dura mater and it contains the continuation of the fi lum terminale internum below vertebral level S2. The fi lum terminale externum passes through the sacral
-hiatus and ends by attaching to the coccyx.
-**7.** The pia mater forms two denticulate ligaments,
-one on each side of the spinal cord (FIG. 1.17A, B).
-Each denticulate ligament has 21 teeth and each midline and observe the subarachnoid space. The subarachnoid space contains cerebrospinal fl uid in
-*the living person but not in the cadaver. [G 339;*
-L 23; N 162; R 232; C 404]
-**5.** Retract the arachnoid mater and observe the  spinal cord. The spinal cord is completely invested by the pia mater, which is on the surface of the spinal
-cord and cannot be dissected from it.
-**6.** Identify the following features of the spinal cord:
-*Grant's Atlas 336 | LWW Atlas 22 | Netter's 157 | Color Atlas 230 | Clemente's 403*
-- Lumbar enlargement (spinal cord segments
-L2 to S3) provides nerves to the lower limb. The lumbar enlargement is located at lower thoracic
-vertebral levels.
-- Conus medullaris (medullary cone) is the end of the spinal cord located between vertebral
-levels L1 and L2.
-- Cauda equina (L., tail of horse) is a collection
-of anterior and posterior roots in the lower ver-
-tebral canal (FIG. 1.16B).
-- Filum terminale internum (FIG. 1.16A, B) is a delicate fi lament of pia mater that arises from
-Subarachnoid
-Conus medullaris
-Spinal cord
-Filum terminale
-Cauda equina in lumbar cistern
-End of dural sac
-Filum terminale
-A Posterolateral view
-B Posterior view
-FIGURE 1.16
-Lower portion of the vertebral canal and spinal cord.
-A. Lateral view. B. Posterior view.
-Arachnoid mater
-Arachnoid mater
-Anterior root
-Spinal nerve
-Spinal nerve
-Spinal cord and
-Anterior root
-Posterior root
-Posterior root
-Posterior root
-(reflected)
-Subarachnoid space
-Denticulate
-Denticulate
-Spinal ganglion
-FIGURE 1.17
-Relationships of the meninges to the spinal cord and nerve
-roots. A. Transverse section. B. Posterior view.
-
-## The Back anterior roots are on the anterior side of the den- ticulate ligament. The spinal nerve will be formed outside of the vertebral canal at the point where the
-posterior and anterior roots join each other.
-**9.** Observe small blood vessels that course along the anterior and posterior roots. These are branches of posterior intercostal, lumbar, or vertebral  arteries, depending on the vertebral level. They pass into the vertebral canal through the intervertebral  foramen
-*and supply the spinal cord. [G 342, 343; L 25; N 165;*
-**10.** In the thoracic region, expose one spinal nerve.
-Place a probe into an intervertebral foramen to protect the nerve within it. Use bone cutters to remove the posterior wall of the intervertebral foramen and expose the spinal ganglion (dorsal root ganglion) (FIG. 1.17A). Distal to the spinal gan- glion, identify the spinal nerve and follow it distally to the point where it divides into a posterior ramus
-and an anterior ramus.
-
-### Clinical Correlation
-
-### Lumbar Puncture
-Cerebrospinal fl uid (CSF) can be obtained from the subarach- noid space inferior to the conus medullaris (FIG. 1.18). At this level, there is no danger of penetrating the spinal cord with the
-puncture needle.
-Dissection Follow-up
-**1.** Review the formation and branches of a typical spinal
-**2.** Describe the way that the deep back muscles receive
-their innervation.
-**3.** Review the coverings and parts of the spinal cord and study an illustration that shows the blood supply to the
-spinal cord.
-**4.** Consult a dermatome chart and relate this pattern of
-cutaneous innervation to the spinal cord segments.
-*Grant's Atlas 348 | LWW Atlas 27 | Netter's 159 | Clemente's 372* tooth is attached to the inner surface of the dura
-*mater, anchoring the spinal cord. [G 337; L 23;*
-N 162; R 231; C 404]
-**8.** Use a probe to follow the posterior roots and anterior roots to the point where they pierce the dura mater and enter the intervertebral fora- men (FIG. 1.17B). The posterior roots are on the posterior side of the denticulate ligament and the
-Subarachnoid sacral canal
-Pia mater on spinal cord
-Supraspinous
-Interspinous (epidural) space
-Lumbar spinal puncture for CSF draw and spinal
-Lumbar injection for epidural
-Sacral hiatus
-FIGURE 1.18
-Lumbar puncture for removal of cerebrospinal fl uid (CSF).
-
-### C H A P T E R
-ATLAS REFERENCES:
-G = Grant's Atlas, 13th ed., page number
-L = LWW Atlas of Anatomy, 1st ed., page number
-N = Netter's Atlas, 5th ed., plate number
-R = Color Atlas of Anatomy, 7th ed., page number
-C = Clemente's Atlas, 6th ed., plate number
-- Lateral epicondyle
-- Olecranon
-- Flexor muscle mass (in the forearm)
-- Extensor muscle mass (in the forearm)
-- Carpal bones (on the dorsum of the wrist)
-- Styloid process of the radius
-- Styloid process of the ulna
-- Thenar eminence
-- Hypothenar eminence
-
-### Superficial Veins And
-
-### Cutaneous Nerves
-Dissection Overview
-The superficial fascia of the upper limb contains fat, superficial veins, and cutaneous nerves. In the living body, the superficial veins may be visible through the
-The Upper Limb
-The function of the upper limb is to place the hand in a position to be effective as a grasping tool. As such, the up- per limb has adapted into a body part with great freedom of motion. Some of the muscles that control this motion extend across the front and back of the thorax. If the back has previously been dissected, the superficial muscles of the back have been studied. If the upper limb is your fi rst dis- section unit, you will be instructed to dissect the superficial
-muscles of the back at the appropriate time.
-
-### Surface Anatomy
-*Grant's Atlas 482 | LWW Atlas 30 | Netter's 400 | Color Atlas 401 | Clemente's 34*
-The upper limb is divided into four regions: shoulder, arm
-(brachium), forearm (antebrachium), and hand (manus).
-The surface anatomy of the upper limb can be studied on a living subject or on the cadaver. Place the cadaver in the
-supine position (face up) and palpate the following superfi-cial structures (FIG. 2.1):
-- Jugular notch
-- Xiphisternal junction
-- Costal margin
-- Clavicle
-- Acromion
-- Anterior axillary fold
-- Posterior axillary fold
-- Deltoid muscle
-- Biceps brachii muscle
-- Triceps brachii muscle
-- Cubital fossa
-- Medial epicondyle
-Carpal bones
-Thenar eminence
-Styloid process of the ulna
-Medial epicondyle
-Costal margin
-Xiphisternal
-Flexor muscle
-Jugular notch
-Axillary folds:
-Triceps brachii m.
-Biceps brachii m.
-Cubital fossa
-Lateral epicondyle
-Extensor muscle
-Styloid process of the radius
-FIGURE 2.1
-Surface anatomy of the upper limb.
-
+> **Atlas 參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
 
 ---
 
-*Atlas References: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+## 脊椎概述（Vertebral Column）
+
+**Vertebral column**（圖 1.2）由 33 節 vertebrae 組成：7 節 **cervical**（C）、12 節 **thoracic**（T）、5 節 **lumbar**（L）、5 節 **sacral**（S）和 4 節 **coccygeal**（Co）。
+
+- 上方的 24 節 vertebrae（cervical、thoracic、lumbar）賦予脊椎靈活性與活動度
+- **Sacral vertebrae** 融合後提供骨盆帶（pelvic girdle）的剛性支撐
+
+[G 292; L 6; N 150; R 193; C 392]
 
 ---
-*Atlas: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+
+## 典型胸椎（Typical Thoracic Vertebra）
+
+請參照游離的胸椎標本，辨識以下結構（圖 1.3）：
+
+- **Body**（椎體）
+- **Vertebral arch**（椎弓）——由 **pedicles**（椎根）與 **laminae**（椎板）組成
+- **Pedicle**（椎根）×2
+- **Lamina**（椎板）×2
+- **Vertebral foramen**（椎孔）
+- **Transverse process**（橫突）×2
+- **Transverse costal facet**（橫突肋凹）
+- **Spinous process**（棘突）
+- **Superior articular process**（上關節突）
+- **Inferior articular process**（下關節突）
+- **Superior vertebral notch**（上椎骨切跡）
+- **Inferior vertebral notch**（下椎骨切跡）
+- **Superior costal facet**（上肋凹）
+- **Inferior costal facet**（下肋凹）
+
+胸椎的 **spinous process** 長而細，並向下延伸覆蓋下位椎骨的棘突。與 ribs 的關節連接是胸椎的特徵。
+
+[G 104; L 9; N 151; R 190; C 393]
+
+### 肋骨與椎骨的關節
+
+- **Head of rib**（肋骨頭）與兩相鄰椎骨的 **body** 形成關節（圖 1.4）
+- **Tubercle of rib**（肋骨結節）與同序號胸椎的 **transverse costal facet** 關節
+- **Intervertebral disc**（椎間盤）與 **articular processes** 連接兩相鄰椎骨
+- 兩相鄰椎骨的 **vertebral notches** 共同構成 **intervertebral foramen**（椎間孔），**spinal nerve** 由此通過
 
 ---
-*Atlas: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+
+## 頸椎（Cervical Vertebrae）
+
+頸椎與胸椎的差異（圖 1.5）：
+
+- 椎體較小
+- **Vertebral foramen** 較大
+- **Spinous process** 較短，末端分叉（bifurcate）
+- **Transverse process** 含有 **foramen transversarium**（橫突孔）
+
+在關節骨架上觀察幾乎所有頸椎的共同特徵：
+
+- **Transverse process**（橫突）
+- **Foramen transversarium**（橫突孔）
+- **Spinous process**（棘突）
+
+個別頸椎的特徵：
+
+- **Atlas**（C1）——無椎體
+- **Axis**（C2）——具有 **dens**（齒突），為 C1 椎體在發育過程中融合至 C2 所形成
+- **Vertebra prominens**（隆椎，C7）——頸區棘突最顯著者
+
+[G 298; L 7; N 19; R 190; C 388]
+
+---
+
+## 腰椎（Lumbar Vertebrae）
+
+腰椎與胸椎的差異（圖 1.5）：
+
+- 椎體較大
+- **Spinous process** 寬扁，向後突出
+- 無 **transverse costal facets** 供肋骨附著
+
+在骨架上觀察：腰椎的棘突不像胸椎那般相互重疊。
+
+[G 306; L 11; N 152; R 190; C 396]
+
+---
+
+## 骶骨與尾骨（Sacrum and Coccyx）
+
+### 骶骨（Sacrum）
+
+骶骨由五節融合的椎骨組成，無可辨識的棘突或橫突。於骶骨後表面辨識（圖 1.6）：
+
+- **Median sacral crest**（骶正中嵴）
+- **Posterior (dorsal) sacral foramina**（骶後孔）
+- **Sacral hiatus**（骶管裂孔）
+
+[G 314; L 12; N 154; R 191; C 399]
+
+### 尾骨（Coccyx）
+
+尾骨為一小三角形骨，由四節退化的 **coccygeal vertebrae** 融合而成（圖 1.6）。
+
+---
+
+## 顱骨與髂骨標誌（Skeletal Landmarks）
+
+### 髂骨（Ilium）
+
+於髂骨上辨識（圖 1.2）：
+
+- **Iliac crest**（髂嵴）
+- **Posterior superior iliac spine**（髂後上棘）
+
+[G 317; L 5; N 474; R 188; C 397]
+
+### 枕骨（Occipital Bone）
+
+於枕骨上辨識（圖 1.2）：
+
+- **External occipital protuberance**（枕外隆凸，inion）
+- **Superior nuchal line**（上項線）
+- **Inferior nuchal line**（下項線）
+
+### 顳骨（Temporal Bone）
+
+於顳骨上辨識（圖 1.2）：
+
+- **Mastoid process**（乳突）
+
+---
+
+## 皮膚切口（Skin Incisions）
+
+參照圖 1.7。
+
+1. **正中切口**：從 **external occipital protuberance**（X）至 **coccyx** 尖端（S）。此區域皮膚約厚 6 mm。
+2. **下外側切口**：從 **coccyx** 尖端（S）至 **midaxillary line**（T），約於髂嵴下方 3 cm 處。
+3. **橫切口**：從 **external occipital protuberance**（X）向外至 **mastoid process** 基部（M）。
+4. **頸外側切口**：沿頸部外側面與 **trapezius muscle** 上緣（M 至 B），延伸至 F 點（約臂部中點）。
+5. **臂部切口**：在 F 點繞過臂之前、後面，於內側會合（G）。
+6. **臂部內側切口**：從臂內側面 G 點向上延伸至腋窩，再沿軀幹外側面下行穿過 V 至 T。
+7. **肩胛上橫切口**：從 R 至 B，位於肩胛骨與 **acromion** 上方。
+8. **肩胛下橫切口**：於肩胛骨 **inferior angle** 高度，從正中線（U）至腋中線（V）。
+9. **輔助切口**：在步驟 8 切口上下做數條平行的橫切口，每條皮片約寬 7.5 cm 以利剝皮。
+10. 由內側至外側剝除皮膚，將皮膚置入組織容器。
+
+---
+
+## 皮膚與淺筋膜（Skin and Superficial Fascia）
+
+### 解剖概述
+
+解剖順序：
+1. 移除背部、頸後側與近端上肢後表面的皮膚
+2. 觀察 **posterior cutaneous nerves**（後皮神經）
+3. 移除淺筋膜
+
+### 解剖步驟——淺筋膜
+
+1. 在淺筋膜中定位 **occipital artery**（枕動脈）與 **greater occipital nerve**（枕大神經）（圖 1.8）。先找到枕動脈，再於其內側尋找枕大神經。枕大神經為 **spinal nerve C2** 的後（背側）支，穿過 **trapezius muscle** 約於枕外隆凸外下方 3 cm 處。該區深筋膜緻密堅韌，即使是大神經也可能難以尋找。
+
+   [G 323; L 16; N 172; R 226; C 382]
+
+2. 了解 **posterior (dorsal) ramus**（脊神經後支）的描述。後支的皮支穿過 **trapezius muscle** 或 **latissimus dorsi muscle** 進入淺筋膜（圖 1.9）。
+
+   [G 22; L 21; N 185; R 229; C 373]
+
+3. 由內側至外側翻開背部淺筋膜，切斷並置入組織容器。
+4. 在頸部，淺筋膜僅翻至 **trapezius muscle** 上緣為止。勿切斷 **trapezius muscle** 上緣的深筋膜，**accessory nerve**（副神經）在此處表淺，有受損之虞。
+
+> **臨床重點**：了解典型脊神經的分支模式，後支的皮支支配背部皮膚感覺。
+
+[G 348; L 27; N 159; C 372]
+
+---
+
+## 背部淺層肌肉（Superficial Muscles of the Back）
+
+### 概述
+
+背部淺層肌肉包括：
+- **Trapezius muscle**（斜方肌）
+- **Latissimus dorsi muscle**（闊背肌）
+- **Rhomboid major muscle**（菱形大肌）
+- **Rhomboid minor muscle**（菱形小肌）
+- **Levator scapulae muscle**（肩胛提肌）
+
+解剖順序：
+1. 清理並觀察 **trapezius muscle**
+2. 翻開 **trapezius muscle**
+3. 觀察並翻開 **latissimus dorsi muscle**
+4. 辨識 **rhomboid major**、**rhomboid minor** 與 **levator scapulae**
+
+---
+
+### Trapezius Muscle
+
+[G 323; L 17; N 168; R 226; C 373]
+
+1. 清除 **trapezius muscle**（L. trapezoides，不規則四邊形）表面的脂肪與結締組織（圖 1.10）。清楚界定其下外側界，但勿擾及上外側界。觀察 **trapezius muscle** 的內側附著處：枕外隆凸、**nuchal ligament**（項韌帶）及 **vertebrae C7 至 T12** 的棘突。
+
+2. 觀察外側附著處：鎖骨與肩胛骨。Trapezius muscle 可分為三部，各有不同功能：
+   - **Superior part**（上部）——附著於鎖骨外側 1/3，**elevates scapula**（提肩胛）
+   - **Middle part**（中部）——附著於 **acromion** 與肩胛棘，**retracts scapula**（縮肩胛）
+   - **Inferior part**（下部）——附著於肩胛棘內側端，**depresses scapula**（降肩胛）
+
+3. 準備翻開 trapezius muscle。將手指插入肌肉下外側界深面（肩胛骨 inferior angle 內側），向上盡量游離，以分開 trapezius 與深層肌肉之間的結締組織。
+
+4. 用剪刀自棘突與 nuchal ligament 的內側附著處切斷 trapezius muscle（圖 1.10 虛線）。從肌肉下端開始，向上切至枕外隆凸。
+
+5. 在肌肉上端做一短橫切口（2.5 cm），切斷與上項線的附著。保留 **greater occipital nerve**，橫切口勿超出 trapezius 的上外側界。
+
+6. 用剪刀自肩胛棘與 acromion 的外側附著處切斷（圖 1.10 虛線），靠近肩胛棘切割。保留連接鎖骨與頸部筋膜的 trapezius 部分。
+
+7. 將 trapezius muscle 向上外側翻開。沿肌肉上緣保留頸筋膜作為鉸鏈。
+
+8. 觀察翻開肌肉的深面。找到由 **accessory nerve**（腦神經 XI）與 **anterior (ventral) rami of C3, C4** 分支所構成的神經叢。Accessory nerve 支配 trapezius muscle 的運動；C3、C4 分支為感覺神經（本體感覺）。**Superficial branch of transverse cervical artery** 伴隨這些神經。移除橫頸靜脈以利觀察。
+
+9. Accessory nerve 穿過頸後三角，此時勿跟隨神經進入後三角（待頸部解剖時再處理）。
+
+---
+
+### Latissimus Dorsi Muscle
+
+[G 323; L 17; N 168; R 226; C 373]
+
+1. 清除 **latissimus dorsi muscle**（L. latissimus，最寬）（圖 1.10）的表面與邊界。
+
+2. 內側附著處：vertebrae **T7 至 T12** 的棘突、**thoracolumbar fascia**（胸腰筋膜）與 **iliac crest**。Latissimus dorsi 亦附著於 **ribs 9 至 12**（靠近肋角外側）。
+
+3. 外側附著處：肱骨前面的 **intertubercular sulcus**（結節間溝）底，勿解剖此處。**Thoracodorsal nerve and artery** 在外側附著處附近進入肌肉前表面，將於上肢解剖時處理。
+
+4. 翻開 latissimus dorsi：將手指插入肌肉上緣深面（肩胛骨 inferior angle 內側），分開其與深層肌肉的疏鬆結締組織。墊起肌肉，剪斷胸腰筋膜與下位胸椎棘突的附著處（圖 1.10 虛線）。勿靠近腰椎棘突切割，應在胸腰筋膜的肌肉纖維處切斷。
+
+5. 將 latissimus dorsi 向外側翻開。勿擾及肋骨附著處。若有肩胛骨 inferior angle 附著處，亦保留。
+
+---
+
+### Rhomboid Major and Rhomboid Minor Muscles
+
+[G 324; L 17; N 171; R 226; C 373]
+
+1. 清除 **rhomboid minor** 與 **rhomboid major**（Gr. rhombos，風箏形）肌肉的表面與邊界。
+
+2. **Rhomboid minor**：
+   - 內側附著處——nuchal ligament 與 **vertebrae C7、T1** 的棘突
+   - 外側附著處——肩胛骨內側緣（肩胛棘高度）
+
+3. **Rhomboid major**：
+   - 內側附著處——**vertebrae T2 至 T5** 的棘突
+   - 外側附著處——肩胛骨內側緣（肩胛棘下方）
+
+4. 兩肌之間的界限通常不明顯，需以其外側附著處為指引來分離。
+
+5. 功能：**retracts scapula**（縮肩胛）、**rotates scapula to depress glenoid cavity**（旋肩胛以降低關節盂）、將肩胛骨固定於胸壁上。
+
+6. 翻開 rhomboid muscles：將手指插入 rhomboid major 下緣深面，與深層肌肉分開。
+
+7. 由下而上用剪刀切斷 rhomboid major 自棘突的內側附著處，繼續向上切斷 rhomboid minor 的附著處。將兩肌向外側翻開。
+
+8. 在兩肌外側附著處的深面，用鈍剝尋找 **dorsal scapular nerve**（肩胛背神經）與 **dorsal scapular vessels**（肩胛背血管），它們沿肩胛骨內側緣走行。Dorsal scapular artery 可直接來自 **subclavian artery**，或來自 **transverse cervical artery**（此時稱為其 deep branch）。
+
+---
+
+### Levator Scapulae Muscle
+
+[G 324; L 17; N 168; R 222; C 373]
+
+1. 辨識 **levator scapulae muscle**（L. levare，提舉）。此階段僅能看到其肩胛骨附著處附近。
+
+2. 上側附著處：**上四節頸椎的 transverse processes**。勿解剖此處。
+
+3. 下側附著處：**肩胛骨的 superior angle**。
+
+4. **Dorsal scapular nerve and artery** 支配並供應該肌肉，它們經過 levator scapulae 下端的淺面（前方）。
+
+5. 功能：**elevates scapula**（提肩胛）並**rotates scapula to depress glenoid cavity**。
+
+---
+
+### 解剖複習——淺層肌肉
+
+1. 將背部淺層肌肉復位於正確解剖位置。
+2. 利用標本複習各肌肉的附著處、動作、神經支配與血液供應。
+3. 複習肩胛骨與胸壁之間的運動。
+4. 觀察 **transverse cervical artery** 與 **dorsal scapular artery** 的起源。
+5. 觀察與 latissimus dorsi 相關的兩個三角：**triangle of auscultation** 與 **lumbar triangle**（圖 1.10）。
+
+---
+
+## 背部中層肌肉（Intermediate Muscles of the Back）
+
+[G 324; L 17; N 168; R 228; C 374]
+
+背部中層肌肉包括：
+- **Serratus posterior superior muscle**（上後鋸肌）
+- **Serratus posterior inferior muscle**（下後鋸肌）
+
+這兩塊肌肉很薄，可能在翻開 rhomboid muscles 或 latissimus dorsi 時已被一併翻開。若未見到，請在已翻開肌肉的深面尋找。
+
+### Serratus Posterior Superior Muscle
+
+- 內側附著處：nuchal ligament 與 **vertebrae C7 至 T3** 的棘突
+- 外側附著處：**ribs 2 至 5** 的上緣（靠近肋角外側）
+
+### Serratus Posterior Inferior Muscle
+
+- 內側附著處：**vertebrae T11 至 L2** 的棘突
+- 外側附著處：**ribs 9 至 12** 的下緣（靠近肋角外側）
+
+功能：為 **respiratory (inspiratory) muscles**（呼吸肌），由 **intercostal nerves**（肋間神經）支配。
+
+---
+
+## 背部深層肌肉（Deep Muscles of the Back）
+
+### 概述
+
+背部深層肌肉作用於脊椎。深層肌肉眾多（圖 1.11），本實習僅解剖部分：
+- **Splenius capitis muscle**（頭棘肌）
+- **Splenius cervicis muscle**（頸棘肌）
+- **Semispinalis capitis muscle**（頭半棘肌）
+- **Erector spinae muscle**（豎脊肌）
+
+所有背部深層肌肉皆由脊神經 **posterior rami** 支配。
+
+解剖順序：
+1. 觀察並翻開後頸部深層肌肉（splenius capitis 與 cervicis）
+2. 辨識 **semispinalis capitis muscle**
+3. 解剖 **erector spinae muscle**，辨識其三個肌肉柱
+
+---
+
+### Splenius Muscle
+
+[G 325; L 18; N 168; R 226; C 376]
+
+1. 將 **serratus posterior superior** 自 C7 至 T3 的棘突切斷，向外側翻開，保留其肋骨附著處。
+
+2. 辨識 **splenius muscle**（Gr. splenion，繃帶）（圖 1.10）。Splenius muscle 的纖維斜向穿過頸部。下側附著處：nuchal ligament 與 **vertebrae C7 至 T6** 的棘突。
+
+3. Splenius muscle 可分為兩部，依其上側附著處命名：
+   - **Splenius capitis muscle**（L. caput，頭）——附著於顳骨 **mastoid process** 與枕骨 **superior nuchal line**
+   - **Splenius cervicis muscle**（L. cervix，頸）——附著於 **上頸椎的 transverse processes**
+
+4. 此階段兩部不易區分。將兩部自 nuchal ligament 與 C7 至 T6 棘突的下側附著處切斷。
+
+5. 將肌肉向外側翻開，保留其上側附著處不動。
+
+---
+
+### Semispinalis Capitis Muscle
+
+[G 326; L 19; N 169; R 222; C 377]
+
+1. 辨識 **semispinalis capitis muscle**（L. semi，半；L. spinalis，棘）（圖 1.11）。Semispinalis capitis 是 **transversospinal group**（橫突棘肌群）中最淺層的成員，位於 splenius capitis 與 cervicis 的深面，纖維垂直走向，平行於脊椎。
+
+2. 下側附著處：**上位胸椎的 transverse processes**。
+
+3. 上側附著處：枕骨（**superior nuchal line** 與 **inferior nuchal line** 之間）。注意：**greater occipital nerve** 穿過此肌肉。
+
+4. 此時勿繼續解剖。
+
+---
+
+### Erector Spinae Muscle
+
+[G 325; L 18; N 169; R 222; C 377]
+
+**Erector spinae muscle**（L. erector，豎立者）位於中層肌肉深面，由三個肌肉柱組成：**spinalis**、**longissimus**、**iliocostalis**。
+
+1. 將 **serratus posterior inferior** 自 T11 至 L3 的棘突切斷，向外側翻開，保留其肋骨附著處。
+
+2. 用解剖刀切開 **thoracolumbar fascia**（胸腰筋膜）的後面，自胸中部至骶骨。胸椎水平的筋膜很薄，腰椎與骶骨水平則厚實。用鈍剝分開筋膜與 erector spinae muscle 後表面，移除筋膜並置入組織容器。
+
+3. 自胸中部開始，用手指分離 erector spinae 的三個肌肉柱。繼續向下分離至可能的最遠處。三柱在骶骨與髂骨水平融合，無法輕易分開。
+
+4. 辨識（圖 1.11）：
+   - **Spinalis muscle**（棘肌）——erector spinae 最內側的肌肉柱。下、上附著處均在棘突上，存在於腰椎、胸椎與頸椎水平。
+   - **Longissimus muscle**（L. longissimus，最長）——erector spinae 的中間柱。下側附著處在骶骨，上側附著處為胸椎與頸椎的 transverse processes。其最上端為 **longissimus capitis muscle**，附著於顳骨 mastoid process。
+   - **Iliocostalis muscle**（髂肋肌）——erector spinae 的外側柱。下側附著處為髂骨（iliac crest），上側附著處為 ribs（L. costa，肋骨）。
+
+5. 兩側共同收縮時，三柱共同**伸直脊椎**。單側收縮時，使脊椎向收縮側**側屈**。
+
+---
+
+### Transversospinal Muscle Group
+
+[G 328; L 19; N 170; R 223; C 378]
+
+**Transversospinal group** 位於 erector spinae 深面。這組肌肉附著於 **transverse processes** 與 **spinous processes**，作用為：
+- 相鄰椎骨間的**旋轉**與**側屈**運動
+- **穩定脊椎**
+
+組成：
+- **Semispinalis**（半棘肌）
+- **Multifidus**（多裂肌）
+- **Rotatores**（迴旋肌，更深層）
+
+### 解剖複習——深層肌肉
+
+使用標本複習深層背部肌肉各肌肉（或肌肉柱）的位置、神經支配與功能。
+
+---
+
+## 枕下區（Suboccipital Region）
+
+### 概述
+
+骨骼標誌：
+
+**枕骨**（圖 1.2）：
+- **Superior nuchal line**（上項線）
+- **Inferior nuchal line**（下項線）
+- **External occipital protuberance**（枕外隆凸）
+- **Foramen magnum**（枕骨大孔）
+
+[G 698; L 300, 301; N 10; R 32; C 6]
+
+**Atlas（C1）**（圖 1.12）：
+- **Posterior tubercle**（後結節）
+- **Posterior arch**（後弓）
+- **Groove for vertebral artery**（椎動脈溝）
+- **Transverse process**（橫突）
+- **Foramen transversarium**（橫突孔）
+
+[G 299; L 7; N 19; R 200; C 388]
+
+**Axis（C2）**（圖 1.12）：
+- **Spinous process**（棘突）
+- **Transverse process**（橫突）
+- **Foramen transversarium**（橫突孔）
+
+解剖順序：
+1. 辨識並追蹤 **greater occipital nerve** 深入
+2. 翻開 **semispinalis capitis muscle**
+3. 辨識構成 **suboccipital triangle**（枕下三角）的肌肉
+4. 觀察枕下區內容物（**vertebral artery** 與 **suboccipital nerve**）
+
+### 解剖步驟
+
+1. 再次辨識 **semispinalis capitis muscle**（圖 1.11, 1.13）。
+
+   [G 330; L 19, 20; N 170; R 238; C 377]
+
+2. 找到 **greater occipital nerve** 穿過 semispinalis capitis 之處。用鈍剝將神經向深面追蹤。靠近枕骨切斷 semispinalis capitis，向下翻開。保留 greater occipital nerve。
+
+3. 在 semispinalis capitis 深面，將 greater occipital nerve 追蹤至 **obliquus capitis inferior** 下緣。注意：greater occipital nerve（**C2 後支**）從 C1 與 C2 之間穿出。
+
+4. 辨識並清理構成 **suboccipital triangle**（圖 1.13）的三塊肌肉：
+
+   [G 333; L 20; N 172; R 238; C 385]
+
+   - **Obliquus capitis inferior muscle**（下頭斜肌）——形成枕下三角的**下界**。內側附著處：axis（C2）的 **spinous process**。外側附著處：atlas（C1）的 **transverse process**。
+   - **Rectus capitis posterior major muscle**（頭後大直肌）——形成枕下三角的**內側界**。內側附著處：axis 的 **spinous process**。外側附著處：枕骨的 **inferior nuchal line**。
+   - **Obliquus capitis superior muscle**（上頭斜肌）——形成枕下三角的**外側界**。下側附著處：atlas 的 **transverse process**。上側附著處：枕骨（superior nuchal line 與 inferior nuchal line 之間）。
+
+5. 構成枕下三角的肌肉作用：
+   - 在 **atlanto-occipital joints**（寰枕關節）產生頭部的**伸直**與**側屈**
+   - 在 **atlantoaxial joints**（寰樞關節）產生頭部的**旋轉**
+
+6. 枕下三角的內容物：
+   - **Suboccipital nerve**（枕下神經，C1 後支）——從枕骨與 atlas（C1）之間穿出，支配枕下區肌肉的運動。Suboccipital nerve 是唯一無皮支分佈的頸脊神經後支。
+   - **Vertebral artery**（椎動脈）——穿過此區域入顱
+
+   [G 335; L 13, 20; N 135; R 168; C 543]
+
+> **臨床重點**：了解枕下肌肉的作用。複習胸椎後支的分支分佈模式，並與頸椎脊神經後支分佈比較。
+
+---
+
+## 脊椎管、脊髓與脊膜（Vertebral Canal, Spinal Cord, and Meninges）
+
+### 概述
+
+**Vertebral canal**（脊椎管）由頸椎、胸椎、腰椎的 **vertebral foramina** 與 **sacral canal**（骶管）疊加構成（圖 1.14）。椎管容納並保護 **spinal cord**（脊髓）及其被膜（**spinal meninges**）與血管。
+
+- **Spinal cord** 起於枕骨 **foramen magnum**，通常終於成人 **第二腰椎**（L2）水平
+- 因脊髓短於脊椎管，脊髓節段位於比其名稱所暗示的**更高**的脊椎水平
+
+**Spinal cord** 並非全程等徑：
+- **Cervical enlargement**（頸膨大）——對應脊髓節段 C4 至 T1
+- **Lumbar enlargement**（腰膨大）——對應脊髓節段 L2 至 S3
+
+**脊神經**共 31 對（圖 1.14）：
+- 8 對 cervical
+- 12 對 thoracic
+- 5 對 lumbar
+- 5 對 sacral
+- 1 對 coccygeal
+
+大多數脊神經按其上方椎骨編號（神經 T1 從 T1 下方出椎管）。但**頸區例外**：頸神經按其**下方**椎骨編號。例如，C1 從 C1 上方出椎管，而 C8 沒有對應的頸椎序號。
+
+解剖順序：
+1. 移除 **erector spinae muscles** 以暴露椎板
+2. 切斷並移除椎板（**laminectomy**，椎板切除術）以暴露脊膜
+3. 觀察脊膜並打開以暴露脊髓
+
+---
+
+### 解剖步驟——Laminectomy
+
+1. 所有使用鑿子、骨鋸或骨剪的步驟請**配戴護目鏡**。
+
+2. 用解剖刀雙側移除 **vertebral levels T4 至 S3** 的 erector spinae muscles，暴露乾淨的椎板。用鑿子刮除殘留肌肉。
+
+3. 用鑿子或電鋸在棘突兩側切斷 **T6 至 T12** 的椎板。切口在椎板外側端以廣泛暴露椎管。刀具與垂直面成 45° 角（圖 1.15）。
+
+4. 用解剖刀切斷 T6–T7 與 T12–L1 之間的 **interspinous ligament**（棘間韌帶）。保留這些水平之間的棘間韌帶以保持棘突連接。
+
+5. 用鑿子將六個棘突及其椎板整體撬出。**Dura mater**（硬膜）將留在椎管內與脊髓在一起，不會受損。
+
+6. 在取下的標本深面觀察 **ligamenta flava**（黃韌帶），連接相鄰椎骨的椎板。
+
+7. 繼續向下進行 laminectomy。用直接觀察脊椎管的方式來正確切割。在下腰椎與骶骨區要特別小心，該處椎管彎曲急劇向後（變淺）（圖 1.16A）。勿將工具穿入骶骨，以免穿透骨盆臟器。
+
+8. Laminectomy 完成後，可見 T6 至 S2 水平的 **dura mater** 後表面。
+
+---
+
+### 脊膜（Spinal Meninges）
+
+1. Laminectomy 完成後，暴露 **epidural (extradural) space**（硬膜外腔），含有脂肪與靜脈。用鈍剝移除硬膜外脂肪與 **posterior internal vertebral venous plexus**（椎內靜脈叢）。
+
+   [L 26; N 163; R 228; C 402]
+
+2. 辨識 **dura mater**（硬膜）。硬膜囊向下終於 **vertebral level S2**（圖 1.16A）。
+
+   [G 338; L 22, 24; N 157; R 230; C 403]
+
+3. 在胸區，用鑷子提起 dura mater 並用剪刀在後正中線切一小口，繼續向下切至 S2。盡量不損傷深面的 **arachnoid mater**（蛛網膜）。牽開 dura mater。
+
+4. 辨識 **arachnoid mater**（圖 1.17B），非常脆弱。在後正中線切開蛛網膜，觀察 **subarachnoid space**（蛛網膜下腔）。活體中此腔隙含 **cerebrospinal fluid**（腦脊髓液），大體標本中則無。
+
+   [G 339; L 23; N 162; R 232; C 404]
+
+5. 牽開 arachnoid mater，觀察 **spinal cord**。Spinal cord 完全被 **pia mater**（軟膜）覆蓋，位於脊髓表面，無法剝離。
+
+6. 辨識脊髓的以下特徵：
+
+   [G 336; L 22; N 157; R 230; C 403]
+
+   - **Lumbar enlargement**（腰膨大，脊髓節段 L2 至 S3）——支配下肢的神經所在，位於下位胸椎水平。
+   - **Conus medullaris**（脊髓圓錐）——脊髓末端，約位於 L1–L2 椎骨水平。
+   - **Cauda equina**（L. tail of horse，馬尾）——下位椎管內前後根的集合（圖 1.16B）。
+   - **Filum terminale internum**（內終絲）（圖 1.16A, B）——為 pia mater 的細絲，自 conus medullaris 尖端發出，終於 S2 水平，並被硬膜囊下端包繞。
+   - **Filum terminale externum**（外終絲，又稱 coccygeal ligament）（圖 1.16A, B）——由硬膜組成，含內終絲在 S2 以下的延續，通過 **sacral hiatus** 附著於尾骨。
+
+7. **Pia mater** 形成兩側各一條的 **denticulate ligament**（齒狀韌帶）（圖 1.17A, B）。每條齒狀韌帶有 21 個齒，每個齒附著於硬膜內面，將脊髓固定。
+
+   [G 337; L 23; N 162; R 231; C 404]
+
+8. 用探針追蹤 **posterior roots**（後根）與 **anterior roots**（前根）至其穿過硬膜進入椎間孔之處（圖 1.17B）。後根位於齒狀韌帶的後方，前根位於齒狀韌帶的前方。脊神經在椎管外後根與前根會合處形成。
+
+9. 觀察沿前後根走行的細小血管，為後肋間、腰或椎动脉的分支，經椎間孔進入椎管供應脊髓。
+
+   [G 342, 343; L 25; N 165; R 228; C 406]
+
+10. 在胸區暴露一條脊神經。將探針插入椎間孔保護其內的神經，用骨剪去除椎間孔後壁，暴露 **spinal ganglion**（脊神經節，又稱 dorsal root ganglion）（圖 1.17A）。在脊神經節遠側，辨識脊神經並向遠側追蹤至其分為後支與前支之處。
+
+---
+
+### 臨床相關
+
+#### 脊椎靜脈叢（Vertebral Venous Plexuses）
+
+> **臨床重點**：脊椎靜脈叢**無瓣膜**，血流方向可依血壓梯度向上或向下。脊椎靜脈叢可成為癌症自骨盆轉移至脊椎、椎管與顱腔的路徑。
+
+#### 腰椎穿刺（Lumbar Puncture）
+
+> **臨床重點**：**腦脊髓液（CSF）** 可於 **conus medullaris**（脊髓圓錐）下方抽取（圖 1.18）。此水平穿刺針不會傷及脊髓。
+
+腰椎穿刺常用於：
+- 抽取腦脊髓液進行化驗
+- 硬膜外注射麻醉
+
+穿刺部位約在 **L3–L4** 或 **L4–L5** 椎骨間（成人）。
+
+---
+
+### 解剖複習——脊椎管與脊髓
+
+1. 複習典型脊神經的形成與分支。
+2. 說明深層背部肌肉的神經支配方式。
+3. 複習脊髓的被膜與組成，並研讀脊髓血液供應的圖解。
+4. 參照 **dermatome chart**（皮節圖），了解脊髓節段與皮膚感覺神經支配的對應關係。
+
+[G 348; L 27; N 159; C 372]
+
+---
+
+> **Atlas 參考格式說明**
+> - **G** = Grant's Atlas（13th ed.）
+> - **L** = LWW Atlas of Anatomy（1st ed.）
+> - **N** = Netter's Atlas（5th ed.）
+> - **R** = Color Atlas of Anatomy（7th ed.）
+> - **C** = Clemente's Atlas（6th ed.）
