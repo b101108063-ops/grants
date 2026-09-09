@@ -6,1929 +6,836 @@ weight: 4
 
 # Chapter 4: The Abdomen
 
-> **Atlas參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
+> **Atlas 參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
 
+## 腹壁（Abdominal Wall）
 
-# Chapter 4: The Abdomen
+### 腹壁的骨骼架構（Skeleton of the Abdominal Wall）
 
-> **Atlas參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
+使用骨骼標本辨識以下結構 [G 12; L 215; N 241; R 189; C 140]：
 
-
-# Grant's Dissector 15th Edition: The Abdomen
-
-> **Atlas References:** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
-
-
-## The Abdomen
-nerve. Clean the branches of one lateral cutane-
-**5.** Remove the superficial fascia in an inferior direc- tion until the lower border of the external oblique muscle is exposed (approximately 2.5 cm into the
-proximal thigh).
-**6.** Detach the superficial fascia from the midline, midaxillary line, and proximal thigh and place it in
-the tissue container.
-Dissection Follow-up
-**1.** Use an illustration to review the distribution of the
-superficial epigastric vessels.
-**2.** Review the abdominal distribution of the anterior rami
-of spinal nerves T6 to L1.
-
-### Clinical Correlation
-
-### Superficial Veins Of The Abdominal Wall
-The superficial epigastric vein anastomoses with the lateral thoracic vein in the superficial fascia. This is an important collateral venous channel from the femoral vein to the axillary vein. In patients who have an obstruction of the inferior vena cava or hepatic portal vein, the superficial veins of the abdomi- nal wall may be engorged, and may become visible around the
-umbilicus (caput medusae).
-
-### Muscles Of The Anterolateral
-
-### Abdominal Wall
-Dissection Overview
-Three fl at muscles (external oblique, internal oblique, and transversus abdominis) form most of the anterolat- eral abdominal wall. The rectus abdominis muscle and the pyramidalis muscle complete the anterior abdominal wall near the midline. The three fl at muscles have broad, fl eshy proximal attachments (to the ribs, vertebrae, and pelvis) and broad, aponeurotic distal attachments (to the ribs, linea alba, and pubis). Each of the three fl at muscles contributes to the
-formation of the rectus sheath and the inguinal canal.
-In the male, the testes are housed in the scrotum, which
-is an outpouching of the anterior abdominal wall. Each tes- tis passes through the abdominal wall during development, dragging its ductus deferens behind it. This passage occurs through the inguinal canal. The inguinal canal is located superior to the medial half of the inguinal ligament and ex- tends from the superficial (external) inguinal ring to the deep (internal) inguinal ring. In the female, the inguinal canal is smaller in diameter. fi brous connective tissue containing relatively little fat
-(Scarpa's fascia) and the more  superficial part is com-
-posed entirely of fat ( Camper's fascia).
-**3.** As you approach the midline, palpate the anterior cutaneous nerves that enter the superficial fascia about 2 to 3 cm lateral to the midline. Clean one anterior cutaneous nerve. The abdominal ante- rior cutaneous nerves are branches of intercostal nerves (T7 to T11), the subcostal nerve (T12), and the iliohypogastric and ilioinguinal nerves
-(L1). Consult a dermatome chart and note that:
-*Grant's Atlas 348 | LWW Atlas 162 | Netter's 159 | Color Atlas 205 | Clemente's 219*
-- T6 innervates the skin superficial to the xiphoid
-- T10 innervates the skin of the umbilicus.
-- T12 innervates the skin superior to the pubic
-- L1 innervates the skin overlying the pubic sym-
-*physis. Grant's Atlas 106 | LWW Atlas 214 | Netter's 251 | Color Atlas 216 | Clemente's 220*
-**4.** Lateral to the cut, use your fi ngers to separate the superficial fascia from the external oblique muscle (FIG. 4.6, arrow 2). As you near the midaxillary line, palpate the lateral cutaneous nerves entering the superficial fascia. The lateral cutaneous nerves are branches of intercostal nerves or the subcostal
-FIGURE 4.6
-Removal of the abdominal superficial fascia.
-Inguinal ligament
-External oblique aponeurosis
-Membranous layer (Scarpa's)
-Fatty layer (Camper's)
-Superficial fascia:
-Dissection Instructions
-*External Oblique Muscle Grant's Atlas 106 | LWW Atlas 216 | Netter's 243 | Color Atlas 210 | Clemente's 221*
-**1.** Clean any remnants of the superficial fascia from the surface of the external oblique muscle and place
-them in the tissue container.
-**2.** Observe the external oblique muscle and note that its fi bers course from superolateral to infero- medial (FIG. 4.8A). The proximal attachments of the external oblique muscle are the external surfaces of ribs 5 to 12. It has a broad aponeurosis that forms
-distal attachments on the linea alba, pubic tubercle,
-and anterior half of the iliac crest.
-**3.** In the inguinal region, use blunt dissection to clean
-the aponeurosis of the external oblique muscle.
-*Grant's Atlas 110 | LWW Atlas 216 | Netter's 243 | Color Atlas 217 | Clemente's 223*
-**4.** Note that the external oblique aponeurosis splits to permit the spermatic cord (round ligament of the
-It must be noted that the structures forming the inguinal canal are identical in the two sexes, but the contents of the inguinal canal differ. In the male, the in- guinal canal contains the spermatic cord, whereas in the female the inguinal canal contains the round ligament of the uterus. Dissection instructions are designed for
-male cadavers, but these instructions also apply to fe-
-male cadavers.
-The order of dissection will be as follows: The three fl at muscles of the abdominal wall will be studied. Emphasis will be placed on the inguinal region. The composition and contents of the rectus sheath will be explored. The anterior
-abdominal wall will be reflected.
-Skeleton of the Abdominal Wall
-Use a skeleton to identify the following structures (FIG. 4.7):
-*Grant's Atlas 12 | LWW Atlas 215 | Netter's 241 | Color Atlas 189 | Clemente's 140*
-- Xiphisternal junction
-- Xiphoid process
-- Costal margin
-- Pubic symphysis
-- Pubic crest
-- Pubic tubercle
-- Anterior superior iliac spine
-- Iliac crest
-- Tubercle of the iliac crest
-FIGURE 4.7
-Skeleton of the anterior abdominal wall.
-Xiphisternal
-Costal margin
-Pubic tubercle and pubic crest
-Pubic symphysis
-Iliac crest
-Tubercle of iliac crest
-Iliac fossa iliac spine
-FIGURE 4.8
-Contributions of the fl at abdominal muscles to the
-inguinal canal.
-Transversalis ransversalis
-A  External oblique m.
-Aponeurosis
-Inguinal ligament
-Intercrural fibers
-Iliohypogastric nerve
-Lateral crus
-Superficial inguinal ring
-Medial crus
-Spermatic cord
-Ilioinguinal nerve
-B  Internal oblique m.
-Iliohypogastric nerve
-Ilioinguinal nerve
-Conjoint tendon
-C  Transversus abdominis m.
-Inguinal falx
-Femoral vein
-Femoral artery
-Transversalis
-Conjoint tendon
-
-## The Abdomen
-the external oblique aponeurosis onto the sper- matic cord. This is the external spermatic fascia, which is the contribution of the external abdominal
-oblique muscle to the layers of the spermatic cord.
-**7.** Note that a branch of the ilioinguinal nerve emerges at the superficial inguinal ring, anterior to the spermatic cord (round ligament of the uter- us). The ilioinguinal nerve supplies sensory fi bers to the skin on the anterior surface of the external
-genitalia and the medial surface of the thigh.
-**8.** Use an illustration to study the lacunar ligament.
-*Grant's Atlas 110 | LWW Atlas 220 | Netter's 252 | Clemente's 223 The lacunar liga-* ment is formed at the medial end of the inguinal ligament by fi bers that turn posteriorly to attach to
-the pecten pubis.
-*Internal Oblique Muscle Grant's Atlas 107 | LWW Atlas 216 | Netter's 244 | Color Atlas 212 | Clemente's 224*
-The internal oblique muscle lies deep to the external oblique muscle and forms the intermediate layer of the anterolateral abdominal wall. To expose the inter- nal oblique muscle, the external oblique muscle must be partially transected and a fl ap reflected inferiorly
-(FIG. 4.9). Perform this reflection bilaterally.
-**1.** Make a vertical cut through the external oblique muscle beginning at the anterior superior iliac
-uterus) to pass through. This opening is the super-
-fi cial inguinal ring (FIG. 4.8A).
-**5.** Identify the following features of the external
-oblique aponeurosis:
-- Lateral (inferior) crus-forms the lateral mar- gin of the superficial inguinal ring. These fi bers
-attach to the pubic tubercle.
-- Medial (superior) crus-forms the medial margin of the superficial inguinal ring. These
-fi bers attach to the pubic crest.
-- Intercrural fi bers-delicate fi bers that span across the crura superolateral to the superficial inguinal
-ring. They prevent the crura from spreading apart.
-- Inguinal ligament-the inferior border of the aponeurosis of the external oblique muscle. It spans from the anterior superior iliac spine to the pubic tubercle. Vessels and nerves exit the abdominal cavity and enter the lower limb by
-passing posterior to the inguinal ligament.
-- The external oblique aponeurosis forms the an- terior wall of the inguinal canal, and the inguinal
-ligament forms its fl oor.
-**6.** At the margins of the superficial inguinal ring, observe the thin layer of fascia that extends from
-Semilunar line
-Anterior superior iliac spine
-Inguinal ligament
-Superficial inguinal ring
-External oblique
-External oblique m.
-(reflected)
-Internal oblique m.
-Inguinal ligament
-FIGURE 4.9
-Cuts used to reflect the external oblique muscle.
-- Iliohypogastric nerve-runs parallel to the
-ilioinguinal nerve and superior to it.
-*Transversus Abdominis Muscle [G 107; L 217; N 245;*
-R 215; C 227]
-The transversus abdominis muscle lies deep to the inter-
-nal oblique muscle. In the inguinal region, the transver-
-sus abdominis muscle has attachments and fi ber direc-
-tions that are similar to the internal oblique muscle.
-**1.** Use an illustration to study the proximal attach- ments, distal attachments, and fi ber direction of
-*the transversus abdominis muscle [G 108; L 216;*
-N 245; R 215; C 227]. The proximal attachments of the transversus abdominis muscle are the internal surfaces of the costal cartilages of ribs 7 to 12, the thoracolumbar fascia, the iliac crest, and the lateral third of the inguinal ligament. The distal attach- ments of the transversus abdominis muscle are the
-linea alba, the pubic crest, and the pecten pubis.
-Dissection note: The transversus abdominis mus- cle is diffi cult to separate from the internal oblique muscle because their tendons are fused near their distal attachments to form the conjoint tendon. If you are not required to expose the internal oblique muscle, go to the section entitled "Deep Inguinal
-Ring." If you are required to separate the internal spine and ending at the level of the umbilicus (FIG. 4.9A, cut 1). Insert your fi nger into cut 1 and
-direct it medially to separate the muscle layers.
-Use scissors to make a horizontal cut across the external obique muscle (FIG. 4.9A, cut 2). Stop at
-the semilunar line.
-**2.** Insert your fi ngers into cut 2 and direct them infe- riorly toward the inguinal ligament. Separate the
-external oblique muscle from the underlying inter- nal oblique muscle and note that your fi ngers can- not pass medial to the semilunar line because the external oblique aponeurosis is fused to the internal
-oblique aponeurosis at this location.
-**3.** Use scissors to cut the external oblique aponeuro- sis along the semilunar line down to the superficial inguinal ring (FIG. 4.9A, cut 3). Only the external
-oblique aponeurosis should be cut.
-**4.** Reflect the fl ap of external oblique muscle inferiorly (using the inguinal ligament as a hinge) to reveal the inguinal portion of the internal oblique muscle
-(FIG. 4.9B).
-**5.** Use an illustration to study the attachments and fi ber direction of the internal oblique muscle
-*Grant's Atlas 108 | LWW Atlas 216 | Netter's 244 | Color Atlas 212 | Clemente's 225. The proximal* attachments of the internal oblique muscle are the thoracolumbar fascia, the iliac crest, and the lateral half of the inguinal ligament. The distal attachments of the internal oblique muscle are the inferior borders of ribs 10 to 12, the linea alba, the pubic crest, and the pecten pubis. Note that the fi bers of the internal oblique muscle ascend from inferior lateral to superior medial (perpendicular to
-the  fi ber direction of the external oblique muscle).
-**6.** Examine the exposed inguinal portion of the internal oblique muscle. The lowest fi bers run transversely and arch over the spermatic cord (round ligament) to attach on the pecten pubis (FIG. 4.10). The arching fi bers of the internal oblique muscle form part of the roof of the inguinal canal, and the aponeurotic inser- tion of these fi bers form part of the posterior wall of
-the inguinal canal (conjoint tendon; FIG. 4.8B)
-**7.** Observe the small bundle of muscle fi bers that con- nects the internal oblique muscle to the  superficial side of the spermatic cord or round ligament (FIG. 4.10). This is the cremaster muscle and fascia, which is the contribution of the internal oblique muscle to the coverings of the spermatic cord. In the female, the cremaster muscle and fascia
-surround the round ligament of the uterus.
-**8.** In the intermuscular plane between the exter- nal oblique and the internal oblique muscles, two
-nerves may be found (FIG. 4.10):
-- Ilioinguinal nerve-courses through the  inguinal
-canal to emerge at the superficial inguinal ring.
-FIGURE 4.10
-The internal oblique muscle in the inguinal region.
-Anterior superior iliac spine
-Internal oblique m.
-External oblique m.
-(reflected)
-Deep inguinal ring
-(in transversalis fascia)
-Cremaster m.
-Inferior epigastric vessels (deep to
-transversalis fascia)
-Inguinal ligament
-Lacunar ligament
-Spermatic cord
-(retracted)
-Pecten pubis
-Conjoint tendon
-Ilioinguinal n.
-Iliohypogastric n.
-
-## The Abdomen oblique muscle from the transversus abdominis
-muscle, proceed with the next dissection step.
-**2.** The ilioinguinal nerve will be followed laterally to fi nd the plane of separation between the internal
-oblique muscle and the transversus abdominis muscle.
-**3.** Locate the ilioinguinal nerve near the superficial
-inguinal ring and follow it laterally until it disap-
-pears into the surface of the internal oblique mus-
-cle (FIG. 4.10).
-**4.** Using a probe, split the fi bers of the internal
-oblique along the course of the ilioinguinal nerve.
-**5.** Insert your fi nger through the split and into the plane between the internal oblique and transver- sus abdominis muscles. Push your fi nger inferiorly and medially to separate the muscle layers. Proceed medially until stopped by the arcuate line and con- joint tendon. Observe that the aponeuroses of the two muscles are inseparable near their attachment
-on the pecten pubis.
-**6.** Note that the inferior free edge of the transversus abdominis muscle is slightly superior to the inferior free edge of the internal oblique muscle. As is true of the internal abdominal oblique muscle, the arching fi bers of the transversus abdominis form part of the
-roof of the inguinal canal and its aponeurotic inser-
-tion forms part of the posterior wall (FIG. 4.8C).
-**7.** Below the arching fi bers of the internal oblique and transversus abdominis muscles, the abdominal wall is unsupported by muscle (FIG 4.10). This is a natu- ral weak point in the posterior wall of the inguinal
-*Deep Inguinal Ring [G 113; L 217, 219, 220; N 253;*
-R 218; C 222]
-Transversalis fascia lines the inner surface of the ab- dominal muscles (FIG. 4.4). The deep inguinal ring is the point at which the gubernaculum passed through the transversalis fascia during development. The deep ingui- nal ring is located superior to the midpoint of the inguinal ligament. In the male, the ductus deferens passes through the deep inguinal ring. In the female, the round ligament
-of the uterus passes through the deep inguinal ring.
-**1.** Retract the spermatic cord (or round ligament of
-the uterus) inferiorly (FIG. 4.10).
-**2.** Use a probe to lift the arching fi bers of the internal
-oblique and transversus abdominis muscles.
-**3.** Observe the inferior epigastric vessels through
-the transversalis fascia (FIG. 4.10). The inferior epi-
-gastric vessels are located within the layer of extra-
-peritoneal fascia.
-**4.** The deep inguinal ring is lateral to the inferior epigastric vessels and is identifi ed by the presence of the ductus deferens (or round ligament of the
-uterus) passing through this area.
-**5.** To summarize, the boundaries of the inguinal
-canal are (FIG. 4.8):
-- Deep-deep inguinal ring
-- Superfi cial-superficial inguinal ring
-- Anterior-aponeurosis of the external oblique
-- Inferior (fl oor) - inguinal ligament and lacunar
-- Superior (roof) - the arching fi bers of the  internal oblique and transversus abdominis muscles
-- Posterior-transversalis fascia laterally and conjoint tendon medially
-
-### Clinical Correlation
-*INGUINAL HERNIAS LWW Atlas 223 | Color Atlas 219*
-The inguinal canal is a weak area of the abdominal wall through which abdominal viscera may protrude (inguinal her- nia). An inguinal hernia is classifi ed according to its position relative to the inferior epigastric vessels. An indirect inguinal hernia exits the abdominal cavity through the deep inguinal ring lateral to the inferior epigastric vessels, and it follows the inguinal canal (an indirect course through the abdominal wall) (FIG. 4.11B). In contrast, a direct inguinal hernia exits the abdominal cavity medial to the inferior epigastric vessels and it follows a relatively direct course through the abdominal wall
-(FIG. 4.11C).
-*Rectus Abdominis Muscle [G 106; L 217, 218; N 244;*
-R 211; C 227]
-The rectus sheath is formed by the aponeuroses of the three fl at abdominal muscles. The rectus sheath contains
-the rectus abdominis muscle, the pyramidalis muscle,
-the superior and inferior epigastric vessels, and the ter-
-minal ends of the ventral rami of spinal nerves T7 to T12.
-The purpose of this dissection is to fi rst open the anterior wall of the rectus sheath, observe the rectus abdominis muscle in situ, then transect the rectus abdominis muscle
-to expose the posterior wall of the rectus sheath.
-**1.** Reposition the internal oblique and external
-oblique muscles.
-**2.** Make the following cuts bilaterally. Use scissors to make a transverse cut across the anterior surface of the rectus sheath at the level of the umbilicus (FIG. 4.12, cut 1). Begin the cut approximately 2.5 cm lateral to the umbilicus and continue it laterally
-as far as the semilunar line.
-**3.** Use scissors to cut the rectus sheath along the medial border of the rectus abdominis muscle (FIG. 4.12, cut 2). This cut should extend in a supe- rior direction, about 2.5 cm from the midline. Stop
-at the costal margin.
-**4.** Extend the vertical cut inferiorly along the medial
-border of the rectus abdominis muscle (FIG. 4.12,
-cut 3). Cut 3 should be about 1.2 cm from the mid-
-line and stop at the pubic crest.
-**5.** Insert your fi ngers into the vertical cut and sepa- rate the anterior wall of the rectus sheath from the
-anterior surface of the rectus abdominis muscle.
-Observe that the anterior wall of the rectus sheath is fi rmly attached to the anterior surface of the rectus muscle by several tendinous intersections (FIG. 4.13). Lay the scissors fl at against the body wall, insert them between the rectus sheath and the
-anterior surface of the rectus abdominis muscle,
-and cut the tendinous intersections to free the rec-
-tus sheath from the rectus abdominis muscle.
-**6.** Observe the rectus abdominis muscle (FIG. 4.13).
-The inferior attachment of the rectus abdominis
-muscle is the symphysis and body of the pubis.
-A   Inguinal hernias
-B   Indirect inguinal hernia
-C   Direct inguinal hernia
-Site of deep inguinal ring
-Superficial inguinal ring
-Extraperitoneal fascia
-Transversalis
-Transversus
-abdominis m.
-Internal oblique m.
-Subcutaneous fat
-External oblique aponeurosis
-Direct inguinal
-Indirect inguinal inguinal ring
-Inguinal canal inguinal ring
-Extraperitoneal fascia
-Transversalis
-Transversus
-abdominis m.
-Internal oblique m.
-Subcutaneous fat
-External oblique aponeurosis inguinal ring
-Superficial inguinal ring
-FIGURE 4.11
-Inguinal hernias. A. Anatomical relationships and course through the abdominal wall. B. An indirect inguinal hernia leaves the abdominal cavity lateral to the inferior epigastric vessels and passes
-down the inguinal canal. C. A direct inguinal hernia leaves the abdomi-
-nal cavity medial to the inferior epigastric vessels.
-Semilunar line
-Anterior superior iliac spine
-Inguinal ligament
-Intercrural fibers
-Superficial inguinal ring
-External oblique m.
-Previous incision
-FIGURE 4.12
-Cuts used to open the rectus sheath.
-
-## The Abdomen
-
-### Clinical Correlation
-
-### Epigastric Anastomoses
-The superior epigastric vessels anastomose with the inferior epi- gastric vessels within the rectus sheath (FIG. 4.14). If the inferior vena cava becomes obstructed, the anastomosis between the in- ferior epigastric and superior epigastric veins provides a collateral venous channel that drains into the superior vena cava. If the aorta is occluded, collateral arterial circulation to the lower part of the
-body occurs through the superior and inferior epigastric arteries.
-**11.** Examine the posterior wall of the rectus sheath (FIG. 4.15). Identify the arcuate line, which is lo- cated midway between the pubic symphysis and the umbilicus. The arcuate line is the inferior limit of the posterior wall of the rectus sheath, and it may be indistinct. At the level of the arcuate line, the
-inferior epigastric vessels enter the rectus sheath.
-**12.** Inferior to the arcuate line, observe the transversa- lis fascia. Deep to the transversalis fascia, observe a layer of extraperitoneal fascia and the parietal
-peritoneum (FIG. 4.15).
-**13.** In the midline, identify the linea alba (FIG. 4.13). The linea alba is formed by the fusion of the aponeuroses of the right and left fl at abdominal muscles (external
-oblique, internal oblique, and transversus abdominis).
-The superior attachment of the rectus abdominis
-muscle is on the costal cartilages of ribs 5 to 7.
-The rectus abdominis muscle flexes the trunk.
-**7.** Anterior to the inferior end of the rectus  abdominis muscle, look for the pyramidalis muscle. It is frequently absent. When present, the pyramida- lis muscle attaches to the anterior surface of the pubis and the linea alba, and it draws down on the
-linea alba.
-**8.** Along the lateral side of the rectus abdominis mus- cle, observe that the branches of six nerves (T7 to
-T12) enter the rectus sheath and penetrate the deep
-surface of the rectus abdominis muscle (FIG. 4.14).
-These nerves innervate the rectus abdominis muscle
-and then emerge as anterior cutaneous branches.
-*Grant's Atlas 107 | LWW Atlas 171 | Netter's 251 | Color Atlas 216 | Clemente's 220*
-**9.** Use your fi ngers to mobilize the medial border of the rectus abdominis muscle. At the level of the umbilicus, transect the rectus abdominis muscle with scissors. Reflect the two halves superiorly and inferiorly, respectively. If the nerves prevent full re- fl ection of the rectus abdominis muscle, cut them
-where they enter the muscle.
-**10.** Observe two sets of vessels on the posterior surface
-*of the rectus abdominis muscle: [G 107; L 217, 219;*
-N 249; R 216; C 231]
-- Superior epigastric artery and vein-on the superior half of the rectus abdominis muscle
-- Inferior epigastric artery and vein-on the inferior half of the rectus abdominis muscle
-FIGURE 4.13
-Rectus abdominis muscle.
-Gallbladder
-Tendinous intersections
-Rectus abdominis m.
-Inguinal ligament
-Anterior superior iliac spine
-Costal margin
-epigastric a.
-epigastric a.
-Transversus
-abdominis m.
-Thoracoabdominal nerves:
-Ilioinguinal nerve (L1)
-Subcostal nerve (T12)
-Iliohypogastric nerve (L1)
-FIGURE 4.14
-Nerves and arteries within the rectus sheath. The rectus
-abdominis muscle has been removed.
-**2.** Refer to FIGURE 4.16. On the left side of the um-
-bilicus, use scissors to create a small hole (2.5 cm)
-through the posterior wall of the rectus sheath, ex-
-traperitoneal fascia, and parietal peritoneum.
-**3.** Insert your fi nger through the hole into the ab- dominal cavity and pull the posterior wall of the rectus sheath anteriorly to create a space between
-the abdominal wall and the abdominal viscera.
-**4.** Use scissors to make a vertical cut through the
-linea alba to the xiphoid process (FIG. 4.16, cut 1).
-Stay 1 cm to the left of the midline to preserve the
-falciform ligament.
-**5.** Extend the cut inferiorly as far as the pubic sym- physis (FIG. 4.16, cut 2). Stay 1 cm to the left of the
-midline to preserve the median umbilical fold.
-**6.** Return the rectus abdominis muscle and the external
-oblique muscle to their correct anatomical positions.
-**7.** At the level of the umbilicus, place one hand through the vertical cut and raise the abdominal
-wall from the abdominal contents.
-**8.** On the right side of the abdomen, use scissors to
-cut the posterior wall of the rectus sheath, extraper- itoneal fascia, and peritoneum in the transumbili- cal plane (FIG. 4.16, cut 3). The scissors should pass
-Dissection Follow-up
-**1.** Replace the muscles of the anterior abdominal wall in
-their correct anatomical positions.
-**2.** Review the proximal attachment, distal attachment,
-and action of each muscle.
-**3.** Review the structures that form the nine layers of the
-abdominal wall (FIG. 4.4).
-**4.** Use the dissected specimen to review the rectus sheath just superior to the level of the umbilicus and
-just superior to the pubic symphysis (FIG. 4.15).
-**5.** Review the blood and nerve supply to the anterior ab-
-dominal wall.
-
-### Reflection Of The Abdominal Wall
-Dissection Overview
-The anterior abdominal wall will be reflected in such a way that the contents of the abdominopelvic cavity can be accessed, but the abdominal wall can be repositioned for review. The cut lines will be similar to the quadrant lines il- lustrated in FIGURE 4.2. The cuts are designed to give direct reference to the position of the abdominal organs within
-the abdominal quadrants.
-The order of dissection will be as follows: The anterior abdominal wall will be cut and opened. The inner surface
-of the anterior abdominal wall will be studied.
-Dissection Instructions
-**1.** Reflect the halves of the rectus abdominis muscles
-superiorly and inferiorly.
-Transversalis
-Internal oblique m.
-External oblique m.
-Transversus abdominis m.
-Transversalis
-Rectus abdominis m.
-External oblique aponeurosis
-FIGURE 4.15
-Posterior wall of the rectus sheath (left) and transverse
-sections of the rectus sheath at the two levels indicated by the arrows.
-FIGURE 4.16
-Cuts used to open the abdominal cavity.
-Previous cuts
-
-## The Abdomen
-Some abdominal organs develop behind the peritoneum
-and are called retroperitoneal (extraperitoneal) organs.
-The retroperitoneal organs are:
-- Kidneys
-- Ureters
-- Suprarenal glands
-- Rectum
-Some parts of the gastrointestinal tract begin as intra- peritoneal organs in the embryo and then become attached to the abdominal wall later in development. These organs are secondarily retroperitoneal. Examples of secondarily
-retroperitoneal organs include:
-- Duodenum (2nd through 4th parts)
-- Pancreas
-- Ascending colon
-- Descending colon
-The order of dissection will be as follows: The abdomi- nal viscera will be identifi ed and localized by abdominal quadrant. The named specializations of the peritoneum will be studied. For a more complete understanding, re- view the development of the gastrointestinal tract before
-examining the peritoneal specializations.
-Dissection Instructions
-*Abdominal Viscera [G 123, 132; L 224, 225; N 261;*
-R 291, 292; C 244, 245]
-**1.** Use your hands to inspect the abdominal cavity.
-As you perform the inspection, you may encounter adhesions. If adhesions are present, tear them with
-your fi ngers to mobilize the organs.
-**2.** Open the fl aps of the abdominal wall. The cut lines correlate to the abdominal quadrant lines. As you examine the organs, you may close and open the fl aps to help you relate the organs to the abdominal quadrants. Most of the organs to be identifi ed are
-parts of the gastrointestinal tract.
-**3.** Identify the liver (FIG. 4.17). The liver occupies the right upper quadrant and extends across the mid- line into the left upper quadrant. The liver lies against the inferior surface of the diaphragm. The attachment of the falciform ligament divides the
-liver into right and left lobes.
-**4.** The gallbladder is also in the right upper quad- rant. The gallbladder extends below the inferior border of the liver. It is usually found at the tip of the right ninth costal cartilage in the midclavicular
-line. Confi rm this relationship.
-**5.** Identify the stomach. It lies in the left upper quad- rant. It is continuous with the esophagus proximally
-and the duodenum distally. The liver partially cov- ers the anterior surface of the stomach. through the previous transverse cut that was made in the rectus abdominis muscle and the external oblique muscle. Extend the cut laterally through all three fl at abdominal muscles as far as the midaxil- lary line. Repeat this transverse cut on the left side
-of the abdomen.
-**9.** Open the fl aps of the abdominal wall.
-**10.** Identify the falciform ligament on the inner surface
-of the right upper quadrant fl ap. The falciform liga-
-ment connects the anterior abdominal wall to the sur-
-*face of the liver. Grant's Atlas 122 | LWW Atlas 219 | Netter's 247 | Color Atlas 293 | Clemente's 250*
-**11.** On the inner surface of the lower abdominal wall,
-identify three folds:
-- Median umbilical fold-in the midline inferior to the umbilicus. It is attached to the right lower quadrant fl ap but may have been cut longitudi- nally. The median umbilical fold contains the
-urachus (remnant of the allantoic duct).
-- Medial umbilical fold-located lateral to the median umbilical fold. The medial umbilical fold
-contains the remnant of the umbilical  artery.
-- Lateral umbilical fold-located lateral to the medial umbilical fold. The lateral umbilical fold
-overlies the inferior epigastric artery and vein.
-**12.** Lateral to the lateral umbilical fold, observe a small depression that marks the location of the deep
-inguinal ring.
-
-### Peritoneum And Peritoneal Cavity
-Dissection Overview
-All body cavities (thoracic cavity, pericardial cavity, and ab- dominopelvic cavity) are lined by serous membranes, which secrete a small amount of fl uid to lubricate the movements of organs. In the abdominal cavity and pelvic cavity, this membrane is called the peritoneum. There are two types of peritoneum: the parietal peritoneum lines the inner surfaces of the abdominal and pelvic walls, and the visceral
-peritoneum covers the surfaces of the abdominal and pel-
-vic organs. Between these two types of peritoneum is a po-
-tential space called the peritoneal cavity.
-During development, some organs develop in the perito-
-neal cavity suspended on a mesentery and are called intraperi-
-toneal (peritoneal) organs. Intraperitoneal organs include:
-- Stomach
-- First part of duodenum
-- Jejunum
-- Ileum
-- Transverse colon
-- Sigmoid colon
-- Liver
-- Spleen
-**6.** Find the spleen. It is in the left upper quadrant. It is found posterior to the stomach and may be dif- fi cult to fi nd unless it is enlarged. Reach around the left side of the stomach with your right hand and
-palpate the spleen.
-**7.** Identify the greater omentum (FIG. 4.17). The greater omentum is attached to the greater curva- ture of the stomach. Reflect the greater omentum
-superiorly over the costal margin (FIG. 4.18).
-**8.** Identify the small intestine (FIGS. 4.18 and 4.19).
-The small intestine begins at the pyloric end of the
-stomach. It has three parts:
-- Duodenum
-- Jejunum
-- Ileum
-**9.** The duodenum lies posterior to the other parts of the gastrointestinal tract and will be dissected after
-the other parts. It will be studied with the pancreas.
-**10.** The jejunum and ileum extend from the left up- per quadrant to the right lower quadrant, but due to their length and mobility, they occupy all four quad- rants. Beginning in the left upper quadrant, pass the
-jejunum and ileum between your hands and appre-
-ciate their length, position, and termination.
-**11.** Identify the large intestine. The large intestine begins in the right lower quadrant at the ileocecal
-junction (FIGS. 4.18 and 4.19). It has six parts:
-- Cecum-located in the right lower quadrant.
-The appendix is attached to the inferior end of
-- Ascending colon-extends from the right low- er quadrant to the right upper quadrant. It ends
-at the right colic (hepatic) flexure.
-FIGURE 4.17
-The relationship of the greater omentum to the
-abdominal viscera.
-abdominal wall:
-Superficial fascia
-External abdominal oblique muscle
-Internal abdominal oblique muscle
-Transversus abdominis muscle
-Extraperitoneal fat and connective tissue
-Parietal peritoneum
-Gallbladder
-FIGURE 4.18
-Reflect the greater omentum superiorly to expose the
-small intestine and large intestine.
-Right colic (hepatic) flexure (splenic) flexure
-Omental apron portion of greater omentum
-(turned up)
-Ascending colon
-Small intestine:
-Transverse colon
-(turned up)
-Descending colon
-Sigmoid colon
-FIGURE 4.19
-Schematic drawing of the abdominal organs. Part of the
-transverse colon and the greater omentum have been removed.
-Thoracic part
-Abdominal part
-Sigmoid colon
-Descending colon
-Right colic flexure
-Ascending colon
-Gallbladder
-Transverse colon
-Left colic flexure
-
-## The Abdomen
-**3.** Observe the greater omentum (FIG. 4.17). Spread this apron-like structure to appreciate its size. The
-greater omentum normally lies between the intes-
-tines and the anterior abdominal wall (FIG. 4.20).
-*Grant's Atlas 128 | LWW Atlas 224 | Netter's 267 | Color Atlas 306 | Clemente's 258*
-**4.** Elevate the inferior border of the liver and identify the lesser omentum (FIG. 4.20). The lesser omen- tum passes from the lesser curvature of the stomach and fi rst part of the duodenum to the inferior surface
-of the liver. The lesser omentum has two parts:
-- Hepatogastric ligament-spans from the liver
-to the lesser curvature of the stomach.
-- Hepatoduodenal ligament-spans from the
-liver to the fi rst part of the duodenum.
-**5.** Return the right upper quadrant fl ap to its anatomi- cal position and review the falciform ligament. The falciform ligament passes from the parietal perito- neum on the anterior abdominal wall to the visceral peritoneum on the surface of the liver. The round
-ligament of the liver (ligamentum teres hepatis)
-is found in the inferior edge of the  falciform liga-
-ment. It is the remnant of the  umbilical vein.
-**6.** Follow the falciform ligament superiorly and ob- serve that it is one part of the coronary ligament that attaches the liver to the diaphragm. Two ad- ditional peritoneal ligaments are also parts of the
-coronary ligament:
-- Left triangular ligament-located between the
-left lobe of the liver and the diaphragm.
-- Right triangular ligament-located between
-the right lobe of the liver and the diaphragm.
-**7.** The gastrophrenic ligament connects the supe- rior part of the greater curvature of the stomach to the diaphragm. Slide your hand superiorly around
-the left side of the stomach to feel this ligament.
-**8.** The gastrosplenic (gastrolienal) ligament passes from the greater curvature of the stomach to the spleen, and the splenorenal (lienorenal) liga- ment attaches the spleen to the body wall anterior
-to the left kidney (FIG. 4.21).
-**9.** Reflect the greater omentum superiorly over the cos- tal margin and identify the transverse mesocolon (FIGS. 4.18 and 4.20). The transverse mesocolon attaches to the anterior surface of the duodenum and pancreas. At the left end of the transverse me- socolon is the phrenicocolic ligament, which
-attaches the left colic flexure to the diaphragm.
-*LWW Atlas 224 | Netter's 263 | Color Atlas 313 | Clemente's 288*
-**10.** Identify the mesentery (FIG. 4.20). The mesentery suspends the jejunum and ileum from the posterior abdominal wall. The root of the mesentery attaches
-- Transverse colon-extends from the right upper
-quadrant to the left upper quadrant. The trans-
-verse colon ends at the left colic (splenic) flexure.
-- Descending colon-extends from the left up-
-per quadrant to the left lower quadrant.
-- Sigmoid colon-located in the left lower quad- rant. The sigmoid colon ends in the pelvic cavity
-at the level of the third sacral vertebra.
-- Rectum-located in the pelvis. The rectum will
-be dissected with the pelvic viscera.
-**12.** Use your hands to trace the large intestine from
-the right lower quadrant to the left lower quadrant.
-Note the position (quadrant) and mobility of each
-of its parts.
-*Peritoneum Grant's Atlas 123 | LWW Atlas 224 | Netter's 261 | Color Atlas 306 | Clemente's 250*
-**1.** Observe the visceral peritoneum on the surface of the stomach or small intestine (FIG. 4.20). Note that
-visceral peritoneum is smooth and slippery.
-**2.** Observe the parietal peritoneum on the inner surface of the abdominal wall (FIG. 4.20). Note that
-parietal peritoneum is also smooth and slippery.
-Bare area of liver
-Lesser peritoneal
-sac (omental bursa)
-Celiac trunk
-Mesentery of small intestine
-Rectouterine
-FIGURE 4.20
-Peritoneum and peritoneal cavity, median section. opment, the inferior recess extended between the layers of the greater omentum (review an embryol- ogy text). The highest part of the lesser peritoneal sac is the superior recess. The diaphragm lies pos- terior to the superior recess and the caudate lobe of
-*the liver is anterior to the superior recess. [G 124;*
-L 230; N 264, 265; R 313; C 249]
-**17.** Posterior to the main part of the lesser peritoneal sac is the pancreas (FIG. 4.20). The peritoneum that covers the pancreas forms part of the posterior wall
-of the lesser peritoneal sac.
-Dissection Follow-up
-**1.** Use the cadaver specimen to review all parts of the gastrointestinal tract proximal to the distal order. State
-the quadrant(s) in which each abdominal organ nor-
-mally is found.
-**2.** Review all parts and specializations of the peritoneum
-listed on the preceding pages.
-**3.** Review the embryology of the gut tube and mesenteries.
-CELIAC TRUNK, STOMACH, SPLEEN, LIVER,
-
-### And Gallbladder
-Dissection Overview
-The order of dissection will be as follows: The ribs and diaphragm will be cut to allow the liver to be retracted superiorly, exposing the lesser omentum. The surface fea- tures of the stomach will be studied. The vessels and ducts in the hepatoduodenal ligament will be demonstrated. The branches of the celiac trunk that supply the stomach, spleen, liver, and gallbladder will be dissected. The remainder of the fi eld of supply of the celiac trunk (to the duodenum and pan- creas) will be dissected later. The hepatic portal vein will be
-studied. The spleen, liver, and gallbladder will be studied.
-Dissection Instructions
-**1.** Place the greater omentum in its correct  anatomical
-**2.** Identify the parts of the stomach (FIG. 4.22): [G 133;
-L 231; N 267; R 294; C 254]
-- Body
-- Greater curvature
-- Lesser curvature
-- Cardia
-- Cardial notch
-- Fundus
-- Body
-- Angular incisure (notch)
-- Pyloric part
-- Pylorus to the posterior abdominal wall from the left upper
-quadrant to the right lower quadrant.
-**11.** Observe the mesoappendix. The mesoappendix attaches the appendix to the posterior abdominal
-wall and it contains the appendicular artery.
-**12.** Identify the sigmoid mesocolon in the lower left quadrant. The sigmoid mesocolon suspends the
-sigmoid colon from the posterior abdominal wall.
-**13.** Note that these peritoneal structures are all found in a part of the peritoneal cavity called the greater peritoneal sac (FIG. 4.20). Posterior to the stom- ach and lesser omentum is a smaller part of the peritoneal cavity called the lesser peritoneal sac
-(omental bursa) (FIG. 4.20).
-**14.** The omental foramen (epiploic foramen) connects the greater and lesser peritoneal sacs. The omental
-foramen lies posterior to the hepatoduodenal liga-
-ment (FIG. 4.21). Grant's Atlas 128 | LWW Atlas 230 | Netter's 267 | Color Atlas 311 | Clemente's 300
-**15.** Insert your fi nger into the omental foramen and
-review its four boundaries (FIG. 4.21):
-- Anterior-hepatic portal vein, hepatic artery
-proper, and bile duct contained within the hepa-
-toduodenal ligament.
-- Posterior-inferior vena cava and right crus of
-the diaphragm covered with parietal peritoneum.
-- Superior-caudate lobe of the liver covered
-with visceral peritoneum.
-- Inferior-fi rst part of the duodenum covered
-with visceral peritoneum.
-**16.** Study a diagram of the lesser peritoneal sac (FIG. 4.20). The lowest part of the lesser peritoneal
-sac is called the inferior recess and it extends infe-
-riorly as far as the greater omentum. During devel-
-Hepatoduodenal ligament with contents
-Greater peritoneal sac
-Lesser peritoneal sac
-Parietal peritoneum
-Gastrosplenic
-Splenorenal ligament
-Left kidney
-Hepatogastric ligament
-FIGURE 4.21
-Schematic drawing of the peritoneal cavity in transverse
-section, inferior view. The arrow passes through the omental foramen.
-
-## The Abdomen
-**2.** Insert the index fi nger of your left hand into the omental foramen (FIG. 4.24). Anterior to your fi nger
-is the hepatoduodenal ligament and its contents:
-- Bile duct
-- Hepatic artery proper
-- Hepatic portal vein
-- Autonomic nerves
-- Lymphatic vessels
-**3.** To aid dissection, you may place a strip of white
-paper into the omental foramen (FIG. 4.24).
-**3.** Identify the following features of the liver
-(FIG. 4.23A, B): Grant's Atlas 150 | LWW Atlas 233 | Netter's 277 | Color Atlas 298 | Clemente's 271
-- Right lobe
-- Left lobe
-- Diaphragmatic surface
-- Inferior border
-**4.** Use your hand to raise the inferior border of the liver and identify the visceral surface of the liver (FIG. 4.23B). The visceral surface is in contact with the gallbladder and the peritoneum covering the stomach, duodenum, colon, right kidney, and right
-suprarenal gland.
-**5.** Identify the porta hepatis on the visceral surface of the liver. It is the fi ssure through which ves- sels, ducts, lymphatics, and nerves enter the liver
-(FIG. 4.23B). Grant's Atlas 151 | LWW Atlas 233 | Netter's 277 | Color Atlas 299 | Clemente's 271
-**6.** Identify the gallbladder (FIG. 4.23B). The gallblad-
-der may have been surgically removed.
-*Celiac Trunk Grant's Atlas 134 | LWW Atlas 231 | Netter's 284 | Color Atlas 315 | Clemente's 252*
-As you dissect the branches of the celiac trunk, realize that arteries are named by their region of distribution, not by
-their origin or branching pattern.
-**1.** On the left side only, use bone cutters to detach the costal cartilages of ribs 6 and 7 from the xiphisternal junction and lateral border of the sternum. Work- ing through the opening just created, use scissors to make a vertical cut through the diaphragm. Extend this cut up to the level of the coronary ligament on the superior surface of the liver. Use your hands to retract the ribs, diaphragm, and liver superiorly to
-expose the lesser omentum.
-FIGURE 4.22
-Parts of the stomach.
-Lesser curvature
-Angular incisure
-Cardial notch
-Pyloric part
-FIGURE 4.23
-Relationships of the gallbladder. A. Anterior view.
-B. Sagittal view.
-Right colic
-Gallbladder ligament of
-Porta hepatis
-Common hepatic
-Duodenum (1st part)
-Transverse colon
-Gallbladder
-Visceral surface
-Diaphragmatic
-Attachment of
-Inferior border
-Cystic duct seen. The lymph nodes may be removed to clear
-the dissection fi eld.
-**12.** Follow the hepatic artery proper inferiorly and confi rm that it is the continuation of the common
-hepatic artery (FIG. 4.25).
-**13.** Observe that the common hepatic artery gives rise to the gastroduodenal artery. The  gastroduodenal artery passes posterior to the fi rst part of the duo- denum (FIG. 4.26). Follow the  gastroduodenal  artery until it divides to give rise to the right gastro- omental (gastroepiploic) artery and the anterior
-superior pancreaticoduodenal artery.
-
-### Clinical Correlation
-
-### Anatomical Variation In Arteries
-In about 12% of cases, the right hepatic artery arises from the
-superior mesenteric artery.
-An aberrant left hepatic artery may arise from the left gas- tric artery. During surgical removal of the stomach (gastrec- tomy), blood fl ow to an aberrant left hepatic artery could be
-interrupted, endangering the left lobe of the liver.
-The cystic artery usually arises from the right hepatic ar- tery, but other origins are possible. The cystic artery may pass posterior (75%) or anterior (24%) to the common hepatic duct
-(FIG. 4.27).
-**4.** Use blunt dissection to remove the peritoneum from the anterior surface of the hepatoduodenal
-ligament (anterior to the vessels and ducts).
-**5.** Identify the three large structures that are  contained within the hepatoduodenal ligament: bile duct, hepatic artery proper, and hepatic portal vein
-(FIG. 4.24). The bile duct is the most lateral of the three.
-**6.** Use a probe to trace the bile duct superiorly. Iden- tify the cystic duct and the common hepatic duct
-(FIG. 4.25).
-**7.** Follow the common hepatic duct superiorly until it receives its tributaries: the right hepatic duct and the left hepatic duct. The right and left hepatic
-ducts exit the porta hepatis.
-**8.** Clean the hepatic artery proper. The tough
-" connective tissue" around this vessel is an autonomic nerve plexus. To clear the dissection
-*fi eld,  remove the autonomic nerve fi bers. [G 134;*
-L 231; N 283; R 315; C 252]
-**9.** Follow the hepatic artery proper toward the liver through the hepatoduodenal ligament. Near the porta hepatis, the hepatic artery proper branches into the left hepatic artery and the right hepatic
-artery (FIG. 4.25).
-**10.** Two other arteries arise in the hepatoduodenal
-ligament (FIG. 4.25):
-- Cystic artery-arises from the right hepatic
-artery. Follow it to the gallbladder.
-- Right gastric artery-arises from the hepatic artery proper. Follow it to the lesser curvature
-of the stomach.
-**11.** Lymphatics are also contained within the hepato- duodenal ligament. The lymphatic vessels are too small to dissect but hepatic lymph nodes can be
-Paper passes through the omental foramen
-Hepatic artery
-Hepatic portal
-FIGURE 4.24
-Structures contained within the hepatoduodenal ligament.
-The paper passes through the omental foramen.
-Gallbladder
-Right hepatic artery
-Right hepatic duct
-Left hepatic duct
-Left hepatic artery
-Common hepatic duct
-Hepatic portal vein
-Common hepatic
-Right gastric artery
-Gastroduodenal artery
-Cystic duct
-Cystic artery
-Hepatic artery proper
-FIGURE 4.25
-Structures contained within the hepatoduodenal ligament. Tributaries of the (common) bile duct and branches of the
-common hepatic artery.
-
-## The Abdomen of the stomach. Branches of the gastric arteries distribute to the anterior and posterior surfaces of
-the stomach.
-**16.** Follow the splenic artery to the left for about
-5 cm and verify that it lies against the posterior abdominal wall. The splenic artery courses along the  superior border of the pancreas and may be partially  imbedded in it. Do not dissect the splenic artery from the  pancreas at this time. Note that short gastric  arteries arise from the distal end of the splenic artery to supply the fundus of the
-stomach (FIG. 4.26).
-**17.** Find the left gastro-omental (gastroepiploic)  artery in the greater omentum about 2 cm from the greater
-curvature of the stomach (FIG. 4.26). The left gastro-
-omental artery is a branch of the splenic  artery.
-**18.** Find the right gastro-omental artery in the greater omentum near the right end of the greater curvature of the stomach. The right gastro- omental artery anastomoses with the left gastro-omental artery. Follow the right gastro-omental artery to
-the right to fi nd its origin from the gastroduode-
-*nal branch of the common hepatic artery. [G 134;*
-L 231; N 284; R 314; C 252]
-**19.** Return to the hepatoduodenal ligament and  identify the hepatic portal vein. The hepatic  portal vein lies posterior to both the hepatic artery proper and the bile duct (FIG. 4.24). Follow the hepatic  portal vein superiorly and observe that it passes into the porta hepatis, where it divides into right and left
-portal veins. The hepatic portal vein usually re-
-ceives the left and right gastric veins as tributar-
-ies. Inferiorly, the hepatic portal vein passes poste-
-rior to the fi rst part of the duodenum.
-*Spleen Grant's Atlas 136 | LWW Atlas 232 | Netter's 282 | Color Atlas 317 | Clemente's 258*
-The spleen is the largest hematopoietic organ in the body. Its size and weight may vary considerably depending on the blood volume that it contains. The spleen is covered by the visceral peritoneum except at
-the hilum where the splenic vessels enter and leave.
-**1.** Use your left hand to retract the fundus of the stomach to the right. Use your right hand to gently
-pull the spleen anteriorly.
-**2.** Observe that the spleen has a smooth diaphrag- matic surface. The spleen has sharp anterior, inferior, and superior borders. The superior border
-of the spleen is often notched.
-**3.** The visceral surface of the spleen is related to
-four organs:
-- Stomach
-- Left kidney
-- Transverse colon (left colic flexure)
-- Pancreas
-**14.** Follow the common hepatic artery to the left toward the celiac trunk (FIG. 4.26). Note that the celiac trunk arises from the anterior surface of the abdominal aorta at the level of the 12th thoracic vertebra. The celiac trunk is very short (less than 2 cm in most cases) and divides into
-three branches:
-- Common hepatic artery (already dissected)
-- Left gastric artery
-- Splenic artery
-**15.** Use blunt dissection to follow the left gastric ar-
-tery toward the esophagus and stomach (FIG. 4.26).
-The left gastric artery reaches the stomach near
-the esophagus and then follows the lesser curva-
-ture of the stomach within the lesser omentum.
-The left gastric artery forms an anastomosis with the right gastric artery along the lesser curvature
-Celiac trunk
-Esophageal a. Short
-gastric aa.
-Left gastro-
-Right gastro-omental a.
-Superior pancreaticoduodenal a.
-Supraduodenal a.
-Gastroduodenal a. artery proper
-Right hepatic a.
-Left hepatic a.
-FIGURE 4.26
-Schematic drawing of the branches of the celiac trunk.
-FIGURE 4.27
-The two most common branching patterns of the
-cystic artery.
-Right hepatic artery and duct
-Cystic artery hepatic duct
-Cystic duct
-Cystic artery
-**3.** Insert your fi ngers between the liver and the dia- phragm and tear the connective tissue that attaches the liver to the diaphragm. Cut the posterior layer
-of the coronary ligament.
-**4.** Use scissors to cut the inferior vena cava between the liver and the diaphragm. Elevate the inferior border of the liver and cut the inferior vena cava again as close to the inferior surface of the liver as possible. These two cuts will leave a short segment
-of the inferior vena cava within the liver (FIG. 4.29B).
-**5.** The liver should now be freely mobile but  attached to the other abdominal viscera by the bile duct, hepatic artery proper, and hepatic  portal vein. Move
-the liver carefully to avoid tearing these structures.
-**6.** Examine the liver and note that the right lobe is six times larger than the left lobe. The sharp  inferior
-**4.** The diaphragmatic surface of the spleen is re- lated (through the diaphragm) to ribs 9, 10, and
-11 (FIG. 4.28).
-
-### Clinical Correlation
-The relationship of the spleen to ribs 9, 10, and 11 is of clinical
-importance in evaluating rib fractures and penetrating wounds.
-A lacerated spleen bleeds profusely into the abdominal cavity and may have to be removed surgically (splenectomy). It must be emphasized that there is a risk of puncturing the spleen
-during pleural tap (thoracentesis).
-An enlarged spleen (splenomegaly) may be encountered
-during physical examination. The spleen is considered en-
-larged when it can be palpated inferior to the costal margin.
-*Liver Grant's Atlas 150 | LWW Atlas 233 | Netter's 277 | Color Atlas 298 | Clemente's 270*
-The liver is the largest gland in the body, comprising about 2.5% of the body weight of an adult. To study the surface features of the liver, it must be detached from
-the diaphragm.
-**1.** Review the falciform ligament and the coronary
-ligament of the liver.
-**2.** Use scissors to cut the falciform ligament along its attachment to the anterior abdominal wall. Extend the cut superiorly and cut the right and left trian- gular ligaments along the inferior surface of the
-Midaxillary line
-Parietal pleura
-Costodiaphragmatic
-Parietal peritoneum
-FIGURE 4.28
-Relationships of the spleen to the thoracic wall.
-A. Frontal section. B. Lateral view. A penetrating wound through the ninth intercostal space, just posterior to the midaxillary line, will penetrate the
-pleural cavity, diaphragm, peritoneal cavity, and spleen.
-For inferior vena cava
-For gallbladder
-Quadrate lobe
-For ligamentum venosum
-Caudate lobe
-Inferior vena cava
-Gallbladder
-Portal vein
-Round ligament of the liver
-Hepatic veins
-Falciform ligament
-For falciform ligament
-FIGURE 4.29
-Posterior views of the liver. A. Fissures and sulci defi ne the four lobes of the liver (right, left, quadrate, and caudate). B. Structures
-located in the H-shaped fi ssures.
-
-## The Abdomen border of the liver separates the visceral surface
-from the diaphragmatic surface.
-**7.** Identify the bare area on the posterior aspect of the diaphragmatic surface. Here, the liver was adjacent to the diaphragm and not covered by peri- toneum. Around the bare area, note the cut edges
-of the coronary ligament.
-**8.** Examine the visceral surface of the liver (FIG. 4.29A).
-An H-shaped set of fi ssures and  fossae defi nes four lobes. Identify the right lobe, left lobe, caudate
-*lobe, and quadrate lobe. [G 151, 158; L 233; N 277;*
-R 299; C 271]
-**9.** Observe that the ligamentum venosum and falciform ligament occupy the left fi ssure of the
-"H" (FIG. 4.29B). The gallbladder and inferior vena cava occupy the fossae that form the right
-side of the "H."
-**10.** Identify the porta hepatis. It forms the  horizontal bar
-of the "H." The structures passing through the hepa-
-toduodenal ligament (bile ducts, hepatic  arteries, he-
-patic portal vein, lymphatics, and autonomic nerves)
-enter or leave the liver at the porta hepatis.
-**11.** Examine the small segment of the inferior vena cava that is attached to the liver. Note that several hepatic veins drain directly from the liver into the
-inferior vena cava (FIG. 4.29B).
-**12.** Use a textbook to study the two conventions by which the liver may be divided into lobes. The falciform ligament divides the liver into right and left anatomical lobes. The pattern of its bile drainage and vascular supply are used to divide the
-*liver into right and left functional lobes. [G 154;*
-L 234, 235; R 299]
-**13.** The liver has a substantial lymphatic drainage. At the porta hepatis, small lymph vessels drain into hepatic lymph nodes. From the hepatic lymph nodes, lymphatic vessels follow the hepatic arteries to celiac lymph nodes located around the celiac trunk. Lymph from the liver also drains posteriorly
-into phrenic nodes.
-
-### Clinical Correlation
-The liver may undergo pathologic changes that could be encountered during dissection. The liver may be enlarged, which happens in liver congestion due to cardiac  insuffi ciency (cardiac liver). In contrast, the liver may be small and have fi brous nodules that may indicate cirrhosis of the liver.  Because the liver is essentially a capillary bed downstream from the gastrointestinal tract, metastatic tumor cells are often trapped
-within it, resulting in secondary tumors.
-*Gallbladder Grant's Atlas 158 | LWW Atlas 236 | Netter's 280 | Color Atlas 297 | Clemente's 278*
-The gallbladder is a reservoir for the storage and con- centration of bile. The gallbladder occupies a shallow fossa on the visceral surface of the liver (FIG. 4.29). The gallbladder is usually stained dark green by bile, which
-leaks through the wall of the gallbladder after death.
-**1.** Replace the liver into its correct anatomical  position.
-**2.** Confi rm that the gallbladder is located near the tip of the ninth costal cartilage in the midclavicular
-**3.** Lift the inferior border of the liver to expose the visceral surface. Use blunt dissection to remove the
-gallbladder from its fossa.
-**4.** Identify the parts of the gallbladder (FIG. 4.30):
-- Fundus
-- Body
-- Neck
-**5.** Review the course of the cystic artery (FIG. 4.27).
-The cystic artery is stained green by bile and is
-often fragile, making it diffi cult to  dissect.
-**6.** Use scissors to make a longitudinal cut through the wall of the gallbladder, beginning at the fundus and continuing through the neck and into the  cystic duct. If gallstones are present, remove them. Look for the spiral fold, which is a fold in the mucosal lining of the neck that continues into
-the cystic duct.
-Dissection Follow-up
-**1.** Replace the organs in their correct anatomical  positions.
-**2.** Review the location of each organ relative to the
-abdominal quadrant system.
-**3.** Use an illustration and the dissected specimen to trace
-the branches of the celiac trunk.
-**4.** Review the relationships of the structures in the
-hepatoduodenal ligament.
-**5.** Review the boundaries of the omental foramen.
-**6.** Review the parts of the organs dissected and their
-relationships to surrounding structures.
-**7.** Use an embryology textbook to review the  development
-of the liver, pancreas, and ventral mesogastrium.
-**8.** Review all derivatives of the embryonic foregut.
-
-### Superior Mesenteric Artery And
-
-### Small Intestine
-Dissection Overview
-The order of dissection will be as follows: The mesentery will be examined. The branches of the superior mesenteric artery that supply the jejunum, ileum, cecum, ascending the mesentery faces anteriorly (FIG. 4.31). Observe that the root of the mesentery is attached to the posterior abdominal wall along a line from the left
-upper quadrant to the right lower quadrant.
-**4.** Remove the peritoneum on the right side of the mesentery to expose the branches of the superior mesenteric artery. To do this, use a probe to tear colon, and transverse colon will be dissected. The remain- der of the fi eld of supply of the superior mesenteric artery (to the duodenum and pancreas) will be dissected later because these structures lie behind the attachment of the transverse mesocolon. The external features of the jejunum
-and ileum will be studied.
-Dissection Instructions
-*Superior Mesenteric Artery [G 144; L 225; N 287, 288;*
-R 303; C 292]
-The superior mesenteric artery arises from the anterior surface of the abdominal aorta about 1 cm inferior to the celiac trunk (L1 vertebral level). At its origin, the supe- rior mesenteric artery lies posterior to the neck of the pancreas. When the superior mesenteric artery emerges from posterior to the neck of the pancreas, it passes anterior to the uncinate process, the third part of the du- odenum, and the left renal vein. The superior mesenteric artery then enters the mesentery. Within the mesentery, the superior mesenteric artery courses into the right
-lower quadrant, toward the terminal end of the ileum.
-**1.** Return the liver to its correct anatomical position.
-**2.** Turn the transverse colon and greater omentum superiorly over the costal margin. The posterior surface of the transverse mesocolon should face
-anteriorly (FIG. 4.31).
-**3.** Move the coils of the jejunum and ileum to the left side of the abdomen so that the right side of
-Hepatic ducts:
-Common hepatic duct
-Gallbladder
-Superior (1st) part
-Descending (2nd) part
-Head of pancreas
-Pancreatic duct
-Hepatopancreatic ampulla
-Major duodenal papilla
-Cystic duct:
-Spiral fold
-Smooth part
-FIGURE 4.30
-Gallbladder and extrahepatic bile ducts.
-Right colic
-Middle colic
-Omental apron portion of greater omentum
-(turned up)
-Ileocolic artery
-Arteriae rectae vein and artery
-FIGURE 4.31
-Move the small intestine to the left for dissection of the
-superior mesenteric artery.
-
-## The Abdomen artery. The inferior pancreaticoduodenal artery
-will be dissected with the duodenum.
-- Intestinal arteries are 15 to 18 arteries to the jejunum and the ileum (FIG. 4.31).  Intestinal ar- teries end in straight terminal branches called arteriae rectae (straight arteries). Arterial arcades connect the intestinal arteries. Observe the blood supply to the proximal jejunum and note that only one or two arcades are found between adjacent intestinal arteries, resulting
-in relatively long arteriae rectae (FIG. 4.32A).
-Examine the distal ileum and note that four or five  arcades occur between adjacent intestinal
-arteries, resulting in relatively short arteriae rec-
-tae (FIG. 4.32B).
-- Ileocolic artery supplies the cecum. It arises from the right side of the superior mesenteric artery and courses toward the right in a retro- peritoneal position. The ileocolic artery gives rise to the appendicular artery (FIG. 4.33) and anastomoses with intestinal branches and with
-the right colic artery.
-- Right colic artery supplies the ascending co- lon. The right colic artery arises from the right side of the superior mesenteric artery and pass- es to the right in a retroperitoneal position. It divides into a superior branch and an inferior
-- Middle colic artery supplies the transverse colon. The middle colic artery arises from the anterior surface of the superior mesen- teric  artery and courses through the transverse mesocolon. It divides into a right branch and a left branch. the peritoneum, and then grasp it between your thumb and index fi nger. Peel it slowly using the handle of a forceps to release the peritoneum from
-the  underlying blood vessels.
-**5.** Remove the parietal peritoneum from the  posterior
-abdominal wall on the right side of the  mesentery.
-Remove the peritoneum as far laterally as the
-ascending colon.
-**6.** Identify the superior mesenteric artery. Use blunt dissection to trace the superior mesenteric ar- tery proximally and observe that it crosses anterior to the third part of the duodenum. Note that the third part of the duodenum and the left renal vein
-can become compressed between the superior mes-
-enteric vessels and the abdominal aorta.
-**7.** Use blunt dissection to clean the branches of the superior mesenteric artery. As you dissect, note the dense autonomic nerve network surrounding the blood vessels. This is the superior mesenteric
-plexus of nerves. Remove the nerve fi bers as nec-
-essary to clean the vessels.
-**8.** Identify the branches of the superior mesenteric
-artery (FIG. 4.31):
-- Inferior pancreaticoduodenal artery is usu- ally the fi rst branch of the superior mesenteric
-Arteriae rectae
-Arterial arcades
-Circular folds
-Arteriae rectae
-Arterial arcades
-Circular folds
-FIGURE 4.32
-Comparison of intestinal arteries. A. Arteries of the
-jejunum. B. Arteries of the ileum.
-Haustra (sacculations)
-Right paracolic
-External iliac vessels
-(seen through peritoneum)
-Appendicular artery within mesoappendix
-Posterior cecal
-Anterior cecal artery and fold
-Ascending branch
-Ileal branch
-Ileocolic artery: mesenteric artery
-FIGURE 4.33
-Branches of the ileolic artery
-**9.** Identify the superior mesenteric vein. The supe- rior mesenteric vein is usually positioned along the right side of the superior mesenteric  artery. The su- perior mesenteric vein is formed by branches that correspond in name and position to the branches of the superior mesenteric artery. Posterior to the pancreas, the superior mesenteric vein joins the
-splenic vein to form the hepatic portal vein.
-**10.** The mesentery may contain up to 200 mesenteric lymph nodes. Identify one or two of these lymph nodes along the branches of the superior  mesenteric vessels. The mesenteric lymphatic channels follow the branches of the superior mesenteric artery and drain into the superior  mesenteric lymph nodes near the origin of the superior mesenteric artery from the abdominal aorta. Lymph nodes may be
-removed to clear the dissection fi eld.
-*Small Intestine [G 140, 141; L 225, 228; N 262; R 310;*
-The small intestine consists of the duodenum, jejunum,
-and ileum. The function of the small intestine is to ab- sorb nutrients from food. It has elaborate folds of mu- cosa that increase surface area and a rich blood supply to transport the absorbed nutrients. The jejunum (ap- proximately two-fi fths of the small intesine) and ileum (distal three-fi fths) will be studied together because the
-transition from one to the other is not obvious.
-**1.** Move the small intestine to the left side of the abdominal cavity and follow the jejunum  proximally
-(FIG. 4.34A). Find the duodenojejunal junction.
-**2.** Note that the suspensory ligament of the duodenum is a fi bromuscular ligament that arises from the right crus of the diaphragm and anchors the small intestine at the duodenojejunal junction
-(FIG. 4.34B). The suspensory ligament passes poste-
-rior to the pancreas and cannot be seen at this time.
-**3.** Palpate the small intestine and note that the wall of
-the jejunum is thicker than the wall of the ileum.
-**4.** Identify the termination of the ileum where it empties into the cecum at the ileocecal junction
-(FIG. 4.34A).
-**5.** Verify that the root of the mesentery crosses the posterior abdominal wall from the duodenojejunal junction to the ileocecal junction (FIG. 4.34A). The root of the mesentery is about 15 cm long. The in- testinal attachment of the mesentery is nearly
-Dissection Follow-up
-**1.** Replace the small intestine in its correct anatomical
-**2.** Review the location of the jejunum and ileum relative
-to the abdominal quadrant system.
-FIGURE 4.34
-Move the small intestine to the left side to fi nd the duode- nojejunal junction. Inset: The duodenojejunal junction is suspended by the
-suspensory muscle (ligament) of the duodenum.
-Ileocecal junction
-Duodenojejunal
-Ascending colon
-Duodenojejunal junction
-Abdominal aorta
-Muscle within the suspensory ligament of the duodenum
-**3.** Review the relationships of the jejunum and ileum to
-surrounding structures.
-**4.** Use an illustration and the dissected specimen to re-
-view the branches of the superior mesenteric artery.
-**5.** Use an embryology textbook to review the derivatives
-of the embryonic midgut.
-
-### Inferior Mesenteric Artery And
-
-### Large Intestine
-Dissection Overview
-The inferior mesenteric artery arises from the anterior
-surface of the abdominal aorta at the L3 vertebral level.
-The objective of this dissection is to demonstrate the fi eld of supply of the inferior mesenteric artery (left third of the transverse colon, descending colon, sigmoid colon, and most of the rectum). Except for the branches that pass through the sigmoid mesocolon to supply the sigmoid
-
-## The Abdomen mesenteric vein ascends on the left side of the inferior mesenteric artery, passes posterior to the pancreas, and joins either the splenic vein or (less
-frequently) the superior mesenteric vein.
-**6.** The descending colon and sigmoid colon are drained by lymph vessels that accompany the branches of the inferior mesenteric artery. These lymphatic channels drain into the inferior mes- enteric nodes located around the origin of the inferior mesenteric artery from the abdominal
-*Large Intestine [G 140, 141; L 224, 226; N 276; R 307;*
-C 288, 290]
-The large intestine consists of the cecum (with at-
-tached appendix), colon (ascending, transverse, de-
-scending, and sigmoid), rectum, and anal canal.
-Absorption of water from fecal material is a major function of the large intestine. The relatively smooth mucosal surface of the large intestine is well suited for this function, as a smooth surface is less likely to im- pede the movement of progressively more solid fecal
-**1.** Return the small intestine and transverse colon to
-their correct anatomical positions.
-**2.** In the right lower quadrant, identify the cecum (L. caecus, blind) (FIG. 4.33). The length of its  mesentery and the degree of its mobility vary  considerably from individual to individual. colon, the inferior mesenteric artery and its branches lie
-retroperitoneally.
-The order of dissection will be as follows: The inferior mesenteric artery and its branches will be dissected. The
-external features of the large intestine will be studied.
-Dissection Instructions
-*Inferior Mesenteric Artery [G 146; L 226; N 288; R 305;*
-**1.** Turn the transverse colon and greater  omentum superiorly over the costal margin to expose the posterior surface of the transverse mesocolon
-(FIG. 4.35).
-**2.** Move the small intestine to the right so that the descending colon is visible from the left colic
-flexure to the sigmoid colon (FIG. 4.35).
-**3.** The origin of the inferior mesenteric artery lies posterior to the third part of the duodenum. If you have trouble fi nding it, fi nd one of its branches in the sigmoid mesocolon and trace that branch back
-to the main vessel. Then proceed with the dissec-
-tion of the peripheral branches.
-Dissection note: The left ureter could be  mistaken for the inferior mesenteric artery or one of its branches. The inferior mesenteric artery and vein
-and the ureter all lie in the retroperitoneal space,
-but the vessels pass anterior to the ureter.
-**4.** Use a probe to clean the branches of the inferior
-mesenteric artery (FIG. 4.35):
-- Left colic artery-supplies the descending colon and the left third of the transverse co- lon. The left colic artery anastomoses with the middle colic branch of the superior mesenteric
-artery and the ascending branch of the fi rst sig-
-moid artery.
-- Sigmoid arteries-three or four arteries that supply the sigmoid colon. Sigmoid arteries pass through the sigmoid mesocolon. Note that they form arcades similar to those of the intestinal
-- Superior rectal artery-supplies the proximal part of the rectum. The superior rectal artery
-divides into a right branch and a left branch.
-The right and left branches of the superior rectal artery descend into the pelvis on either side of the rectum. Do not follow them into the
-**5.** Observe the tributaries of the inferior  mesenteric vein. The tributaries of the inferior mesenteric vein correspond to the branches of the inferior mesenteric artery. The inferior  mesenteric vein is a tributary of the hepatic portal vein. The  inferior
-Middle colic
-Duodenojejunal
-Paraduodenal fold (inferior mesenteric
-Retroduodenal fossa
-Descending colon
-Sigmoid colon
-Transverse colon
-(turned up)
-Omental apron portion of greater omentum (turned up) mesenteric artery
-Left colic artery
-Sigmoid arteries
-Superior rectal
-FIGURE 4.35
-Move the small intestine to the right for dissection of the
-inferior mesenteric artery.
-- Omental appendices (epiploic appendages)
-- small accumulations of fat covered by visceral
-peritoneum.
-**10.** Review the branches of the superior mesenteric artery and inferior mesenteric artery that  supply
-*the large intestine. [G 149; L 226; N 288; R 308;*
-C 292, 294]
-Dissection Follow-up
-**1.** Review the location of each part of the large intestine
-relative to the abdominal quadrant system.
-**2.** Review the relationship of each part of the large intes-
-tine to surrounding structures.
-**3.** Use an illustration and the dissected specimen to trace
-the branches of the inferior mesenteric artery.
-**4.** Use an embryology textbook to review the derivatives
-of the embryonic hindgut.
-DUODENUM, PANCREAS, AND HEPATIC
-
-### Portal Vein
-Dissection Overview
-The duodenum is the part of the small intestine between
-the stomach and the jejunum. The duodenum is the drain- age point for the ducts of the liver and pancreas. The pan- creas lies within the bend of the duodenum. The pancreas is both an endocrine and an exocrine organ and has a rich blood supply arising from the celiac trunk and the superior
-mesenteric artery.
-The order of dissection will be as follows: The parts of the duodenum will be studied. The pancreas will be dissected. The
-formation of the hepatic portal vein will be demonstrated.
-Dissection Instructions
-*Duodenum Grant's Atlas 137 | LWW Atlas 238 | Netter's 270 | Color Atlas 316 | Clemente's 282*
-**1.** Turn the transverse colon and greater omentum
-superiorly over the costal margin.
-**2.** Use blunt dissection to remove the connective tissue and peritoneum from the anterior surface of the duodenum and pancreas. Consult an atlas  fi gure and note that you are removing the remnants of the
-transverse mesocolon when you do this.
-**3.** Observe the four parts of the duodenum (FIG. 4.37):
-- Superior (fi rst) part-at the L1 vertebral level.
-The superior part of the duodenum lies in the
-transverse plane and the hepatoduodenal liga-
-ment is attached to it. It is mostly intraperito-
-**3.** The appendix appendix) (L. appendere, to hang on) is attached to the end of the cecum. The appendix may be found in one of  several positions (FIG. 4.36). Recall that the appendix is suspended on a mesentery called the mesoappendix and that the appendicular artery
-is found within the mesoappendix (FIG. 4.33).
-**4.** Identify the ascending colon. The ascending colon extends from the cecum to the right colic
-flexure (FIG. 4.34).
-**5.** Identify the transverse colon. The transverse colon extends from the right colic flexure to the left colic flexure. Observe that the left colic flexure is at a more superior level than the right
-colic  flexure. Between the two flexures, the trans-
-verse colon is freely movable.
-**6.** Observe the descending colon. It is a secondarily retroperitoneal organ. The descending colon de- scends from the left colic flexure to the left lower
-quadrant (FIG. 4.35).
-**7.** In the left lower quadrant, fi nd the sigmoid colon.
-Observe that the sigmoid colon has a mesentery (sigmoid mesocolon) and is mobile. The sigmoid colon ends in the pelvis at the level of the third sacral segment, where it becomes continuous with
-the rectum.
-**8.** The rectum is contained entirely within the pelvic cavity and will be dissected with the pelvic
-**9.** Observe the external surface of the large intestine and note three features that distinguish it from the
-small intestine (FIG. 4.35):
-- Teniae coli-three narrow bands of longitudi-
-nal muscle.
-- Haustra-outpouchings of the wall of the colon.
-Terminal ileum
-FIGURE 4.36
-Variations in the position of the appendix.
-
-## The Abdomen inferior vena cava lies posterior to the head of
-the pancreas.
-- Neck-a short portion that lies anterior to the superior mesenteric vessels and connects the
-head of the pancreas to the body.
-- Body-extends from right to left and slightly superiorly as it crosses the posterior abdominal wall. The abdominal aorta lies posterior to the
-body of the pancreas.
-- Tail-the narrow left end of the gland. The tip of the tail lies in the splenorenal ligament and
-contacts the hilum of the spleen.
-**3.** Use a probe to dissect into the anterior surface of the head of the pancreas and fi nd the main pancre- atic duct. Follow the main pancreatic duct through
-the neck and into the body. The accessory pancre-
-atic duct joins the superior side of the main pan-
-creatic duct.
-**4.** Observe that the main pancreatic duct is joined by the bile duct near the left side of the descending
-part of the duodenum.
-**5.** Identify the posterior and anterior superior pancreaticoduodenal arteries (FIG. 4.38). Both
-*are branches of the gastroduodenal artery. [G 139;*
-L 239; N 283; R 316; C 282]
-**6.** The inferior pancreaticoduodenal artery is usually the most proximal branch of the superior  mesenteric artery, although its origin is variable (FIG. 4.38). The
-inferior pancreaticoduodenal artery enters the infe-
-rior portion of the head of the pancreas.
-**7.** Return to the celiac trunk and follow the splenic artery as it passes to the left along the superior neal and has an expanded initial part called the ampulla. Clinicians often call the ampulla the
-duodenal cap or duodenal bulb.
-- Descending (second) part-at the L2 vertebral level. The descending part of the duodenum is positioned to the right of the midline and ante- rior to the hilum of the right kidney, right renal vessels, and inferior vena cava. It is retroperito- neal. The bile duct and the pancreatic duct drain
-into the descending part of the duodenum.
-- Horizontal (third) part-at the L3 verte- bral  level. The horizontal part of the duode- num lies anterior to the inferior vena cava and the  abdominal aorta. It is retroperitoneal. The horizontal part of the duodenum is crossed anteriorly by the superior mesenteric vessels and
-posteriorly by the inferior mesenteric vessels.
-- Ascending (fourth) part-ascends to the L2 vertebral level. The ascending part of the duo- denum is retroperitoneal throughout most of its length. The ascending part of the duodenum
-turns anteriorly to join the jejunum at the duo-
-denojejunal junction.
-*Pancreas Grant's Atlas 137 | LWW Atlas 239 | Netter's 281 | Color Atlas 317 | Clemente's 283*
-**1.** Identify the pancreas within the bend of the duo- denum. Note that it is a secondarily retroperitoneal
-organ that lies across the midline and that it is posi-
-tioned against vertebral bodies L1 to L3.
-**2.** Identify the parts of the pancreas (FIG. 4.37):
-- Head-lies within the curve of the duodenum.
-The uncinate process is a small projection from the inferior margin of the head that passes posterior to the superior mesenteric vessels. The
-FIGURE 4.37
-Relationships of the spleen, pancreas, duodenum, and
-Posterior superior pancreaticoduodenal
-pancreatico-
-Splenic arte
-Celiac trunk
-Common hepatic artery
-Hepatic artery proper
-Gastroduodenal artery gastro-omental
-Superior mesenteric artery
-Anterior inferior
-Posterior inferior
-Inferior pancreaticoduodenal artery
-Pancreatico-
-FIGURE 4.38
-Blood supply of the duodenum and pancreas.
-
-### Clinical Correlation
-
-### Portal Hypertension
-The hepatic portal system of veins has no valves. When the hepatic portal vein becomes blocked, blood pressure increases in the hepatic portal system (portal hypertension) and its  tributaries become engorged. Portal hypertension causes hemorrhoids and varicose gastric and esophageal veins. Bleeding from ruptured gastroesophageal varices is a
-dangerous  complication of portal hypertension.
-Dissection Follow-up
-**1.** Review the relationship of each part of the duodenum
-to surrounding structures.
-**2.** Review the branches of the celiac trunk and superior
-mesenteric artery.
-**3.** Use an illustration and the dissected specimen to recon-
-struct the blood supply to the pancreas and duodenum.
-**4.** Review the formation and fi eld of drainage of the
-hepatic portal vein.
-**5.** Trace a drop of blood from the small intestine to the inferior vena cava, naming all veins that are encoun- tered along the way. Repeat this exercise beginning at
-the descending colon.
-**6.** Use an embryology textbook to review the  development
-of the liver, pancreas, and duodenum.
-
-### Removal Of The Gastrointestinal Tract
-Dissection Overview
-The interior features of the various parts of the gastrointesti- nal tract and the posterior abdominal wall are best dissected with the gastrointestinal tract removed from the abdominal cavity. The order of dissection will be as follows: The arteries to the gastrointestinal tract (celiac trunk, superior mesenteric artery, and inferior mesenteric artery) will be cut close to the aorta. The esophagus and rectum will be cut, using ligatures to prevent spilling their contents. The gastrointestinal tract will then be removed and reviewed outside of the body. The gas- trointestinal tract will be taken to a sink and selected areas will
-be opened and rinsed in order to study their internal features.
-Dissection Instructions
-**1.** Tie two strings 4 cm apart around the distal end of the sigmoid colon, close to the rectum. Use scissors to cut the sigmoid colon between the strings. Also cut
-the superior rectal artery.
-**2.** Inferior to the diaphragm, tie one string around the esophagus and cut the esophagus superior to the string. Cut the vagus nerve trunks at the same level. border of the pancreas (FIG. 4.38). Up to 10 small branches of the splenic artery supply the body and
-tail of the pancreas. Identify only two:
-- Dorsal pancreatic artery-enters the neck of
-the pancreas.
-- Greater pancreatic (pancreatica magna) ar- tery-enters the pancreas about halfway  between
-the neck and the tail.
-**8.** Follow the splenic artery to the hilum of the spleen
-and identify the left gastro-omental artery.
-Complete the dissection of the left gastro-omental artery by following it through the greater omentum to its anastomosis with the right gastro- omental
-**9.** The veins of the pancreas correspond to the arteries. They drain into the superior mesenteric and splenic veins and ultimately are tributary to the
-hepatic portal vein.
-*Hepatic Portal Vein Grant's Atlas 164 | LWW Atlas 240 | Netter's 291 | Color Atlas 303 | Clemente's 253*
-Use an illustration to review the hepatic portal  venous system. The superior mesenteric vein and the  splenic vein join to form the hepatic portal vein posterior to the neck of the pancreas. The hepatic portal vein  carries venous blood to the liver from the abdominal portion of
-the gastrointestinal tract, the spleen, and the pancreas.
-**1.** The splenic vein courses posterior to the pancreas and is inferior to the splenic artery. Use a probe to dissect posterior to the body of the pancreas and
-fi nd the splenic vein.
-**2.** Follow the splenic vein to the right, where it is joined by the superior mesenteric vein. This is the origin of the hepatic portal vein. Recall that the hepatic portal vein ascends in the hepatoduodenal
-ligament to the porta hepatis.
-**3.** Return to the fi eld of distribution of the inferior
-mesenteric vein. Find it and follow it superiorly.
-The inferior mesenteric vein usually joins the splenic vein but it may join either the superior mesenteric vein or the junction of the superior
-mesenteric and splenic veins.
-**4.** Use a textbook or atlas to review the portal-systemic
-(portal-caval) anastomoses:
-- Gastroesophageal-left gastric vein/esopha-
-geal veins/azygos vein.
-- Anorectal-superior rectal vein/middle and
-inferior rectal veins.
-- Paraumbilical-paraumbilical veins/superficial
-epigastric veins.
-- Retroperitoneal-colic veins/retroperitoneal
-
-## The Abdomen
-**3.** Use scissors to cut the celiac trunk close to the
-aorta, leaving no stump.
-**4.** Use scissors to cut the superior mesenteric artery
-near the aorta, leaving a 1-cm stump.
-**5.** Use scissors to cut the inferior mesenteric artery
-near the aorta, leaving a 1-cm stump.
-**6.** Free the stomach from any peritoneal attachments
-it may still have to the posterior  abdominal wall.
-**7.** Grasp the spleen and gently pull it anteriorly and medially. Insert your fi ngers posterior to the spleen and carefully free the splenic vessels, tail of the
-pancreas, and body of the pancreas from the poste-
-rior abdominal wall.
-**8.** Use scissors to cut the suspensory ligament of the
-duodenum close to the duodenojejunal junction.
-**9.** Insert your fi ngers posterior to the duodenum and
-free it and the head of the pancreas from the poste-
-rior abdominal wall.
-**10.** Use scissors to cut the parietal peritoneum lateral to the ascending colon and use your fi ngers to free the ascending colon from the posterior abdominal wall. Roll the ascending colon toward the midline and use your fi ngers to loosen its blood vessels
-from the posterior abdominal wall.
-**11.** Cut the parietal peritoneum lateral to the  descending colon and use your fi ngers to free the  descending colon from the posterior abdominal wall. Roll the descending colon toward the  midline and use your fi ngers to loosen its blood vessels from the posterior
-abdominal wall.
-**12.** The gastrointestinal tract, liver, pancreas, and spleen should now be free of attachments. Remove them from the abdominal cavity. Support the liver and be careful not to twist or tear the structures in
-the hepatoduodenal ligament.
-**13.** Arrange the abdominal viscera on the dissecting table in anatomical position and study the parts
-from the anterior view:
-- Trace the branches of the celiac trunk, superior mesenteric artery, and inferior mesenteric artery
-to their areas of distribution.
-- Observe the formation and termination of the
-hepatic portal vein.
-- Note the differences between the branching
-pattern of the arteries and the veins.
-- Turn the viscera and repeat the exercise from
-the posterior view.
-**14.** To examine their internal features, carry the viscera to a sink and perform dissection steps 15 through
-19 in the sink.
-**15.** Use scissors to open the stomach along its ante- rior surface. Extend the cut into the fi rst part of the duodenum. Rinse the mucosa and observe the
-following features (FIG. 4.39): [G 133; L 231; N 268;
-R 294; C 255]
-- Gastric folds (rugae)
-- Pyloric antrum
-- Pyloric canal
-- Pyloric sphincter
-- Pyloric orifi ce
-- Ampulla of duodenum
-**16.** Use scissors to extend the longitudinal cut into the anterior wall of the duodenum. In the second part
-of the duodenum, identify the following (FIG. 4.40):
-*Grant's Atlas 137 | LWW Atlas 238 | Netter's 271 | Color Atlas 297 | Clemente's 283*
-- Circular folds (plicae circulares)
-Cardial orifice
-Pyloric sphincter
-Pyloric orifice
-Pyloric canal
-Pyloric antrum
-Gastric folds
-FIGURE 4.39
-Internal features of the stomach.
-FIGURE 4.40
-Mucosal features in the descending (second) part of the
-Longitudinal fold
-Major duodenal papilla
-Minor duodenal papilla
-**19.** Make a single cut approximately 5 cm long in the anterior surface of the transverse colon. Note the semilunar folds (plicae semilunares) between adjacent haustra. Observe that the mucosa of the large intestine is relatively smooth compared to
-*the other parts of the gastrointestinal tract. [G 141;*
-N 276; C 304]
-**20.** The viscera may be stored in a large plastic bag or
-in the abdominal cavity. Wet these specimens fre-
-quently with mold-inhibiting solution.
-Dissection Follow-up
-**1.** Review the features of the gastrointestinal mucosa.
-**2.** Compare the quantity and complexity of circular folds
-in the proximal and distal parts of the small intestine.
-Compare this arrangement to the mucosal features seen in the stomach and large intestine. Correlate your
-fi ndings to the function of the organs dissected.
-**3.** Recall the locations of valves in the gastrointestinal
-
-### Posterior Abdominal Viscera
-Dissection Overview
-The posterior abdominal viscera are located in an area that is referred to as the retroperitoneal space. The retroperitoneal space is not a real space. It is that part of the body between the posterior parietal peritoneum bounding the abdominal cavity and the muscles and bones of the posterior abdominal wall (FIG. 4.43). The retroperitoneal space contains the kidneys, ureters, su- prarenal glands, aorta, inferior vena cava, and abdominal
-*portions of the sympathetic trunks. [G 175; L 243; N 317;*
-R 324; C 320]
-The order of dissection will be as follows: The posterior abdominal viscera will be palpated. The renal fascia will be opened and the kidneys and suprarenal glands will be studied. The abdominal aorta and the inferior vena cava will be dissected. The muscles of the posterior abdominal
-- Major (greater) duodenal papilla-an eleva- tion of mucosa on the posterior-medial wall of the second part of the duodenum. The major duodenal papilla is the shared opening of the
-main pancreatic duct and bile duct.
-- Minor (lesser) duodenal papilla-the site of drainage of the accessory pancreatic duct. If present, it will be approximately 2 cm superior
-to the major duodenal papilla.
-**17.** Use scissors to make one 5-cm longitudinal cut in the proximal jejunum and another in the distal
-ileum. Rinse the mucosa and compare features.
-Note that the circular folds are larger and closer together in the jejunum than they are in the ileum
-(FIG. 4.41). Grant's Atlas 140 | Netter's 272
-**18.** Use scissors to make a cut approximately 7.5 cm long in the anterior wall of the cecum. Rinse
-the mucosa and identify the following (FIG. 4.42):
-*Grant's Atlas 143 | LWW Atlas 227 | Netter's 274 | Color Atlas 310 | Clemente's 301*
-- Ileocecal orifi ce
-- Superior and inferior lips of the ileocecal
-- Opening of the appendix
-FIGURE 4.41
-Comparison of mucosal features in the proximal jejunum
-and distal ileum.
-Circular folds
-Proximal jejunum
-Distal ileum
-Ileocecal valve:
-Superior lip
-Inferior lip
-Appendicular artery
-Mesoappendix
-Inferior ileocecal fold
-Superior Ileocecal fold
-Ileocolic artery
-FIGURE 4.42
-Interior of the cecum. Anterior view.
-
-## The Abdomen
-Inferior vena cava mesenteric vessels
-Abdominal aorta
-Sympathetic trunks
-Deep back muscles
-Psoas major m.
-Quadratus lumborum m.
-Pararenal fat
-Perirenal fat
-Right kidney
-Retroperitoneal space and pararenal fat
-Three flat abdominal muscles:
-External oblique m.
-Renal fascia
-Duodenum (4th part)
-Crura of the diaphragm
-Transversus abdominis m.
-Internal oblique m.
-FIGURE 4.43
-Transverse section through the posterior abdominal wall at the level of the kidneys. wall will be studied. The lumbar plexus of nerves will be
-examined. Finally, the diaphragm will be studied.
-Dissection Instructions
-**1.** Use a sponge or paper towels to clean the posterior
-abdominal wall.
-**2.** Palpate the kidneys and the suprarenal (adrenal) glands. They lie lateral to the vertebral column
-*between vertebral levels T12 and L3. [G 167; L 242;*
-N 308; R 331]
-**3.** Palpate the abdominal aorta.
-**4.** To the right of the abdominal aorta, palpate the
-inferior vena cava.
-**5.** Remove any remaining parietal peritoneum from
-the posterior abdominal wall.
-**6.** If you are dissecting a female cadaver, go to step 10.
-**7.** Identify the testicular artery and vein at the deep inguinal ring. The testicular artery is quite small and delicate. Follow the testicular vessels superiorly and note that they cross anterior to the  ureter. Do
-not damage the ureter while following the  vessels.
-**8.** The right and left testicular arteries branch  directly
-from the aorta at about vertebral level L2. This ori-
-gin is inferior to the origin of the renal  arteries.
-**9.** Observe that the left testicular vein drains into the left renal vein. The right testicular vein drains
-directly into the inferior vena cava.
-
-### Clinical Correlation
-
-### Testicular Varicocele
-Testicular varicocele occurs when the pampiniform plexus of veins becomes engorged with blood due to restriction of venous return through these vessels. This condition is more common on the left side because the left testicular vein drains into the left renal vein, and the left renal vein is subject to compression
-where it passes inferior to the superior mesenteric artery.
-**10.** In the female cadaver, identify the ovarian  vessels.
-Their origin from the aorta is comparable to that of the testicular vessels in the male. Note that the
-ovarian vessels cross anterior to the ureter.
-**11.** Inferiorly, the ovarian vessels end in the pelvic cavity. Follow the ovarian vessels inferiorly until they cross the external iliac vessels. Do not follow
-them into the pelvis at this time.
-*Kidneys Grant's Atlas 167 | LWW Atlas 243 | Netter's 308 | Color Atlas 331*
-The retroperitoneal position of the kidneys is well il- lustrated in a transverse section (FIG. 4.43). The kidneys
-**12.** Return the left kidney to its correct anatomical
-**13.** Clean the relatively short right renal vein. Note
-that it has no tributaries.
-**14.** To expose the right renal artery, reflect the inferior
-vena cava inferiorly and slightly toward the right.
-Observe that the right renal artery is longer than the left renal artery. Identify the branches of the
-right renal artery:
-- Inferior suprarenal artery-to the right supra- renal gland
-- Ureteric branch
-**15.** The right renal pelvis lies posterior to the right re- nal artery. Follow the right ureter inferiorly from the right renal pelvis and observe that the ureter passes
-posterior to the right testicular (ovarian) vessels.
-**16.** Use an illustration to review the relationships of
-*each kidney: Grant's Atlas 166 | LWW Atlas 241 | Netter's 308 | Color Atlas 318 | Clemente's 308*
-- The suprarenal gland is superior to the kidney.
-- Through the peritoneum, the right kidney is in contact with the right colic flexure, the visceral surface of the liver, and the second part of the
-- Through the peritoneum, the left kidney is in contact with the tail of the pancreas, the left
-colic flexure, the stomach, and the spleen.
-- The hilum of the kidney faces anteromedially
-and the lateral border faces posterolaterally.
-**17.** Divide the left kidney into anterior and posterior halves by splitting it longitudinally along its lateral border. Open the two halves of the kidney like a
-book using the renal pelvis as the hinge.
-**18.** Identify (FIG. 4.44): [G 170; L 244; N 311; R 326; C 312]
-- Renal capsule-a fi brous capsule that is fi rmly
-attached to the surface of the kidney.
-- Renal cortex-the outer zone of the kidney
-(about one-third of its depth).
-- Renal medulla-the inner zone of the kidney
-(about two-thirds of its depth) consisting of:
-- Renal pyramids
-- Renal columns
-- Renal sinus-the space within the kidney that
-is occupied by the renal pelvis, calices, vessels,
-nerves, and fat.
-- Renal papilla-the apex of the renal pyramid
-that projects into a minor calyx.
-- Minor calyx-a cup-like chamber that is the beginning of the extrarenal duct system. Several minor calyces combine to form a major calyx. are well protected by their position within the body as
-well as by a cushioning layer of fat.
-**1.** Note that the kidneys lie against the posterior abdominal wall. The anterior surface of the kidneys
-face anterolaterally (FIG. 4.43).
-**2.** Use your fi ngers to tear through the renal fascia and separate the kidney from the perirenal fat
-(FIG. 4.43).
-**3.** Observe that the superior pole of the kidney is separated from the suprarenal gland by a thin layer of renal fascia. Carefully insert your fi ngers between the kidney and the suprarenal gland and separate the two organs. Be careful not to remove
-the suprarenal gland with the fat.
-**4.** Note the size and shape of the kidney.
-**5.** Identify the left renal vein. Use a probe to trace the left renal vein from the left kidney across the midline to the inferior vena cava. Observe that it
-lies anterior to both renal arteries and the aorta.
-**6.** Identify and clean the tributaries of the left renal
-- Left testicular (or ovarian) vein
-- Left suprarenal vein
-**7.** Use scissors to cut the left renal vein close to the
-inferi or vena cava. Reflect the left renal vein to- ward the left. Do not detach the testicular (or ovar- ian) vein or the left suprarenal vein from the left
-renal vein.
-**8.** Identify the left renal artery, which lies posterior to the left renal vein. Follow the left renal artery to the hilum of the kidney. The renal artery usu- ally divides into several segmental arteries before it enters the kidney. Accessory renal arteries are
-**9.** Branches of the left renal artery include:
-- Inferior suprarenal artery-to the left supra- renal gland
-- Ureteric branch-to the left ureter
-**10.** Using the left renal artery as a hinge, turn the left kidney toward the right. Observe the posterior sur- face of the left kidney and identify the renal pelvis
-and its inferior continuation, the ureter.
-**11.** Use blunt dissection to follow the ureter inferiorly.
-Observe that the abdominal part of the ureter pass- es posterior to the testicular (or ovarian) vessels and
-crosses the anterior surface of the psoas major mus- cle. Before the gastrointestinal tract was removed, the left ureter passed posterior to the branches of the inferior mesenteric artery. The pelvic part of
-the ureter will be dissected with the pelvic viscera.
-
-## The Abdomen
-- Major calyx-two or three per kidney that com-
-bine to form the renal pelvis.
-- Renal pelvis-the funnel-like end of the ureter that begins within the renal sinus and emerges
-from the renal hilum.
-- Ureter-the muscular duct that carries urine
-from the kidney to the urinary bladder.
-
-### Clinical Correlation
-
-### Kidney Stones
-Kidney stones (renal calculi) may form in the calyces and renal pelvis. Small kidney stones may spontaneously pass through the ureter into the bladder. Larger kidney stones may lodge at one of three natural constrictions of the  ureter: (1) where the renal pelvis becomes constricted to form the ureter; (2) where the ureter crosses the pelvic brim; and (3) at the entrance of
-the ureter into the urinary bladder.
-*Suprarenal Glands [G 167; L 243, 244; N 310, 322;*
-R 326; C 309]
-The suprarenal (adrenal) glands are fragile and may be easily torn so they must be dissected with a gentle hand. They are closely related to the superior poles of the kidneys (FIG. 4.45) and are contained within their own compartment of renal fascia. The suprarenal glands are endocrine glands and because of this they
-have a copious blood supply.
-**1.** Palpate the suprarenal glands within the pararenal fat. Use a probe to carefully expose the borders of
-each gland.
-**2.** Observe that the right suprarenal gland is trian- gular in shape. Part of the right suprarenal gland
-lies posterior to the inferior vena cava.
-**3.** Observe that the left suprarenal gland is semilu-
-nar in shape.
-**4.** Each suprarenal gland receives multiple arteries
-(FIG. 4.45). Identify:
-- Superior suprarenal arteries-arise from the
-inferior phrenic artery.
-- Middle suprarenal artery-arises from the
-aorta near the celiac trunk.
-- Inferior suprarenal artery-arises from the re-
-nal artery.
-**5.** Note that the left suprarenal vein empties into the
-left renal vein. The right suprarenal vein drains di-
-rectly into the inferior vena cava.
-**6.** The suprarenal glands receive numerous sympa-
-thetic nerve fi bers.
-Renal medulla:
-Renal column
-Renal pyramid
-Renal pelvis
-Major calyx
-Minor calyces
-Renal papilla
-Renal capsule
-Renal cortex
-Renal sinus
-FIGURE 4.44
-Internal features of the kidney in longitudinal section.
-Inferior phrenic
-Left suprarenal
-Left testicular artery
-Left ovarian artery
-Abdominal aorta
-Right renal artery
-FIGURE 4.45
-Blood supply of the suprarenal glands.
-
-### Clinical Correlation
-
-### Suprarenal Glands
-The kidneys and suprarenal glands have different embryonic origins. If the kidney fails to ascend to its normal position dur- ing development, the suprarenal gland develops in its normal
-position lateral to the celiac trunk.
-*Abdominal Aorta and Inferior Vena Cava [G 179;*
-L 246; N 308; R 333; C 317]
-**1.** Use an illustration to study the abdominal aorta.
-The abdominal aorta begins at vertebral level T12 as the continuation of the thoracic aorta. It ends by
-bifurcating at vertebral level L4 to form two com-
-mon iliac arteries.
-**2.** Observe that the abdominal aorta has three types of
-- Unpaired visceral arteries-to the gastroin- testinal tract (celiac trunk, superior mesenteric
-artery, inferior mesenteric artery).
-- Paired visceral arteries-to the three paired
-abdominal organs (middle suprarenal arteries,
-renal arteries, testicular or ovarian arteries).
-- Paired somatic arteries-to the abdominal
-wall (lumbar arteries, inferior phrenic arteries).
-**3.** The unpaired visceral arteries and paired visceral
-arteries have been dissected previously.
-**4.** Four pairs of lumbar arteries supply the posterior abdominal wall. Identify at least one lumbar artery in the right side where it crosses the lumbar ver- tebral body (FIG. 4.46). Note that the right lumbar
-arteries pass posterior to the inferior vena cava.
-On both sides, the lumbar arteries pass deep to the
-psoas major muscle.
-**5.** Identify the inferior phrenic arteries on the infe- rior surface of the diaphragm. These arteries arise from the aorta near the aortic hiatus. Recall that
-these arteries give rise to superior suprarenal arteries.
-**6.** Identify the common iliac arteries, which arise at the bifurcation of the aorta. The common il- iac arteries supply blood to the pelvis and lower
-**7.** Observe the inferior vena cava and its tributaries.
-Note the following:
-- The inferior vena cava begins at the L5 verte- bral level by the joining of the two common iliac
-- It ends at the T8 vertebral level by passing through the diaphragm to empty into the right
-- It has no unpaired tributaries from the gastroin- testinal tract because the hepatic portal system collects blood from the gastrointestinal tract and drains into the liver. The hepatic veins drain
-the liver into the inferior vena cava.
-- The inferior vena cava does receive venous drainage from the paired abdominal organs (renal vein, suprarenal vein, testicular or ovar- ian vein) either directly (right side) or indirectly
-(left side).
-- The inferior vena cava receives paired veins from the abdominal wall (lumbar veins, inferior
-phrenic veins).
-Dissection Follow-up
-**1.** Replace the kidneys in their correct anatomical
-**2.** Use an illustration and the dissected specimen to review the relationships of each kidney to surrounding
-structures.
-**3.** Trace the path taken by a drop of urine from the  renal papilla through the ureter to the level of the pelvic
-Inferior vena cava
-Psoas major m.
-Projection of
-lumborum m.
-Transversus
-abdominis m.
-Common iliac a.
-Abdominal aorta
-Lumbar arteries
-FIGURE 4.46
-Posterior relationships of the kidneys.
-
-## The Abdomen
-**4.** Review the shape, position, relationships, arte- rial supply, and venous drainage of each suprarenal
-**5.** Review the branches of the abdominal aorta.
-**6.** Review the tributaries of the inferior vena cava.
-
-### Posterior Abdominal Wall
-Dissection Overview
-The posterior abdominal wall is composed of the vertebral column, muscles that move the vertebral column, muscles that move the lower limbs, and the diaphragm. The nerves that supply the abdominal wall and the lumbar plexus of nerves that innervate the lower limb will be dissected with
-the posterior abdominal wall.
-The order of dissection will be as follows: Muscles that form the posterior abdominal wall will be dissected. The
-branches of the lumbar plexus will be studied. The abdomi-
-nal part of the sympathetic trunk will be studied.
-Dissection Instructions
-**1.** Move the kidney and suprarenal gland toward the midline (do not cut their vessels) and use your hands to remove the remaining fat and the renal
-fascia from the posterior abdominal wall.
-**2.** Identify the psoas major muscle (FIG. 4.47). The proximal attachments of the psoas major muscle are the lumbar vertebrae (bodies, intervertebral discs, and transverse processes). Its distal attachment is the lesser trochanter of the femur. The psoas major muscle is a strong flexor of the thigh and vertebral
-*column. Grant's Atlas 176 | LWW Atlas 245 | Netter's 256 | Color Atlas 331 | Clemente's 314*
-**3.** Look for the psoas minor muscle. The psoas mi- nor muscle is absent in approximately 40% of cases
-and may be present on only one side of the cadaver.
-The psoas minor muscle has a long fl at tendon that passes down the anterior surface of the psoas ma- jor muscle. Its distal attachment is on the iliopubic
-eminence and arcuate line of the ilium.
-**4.** Identify the iliacus muscle (FIG. 4.47). The proximal attachment of the iliacus muscle is the iliac fossa. Its distal attachment is on the lesser trochanter of the fe- mur. The iliacus muscle flexes the thigh. The iliacus and psoas major muscles form a functional unit and
-together they are called the iliopsoas muscle.
-**5.** Identify the quadratus lumborum muscle (FIG. 4.47). The proximal attachments of the qua- dratus lumborum muscle are the 12th rib and lumbar transverse processes. Its distal attachments are the iliolumbar ligament and iliac crest. The quadratus lumborum muscle flexes the vertebral
-Subcostal nerve
-Iliohypogastric nerve (1)
-Transversus
-abdominis m.
-Ilioinguinal nerve (2)
-lumborum m.
-Lumbosacral
-Genital br.
-Femoral br.
-Sciatic nerve
-Inguinal ligament
-Sympathetic trunk and ganglion
-Anterior superior iliac spine
-Lateral cutaneous nerve of the
-Genitofemoral
-Femoral nerve (5)
-Obturator nerve
-FIGURE 4.47
-Lumbar plexus of nerves. column laterally and anchors the inferior end of
-the rib cage during respiration.
-**6.** Review the transversus abdominis muscle. The transversus abdominis muscle forms the lateral part of the posterior abdominal wall. The transversus abdominis muscle lies posterior to the quadratus
-lumborum muscle.
-**7.** Use an illustration and the dissected specimen to study the relationships between the kidneys and the posterior abdominal wall (FIG. 4.46). Verify that the posterior surface of each kidney is related, through the renal fat and fascia, to the diaphragm, psoas major muscle, quadratus lumborum muscle, and transversus abdominis muscle. The superior pole of the right kid- ney is near the 12th rib. The superior pole of the left
-kidney is slightly higher, near the 11th rib.
-*Lumbar Plexus Grant's Atlas 176 | LWW Atlas 250 | Netter's 260 | Color Atlas 333 | Clemente's 317*
-The nerves of the posterior abdominal wall arise from the anterior rami of spinal nerves T12 to L4. The lumbar plexus (L1 to L4) is formed within the pso- as major  muscle, and its branches can be seen as they emerge from the lateral border of this muscle. The lumbar plexus can be seen only after removal of the
-psoas major muscle.
-Dissect the lumbar plexus on the left side only.
-Because each branch of the lumbar plexus passes through the psoas major muscle at a different depth, it is necessary to follow each nerve proximally into the psoas major muscle, removing the muscle piece
-by piece. The nerves of the lumbar plexus are vari- able in their branching. Use the peripheral relation- ships of the nerves (their region of distribution or a point of exit from the abdominal cavity) for positive
-identifi cation.
-**1.** Identify the genitofemoral nerve. It is found on the anterior surface of the psoas major muscle (FIG. 4.47). The genitofemoral nerve divides into two branches on the anterior surface of the psoas
-major muscle superior to the inguinal  ligament:
-- Genital branch-passes through the deep in- guinal ring and down the inguinal canal. It is the
-motor nerve to the cremaster muscle.
-- Femoral branch-passes under the inguinal ligament on the anterior surface of the external
-iliac artery. It supplies a small area of skin infe-
-rior and medial to the inguinal ligament.
-**2.** Use blunt dissection to remove the extraperito- neal fascia from the posterior abdominal wall lat- eral to the psoas major muscle. The branches of the lumbar plexus are in the extraperitoneal fas- cia and care must be taken to move the dissection instrument parallel to the course of the nerves
-(FIG. 4.47).
-**3.** To fi nd the subcostal nerve, palpate rib 12 and look
-for the subcostal nerve about 1 cm inferior to it.
-**4.** Find the iliohypogastric and ilioinguinal nerves.
-They descend steeply across the anterior surface of the quadratus lumborum muscle. Frequently, these two nerves arise from a common trunk and do not separate until they reach the transversus abdomi- nis muscle. To positively identify the ilioinguinal
-nerve, follow it to the superficial inguinal ring.
-**5.** Identify the lateral cutaneous nerve of the thigh.
-The lateral cutaneous nerve of the thigh passes deep to the inguinal ligament near the anterior su- perior iliac spine. The lateral cutaneous nerve of the thigh supplies the skin on the lateral aspect of
-**6.** Identify the femoral nerve. The femoral nerve lies on the lateral side of the psoas major muscle in the
-groove between the psoas major and iliacus mus- cles. The femoral nerve innervates the iliacus mus- cle. The femoral nerve passes deep to the  inguinal ligament and provides motor and sensory branches
-to the anterior thigh.
-**7.** To fi nd the obturator nerve, insert your fi nger into the extraperitoneal fascia on the medial side of the psoas major muscle and move your fi nger parallel to the muscle, creating a gap between the
-psoas major muscle and the common iliac vessels.
-The obturator nerve supplies motor and sensory
-innervation to the medial thigh.
-**8.** Identify the lumbosacral trunk, which is deep to the obturator nerve. The lumbosacral trunk is a large nerve that is formed by half of the anterior
-ramus of L4 and all of the anterior ramus of L5.
-The lumbosacral trunk passes into the pelvis to join
-the sacral plexus.
-Abdominal Part of the Sympathetic Trunk
-*Grant's Atlas 180 | LWW Atlas 251 | Netter's 260 | Color Atlas 334*
-**1.** Study the location of the sympathetic trunk on
-a transverse section of the abdomen (FIG. 4.43).
-Note that the abdominal part of the sympathetic trunk lies on the lumbar vertebral bodies be- tween the crus of the diaphragm and the psoas
-major muscle.
-**2.** Identify lumbar splanchnic nerves that pass ante- riorly from the lumbar sympathetic ganglia to the
-aortic autonomic nerve plexus.
-**3.** Identify rami communicantes that pass posteri- orly from the sympathetic ganglia to the lumbar anterior rami. Note that each ramus communicans passes deep to the psoas major muscle against the lateral surface of the vertebral body. The gray rami of the lower lumbar region are the longest in the
-
-## The Abdomen
-**4.** Observe the left crus (FIG. 4.48). The proximal at- tachments of the left crus of the diaphragm are the
-bodies of vertebrae L1 and L2.
-**5.** Identify the arcuate ligaments. The arcuate liga- ments are thickenings of fascia that serve as proxi- mal attachments for some of the muscle fi bers of
-the diaphragm.
-- Lateral arcuate ligament-bridges the ante-
-rior surface of the quadratus lumborum muscle.
-- Medial arcuate ligament-bridges the anterior
-surface of the psoas major muscle.
-- Median arcuate ligament - (unpaired) bridges
-the anterior surface of the aorta at the aortic  hiatus.
-**6.** There are three large openings in the diaphragm
-(FIG. 4.48). Identify:
-- Vena caval foramen-passes through the cen-
-tral tendon (vertebral level T8).
-- Esophageal hiatus-passes through the right
-crus (vertebral level T10).
-- Aortic hiatus-passes behind the diaphragm
-(vertebral level T12).
-**7.** The right and left phrenic nerves innervate the diaphragm. Each phrenic nerve provides motor innervation to one-half of the diaphragm (one hemidiaphragm). The phrenic nerves supply most
-of the sensory innervation to the abdominal (pari- etal peritoneum) and thoracic (parietal pleura) sur- faces of the diaphragm. The pleural and peritoneal coverings of the peripheral part of the diaphragm receive sensory fi bers from the lower intercostal
-nerves (T5 to T11) and the subcostal nerve.
-body because the sympathetic trunk crosses the an-
-terolateral surface of the lumbar vertebral bodies.
-**4.** Use an illustration to review the autonomic nerve
-supply of the abdominal viscera.
-Dissection Follow-up
-**1.** Use the dissected specimen to review the proximal and distal attachments, as well as the action of each of the
-muscles of the posterior abdominal wall.
-**2.** Review the three muscles that form the anterolateral abdominal wall (external oblique, internal oblique, and
-transversus abdominis).
-**3.** Follow each branch of the lumbar plexus peripherally.
-Review the region of innervation of each of these nerves.
-**4.** Use an atlas drawing to review the abdominal part of
-the sympathetic trunk, the lumbar splanchnic nerves,
-and rami communicantes (both gray and white).
-Dissection Overview
-The diaphragm forms the roof of the abdominal cavity and the fl oor of the thoracic cavity. It is the principal muscle of respiration. The diaphragm has a right half and a left half
-(the hemidiaphragms).
-The order of dissection will be as follows: The parts of the diaphragm will be identifi ed. The phrenic nerve will be reviewed. The greater splanchnic nerves that pass through
-the diaphragm will be studied.
-Dissection Instructions
-**1.** Use blunt dissection to strip the parietal peritoneum and connective tissue off the abdominal surface of
-*the diaphragm. Grant's Atlas 178 | LWW Atlas 245 | Netter's 256 | Color Atlas 282*
-**2.** Identify the parts of the diaphragm (FIG. 4.48):
-- Central tendon-the aponeurotic center of the diaphragm, which is the distal attachment of all
-of its muscular parts.
-- Sternal part-two small bundles of muscle fi bers that attach to the posterior surface of the
-xiphoid process.
-- Costal part-the muscle fi bers that attach to
-the inferior six ribs and their costal cartilages.
-- Lumbar part-formed by two crura (right and left) and the muscle fi bers that arise from the
-medial and lateral arcuate ligaments.
-**3.** Identify the right crus (FIG. 4.48). The proximal at- tachments of the right crus of the diaphragm are the bodies of vertebrae L1 to L3. The esophageal
-hiatus is an opening in the right crus.
-Costal cartil
-Central tendon
-Inferior vena cava in vena caval foramen
-Esophagus in esophageal hiatus aortic hiatus
-lumborum m.
-Medial arcuate
-Lateral arcuate ligament
-Sternal part
-Costal part
-Median arcuate
-Lumbar part,
-FIGURE 4.48
-Diaphragm. The psoas major muscle has been removed.
-
-### Clinical Correlation
-The phrenic nerves arise from cervical spinal cord segments
-C3 to C5. Therefore, pain from the diaphragm is referred to the
-shoulder region (supraclavicular nerve territory).
-The diaphragm is paralyzed in cases of high cervical spinal
-cord injuries but it is spared in low cervical spinal cord injuries.
-A paralyzed hemidiaphragm cannot contract (descend), so it will positioned higher than normal in the thorax on a chest
-radiograph.
-**8.** Identify the greater splanchnic nerve in the thorax and follow it to the superior surface of the
-*diaphragm. [G 180; L 251-253; N 260; R 280, 281;*
-**9.** Push a probe through the diaphragm parallel to the greater splanchnic nerve. Note that the greater splanchnic nerve penetrates the crus to enter the
-abdominal cavity.
-**10.** Observe that the main portion of the greater splanchnic nerve distributes to the celiac ganglion
-where its sympathetic axons will synapse.
-**11.** Find the celiac ganglia. They are found on the left and right sides of the celiac trunk near its origin from the aorta. The celiac ganglia are the largest of the sympathetic ganglia that are located on the
-surface of the aorta.
-**12.** Use an illustration or textbook description to re- view the autonomic nerve supply of the abdominal
-Dissection Follow-up
-**1.** Review the attachments of the diaphragm to the skel-
-eton of the thoracic wall.
-**2.** Trace the course of the thoracic aorta as it passes through
-the aortic hiatus to become the abdominal aorta.
-**3.** Review the course of the esophagus and the vagus
-nerve trunks through the esophageal hiatus.
-**4.** Recall the position of the heart on the superior surface of the diaphragm and review the course of the inferior
-**5.** Study an illustration and observe that the thoracic duct passes through the aortic hiatus and that the splanchnic
-nerves (greater, lesser, and least) penetrate the crura.
-
-### C H A P T E R
-ATLAS REFERENCES:
-G = Grant's Atlas, 13th ed., page number
-L = LWW Atlas of Anatomy, 1st ed., page number
-N = Netter's Atlas, 5th ed., plate number
-R = Color Atlas of Anatomy, 7th ed., page number
-C = Clemente's Atlas, 6th ed., plate number
-The Pelvis and by three fused bones: pubis, ischium, and ilium. The
-point of fusion of these three bones is the  acetabulum.
-*The coccyx is attached to the sacrum. [G 200; L 261; N 335;*
-R 436; C 324]
-*On the hip bone, identify: Grant's Atlas 201 | LWW Atlas 260 | Netter's 336 | Color Atlas 433 | Clemente's 324*
-- Iliac fossa
-- Iliopubic eminence
-- Arcuate line
-- Pecten pubis
-- Superior pubic ramus
-- Pubic symphysis
-- Pubic arch
-- Ischiopubic ramus-formed by the ischial ramus and the inferior pubic ramus
-- Obturator foramen
-- Ischial tuberosity
-- Ischial spine
-*On the sacrum, identify: [G 200; L 261; N 335; R 434;*
-- Sacral promontory
-- Anterior sacral foramina
-The pelvis is the area of transition between the trunk and the lower limbs. The bony pelvis serves as the foundation for the pelvic region and provides strong support for the vertebral column upon the lower limbs. The pelvic  cavity is continuous with the abdominal cavity, the transition occurring at the plane of the pelvic inlet (FIG. 5.1). The pelvic cavity contains the rectum, the urinary bladder, and
-*the internal genitalia. Grant's Atlas 200*
-The perineum is the region of the trunk located between the thighs. The pelvic diaphragm separates the pelvic cavity from the perineum (FIG. 5.1). The perineum contains the anal canal, the urethra, and the external genitalia (penis and scrotum in the male, vulva in the
-This chapter begins with the dissection of structures in the anal triangle that are common to both sexes. Dissection
-of internal and external genitalia is divided into two sec-
-tions: one for male cadavers and one for female cadavers.
-Students are expected to learn the anatomy of the male and female pelvis and perineum. Each dissection team, there- fore, should partner with another team that is dissecting a
-cadaver of the opposite sex.
-
-### Skeleton Of The Pelvis
-Refer to an articulated bony pelvis. The pelvis (L. pelvis, basin) is formed by two hip bones (os coxae) joined pos- teriorly by the sacrum (FIG. 5.2A). Each hip bone is formed
-Iliac crest
-Greater pelvis
-Lesser pelvis
-(pelvic cavity)
-Ischial tuberosity
-Pelvic brim
-Pelvic inlet
-FIGURE 5.1
-The pelvis on coronal section.
-FIGURE 5.2
-Bones and ligaments of the pelvis. A. Anterior view. B. Posterior view.
-Anterior longitudinal ligament
-Transverse process of L5 vertebra
-Iliac crest
-Iliac fossa
-Ala of sacrum
-Sacral promontory (covered by anterior
-longitudinal ligament)
-Arcuate line
-Iliopubic eminence
-Pecten pubis
-Superior pubic ramus
-Ischiopubic ramus:
-Superior margin of pubic symphysis
-Pubic symphysis and pubic arch
-Obturator foramen and membrane
-Ischial ramus
-Inferior pubic ramus
-Iliolumbar ligament
-Anterior sacroiliac ligament
-Anterior sacral foramina
-Greater sciatic foramen
-Sacrotuberous ligament
-Sacrospinous ligament
-Pubic tubercle
-Iliolumbar ligament
-Supraspinous
-Posterior sacroiliac
-Sacrotuberous
-Sacrospinous
-Posterior superior iliac spine
-Posterior sacral
-Greater sciatic foramen
-Ischial spine
-Lesser sciatic
-Ischial tuberosity
-Identify the coccyx.
-The hip bone and sacrum are connected by
-strong ligaments. On a model with pelvic ligaments,
-identify (FIG. 5.2A, B): [G 205; L 263; N 336; R 444;
-C 327, 329]
-- Sacrotuberous ligament
-- Sacrospinous ligament
-- Greater sciatic foramen
-- Lesser sciatic foramen
-Note that the sacrotuberous ligament and sacrospinous ligament convert the greater and lesser sciatic notches
-into the greater and lesser sciatic foramina.
-The sacroiliac articulation is a synovial joint between the auricular surfaces of the sacrum and the ilium. It is
-
+- **Xiphisternal junction（胸骨劍突關節）**
+- **Xiphoid process（劍突）**
+- **Costal margin（肋緣）**
+- **Pubic symphysis（恥骨聯合）**
+- **Pubic crest（恥骨嵴）**
+- **Pubic tubercle（恥骨結節）**
+- **Anterior superior iliac spine（前上髂棘）**
+- **Iliac crest（髂嵴）**
+- **Tubercle of the iliac crest（髂結節）**
 
 ---
 
-*Atlas References: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+### 淺筋膜（Superficial Fascia）
+
+**解剖步驟：**
+
+1. 在臍下方做一小橫切口，切開皮膚。
+2. 用止血鉗夾住皮膚邊緣，向外側剝離，顯露淺筋膜。
+3. 注意淺筋膜分為兩層：含有少量脂肪的纖維結締組織層（**Scarpa's fascia**，膜性層）和主要由脂肪組成的淺層（**Camper's fascia**，脂肪層）。
+4. 接近正中線時，觸摸約在正中線外側 2-3 公分處進入淺筋膜的**前皮神經（anterior cutaneous nerves）**。腹前皮神經是肋間神經（T7-T11）、肋下神經（T12）和髂腹下神經、髂腹股溝神經（L1）的分支。參考皮節圖：
+   - T6：劍突表面的皮膚感覺
+   - T10：臍部皮膚感覺
+   - T12：恥骨上方皮膚感覺
+   - L1：恥骨聯合表面的皮膚感覺 [G 106; L 214; N 251; R 216; C 220]
+5. 在切口的側方，用手指分離淺筋膜與**external oblique muscle（腹外斜肌）** [G 348; L 162; N 159; R 205; C 219]。接近腋中線時，觸摸進入淺筋膜的**外側皮神經（lateral cutaneous nerves）**。
+6. 向下移除淺筋膜，直至暴露**external oblique muscle（腹外斜肌）**的下緣（約在近端大腿上方 2.5 公分處）。
+7. 從正中線、腋中線和近端大腿處分離淺筋膜，放入組織收集盒中。
+
+> **臨床重點**：淺腹壁靜脈（superficial epigastric vein）在淺筋膜中與**lateral thoracic vein（胸外側靜脈）**吻合。這是股靜脈到腋靜脈的重要側支通路。當**下腔靜脈（inferior vena cava）**或**肝門靜脈（hepatic portal vein）**阻塞時，腹壁淺靜脈可能充血並在臍周圍變得可見（**caput medusae（海蛇頭現象）**）。
 
 ---
-*Atlas: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+
+### 前外側腹壁肌肉（Muscles of the Anterolateral Abdominal Wall）
+
+**解剖概覽：**
+
+三塊扁肌（**external oblique（腹外斜肌）**、**internal oblique（腹內斜肌）**和**transversus abdominis（腹橫肌）**）構成前外側腹壁的主要部分。**Rectus abdominis（腹直肌）**和**pyramidalis（錐狀肌）**構成正中線附近的前腹壁。這三塊扁肌有廣闘的肉質近端附著處（附著於肋骨、椎骨和骨盆）和廣闘的腱膜遠端附著處。每塊扁肌都參與**rectus sheath（腹直肌鞘）**和**inguinal canal（腹股溝管）**的構成。
+
+在男性，睪丸位於**scrotum（陰囊）**內，陰囊是前腹壁的向外突起。每個睪丸在發育過程中穿過腹壁，將其**ductus deferens（輸精管）**拖在身後。這個通道穿過腹股溝管。腹股溝管位於**inguinal ligament（腹股溝韌帶）**內側半的上方，從淺（外）腹股溝環延伸到深（內）腹股溝環。在女性，腹股溝管較細。
+
+> **臨床重點**：構成腹股溝管的結構在兩性中相同，但腹股溝管的內容物不同。男性腹股溝管含有**spermatic cord（精索）**，而女性腹股溝管含有**round ligament of the uterus（子宫圓韌帶）**。
 
 ---
-*Atlas: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+
+### External Oblique Muscle（腹外斜肌）
+
+**解剖步驟** [G 106; L 216; N 243; R 210; C 221]：
+
+1. 清除**external oblique muscle（腹外斜肌）**表面的淺筋膜殘餘物，放入組織收集盒中。
+2. 觀察**external oblique muscle（腹外斜肌）**，注意其纖維從外上斜向內下 [G 110; L 216; N 243; R 217; C 223]。**external oblique muscle（腹外斜肌）**的近端附著處是第 5-12 肋骨的外表面。它有寬闘的腱膜，遠端附著於**linea alba（白線）**、**pubic tubercle（恥骨結節）**和**iliac crest（髂嵴）**的前半部。
+3. 在腹股溝區，用鈍性解剖清理**external oblique aponeurosis（腹外斜肌腱膜）**。
+4. 注意**external oblique aponeurosis（腹外斜肌腱膜）**分開以容許**spermatic cord（精索）**（女性的**round ligament of the uterus（子宫圓韌帶）**）通過。這個開口就是**superficial inguinal ring（淺腹股溝環）** [G 110; L 216; N 243; R 217; C 223]。
+5. 辨識**external oblique aponeurosis（腹外斜肌腱膜）**的以下結構：
+   - **Lateral (inferior) crus（外（下）腳）**：形成淺腹股溝環的外側緣，這些纖維附著於**pubic tubercle（恥骨結節）**。
+   - **Medial (superior) crus（內（上）腳）**：形成淺腹股溝環的內側緣，這些纖維附著於**pubic crest（恥骨嵴）**。
+   - **Intercrural fibers（腳間纖維）**：纖細的纖維，在淺腹股溝環外上方跨越兩腳之間，防止兩腳分開。
+   - **Inguinal ligament（腹股溝韌帶）**：**external oblique aponeurosis（腹外斜肌腱膜）**的下緣，從**anterior superior iliac spine（前上髂棘）**延伸到**pubic tubercle（恥骨結節）**。血管和神經從腹腔出發，通過**inguinal ligament（腹股溝韌帶）**的後方進入下肢。
+   - **External oblique aponeurosis（腹外斜肌腱膜）**構成腹股溝管的前壁，**inguinal ligament（腹股溝韌帶）**構成其底部。
+6. 在**superficial inguinal ring（淺腹股溝環）**的邊緣處，觀察從**external oblique aponeurosis（腹外斜肌腱膜）**延伸到**spermatic cord（精索）**的薄層筋膜。這是**external spermatic fascia（外精索筋膜）**，是**external abdominal oblique（腹外斜肌）**對**spermatic cord（精索）**各層結構的貢獻。
+7. 注意**ilioinguinal nerve（髂腹股溝神經）**的分支從**superficial inguinal ring（淺腹股溝環）**出現，位於**spermatic cord（精索）**的前方（女性的**round ligament of the uterus（子宫圓韌帶）**前方）。**ilioinguinal nerve（髂腹股溝神經）**支配外生殖器前表面和大腿內側面的感覺神經纖維。
+8. 用插圖研究**lacunar ligament（腔隙韌帶）** [G 110; L 220; N 252; C 223]。**lacunar ligament（腔隙韌帶）**是由**inguinal ligament（腹股溝韌帶）**內側端的纖維向後彎曲附著於**pecten pubis（恥骨梳）**而形成的。
+
+---
+
+### Internal Oblique Muscle（腹內斜肌）
+
+**internal oblique muscle（腹內斜肌）**位於**external oblique muscle（腹外斜肌）**的深層，構成前外側腹壁的中間層 [G 107; L 216; N 244; R 212; C 224]。要顯露**internal oblique muscle（腹內斜肌）**，必須部分切斷**external oblique muscle（腹外斜肌）**並向下翻轉 [G 108; L 216; N 244; R 212; C 225]。
+
+**解剖步驟**：
+
+1. 從**anterior superior iliac spine（前上髂棘）**到臍水平，在**external oblique muscle（腹外斜肌）**上做垂直切口 [G 110; L 216; N 243; R 217; C 223]。將手指插入切口 1 並向內側引導以分離肌肉層。用剪刀在**external oblique muscle（腹外斜肌）**上做橫切口（切口 2），至**semilunar line（半月線）**處停止。
+2. 將手指插入切口 2，向下朝向**inguinal ligament（腹股溝韌帶）**引導。分離**external oblique muscle（腹外斜肌）**與下方的**internal oblique muscle（腹內斜肌）**，注意手指不能通過**semilunar line（半月線）**的內側，因為**external oblique aponeurosis（腹外斜肌腱膜）**在此處與**internal oblique aponeurosis（腹內斜肌腱膜）**融合。
+3. 沿**semilunar line（半月線）**向下至**superficial inguinal ring（淺腹股溝環）**切開**external oblique aponeurosis（腹外斜肌腱膜）**（切口 3）。只切斷**external oblique aponeurosis（腹外斜肌腱膜）**。
+4. 向下翻轉**external oblique muscle（腹外斜肌）**瓣（以**inguinal ligament（腹股溝韌帶）**為鉸鏈），顯露**internal oblique muscle（腹內斜肌）**的腹股溝部分。
+5. 用插圖研究**internal oblique muscle（腹內斜肌）**的附著處和纖維方向 [G 108; L 216; N 244; R 212; C 225]。**internal oblique muscle（腹內斜肌）**的近端附著處是**thoracolumbar fascia（胸腰筋膜）**、**iliac crest（髂嵴）**和**inguinal ligament（腹股溝韌帶）**的外側半。遠端附著處是第 10-12 肋骨的下緣、**linea alba（白線）**、**pubic crest（恥骨嵴）**和**pecten pubis（恥骨梳）**。注意**internal oblique muscle（腹內斜肌）**的纖維從下外側向上內側走行（與**external oblique muscle（腹外斜肌）**的纖維方向垂直）。
+6. 檢查顯露的**internal oblique muscle（腹內斜肌）**的腹股溝部分。最下方的纖維橫向走行，越過**spermatic cord（精索）**（或**round ligament（圓韌帶）**）附著於**pecten pubis（恥骨梳）**。**internal oblique muscle（腹內斜肌）**的弓形纖維構成腹股溝管的頂壁的一部分，這些纖維的腱膜插入構成腹股溝管的後壁（**conjoint tendon（聯合腱）**）[G 110; L 216; N 243; R 217; C 223]。
+7. 觀察連接**internal oblique muscle（腹內斜肌）**到**spermatic cord（精索）**或**round ligament（圓韌帶）**淺層的小束肌肉纖維。這是**cremaster muscle and fascia（提睪肌和筋膜）**，是**internal oblique muscle（腹內斜肌）**對**spermatic cord（精索）**被膜的貢獻。在女性，**cremaster muscle and fascia（提睪肌和筋膜）**包繞**round ligament of the uterus（子宫圓韌帶）**。
+8. 在**external oblique（腹外斜肌）**和**internal oblique（腹內斜肌）**之間的肌間平面，可以找到兩條神經 [G 108; L 216; N 244; R 212; C 225]：
+   - **Ilioinguinal nerve（髂腹股溝神經）**：穿過腹股溝管從**superficial inguinal ring（淺腹股溝環）**出來。
+   - **Iliohypogastric nerve（髂腹下神ennerve）**：與**ilioinguinal nerve（髂腹股溝神經）**平行且位於其上方。
+
+**內臟神經（greater splanchnic nerve）**的追蹤步驟：
+
+1. 沿**ilioinguinal nerve（髂腹股溝神經）**向外側追蹤，找到**internal oblique muscle（腹內斜肌）**和**transversus abdominis muscle（腹橫肌）**之間的分離面。
+2. 在**superficial inguinal ring（淺腹股溝環）**附近找到**ilioinguinal nerve（髂腹股溝神經）**，並向外側追蹤直至消失進入**internal oblique muscle（腹內斜肌）**的表面。
+3. 用探針沿**ilioinguinal nerve（髂腹股溝神經）**的走向劈開**internal oblique muscle（腹內斜肌）**的纖維。
+4. 通過裂口將手指插入**internal oblique（腹內斜肌）**和**transversus abdominis（腹橫肌）**之間的平面。向下內側推手指以分離肌肉層。繼續向內側直至被**arcuate line（弓狀線）**和**conjoint tendon（聯合腱）**阻止。觀察兩塊肌肉的腱膜在靠近**pecten pubis（恥骨梳）**附著處時無法分離。
+5. 注意**transversus abdominis muscle（腹橫肌）**的下游離緣略高於**internal oblique muscle（腹內斜肌）**的下游離緣。與**internal abdominal oblique（腹內斜肌）**相同，**transversus abdominis（腹橫肌）**的弓形纖維構成腹股溝管的頂壁，其腱膜插入構成後壁。
+6. 在**internal oblique（腹內斜肌）**和**transversus abdominis（腹橫肌）**的弓形纖維下方，腹壁沒有肌肉支撐 [G 110; L 216; N 243; R 217; C 223]。這是腹股溝管後壁的自然薄弱點。
+
+---
+
+### Deep Inguinal Ring（深腹股溝環）
+
+**Transversalis fascia（腹橫筋膜）**襯於腹肌的內表面。**Deep inguinal ring（深腹股溝環）**是**gubernaculum（睪丸引帶）**在發育過程中穿過**transversalis fascia（腹橫筋膜）**的點 [G 113; L 217, 219, 220; N 253; R 218; C 222]。**Deep inguinal ring（深腹股溝環）**位於**inguinal ligament（腹股溝韌帶）**中點的上方。在男性，**ductus deferens（輸精管）**穿過**deep inguinal ring（深腹股溝環）**。在女性，**round ligament of the uterus（子宫圓韌帶）**穿過**deep inguinal ring（深腹股溝環）**。
+
+**解剖步驟**：
+
+1. 向下牽拉**spermatic cord（精索）**（或**round ligament of the uterus（子宫圓韌帶）**）。
+2. 用探針抬起**internal oblique muscle（腹內斜肌）**和**transversus abdominis muscle（腹橫肌）**的弓形纖維。
+3. 通過**transversalis fascia（腹橫筋膜）**觀察**inferior epigastric vessels（腹壁下血管）**。**inferior epigastric vessels（腹壁下血管）**位於**extraperitoneal fascia（腹膜外筋膜）**層內。
+4. **Deep inguinal ring（深腹股溝環）**位於**inferior epigastric vessels（腹壁下血管）**的外側，可以通過**ductus deferens（輸精管）**（或**round ligament of the uterus（子宫圓韌帶）**）穿過此區域來確認。
+5. 總結**inguinal canal（腹股溝管）**的邊界 [G 110; L 216; N 243; R 217; C 223]：
+   - **深面**：深腹股溝環
+   - **淺面**：淺腹股溝環
+   - **前方**：external oblique aponeurosis（腹外斜肌腱膜）
+   - **下方（底部）**：inguinal ligament（腹股溝韌帶）和 lacunar ligament（腔隙韌帶）
+   - **上方（頂部）**：internal oblique（腹內斜肌）和 transversus abdominis（腹橫肌）的弓形纖維
+   - **後方**：外側為 transversalis fascia（腹橫筋膜），內側為 conjoint tendon（聯合腱）
+
+> **臨床重點**：**腹股溝疝氣（Inguinal Hernias）** [L 223; R 219]
+> 腹股溝管是腹壁的薄弱區域，腹腔臟器可能由此突出（腹股溝疝氣）。腹股溝疝氣根據其與**inferior epigastric vessels（腹壁下血管）**的相對位置進行分類。**間接腹股溝疝氣（indirect inguinal hernia）**從**deep inguinal ring（深腹股溝環）**（位於**inferior epigastric vessels（腹壁下血管）**的外側）離開腹腔，經過腹股溝管（穿過腹壁的間接路徑）。相比之下，**直接腹股溝疝氣（direct inguinal hernia）**從**inferior epigastric vessels（腹壁下血管）**的內側離開腹腔，經過腹壁的相對直接路徑。
+
+---
+
+### Rectus Abdominis Muscle（腹直肌）
+
+**Rectus sheath（腹直肌鞘）**由三塊扁肌的腱膜形成 [G 106; L 217, 218; N 244; R 211; C 227]。**Rectus sheath（腹直肌鞘）**包含**rectus abdominis muscle（腹直肌）**、**pyramidalis muscle（錐狀肌）**、**superior and inferior epigastric vessels（腹壁上、下血管）**以及**ventral rami of spinal nerves T7 to T12（脊神經 T7-T12 的腹側支）**的終末。
+
+**解剖步驟**：
+
+1. 將**internal oblique（腹內斜肌）**和**external oblique（腹外斜肌）**復位。
+2. 雙側做以下切口。用剪刀在臍水平橫切**rectus sheath（腹直肌鞘）**的前表面，切口從臍外側約 2.5 公分處開始，繼續向外側至**semilunar line（半月線）**。
+3. 沿**rectus abdominis muscle（腹直肌）**的內側緣切開**rectus sheath（腹直肌鞘）**（切口 2）。向上延伸約 2.5 公分至**costal margin（肋緣）**。
+4. 沿**rectus abdominis muscle（腹直肌）**的內側緣向下延伸垂直切口（切口 3）。切口 3 約距正中線 1.2 公分，至**pubic crest（恥骨嵴）**停止。
+5. 將手指插入垂直切口，分離**rectus sheath（腹直肌鞘）**的前壁與**rectus abdominis muscle（腹直肌）**的前表面。觀察**rectus sheath（腹直肌鞘）**的前壁通過數個**tendinous intersections（腱劃）**堅固地附著於**rectus muscle（腹直肌）**的前表面。將剪刀平放於體壁，插入**rectus sheath（腹直肌鞘）**與**rectus abdominis muscle（腹直肌）**前表面之間，切斷**腱劃**以遊離**rectus sheath（腹直肌鞘）**。
+6. 觀察**rectus abdominis muscle（腹直肌）** [G 107; L 217, 219; N 249; R 216; C 231]。**rectus abdominis muscle（腹直肌）**的遠端附著處是**pubis（恥骨）**的**symphysis（聯合）**和**body（體）**。**rectus abdominis muscle（腹直肌）**的近端附著處是第 5-7 肋骨的**costal cartilages（肋軟骨）**。**rectus abdominis muscle（腹直肌）**屈曲軀幹。
+7. 在**rectus abdominis muscle（腹直肌）**的遠端前方，尋找**pyramidalis muscle（錐狀肌）**。它常常缺失。如果存在，**pyramidalis muscle（錐狀肌）**附著於**pubis（恥骨）**的前表面和**linea alba（白線）**，並向下拉**linea alba（白線）**。
+8. 沿**rectus abdominis muscle（腹直肌）**的外側，觀察六條神經（T7-T12）的分支進入**rectus sheath（腹直肌鞘）**並穿入**rectus abdominis muscle（腹直肌）**的深面 [G 107; L 171; N 251; R 216; C 220]。這些神經支配**rectus abdominis muscle（腹直肌）**，然後以**前皮支**的形式出現。
+9. 用手指遊離**rectus abdominis muscle（腹直肌）**的內側緣。在臍水平，用剪刀橫斷**rectus abdominis muscle（腹直肌）**。分別向上和向下翻轉兩半。如果神經阻止**rectus abdominis muscle（腹直肌）**的完全翻轉，在它們進入肌肉處切斷。
+10. 觀察**rectus abdominis muscle（腹直肌）**後表面的兩組血管 [G 107; L 217, 219; N 249; R 216; C 231]：
+    - **Superior epigastric artery and vein（腹壁上動脈和靜脈）**：位於**rectus abdominis muscle（腹直肌）**的上半部
+    - **Inferior epigastric artery and vein（腹壁下動脈和靜脈）**：位於**rectus abdominis muscle（腹直肌）**的下半部
+
+> **臨床重點**：**腹壁吻合（Epigastric Anastomoses）**
+> **Superior epigastric vessels（腹壁上血管）**與**inferior epigastric vessels（腹壁下血管）**在**rectus sheath（腹直肌鞘）**內吻合。如果**下腔靜脈（inferior vena cava）**阻塞，**inferior epigastric（腹壁下）**和**superior epigastric veins（腹壁上靜脈）**之間的吻合提供通往**上腔靜脈（superior vena cava）**的側支靜脈通道。如果**主動脈（aorta）**閉塞，通過**superior（腹壁上）**和**inferior epigastric arteries（腹壁下動脈）**建立到達下肢的側支動脈循環。
+
+11. 檢查**rectus sheath（腹直肌鞘）**的後壁 [G 107; L 217, 219; N 249; R 216; C 231]。識別**arcuate line（弓狀線）**，它位於**pubic symphysis（恥骨聯合）**和**umbilicus（臍）**之間的中點。**Arcuate line（弓狀線）**是**rectus sheath（腹直肌鞘）**後壁的下界，可能不清楚。在**arcuate line（弓狀線）**水平，**inferior epigastric vessels（腹壁下血管）**進入**rectus sheath（腹直肌鞘）**。
+12. 在**arcuate line（弓狀線）**下方，觀察**transversalis fascia（腹橫筋膜）**。在**transversalis fascia（腹橫筋膜）**的深層，觀察**extraperitoneal fascia（腹膜外筋膜）**層和**parietal peritoneum（壁層腹膜）**。
+13. 在正中線，識別**linea alba（白線）** [G 107; L 217, 219; N 249; R 216; C 231]。**Linea alba（白線）**由右側和左側扁腹肌（external oblique、internal oblique 和 transversus abdominis）的腱膜融合形成。
+
+---
+
+### Reflection of the Abdominal Wall（腹壁的反轉）
+
+**解剖概覽：**
+
+將反轉前腹壁，使腹腔內容物可以進入，但腹壁可以復位以便複習。切口線類似於象限線。切口設計為直接參考腹腔臟器在腹腔象限內的位置。
+
+**解剖步驟**：
+
+1. 分別向上和向下反轉**rectus abdominis muscles（腹直肌）**的兩半。
+2. 在臍左側，用剪刀在**rectus sheath（腹直肌鞘）**後壁、**extraperitoneal fascia（腹膜外筋膜）**和**parietal peritoneum（壁層腹膜）**上造一小孔（2.5 公分）。
+3. 通過孔插入手指進入腹腔，將**rectus sheath（腹直肌鞘）**的後壁向前拉，在腹壁和腹腔臟器之間創造空間。
+4. 用剪刀做垂直切口通過**linea alba（白線）**至**xiphoid process（劍突）**（切口 1）。保持在正中線左側 1 公分處以保留**falciform ligament（鐮狀韌帶）**。
+5. 向下延伸切口至**pubic symphysis（恥骨聯合）**（切口 2）。保持在正中線左側 1 公分處以保留**median umbilical fold（臍正中皺襞）**。
+6. 將**rectus abdominis muscle（腹直肌）**和**external oblique muscle（腹外斜肌）**復位到正確的解剖位置。
+7. 在臍水平，將一隻手通過垂直切口並抬起腹壁與腹腔內容物分離。
+8. 在右側，用剪刀沿經臍平面切開**rectus sheath（腹直肌鞘）**後壁、**extraperitoneal fascia（腹膜外筋膜）**和**peritoneum（腹膜）**（切口 3）。剪刀應穿過先前在**rectus abdominis muscle（腹直肌）**和**external oblique muscle（腹外斜肌）**上做的橫切口。向外側延伸切口穿過三塊扁腹肌至**midaxillary line（腋中線）**。在左側腹部重複此橫切口。
+9. 打開腹壁的皮瓣。
+10. 在右側上象限皮瓣的內表面，識別**falciform ligament（鐮狀韌帶）** [G 122; L 219; N 247; R 293; C 250]。**Falciform ligament（鐮狀韌帶）**連接前腹壁與**liver（肝臟）**的表面。
+11. 在下腹壁的內表面，識別三個皺襞：
+    - **Median umbilical fold（臍正中皺襞）**：位於臍下方正中線。它附著於右側下象限皮瓣，但可能已被縱向切斷。**Median umbilical fold（臍正中皺襞）**含有**urachus（臍尿管）**（**allantoic duct（尿囊管）**的殘餘）。
+    - **Medial umbilical fold（臍內側皺襞）**：位於**median umbilical fold（臍正中皺襞）**的外側。**Medial umbilical fold（臍內側皺襞）**含有**umbilical artery（臍動脈）**的殘餘。
+    - **Lateral umbilical fold（臍外側皺襞）**：位於**medial umbilical fold（臍內側皺襞）**的外側。**Lateral umbilical fold（臍外側皺襞）**覆蓋**inferior epigastric artery and vein（腹壁下動靜脈）**。
+12. 在**lateral umbilical fold（臍外側皺襞）**的外側，觀察一個標誌**deep inguinal ring（深腹股溝環）**位置的小凹陷。
+
+> **解剖複習**：
+> 1. 將前腹壁的肌肉恢復到正確的解剖位置。
+> 2. 複習每塊肌肉的近端附著處、遠端附著處和作用。
+> 3. 複習構成腹壁九層的結構。
+> 4. 用解剖標本複習**rectus sheath（腹直肌鞘）**在臍上方水平和**pubic symphysis（恥骨聯合）**上方的結構。
+> 5. 複習前腹壁的血液供應和神經支配。
+
+---
+
+## 腹膜與腹膜腔（Peritoneum and Peritoneal Cavity）
+
+**解剖概覽：**
+
+所有體腔（胸腔、心包腔和腹盆腔）都由**serous membranes（漿膜）**襯裡，它們分泌少量液體潤滑臟器的運動。在腹腔和盆腔，這層膜稱為**peritoneum（腹膜）**。腹膜有兩種類型：**parietal peritoneum（壁層腹膜）**襯於腹盆腔的內表面，**visceral peritoneum（臟層腹膜）**覆蓋腹盆腔臟器的表面。在這兩種腹膜之間是一個潛在空間，稱為**peritoneal cavity（腹膜腔）**。
+
+在發育過程中，有些器官在腹膜腔內發育並懸掛在**mesentery（腸繫膜）**上，稱為**intraperitoneal（腹膜內的）**器官。**腹膜內器官**包括：
+- **Stomach（胃）**
+- **Duodenum（十二指腸）**的第一部分
+- **Jejunum（空腸）**
+- **Ileum（迴腸）**
+- **Transverse colon（橫結腸）**
+- **Sigmoid colon（乙狀結腸）**
+- **Liver（肝臟）**
+- **Spleen（脾臟）**
+
+有些腹部器官在**peritoneum（腹膜）**的後方發育，稱為**retroperitoneal（腹膜後的）**（**extraperitoneal（腹膜外的）**）器官。**腹膜後器官**包括：
+- **Kidneys（腎臟）**
+- **Ureters（輸尿管）**
+- **Suprarenal glands（腎上腺）**
+- **Rectum（直腸）**
+
+胃腸道的某些部分在胚胎期開始時是腹膜內器官，後來在發育過程中附著於腹壁。這些器官是**次發性腹膜後器官**，包括：
+- **Duodenum（十二指腸）**（第2-4部分）
+- **Pancreas（胰臟）**
+- **Ascending colon（升結腸）**
+- **Descending colon（降結腸）**
+
+**解剖步驟：**
+
+### Abdominal Viscera（腹部臟器）[G 123, 132; L 224, 225; N 261; R 291, 292; C 244, 245]
+
+1. 用手檢查腹腔。在檢查過程中，可能遇到粘連。如果存在粘連，用手指撕裂以移動臟器。
+2. 打開腹壁的皮瓣。切口線與腹腔象限線相關。當檢查臟器時，可以關閉和打開皮瓣以幫助您將臟器與腹腔象限聯繫起來。
+3. 識別**liver（肝臟）** [G 122; L 219; N 247; R 293; C 250]。**Liver（肝臟）**占據**right upper quadrant（右上位象限）**並延伸過中線進入**left upper quadrant（左上位象限）**。**Liver（肝臟）**位於**diaphragm（橫膈）**的下表面。**Falciform ligament（鐮狀韌帶）**的附著處將**liver（肝臟）**分為右葉和左葉。
+4. **Gallbladder（膽囊）**也在**right upper quadrant（右上位象限）**。**Gallbladder（膽囊）**延伸至**liver（肝臟）**的下緣下方。它通常位於右側第九肋軟骨的尖端，在**midclavicular line（鎖骨中線）**上。確認此關係。
+5. 識別**stomach（胃）**。它位於**left upper quadrant（左上位象限）**。**Stomach（胃）**近端連接**esophagus（食道）**，遠端連接**duodenum（十二指腸）**。**Liver（肝臟）**部分覆蓋**stomach（胃）**的前表面。
+6. 找到**spleen（脾臟）**。它在**left upper quadrant（左上位象限）**。位於**stomach（胃）**的後方，可能難以找到，除非它增大。用右手繞過**stomach（胃）**的左側並觸摸**spleen（脾臟）**。
+7. 識別**greater omentum（大網膜）** [G 122; L 219; N 247; R 293; C 250]。**Greater omentum（大網膜）**附著於**greater curvature（胃大彎）**。向上反射**greater omentum（大網膜）**越過**costal margin（肋緣）**。
+8. 識別**small intestine（小腸）** [G 140, 141; L 225, 228; N 262; R 310; C 244]。**Small intestine（小腸）**始於**stomach（胃）**的**pylorus（幽門）**端。它有三個部分：
+    - **Duodenum（十二指腸）**
+    - **Jejunum（空腸）**
+    - **Ileum（迴腸）**
+9. **Duodenum（十二指腸）**位於胃腸道其他部分的後方，將在稍後與**pancreas（胰臟）**一起解剖。
+10. **Jejunum（空腸）**和**ileum（迴腸）**從**left upper quadrant（左上位象限）**延伸到**right lower quadrant（右下位象限）**，但由於其長度和活動性，它們占據所有四個象限。從**left upper quadrant（左上位象限）**開始，在雙手之間來回移動**jejunum（空腸）**和**ileum（迴腸）**，感受它們的長度、位置和終點。
+11. 識別**large intestine（大腸）** [G 140, 141; L 224, 226; N 276; R 307; C 288, 290]。**Large intestine（大腸）**始於**right lower quadrant（右下位象限）**的**ileocecal junction（迴盲連接處）**。它有六個部分：
+    - **Cecum（盲腸）**：位於**right lower quadrant（右下位象限）**。**Appendix（闌尾）**附著於**cecum（盲腸）**的下端。
+    - **Ascending colon（升結腸）**：從**right lower quadrant（右下位象限）**延伸到**right upper quadrant（右上位象限）**。它在**right colic (hepatic) flexure（右結腸曲/肝曲）**處終止。
+    - **Transverse colon（橫結腸）**：從**right upper quadrant（右上位象限）**延伸到**left upper quadrant（左上位象限）**。**Transverse colon（橫結腸）**在**left colic (splenic) flexure（左結腸曲/脾曲）**處終止。
+    - **Descending colon（降結腸）**：從**left upper quadrant（左上位象限）**延伸到**left lower quadrant（左下位象限）**。
+    - **Sigmoid colon（乙狀結腸）**：位於**left lower quadrant（左下位象限）**。**Sigmoid colon（乙狀結腸）**在第三骶椎水平進入盆腔，在那裡與**rectum（直腸）**延續。
+    - **Rectum（直腸）**：位於盆腔內，將與盆腔臟器一起解剖。
+12. 用手從**right lower quadrant（右下位象限）**到**left lower quadrant（左下位象限）**追蹤**large intestine（大腸）**。注意其每個部分的象限位置和活動性。
+
+### Peritoneum（腹膜）[G 123; L 224; N 261; R 306; C 250]
+
+1. 觀察**stomach（胃）**或**small intestine（小腸）**表面的**visceral peritoneum（臟層腹膜）**。注意**visceral peritoneum（臟層腹膜）**是光滑和滑潤的。
+2. 觀察腹壁內表面的**parietal peritoneum（壁層腹膜）**。注意**parietal peritoneum（壁層腹膜）**也是光滑和滑潤的。
+3. 觀察**greater omentum（大網膜）** [G 128; L 224; N 267; R 306; C 258]。展開這個圍裙狀結構以了解其大小。**Greater omentum（大網膜）**通常位於腸道和前腹壁之間。
+4. 抬起**liver（肝臟）**的下緣，識別**lesser omentum（小網膜）** [G 128; L 224; N 267; R 306; C 258]。**Lesser omentum（小網膜）**從**stomach（胃）**的小彎和**duodenum（十二指腸）**的第一部分延伸到**liver（肝臟）**的下表面。**Lesser omentum（小網膜）**有兩部分：
+    - **Hepatogastric ligament（肝胃韌帶）**：從**liver（肝臟）**延伸到**stomach（胃）**的小彎。
+    - **Hepatoduodenal ligament（肝十二指腸韌帶）**：從**liver（肝臟）**延伸到**duodenum（十二指腸）**的第一部分。
+5. 將右側上象限皮瓣恢復到解剖位置並複習**falciform ligament（鐮狀韌帶）**。**Falciform ligament（鐮狀韌帶）**從前腹壁的**parietal peritoneum（壁層腹膜）**延伸到**liver（肝臟）**表面的**visceral peritoneum（臟層腹膜）**。**Round ligament of the liver（肝臟的圓韌帶）**（**ligamentum teres hepatis（肝圓韌帶）**）位於**falciform ligament（鐮狀韌帶）**的下緣。它是**umbilical vein（臍靜脈）**的殘餘。
+6. 向上追蹤**falciform ligament（鐮狀韌帶）**並觀察它是構成將**liver（肝臟）**附著於**diaphragm（橫膈）**的**coronary ligament（冠狀韌帶）**的一部分。還有兩個其他的腹膜韌帶也是**coronary ligament（冠狀韌帶）**的一部分：
+    - **Left triangular ligament（左三角韌帶）**：位於**liver（肝臟）**左葉和**diaphragm（橫膈）**之間。
+    - **Right triangular ligament（右三角韌帶）**：位於**liver（肝臟）**右葉和**diaphragm（橫膈）**之間。
+7. **Gastrophrenic ligament（胃膈韌帶）**連接**stomach（胃）**大彎上部與**diaphragm（橫膈）**。繞過**stomach（胃）**左側向上滑動您的手以觸摸此韌帶。
+8. **Gastrosplenic (gastrolienal) ligament（胃脾韌帶）**從**stomach（胃）**的大彎延伸到**spleen（脾臟）**，**splenorenal (lienorenal) ligament（脾腎韌帶）**將**spleen（脾臟）**附著於左**kidney（腎臟）**前方的體壁。
+9. 向上反射**greater omentum（大網膜）**越過**costal margin（肋緣）**並識別**transverse mesocolon（橫結腸繫膜）** [G 128; L 224; N 263; R 313; C 288]。**Transverse mesocolon（橫結腸繫膜）**附著於**duodenum（十二指腸）**和**pancreas（胰臟）**的前表面。在**transverse mesocolon（橫結腸繫膜）**的左端是**phrenicocolic ligament（膈結腸韌帶）**，它將**left colic flexure（左結腸曲）**附著於**diaphragm（橫膈）**。
+10. 識別**mesentery（腸繫膜）** [G 128; L 224; N 267; R 306; C 258]。**Mesentery（腸繫膜）**將**jejunum（空腸）**和**ileum（迴腸）**懸掛於後腹壁。**Mesentery（腸繫膜）**的根附著於後腹壁，從**left upper quadrant（左上位象限）**到**right lower quadrant（右下位象限）**。
+11. 觀察**mesoappendix（闌尾繫膜）**。**Mesoappendix（闌尾繫膜）**將**appendix（闌尾）**附著於後腹壁，內含**appendicular artery（闌尾動脈）**。
+12. 識別**sigmoid mesocolon（乙狀結腸繫膜）**在下左象限。**Sigmoid mesocolon（乙狀結腸繫膜）**將**sigmoid colon（乙狀結腸）**懸掛於後腹壁。
+13. 注意這些腹膜結構都位於稱為**greater peritoneal sac（大腹膜腔）**的腹膜腔部分中 [G 128; L 224; N 267; R 306; C 258]。在**stomach（胃）**和**lesser omentum（小網膜）**的後方是較小的腹膜腔部分，稱為**lesser peritoneal sac（小腹膜腔）**（**omental bursa（網膜囊）**）。
+14. **Omental foramen（網膜孔）**（**epiploic foramen（網膜孔）**）連接**greater（大和）**和**lesser peritoneal sacs（小腹膜腔）** [G 128; L 230; N 267; R 311; C 300]。**Omental foramen（網膜孔）**位於**hepatoduodenal ligament（肝十二指腸韌帶）**的後方。
+15. 將手指插入**omental foramen（網膜孔）**並複習其四個邊界 [G 128; L 230; N 267; R 311; C 300]：
+    - **前方**：包含在**hepatoduodenal ligament（肝十二指腸韌帶）**內的**hepatic portal vein（肝門靜脈）**、**hepatic artery proper（肝固有動脈）**和**bile duct（膽管）**。
+    - **後方**：覆蓋有**parietal peritoneum（壁層腹膜）**的**inferior vena cava（下腔靜脈）**和**diaphragm（橫膈）**的右腳。
+    - **上方**：覆蓋有**visceral peritoneum（臟層腹膜）**的**liver（肝臟）**的**caudate lobe（尾狀葉）**。
+    - **下方**：覆蓋有**visceral peritoneum（臟層腹膜）**的**duodenum（十二指腸）**的第一部分。
+16. 用圖表研究**lesser peritoneal sac（小腹膜腔）**。**Lesser peritoneal sac（小腹膜腔）**的最低部分稱為**inferior recess（下隱窩）**，向下延伸至**greater omentum（大網膜）**。在發育過程中，**inferior recess（下隱窩）**在**greater omentum（大網膜）**的兩層之間延伸。**Lesser peritoneal sac（小腹膜腔）**的最高部分是**superior recess（上隱窩）** [G 124; L 230; N 264, 265; R 313; C 249]。**Diaphragm（橫膈）**位於**superior recess（上隱窩）**的後方，**liver（肝臟）**的**caudate lobe（尾狀葉）**位於其前方。
+17. 在**lesser peritoneal sac（小腹膜腔）**主部的後方是**pancreas（胰臟）** [G 128; L 224; N 267; R 306; C 258]。覆蓋**pancreas（胰臟）**的腹膜構成**lesser peritoneal sac（小腹膜腔）**後壁的一部分。
+
+> **解剖複習**：
+> 1. 用大體標本複習胃腸道在遠端順序之前所有部分的象限位置。
+> 2. 複習前列出的腹膜的所有部分和特化結構。
+> 3. 複習腸管和腸繫膜的胚胎發育。
+
+---
+
+## 腹腔乾動脈、胃、脾臟、肝臟和膽囊（Celiac Trunk, Stomach, Spleen, Liver, and Gallbladder）
+
+**解剖概覽：**
+
+解剖順序如下：切斷肋骨和橫膈以便將肝臟向上牽拉，暴露**lesser omentum（小網膜）**。研究胃的表面特徵。演示**hepatoduodenal ligament（肝十二指腸韌帶）**中的血管和膽管。解剖腹腔乾支配胃、脾臟、肝臟和膽囊的分支。稍後將解剖腹腔乾供應範圍的其餘部分（到十二指腸和胰臟）。研究**hepatic portal vein（肝門靜脈）**。研究脾臟、肝臟和膽囊。
+
+**解剖步驟：**
+
+### Celiac Trunk（腹腔乾）[G 134; L 231; N 284; R 315; C 252]
+
+1. 僅在左側，用骨剪從**xiphisternal junction（胸骨劍突關節）**和**sternum（胸骨）**的側緣切斷第 6 和 7 肋骨的**costal cartilages（肋軟骨）**。通過剛創建的口子，用剪刀做垂直切口穿過**diaphragm（橫膈）**。向上延伸切口至**liver（肝臟）**上表面的**coronary ligament（冠狀韌帶）**水平。用手向上牽拉肋骨、橫膈和肝臟以暴露**lesser omentum（小網膜）**。
+2. 將左手食指插入**omental foramen（網膜孔）** [G 134; L 231; N 283; R 315; C 252]。在手指前方是**hepatoduodenal ligament（肝十二指腸韌帶）**及其內容物：
+    - **Bile duct（膽管）**
+    - **Hepatic artery proper（肝固有動脈）**
+    - **Hepatic portal vein（肝門靜脈）**
+    - **Autonomic nerves（自的神經）**
+    - **Lymphatic vessels（淋巴管）**
+3. 為協助解剖，可在**omental foramen（網膜孔）**中放置一條白色紙條。
+4. 用鈍性解剖清除**hepatoduodenal ligament（肝十二指腸韌帶）**前表面的腹膜（在血管和膽管的前方）。
+5. 識別包含在**hepatoduodenal ligament（肝十二指腸韌帶）**內的三個大結構：膽管、肝固有動脈和肝門靜脈 [G 134; L 231; N 283; R 315; C 252]。**Bile duct（膽管）**是三者中最外側的。
+6. 用探針向上追蹤**bile duct（膽管）**。識別**cystic duct（膽囊管）**和**common hepatic duct（肝總管）**。
+7. 向上追蹤**common hepatic duct（肝總管）**直至接受其支流：**right hepatic duct（右肝管）**和**left hepatic duct（左肝管）**。右和左肝管從**porta hepatis（肝門）**出來。
+8. 清理**hepatic artery proper（肝固有動脈）**。圍繞這血管的堅韌「結締組織」是自的神經叢。要清理解剖區域，去除自的神經纖維 [G 134; L 231; N 283; R 315; C 252]。
+9. 通過**hepatoduodenal ligament（肝十二指腸韌帶）**向肝臟追蹤**hepatic artery proper（肝固有動脈）**。在接近**porta hepatis（肝門）**處，**hepatic artery proper（肝固有動脈）**分為**left hepatic artery（左肝動脈）**和**right hepatic artery（右肝動脈）**。
+10. 另外兩條動脈在**hepatoduodenal ligament（肝十二指腸韌帶）**中發出 [G 134; L 231; N 283; R 315; C 252]：
+    - **Cystic artery（膽囊動脈）**：從**right hepatic artery（右肝動脈）**發出。追蹤至**gallbladder（膽囊）**。
+    - **Right gastric artery（右胃動脈）**：從**hepatic artery proper（肝固有脈）**發出。追蹤至**stomach（胃）**的小彎。
+11. 淋巴管也包含在**hepatoduodenal ligament（肝十二指腸韌帶）**內。淋巴管太小無法解剖，但可以看到**lymph nodes（淋巴結）**。可以移除淋巴結以清理解剖區域。
+12. 向下追蹤**hepatic artery proper（肝固有脈）**並確認它是**common hepatic artery（肝總動脈）**的延續 [G 134; L 231; N 283; R 315; C 252]。
+13. 觀察**common hepatic artery（肝總脈）**發出**gastroduodenal artery（胃十二指腸脈）**。**Gastroduodenal artery（胃十二指腸脈）**在**duodenum（十二指腸）**第一部分的後方通過。追蹤**gastroduodenal artery（胃十二指腸脈）**直至其分為**right gastro-omental (gastroepiploic) artery（右胃網膜脈）**和**anterior superior pancreaticoduodenal artery（胰十二指腸上前脈）**。
+14. 向左追蹤**common hepatic artery（肝總脈）**至**celiac trunk（腹腔乾）** [G 134; L 231; N 284; R 315; C 252]。注意**celiac trunk（腹腔乾）**在第12胸椎水平起源於**abdominal aorta（腹主動脈）**的前表面。**Celiac trunk（腹腔乾）**非常短（大多少於2公分）並分為三支：
+    - **Common hepatic artery（肝總脈）**（已解剖）
+    - **Left gastric artery（左胃脈）**
+    - **Splenic artery（脾脈）**
+15. 用鈍性解剖向食道和胃追蹤**left gastric artery（左胃脈）** [G 134; L 231; N 284; R 315; C 252]。**Left gastric artery（左胃脈）**到達胃近端靠近食道處，然後沿**stomach（胃）**的小彎在**lesser omentum（小網膜）**內下行。**Left gastric artery（左胃脈）**與沿小彎的**right gastric artery（右胃脈）**吻合。胃動脈的分支分佈於胃的前表面和後表面。
+16. 向左追蹤**splenic artery（脾脈）**約 5 公分並確認它位於後腹壁上。**Splenic artery（脾脈）**沿**pancreas（胰臟）**的上緣走行，可能部分埋於其中。此時不要將**splenic artery（脾脈）**從**pancreas（胰臟）**上遊離。注意**short gastric arteries（胃短脈）**從**splenic artery（脾脈）**的遠端發出以供應**stomach（胃）**的**fundus（胃底）**。
+17. 在**greater omentum（大網膜）**中，約距**stomach（胃）**大彎 2 公分處找到**left gastro-omental (gastroepiploic) artery（左胃網膜脈）** [G 134; L 231; N 284; R 315; C 252]。**Left gastro-omental artery（左胃網膜脈）**是**splenic artery（脾脈）**的分支。
+18. 在**greater omentum（大網膜）**中，靠近**stomach（胃）**大彎右端處找到**right gastro-omental artery（右胃網膜脈）**。**Right gastro-omental artery（右胃網膜脈）**與**left gastro-omental artery（左胃網膜脈）**吻合。追蹤**right gastro-omental artery（右胃網膜脈）**向右找到其從**common hepatic artery（肝總脈）**的**gastroduodenal branch（胃十二指腸分支）**的起源。
+19. 返回**hepatoduodenal ligament（肝十二指腸韌帶）**並識別**hepatic portal vein（肝門靜脈）** [G 134; L 231; N 283; R 315; C 252]。**Hepatic portal vein（肝門靜脈）**位於**hepatic artery proper（肝固有脈）**和**bile duct（膽管）**的後方。向上追蹤**hepatic portal vein（肝門靜脈）**並觀察它進入**porta hepatis（肝門）**，在那裡分為右和左**portal veins（門靜脈）**。**Hepatic portal vein（肝門靜脈）**通常接受左和右**gastric veins（胃靜脈）**作為支流。在下方，**hepatic portal vein（肝門靜脈）**在**duodenum（十二指腸）**第一部分的後方通過。
+
+> **臨床重點**：** arteries（ arteries 的變異）**
+> 約12%的病例中，**right hepatic artery（右肝脈）**從**superior mesenteric artery（腸繫膜上脈）**發出。
+> **Aberrant left hepatic artery（左肝脈）**可能從**left gastric artery（左胃脈）**發出。在胃切除手術中，左肝脈的血流可能被中斷，危及肝臟的左葉。
+> **Cystic artery（膽囊脈）**通常從**right hepatic artery（右肝脈）**發出，但也可能有其他起源。**Cystic artery（膽囊脈）**可能在**common hepatic duct（肝總管）**的後方（75%）或前方（24%）通過。
+
+### Spleen（脾臟）[G 136; L 232; N 282; R 317; C 258]
+
+**Spleen（脾臟）**是體內最大的造血器官。其大小和重量可能因所含血量而有很大變化。**Spleen（脾臟）**被**visceral peritoneum（臟層腹膜）**覆蓋，但在**hilum（脾門）**（脾血管進入和離開處）處沒有腹膜覆蓋。
+
+**解剖步驟**：
+
+1. 用左手將**stomach（胃）**的**fundus（胃底）**向右牽拉。用右手輕輕將**spleen（脾臟）**向前拉。
+2. 觀察**spleen（脾臟）**有光滑的**diaphragmatic surface（膈面）**。**Spleen（脾臟）**有銳利的**anterior（前方）**、**inferior（下方）**和**superior（上方）**邊界。**Spleen（脾臟）**的上緣常有缺口。
+3. **Spleen（脾臟）**的**visceral surface（臟面）**與四個器官相鄰：
+    - **Stomach（胃）**
+    - **Left kidney（左腎）**
+    - **Transverse colon（橫結腸）**（**left colic flexure（左結腸曲）**）
+    - **Pancreas（胰臟）**
+4. **Spleen（脾臟）**的**diaphragmatic surface（膈面）**通過橫膈與第 9、10 和 11 肋骨相鄰。
+
+> **臨床重點**：
+> **Spleen（脾臟）**與第 9、10 和 11 肋骨的關係在評估肋骨骨折和穿透傷時具有重要臨床意義。撕裂的脾臟會大量出血進入腹腔，可能需要手術切除（脾切除術）。必須強調，在胸腔穿刺（胸腔穿刺術）中有刺穿脾臟的風險。
+> 腫大的脾臟（**splenomegaly（脾腫大）**）可能在體檢中遇到。當脾臟可在肋緣下方觸及時，被認為是腫大的。
+
+### Liver（肝臟）[G 150; L 233; N 277; R 298; C 270, 271]
+
+**Liver（肝臟）**是體內最大的腺體，約占成人體重的 2.5%。要研究肝臟的表面特徵，必須將其從橫膈上分離。
+
+**解剖步驟**：
+
+1. 複習**falciform ligament（鐮狀韌帶）**和**coronary ligament（冠狀韌帶）**。
+2. 沿前腹壁的附著處切斷**falciform ligament（鐮狀韌帶）**。向上延伸切口並沿**diaphragm（橫膈）**下表面切斷**左右三角韌帶**。
+3. 將手指插入**liver（肝臟）**和**diaphragm（橫膈）**之間並撕裂連接肝臟與橫膈的結締組織。切斷**coronary ligament（冠狀韌帶）**的後層。
+4. 用剪刀在肝臟和橫膈之間切斷**inferior vena cava（下腔靜脈）**。抬起**liver（肝臟）**的下緣並盡可能靠近肝臟的下表面再次切斷**inferior vena cava（下腔靜脈）**。這兩個切口將在肝臟內留下一段**下腔靜脈**。
+5. **Liver（肝臟）**現在應該可以自由活動，但通過膽管、肝固有脈和肝門靜脈附著於其他腹部臟器。小心移動肝臟以避免撕裂這些結構。
+6. 檢查肝臟並注意右葉是左葉的六倍大。**Liver（肝臟）**的下緣銳利，將**visceral surface（臟面）**與**diaphragmatic surface（膈面）**分開。
+7. 在**diaphragmatic surface（膈面）**的後側識別**bare area（裸區）**。這裡，肝臟鄰近橫膈且沒有腹膜覆蓋。在**bare area（裸區）**周圍，注意**coronary ligament（冠狀韌帶）**的切斷邊緣。
+8. 檢查**liver（肝臟）**的**visceral surface（臟面）** [G 151, 158; L 233; N 277; R 299; C 271]。一組H形的溝和窩定義了四個葉。識別**right lobe（右葉）**、**left lobe（左葉）**、**caudate lobe（尾狀葉）**和**quadrate lobe（方葉）**。
+9. 觀察**ligamentum venosum（靜脈韌帶）**和**falciform ligament（鐮狀韌帶）**占據H左側的裂隙 [G 151, 158; L 233; N 277; R 299; C 271]。**Gallbladder（膽囊）**和**inferior vena cava（下腔靜脈）**占據構成H右側的窩。
+10. 識別**porta hepatis（肝門）**。它構成H的水平桿。通過**hepatoduodenal ligament（肝十二指腸韌帶）**的結構（膽管、肝脈、肝門靜脈、淋巴管和自的神經）在**porta hepatis（肝門）**進入或離開肝臟。
+11. 檢查附著於肝臟的一小段**inferior vena cava（下腔靜脈）**。注意數條**hepatic veins（肝靜脈）**直接從肝臟排入**下腔靜脈**。
+12. 用教科書研究肝臟可分為葉的兩種慣例 [G 154; L 234, 235; R 299]。**Falciform ligament（鐮狀韌帶）**將肝臟分為右和左**解剖葉**。其膽汁引流和血管供應的模式用於將肝臟分為右和左**功能葉**。
+13. 肝臟有大量的淋巴引流。在**porta hepatis（肝門）**處，小淋巴管排入**hepatic lymph nodes（肝淋巴結）**。從**hepatic lymph nodes（肝淋巴結）**，淋巴管沿肝脈到位的**celiac lymph nodes（腹腔淋巴結）**。肝臟的淋巴也向後引流至**phrenic nodes（膈淋巴結）**。
+
+> **臨床重點**：
+> 肝臟可能經歷可能在解剖過程中遇到的病理變化。肝臟可能增大，這發生在因心臟功能不全引起的肝充血（心源性肝臟）。相比之下，肝臟可能變小並有纖維結節，這可能表明肝硬化。因為肝臟本質上是胃腸道下游的毛細血管床，轉移的腫瘤細胞經常被困在其中，導致繼發性腫瘤。
+
+### Gallbladder（膽囊）[G 158; L 236; N 280; R 297; C 278]
+
+**Gallbladder（膽囊）**是儲存和濃縮膽汁的容器。**Gallbladder（膽囊）**位於**liver（肝臟）**臟面上的淺窩中。膽囊通常被膽汁染成深綠色，膽汁在死後通過膽囊壁滲出。
+
+**解剖步驟**：
+
+1. 將肝臟恢復到正確的解剖位置。
+2. 確認**Gallbladder（膽囊）**位於右第九肋軟骨尖端附近的**midclavicular line（鎖骨中線）**上。
+3. 抬起肝臟的下緣暴露臟面。用鈍性解剖將**gallbladder（膽囊）**從其窩中遊離。
+4. 識別**Gallbladder（膽囊）**的部分 [G 158; L 236; N 280; R 297; C 278]：
+    - **Fundus（底）**
+    - **Body（體）**
+    - **Neck（頸）**
+5. 複習**cystic artery（膽囊脈）**的路徑 [G 158; L 236; N 280; R 297; C 278]。**Cystic artery（膽囊脈）**被膽汁染成綠色且通常脆弱，使其難以解剖。
+6. 用剪刀從**fundus（底）**開始，通過**neck（頸）**並進入**cystic duct（膽囊管）**做縱向切口。如果存在膽結石，將它們取出。尋找**spiral fold（螺旋襞）**，這是**neck（頸）**粘膜內襞的褶皺，延續進入**cystic duct（膽囊管）**。
+
+> **解剖複習**：
+> 1. 將器官恢復到正確的解剖位置。
+> 2. 複習每個器官相對於腹部象限系統的位置。
+> 3. 用插圖和解剖標本追蹤腹腔乾的分支。
+> 4. 複習**hepatoduodenal ligament（肝十二指腸韌帶）**中結構的關係。
+> 5. 複習**omental foramen（網膜孔）**的邊界。
+> 6. 複習所解剖器官的部分及其與周圍結構的關係。
+> 7. 用胚胎學教科書複習肝臟、胰臟和腹側胃繫膜的發育。
+> 8. 複習前腸的所有衍生結構。
+
+---
+
+## 腸繫膜上動靜脈與小腸（Superior Mesenteric Artery and Small Intestine）
+
+**解剖概覽：**
+
+解剖順序如下：檢查腸繫膜。解剖支配空腸、迴腸、盲腸、升結腸和橫結腸的**superior mesenteric artery（腸繫膜上動脈）**的分支。稍後將解剖**superior mesenteric artery（腸繫膜上動脈）**供應範圍的其餘部分（到十二指腸和胰臟），因為這些結構位於**transverse mesocolon（橫結腸繫膜）**附著處的後方。研究空腸和迴腸的外部特徵。
+
+### Superior Mesenteric Artery（腸繫膜上動脈）[G 144; L 225; N 287, 288; R 303; C 292]
+
+**Superior mesenteric artery（腸繫膜上動脈）**在**celiac trunk（腹腔乾）**下方約 1 公分處（L1 椎骨水平）起源於**abdominal aorta（腹主脈）**的前表面。在其起源處，**superior mesenteric artery（腸繫膜上動脈）**位於**pancreas（胰臟）**頸的後方。當**superior mesenteric artery（腸繫膜上動脈）**從**pancreas（胰臟）**頸的後方出來時，它經過**uncinate process（鉤突）**、**duodenum（十二指腸）**第三部分和**left renal vein（左腎靜脈）**的前方。然後**superior mesenteric artery（腸繫膜上動脈）**進入腸繫膜。在腸繫膜內，**superior mesenteric artery（腸繫膜上動脈）**走行入**right lower quadrant（右下位象限）**，朝向迴腸的終末端。
+
+**解剖步驟**：
+
+1. 將肝臟恢復到正確的解剖位置。
+2. 將橫結腸和大網膜向上越過肋緣反轉。**Transverse mesocolon（橫結腸繫膜）**的後表面應朝向前方。
+3. 將空腸和迴腸的腸袢移到腹部的左側，使腸繫膜的右側朝向前方。觀察腸繫膜的根附著於後腹壁，從左上位象限到右下位象限。
+4. 清除腸繫膜右側的腹膜以顯露**superior mesenteric artery（腸繫膜上動脈）**的分支。為此，用探針撕裂腹膜，然後用拇指和食指抓住並輕輕剝離，用止血鉗的柄釋放腹膜與下方血管的連接。
+5. 清除腸繫膜右側後腹壁的壁層腹膜。清除至升結腸的外側。
+6. 識別**superior mesenteric artery（腸繫膜上動脈）**。用鈍性解剖向上追蹤**superior mesenteric artery（腸繫膜上動脈）**並觀察它經過**duodenum（十二指腸）**第三部分的前方。注意**duodenum（十二指腸）**第三部分和**left renal vein（左腎靜脈）**可能被**superior mesenteric vessels（腸繫膜上血管）**和**abdominal aorta（腹主脈）**壓迫。
+7. 用鈍性解剖清理**superior mesenteric artery（腸繫膜上動脈）**的分支。在解剖時，注意圍繞血管的密集自的神經網絡。這是**superior mesenteric plexus（腸繫膜上叢）**。如需要，去除神經纖維以清理血管。
+8. 識別**superior mesenteric artery（腸繫膜上動脈）**的分支 [G 144; L 225; N 287, 288; R 303; C 292]：
+    - **Inferior pancreaticoduodenal artery（胰十二指腸下動脈）**通常是**superior mesenteric artery（腸繫膜上動脈）**的第一分支。**Inferior pancreaticoduodenal artery（胰十二指腸下動脈）**將與十二指腸一起解剖。
+    - **Intestinal arteries（腸動脈）**是供應空腸和迴腸的15-18條動脈。在腸動脈末端有稱為**arteriae rectae（直動脈）**的直終末分支。腸動脈之間有**arterial arcades（動脈弓）**連接。觀察近端空腸的血供並注意在相鄰腸動脈之間只發現一或兩個弓，導致相對較長的**arteriae rectae（直動脈）**。檢查遠端迴腸並注意在相鄰腸動脈之間發生四或五個弓，導致相對較短的**arteriae rectae（直動脈）**。
+    - **Ileocolic artery（迴結腸脈）**供應盲腸。它起源於**superior mesenteric artery（腸繫膜上動脈）**的右側並向左走行在腹膜後位置。**Ileocolic artery（迴結腸脈）**發出**appendicular artery（闌尾脈）**並與腸分支和**right colic artery（右結腸脈）**吻合。
+    - **Right colic artery（右結腸脈）**供應升結腸。**Right colic artery（右結腸脈）**起源於**superior mesenteric artery（腸繫膜上動脈）**的右側並向右走行在腹膜後位置。它分為上支和下支。
+    - **Middle colic artery（中結腸脈）**供應橫結腸。**Middle colic artery（中結腸脈）**起源於**superior mesenteric artery（腸繫膜上動脈）**的前表面並穿過**transverse mesocolon（橫結腸繫膜）**。它分為右支和左支。
+9. 識別**superior mesenteric vein（腸繫膜上靜脈）**。**Superior mesenteric vein（腸繫膜上靜脈）**通常位於**superior mesenteric artery（腸繫膜上動脈）**的右側。**Superior mesenteric vein（腸繫膜上靜脈）**由與**superior mesenteric artery（腸繫膜上動脈）**的名稱和位置相對應的分支形成。在**pancreas（胰臟）**的後方，**superior mesenteric vein（腸繫膜上靜脈）**會合**splenic vein（脾靜脈）**形成**hepatic portal vein（肝門靜脈）**。
+10. 腸繫膜可能包含多達200個**mesenteric lymph nodes（腸繫膜淋巴結）**。沿**superior mesenteric vessels（腸繫膜上血管）**的分支識別一或兩個淋巴結。腸繫膜淋巴管沿**superior mesenteric artery（腸繫膜上動脈）**的分支並引流至位於**superior mesenteric artery（腸繫膜上動脈）**從**abdominal aorta（腹主脈）**發出處附近的**superior mesenteric lymph nodes（腸繫膜上淋巴結）**。可以移除淋巴結以清理解剖區域。
+
+### Small Intestine（小腸）[G 140, 141; L 225, 228; N 262; R 310; C 244]
+
+**Small intestine（小腸）**由**duodenum（十二指腸）**、**jejunum（空腸）**和**ileum（迴腸）**組成。小腸的功能是吸收食物中的營養物質。它有複雜的粘膜褶皺增加表面積，豐富的血液供應運輸吸收的營養物質。**Jejunum（空腸）**（約占小腸的五分之二）和**ileum（迴腸）**（遠端的五分之三）將一起研究，因為兩者之間的過渡不明顯。
+
+**解剖步驟**：
+
+1. 將小腸移到腹部的左側並向上追蹤空腸 [G 140, 141; L 225, 228; N 262; R 310; C 244]。找到**duodenojejunal junction（十二指腸空腸連接處）**。
+2. 注意**suspensory ligament of the duodenum（十二指腸懸韌帶）**是一個纖維肌肉韌帶，起源於**diaphragm（橫膈）**的右腳並將小腸錨定在**duodenojejunal junction（十二指腸空腸連接處）**。**Suspensory ligament（懸韌帶）**經過**pancreas（胰臟）**的後方，此時無法看到。
+3. 觸摸小腸並注意空腸的壁比迴腸的壁厚。
+4. 識別迴腸的終點，它在**ileocecal junction（迴盲連接處）**排入盲腸。
+5. 確認腸繫膜的根從**duodenojejunal junction（十二指腸空腸連接處）**到**ileocecal junction（迴盲連接處）**橫越後腹壁。腸繫膜的根約15公分長。腸繫膜的腸道附著處幾乎是空腸和迴腸總長度的六倍。
+
+> **解剖複習**：
+> 1. 將小腸恢復到正確的解剖位置。
+> 2. 複習空腸和迴腸相對於腹部象限系統的位置。
+> 3. 複習空腸和迴腸與周圍結構的關係。
+> 4. 用插圖和解剖標本追蹤**superior mesenteric artery（腸繫膜上動脈）**的分支。
+> 5. 用胚胎學教科書複習中腸的所有衍生結構。
+
+---
+
+## 腸繫膜下動靜脈與大腸（Inferior Mesenteric Artery and Large Intestine）
+
+**解剖概覽：**
+
+**Inferior mesenteric artery（腸繫膜下動脈）**在L3椎骨水平起源於**abdominal aorta（腹主脈）**的前表面。本解剖的目的是演示**inferior mesenteric artery（腸繫膜下動脈）**的供應範圍（橫結腸的左三分之一、降結腸、乙狀結腸和大部直腸）。除了穿過**sigmoid mesocolon（乙狀結腸繫膜）**供應乙狀結腸的分支外，**inferior mesenteric artery（腸繫膜下動脈）**及其分支位於腹膜後。
+
+**解剖步驟：**
+
+### Inferior Mesenteric Artery（腸繫膜下動脈）[G 146; L 226; N 288; R 305; C 292]
+
+1. 將橫結腸和大網膜向上越過肋緣反轉以暴露**transverse mesocolon（橫結腸繫膜）**的後表面。
+2. 將小腸移到右側，使從**left colic flexure（左結腸曲）**到**sigmoid colon（乙狀結腸）**可見。
+3. **Inferior mesenteric artery（腸繫膜下動脈）**的起源位於**duodenum（十二指腸）**第三部分的後方。如果找不到，從**sigmoid mesocolon（乙狀結腸繫膜）**中找到其一個分支並將該分支追蹤回主血管。然後繼續周圍分支的解剖。
+
+> **解剖注意**：左側輸尿管可能被誤認為**inferior mesenteric artery（腸繫膜下動脈）**或其分支之一。**Inferior mesenteric artery（腸繫膜下動脈）**和**vein（靜脈）**以及**ureter（輸尿管）**都位於腹膜後空間，但血管從前方經過輸尿管。
+
+4. 用探針清理**inferior mesenteric artery（腸繫膜下動脈）**的分支 [G 146; L 226; N 288; R 305; C 292]：
+    - **Left colic artery（左結腸脈）**：供應降結腸和橫結腸的左三分之一。**Left colic artery（左結腸脈）**與**superior mesenteric artery（腸繫膜上動脈）**的中結腸支和第一乙狀結腸脈的升支吻合。
+    - **Sigmoid arteries（乙狀結腸脈）**：三或四條供應乙狀結腸的動脈。**Sigmoid arteries（乙狀結腸脈）**穿過**sigmoid mesocolon（乙狀結腸繫膜）**。注意它們形成類似腸動脈的弓。
+    - **Superior rectal artery（直腸上脈）**：供應直腸的近端部分。**Superior rectal artery（直腸上脈）**分為右支和左支。**Superior rectal artery（直腸上脈）**的右支和左支沿直腸兩側下降進入盆腔。此時不要將它們追蹤進入盆腔。
+5. 觀察**inferior mesenteric vein（腸繫膜下靜脈）**的支流。**Inferior mesenteric vein（腸繫膜下靜脈）**的支流與**inferior mesenteric artery（腸繫膜下動脈）**的分支相對應。**Inferior mesenteric vein（腸繫膜下靜脈）**是**hepatic portal vein（肝門靜脈）**的支流。**Inferior mesenteric vein（腸繫膜下靜脈）**在左側上行於**inferior mesenteric artery（腸繫膜下動脈）**的左側，經過**pancreas（胰臟）**的後方，並通常會合**splenic vein（脾靜脈）**或（較少見）**superior mesenteric vein（腸繫膜上靜脈）**。
+6. 降結腸和乙狀結腸由伴隨**inferior mesenteric artery（腸繫膜下動脈）**分支的淋巴管引流。這些淋巴通道引流至位於**inferior mesenteric artery（腸繫膜下動脈）**從**abdominal aorta（腹主脈）**發出處周圍的**inferior mesenteric nodes（腸繫膜下淋巴結）**。
+
+### Large Intestine（大腸）[G 140, 141; L 224, 226; N 276; R 307; C 288, 290]
+
+**Large intestine（大腸）**由**cecum（盲腸）**（帶附著的**appendix（闌尾）**）、**colon（結腸）**（升、橫、降和乙狀）、**rectum（直腸）**和**anal canal（肛管）**組成。吸收糞便中的水分是大腸的主要功能。大腸相對光滑的粘膜表面非常適合這個功能，因為光滑的表面不太可能阻礙逐漸變硬的糞便物質的移動。
+
+**解剖步驟**：
+
+1. 將小腸和橫結腸恢復到正確的解剖位置。
+2. 在右下位象限，識別**cecum（盲腸）**（L. caecus, blind）。其腸繫膜的長度和活動程度因個體差異而有很大變化。
+3. **Appendix（闌尾）**（L. appendere, to hang on）附著於**cecum（盲腸）**的末端。**Appendix（闌尾）**可能處於數個位置之一。回想**appendix（闌尾）**懸掛在稱為**mesoappendix（闌尾繫膜）**的腸繫膜上，**appendicular artery（闌尾脈）**位於**mesoappendix（闌尾繫膜）**內。
+4. 識別**ascending colon（升結腸）**。**Ascending colon（升結腸）**從盲腸延伸到**right colic flexure（右結腸曲）**。
+5. 識別**transverse colon（橫結腸）**。**Transverse colon（橫結腸）**從**right colic flexure（右結腸曲）**延伸到**left colic flexure（左結腸曲）**。觀察**left colic flexure（左結腸曲）**比**right colic flexure（右結腸曲）**位於更上的水平。在兩個曲之間，**transverse colon（橫結腸）**可以自由移動。
+6. 觀察**descending colon（降結腸）**。它是次發性腹膜後器官。**Descending colon（降結腸）**從**left colic flexure（左結腸曲）**下降至左下位象限。
+7. 在左下位象限，找到**sigmoid colon（乙狀結腸）**。觀察**sigmoid colon（乙狀結腸）**有腸繫膜（**sigmoid mesocolon（乙狀結腸繫膜）**）並且可移動。**Sigmoid colon（乙狀結腸）**在第三骶椎水平進入盆腔，在那裡與**rectum（直腸）**延續。
+8. **Rectum（直腸）**完全位於盆腔內，將與盆腔臟器一起解剖。
+9. 觀察大腸的外部表面並注意三個區別於小腸的特徵 [G 140, 141; L 224, 226; N 276; R 307; C 288, 290]：
+    - **Teniae coli（結腸帶）**：三條狹窄的縱向肌肉帶。
+    - **Haustra（結腸袋）**：結腸壁的向外突起。
+    - **Omental appendices (epiploic appendages)（腸脂垂）**：被臟層腹膜覆蓋的小脂肪堆積。
+10. 複習支配大腸的**superior mesenteric artery（腸繫膜上動脈）**和**inferior mesenteric artery（腸繫膜下動脈）**的分支 [G 149; L 226; N 288; R 308; C 292, 294]。
+
+> **解剖複習**：
+> 1. 複習大腸每個部分相對於腹部象限系統的位置。
+> 2. 複習大腸每個部分與周圍結構的關係。
+> 3. 用插圖和解剖標本追蹤**inferior mesenteric artery（腸繫膜下動脈）**的分支。
+> 4. 用胚胎學教科書複習後腸的所有衍生結構。
+
+---
+
+## 十二指腸、胰臟與肝門靜脈（Duodenum, Pancreas, and Hepatic Portal Vein）
+
+**解剖概覽：**
+
+**Duodenum（十二指腸）**是胃和空腸之間的小腸部分。**Duodenum（十二指腸）**是肝臟和胰臟導管的引流點。**Pancreas（胰臟）**位於**duodenum（十二指腸）**的彎內。**Pancreas（胰臟）**既是內分泌器官也是外分泌器官，有豐富的血液供應，來自**celiac trunk（腹腔乾）**和**superior mesenteric artery（腸繫膜上動脈）**。
+
+**解剖步驟：**
+
+### Duodenum（十二指腸）[G 137; L 238; N 270; R 316; C 282]
+
+1. 將橫結腸和大網膜向上越過肋緣反轉。
+2. 用鈍性解剖清除**duodenum（十二指腸）**和**pancreas（胰臟）**前表面的結締組織和腹膜。參考解剖圖並注意在清除時您正在移除**transverse mesocolon（橫結腸繫膜）**的殘餘。
+3. 觀察**duodenum（十二指腸）**的四個部分 [G 137; L 238; N 270; R 316; C 282]：
+    - **Superior (first) part（上部/第一部分）**：在L1椎骨水平。上部十二指腸位於橫平面，**hepatoduodenal ligament（肝十二指腸韌帶）**附著於它。它大部分是腹膜內的並有稱為**ampulla（壺腹）**的擴張初始部分。臨床醫生通常稱呼**ampulla（壺腹）**為**duodenal cap（十二指腸帽）**或**duodenal bulb（十二指腸球部）**。
+    - **Descending (second) part（降部/第二部分）**：在L2椎骨水平。降部十二指腸位於中線的右側，前方是右腎門、右腎血管和下腔靜脈。它是腹膜後的。膽管和胰管排入降部十二指腸。
+    - **Horizontal (third) part（水平部/第三部分）**：在L3椎骨水平。水平部十二指腸位於下腔靜脈和腹主動脈的前方。它是腹膜後的。**Superior mesenteric vessels（腸繫膜上血管）**從前方越過水平部十二指腸，**inferior mesenteric vessels（腸繫膜下血管）**從後方越過。
+    - **Ascending (fourth) part（升部/第四部分）**：上升到L2椎骨水平。升部十二指腸在其大部分長度中是腹膜後的。升部十二指腸向前轉彎在**duodenojejunal junction（十二指腸空腸連接處）**與空腸連接。
+
+### Pancreas（胰臟）[G 137; L 239; N 281; R 317; C 283]
+
+1. 識別位於**duodenum（十二指腸）**彎內的**pancreas（胰臟）**。注意它是一個次發性腹膜後器官，位於中線並靠在L1至L3的椎骨上。
+2. 識別**pancreas（胰臟）**的部分 [G 137; L 239; N 281; R 317; C 283]：
+    - **Head（頭）**：位於**duodenum（十二指腸）**的彎內。**Uncinate process（鉤突）**是從頭的下緣突出的一个小突，越過**superior mesenteric vessels（腸繫膜上血管）**的後方。**Inferior vena cava（下腔靜脈）**位於**pancreas（胰臟）**頭的後方。
+    - **Neck（頸）**：一段短短的部分，位於**superior mesenteric vessels（腸繫膜上血管）**的前方，連接胰臟的頭和體。
+    - **Body（體）**：從右到左延伸並稍微向上，越過後腹壁。**Abdominal aorta（腹主動脈）**位於**pancreas（胰臟）**體的後方。
+    - **Tail（尾）**：腺體的左側狹窄末端。**Tail（尾）**的尖端位於**splenorenal ligament（脾腎韌帶）**內並接觸**spleen（脾臟）**的**hilum（脾門）**。
+3. 用探針解剖**pancreas（胰臟）**頭的前表面並找到**main pancreatic duct（胰主管）**。追蹤**main pancreatic duct（胰主管）**穿過頸部進入體部。**Accessory pancreatic duct（副胰管）**連接到**main pancreatic duct（胰主管）**的上方。
+4. 觀察**main pancreatic duct（胰主管）**在**duodenum（十二指腸）**降部的左側附近與**bile duct（膽管）**匯合。
+5. 識別**posterior and anterior superior pancreaticoduodenal arteries（胰十二指腸上後和上前列）** [G 139; L 239; N 283; R 316; C 282]。兩者都是**gastroduodenal artery（胃十二指腸脈）**的分支。
+6. **Inferior pancreaticoduodenal artery（胰十二指腸下動脈）**通常是**superior mesenteric artery（腸繫膜上動脈）**的最近端分支，儘管其起源是可變的 [G 139; L 239; N 283; R 316; C 282]。**Inferior pancreaticoduodenal artery（胰十二指腸下動脈）**進入**pancreas（胰臟）**頭的下部。
+7. 返回**celiac trunk（腹腔乾）**並沿**pancreas（胰臟）**上緣向左追蹤**splenic artery（脾脈）** [G 139; L 239; N 283; R 316; C 282]。多達10條小分支從**splenic artery（脾脈）**供應**pancreas（胰臟）**的體和尾。只識別兩條：
+    - **Dorsal pancreatic artery（胰背脈）**：進入**pancreas（胰臟）**的頸部。
+    - **Greater pancreatic (pancreatica magna) artery（胰大脈）**：在頸部和尾部之間約一半處進入胰臟。
+8. 追蹤**splenic artery（脾脈）**到**spleen（脾臟）**的**hilum（脾門）**並識別**left gastro-omental artery（左胃網膜脈）**。通過在大網膜中追蹤**left gastro-omental artery（左胃網膜脈）**到其與**right gastro-omental artery（右胃網膜脈）**的吻合以完成其解剖。
+9. 胰臟的靜脈與動脈相對應。它們引流至**superior mesenteric（腸繫膜上）**和**splenic veins（脾靜脈）**，最終是**hepatic portal vein（肝門靜脈）**的支流。
+
+### Hepatic Portal Vein（肝門靜脈）[G 164; L 240; N 291; R 303; C 253]
+
+用插圖複習**hepatic portal venous system（肝門靜脈系統）**。**Superior mesenteric vein（腸繫膜上靜脈）**和**splenic vein（脾靜脈）**在**pancreas（胰臟）**頸的後方會合形成**hepatic portal vein（肝門靜脈）**。**Hepatic portal vein（肝門靜脈）**將腹腔胃腸道部分、脾臟和胰臟的靜脈血攜帶至肝臟。
+
+**解剖步驟**：
+
+1. **Splenic vein（脾靜脈）**在**pancreas（胰臟）**的後方走行，低於**splenic artery（脾脈）**。用探針在**pancreas（胰臟）**體的後方解剖並找到**splenic vein（脾靜脈）**。
+2. 向右追蹤**splenic vein（脾靜脈）**，它在那裡與**superior mesenteric vein（腸繫膜上靜脈）**會合。這是**hepatic portal vein（肝門靜脈）**的起源。回想**hepatic portal vein（肝門靜脈）**在**hepatoduodenal ligament（肝十二指腸韌帶）**中上行至**porta hepatis（肝門）**。
+3. 返回**inferior mesenteric vein（腸繫膜下靜脈）**的分佈區域。找到它並向上追蹤。**Inferior mesenteric vein（腸繫膜下靜脈）**通常會合**splenic vein（脾靜脈）**，但它可能會合**superior mesenteric vein（腸繫膜上靜脈）**或**superior mesenteric（腸繫膜上）**和**splenic veins（脾靜脈）**的連接處。
+4. 用教科書或插圖複習**portal-systemic (portal-caval) anastomoses（門體吻合）**：
+    - **Gastroesophageal（胃食道的）**：left gastric vein（左胃靜脈）/esophageal veins（食道靜脈）/azygos vein（奇靜脈）。
+    - **Anorectal（肛門直腸的）**：superior rectal vein（直腸上靜脈）/middle and inferior rectal veins（直腸中和下靜脈）。
+    - **Paraumbilical（臍旁的）**：paraumbilical veins（臍旁靜脈）/superficial epigastric veins（淺腹壁靜脈）。
+    - **Retroperitoneal（腹膜後的）**：colic veins（結腸靜脈）/retroperitoneal veins（腹膜後靜脈）。
+
+> **臨床重點**：**門靜脈高壓（Portal Hypertension）**
+> 肝門靜脈系統的靜脈沒有瓣膜。當**hepatic portal vein（肝門靜脈）**阻塞時，肝門靜脈系統及其支流中的血壓升高（門靜脈高壓）。門靜脈高壓導致痔瘡和胃和食道靜脈曲張。食道胃靜脈曲張破裂出血是門靜脈高壓的危險並發症。
+
+> **解剖複習**：
+> 1. 複習十二指腸每個部分與周圍結構的關係。
+> 2. 複習腹腔乾和腸繫膜上動脈的分支。
+> 3. 用插圖和解剖標本重建胰臟和十二指腸的血液供應。
+> 4. 複習肝門靜脈的形成和引流範圍。
+> 5. 追蹤一滴血從小腸到下腔靜脈，命名沿途遇到的所有靜脈。從降結腸開始重複這個練習。
+> 6. 用胚胎學教科書複習肝臟、胰臟和十二指腸的發育。
+
+---
+
+## 胃腸道的移除（Removal of the Gastrointestinal Tract）
+
+**解剖概覽：**
+
+胃腸道各部分的內部特徵和後腹壁最好在胃腸道從腹腔移除後進行解剖。
+
+**解剖步驟**：
+
+1. 在靠近直腸的乙狀結腸遠端，用兩條繩子在相距4公分處結紮。用剪刀在兩繩之間切斷乙狀結腸。同時切斷**superior rectal artery（直腸上脈）**。
+2. 在橫膈下方，用一條繩子在食道周圍結紮並在繩上方切斷食道。同時在相同水平切斷**vagal nerve trunks（迷走神經幹）**。
+3. 用剪刀在主動脈附近切斷**celiac trunk（腹腔乾）**，不留殘株。
+4. 用剪刀在主動脈附近切斷**superior mesenteric artery（腸繫膜上動脈）**，留下1公分的殘株。
+5. 用剪刀在主動脈附近切斷**inferior mesenteric artery（腸繫膜下動脈）**，留下1公分的殘株。
+6. 將胃從可能仍附著於後腹壁的任何腹膜附著物遊離。
+7. 抓住脾臟並輕輕向前內側拉。將手指插入脾臟的後方並小心地將脾血管、胰尾和胰體從後腹壁遊離。
+8. 用剪刀在**duodenojejunal junction（十二指腸空腸連接處）**附近切斷**suspensory ligament of the duodenum（十二指腸懸韌帶）**。
+9. 將手指插入十二指腸的後方並將它和胰頭從後腹壁遊離。
+10. 用剪刀在外側切斷覆蓋升結腸的壁層腹膜並用手指將升結腸從後腹壁遊離。將升結腸向中線滾動並用手指鬆開其血管與後腹壁的連接。
+11. 切斷覆蓋降結腸外側的壁層腹膜並用手指將降結腸從後腹壁遊離。將降結腸向中線滾動並用手指鬆開其血管與後腹壁的連接。
+12. 胃腸道、肝臟、胰臟和脾臟現在應該沒有附著物了。將它們從腹腔移除。支撐肝臟並小心不要扭轉或撕裂**hepatoduodenal ligament（肝十二指腸韌帶）**中的結構。
+13. 在解剖台上將腹部臟器排列成解剖位置並從前方研究各部分：
+    - 追蹤**celiac trunk（腹腔乾）**、**superior mesenteric artery（腸繫膜上動脈）**和**inferior mesenteric artery（腸繫膜下動脈）**的分支到它們的分佈區域。
+    - 觀察**hepatic portal vein（肝門靜脈）**的形成和終止。
+    - 注意動脈和靜脈分支模式之間的差異。
+    - 翻轉臟器並從後方重複練習。
+14. 為檢查它們的內部特徵，將臟器帶到水槽並在水槽中執行步驟15-19。
+15. 用剪刀沿前表面打開**stomach（胃）**。將切口延伸到**duodenum（十二指腸）**的第一部分。沖洗粘膜並觀察以下特徵 [G 133; L 231; N 268; R 294; C 255]：
+    - **Gastric folds (rugae)（胃褶皺）**
+    - **Pyloric antrum（幽門竇）**
+    - **Pyloric canal（幽門管）**
+    - **Pyloric sphincter（幽門括約肌）**
+    - **Pyloric orifice（幽門口）**
+    - **Ampulla of duodenum（十二指腸壺腹）**
+16. 用剪刀將縱向切口延伸到**duodenum（十二指腸）**的前壁。在**duodenum（十二指腸）**的第二部分，識別以下 [G 137; L 238; N 271; R 297; C 283]：
+    - **Circular folds (plicae circulares)（環形褶皺）**
+    - **Major (greater) duodenal papilla（十二指腸大乳頭）**：第二部分十二指腸後內側壁的粘膜突起。**Major duodenal papilla（十二指腸大乳頭）**是**main pancreatic duct（胰主管）**和**bile duct（膽管）**的共同開口。
+    - **Minor (lesser) duodenal papilla（十二指腸小乳頭）**：**Accessory pancreatic duct（副胰管）**的引流部位。如果存在，它約在**major duodenal papilla（十二指腸大乳頭）**上方2公分處。
+17. 用剪刀在近端空腸做一個約5公分的縱切口，另一個在遠端迴腸。沖洗粘膜並比較特徵。注意環形褶皺在空腸比在迴腸更大且更密集 [G 140; L 228; N 272; R 310; C 244]。
+18. 用剪刀在盲腸前壁做一個約7.5公分的切口。沖洗粘膜並識別以下 [G 143; L 227; N 274; R 310; C 301]：
+    - **Ileocecal orifice（迴盲口）**
+    - **Superior and inferior lips of the ileocecal valve（迴盲瓣的上下唇）**
+    - **Opening of the appendix（闌尾口）**
+19. 在橫結腸的前表面做一個約5公分的切口。注意相鄰結腸袋之間的**semilunar folds（半月褶皺）** [G 141; L 228; N 276; R 307; C 304]。觀察大腸的粘膜與胃腸道其他部分相比相對光滑。將此發現與所解剖器官的功能相關聯。
+20. 標本可以儲存在大塑膠袋中或腹腔內。經常用抑制黴菌的溶液濕潤這些標本。
+
+> **解剖複習**：
+> 1. 複習胃腸道粘膜的特徵。
+> 2. 比較近端和遠端小腸中環形褶皺的數量和複雜性。
+> 3. 回想胃腸道中瓣膜的位置。
+
+---
+
+## 後腹壁臟器（Posterior Abdominal Viscera）
+
+**解剖概覽：**
+
+後腹壁臟器位於稱為**retroperitoneal space（腹膜後空間）**的區域。**Retroperitoneal space（腹膜後空間）**不是一個真正的空間。它是後壁層腹膜與後腹壁的肌肉和骨骼之間的身體部分 [G 175; L 243; N 317; R 324; C 320]。**Retroperitoneal space（腹膜後空間）**包含**kidneys（腎臟）**、**ureters（輸尿管）**、**suprarenal glands（腎上腺）**、**aorta（主動脈）**、**inferior vena cava（下腔靜脈）**和**sympathetic trunks（交感幹）**的腹腔部分。
+
+**解剖步驟**：
+
+1. 用海綿或紙巾清潔後腹壁。
+2. 觸摸**kidneys（腎臟）**和**suprarenal (adrenal) glands（腎上腺）**。它們位於椎柱外側，在T12和L3之間的椎骨水平 [G 167; L 242; N 308; R 331]。
+3. 觸摸**abdominal aorta（腹主動脈）**。
+4. 在**abdominal aorta（腹主動脈）**的右側觸摸**inferior vena cava（下腔靜脈）**。
+5. 清除後腹壁上任何剩餘的壁層腹膜。
+6. 如果您正在解剖女性大體，請跳至步驟10。
+7. 在**deep inguinal ring（深腹股溝環）**處識別**testicular artery and vein（睪丸動靜脈）**。**Testicular artery（睪丸動脈）**非常細小脆弱。向上追蹤**testicular vessels（睪丸血管）**並注意它們從前方越過**ureter（輸尿管）**。在追蹤血管時不要損壞**ureter（輸尿管）**。
+8. 左右**testicular arteries（睪丸動脈）**直接從L2椎骨水平附近的主動脈發出。此起源低於**renal arteries（腎動脈）**的起源。
+9. 觀察左**testicular vein（睪丸靜脈）**引流至**left renal vein（左腎靜脈）**。右**testicular vein（睪丸靜脈）**直接引流至**inferior vena cava（下腔靜脈）**。
+
+> **臨床重點**：**睪丸靜脈曲張（Testicular Varicocele）**
+> 當睪丸靜脈曲張发生时，**pampiniform plexus（蔓狀叢）**的靜脈因這些血管的靜脈回流受限而充血。這種情況在左側更常見，因為左**testicular vein（睪丸靜脈）**引流至**left renal vein（左腎靜脈）**，而**left renal vein（左腎靜脈）**在越過**superior mesenteric artery（腸繫膜上動脈）**下方時受到壓迫。
+
+10. 在女性大體中，識別**ovarian vessels（卵巢血管）**。它們從主動脈的起源與男性中**testicular vessels（睪丸血管）**的起源相當。注意**ovarian vessels（卵巢血管）**從前方越過**ureter（輸尿管）**。
+11. 在下方，**ovarian vessels（卵巢血管）**終止於盆腔。向下追蹤**ovarian vessels（卵巢血管）**直至它們越過**external iliac vessels（髂外血管）**。此時不要將它們追蹤進入盆腔。
+
+### Kidneys（腎臟）[G 167; L 243; N 308; R 331; C 308]
+
+腎臟在腹膜後的位置很好地展示在橫切面上 [G 167; L 243; N 308; R 331; C 308]。腎臟通過其體內位置以及脂肪的緩衝層得到良好保護。
+
+**解剖步驟**：
+
+1. 注意**kidneys（腎臟）**位於後腹壁上。腎臟的前表面朝向前外側。
+2. 用手指撕裂**renal fascia（腎筋膜）**並分離**kidney（腎臟）**與**perirenal fat（腎周脂肪）**。
+3. 觀察**kidney（腎臟）**的上極與**suprarenal gland（腎上腺）**之間被薄層**renal fascia（腎筋膜）**分開。小心地將手指插入**kidney（腎臟）**和**suprarenal gland（腎上腺）**之間並分離兩個器官。小心不要將**suprarenal gland（腎上腺）**與脂肪一起移除。
+4. 注意腎臟的大小和形狀。
+5. 識別**left renal vein（左腎靜脈）**。用探針從左腎追蹤**left renal vein（左腎靜脈）**越過中線至**inferior vena cava（下腔靜脈）**。觀察它位於兩條**renal arteries（腎動脈）**和主動脈的前方。
+6. 識別並清理**left renal vein（左腎靜脈）**的支流：
+    - **Left testicular (or ovarian) vein（左睪丸（或卵巢）靜脈）**
+    - **Left suprarenal vein（左腎上腺靜脈）**
+7. 在靠近**inferior vena cava（下腔靜脈）**處切斷**left renal vein（左腎靜脈）**。將**left renal vein（左腎靜脈）**向左反射。不要將**testicular (or ovarian) vein（睪丸（或卵巢）靜脈）**或**left suprarenal vein（左腎上腺靜脈）**從**left renal vein（左腎靜脈）**上切斷。
+8. 識別位於**left renal vein（左腎靜脈）**後方的**left renal artery（左腎動脈）**。追蹤**left renal artery（左腎動脈）**至**kidney（腎臟）**的**hilum（腎門）**。**Renal artery（腎動脈）**通常在進入腎臟之前分為數條**segmental arteries（段動脈）**。可能有**accessory renal arteries（腎副動脈）**。
+9. **Left renal artery（左腎動脈）**的分支包括：
+    - **Inferior suprarenal artery（下腎上腺動脈）**：至左**suprarenal gland（腎上腺）**
+    - **Ureteric branch（輸尿管支）**：至左**ureter（輸尿管）**
+10. 以**left renal artery（左腎動脈）**為鉸鏈，將左腎向右翻轉。觀察左腎的後表面並識別**renal pelvis（腎盂）**及其向下的延續——**ureter（輸尿管）**。
+11. 用鈍性解剖向下追蹤**ureter（輸尿管）**。觀察**ureter（輸尿管）**的腹部部分在**testicular (or ovarian) vessels（睪丸（或卵巢）血管）**的後方走行並越過**psoas major muscle（腰大肌）**的前表面。在胃腸道被移除之前，左**ureter（輸尿管）**在**inferior mesenteric artery（腸繫膜下動脈）**分支的後方通過。**Ureter（輸尿管）**的盆腔部分將與盆腔臟器一起解剖。
+12. 將左腎恢復到正確的解剖位置。
+13. 清理相對較短的**right renal vein（右腎靜脈）**。注意它沒有支流。
+14. 為暴露**right renal artery（右腎動脈）**，將**inferior vena cava（下腔靜脈）**向下並稍微向右反射。觀察**right renal artery（右腎動脈）**比左腎動脈長。識別**right renal artery（右腎動脈）**的分支：
+    - **Inferior suprarenal artery（下腎上腺動脈）**：至右**suprarenal gland（腎上腺）**
+    - **Ureteric branch（輸尿管支）**
+15. **Right renal pelvis（右腎盂）**位於**right renal artery（右腎動脈）**的後方。從**right renal pelvis（右腎盂）**向下追蹤**right ureter（右輸尿管）**並觀察**ureter（輸尿管）**經過**right testicular (ovarian) vessels（右睪丸（卵巢）血管）**的後方。
+16. 用插圖複習每個腎臟的關係 [G 166; L 241; N 308; R 318; C 308]：
+    - **Suprarenal gland（腎上腺）**位於腎臟的上方。
+    - 通過腹膜，右腎與右結腸曲、肝臟的臟面和十二指腸的第二部分接觸。
+    - 通過腹膜，左腎與胰尾、左結腸曲、胃和脾臟接觸。
+    - **Hilum（腎門）**朝向前內側，側緣朝向後外側。
+17. 沿左腎的外側緣縱向將其分為前半和後半。像翻書一樣用**renal pelvis（腎盂）**作為鉸鏈打開腎臟的兩半。
+18. 識別 [G 170; L 244; N 311; R 326; C 312]：
+    - **Renal capsule（腎被膜）**：緊密附著於腎臟表面的纖維被膜。
+    - **Renal cortex（腎皮質）**：腎臟的外層（約占其深度的三分之一）。
+    - **Renal medulla（腎髓質）**：腎臟的內層（約占其深度的三分之二），由以下組成：
+        - **Renal pyramids（腎錐體）**
+        - **Renal columns（腎柱）**
+    - **Renal sinus（腎竇）**：腎臟內的空間，占據有**renal pelvis（腎盂）**、**calices（腎盞）**、血管、神經和脂肪。
+    - **Renal papilla（腎乳頭）**：腎錐體的尖端，突出進入**minor calyx（小腎盞）**。
+    - **Minor calyx（小腎盞）**：杯狀室，是腎外導管系統的開始。數個小腎盞合並形成**major calyx（大腎盞）**。
+    - **Major calyx（大腎盞）**：每個腎臟有兩個或三個，合並形成**renal pelvis（腎盂）**。
+    - **Renal pelvis（腎盂）**：輸尿管末端在腎臟內的漏斗狀開始，在**renal hilum（腎門）**從腎竇伸出。
+    - **Ureter（輸尿管）**：攜帶尿液從腎臟到膀胱的肌肉導管。
+
+> **臨床重點**：**腎結石（Kidney Stones）**
+> 腎結石（**renal calculi（腎結石）**）可能形成於腎盞和腎盂中。小腎結石可能自動通過輸尿管進入膀胱。較大的腎結石可能停留在輸尿管的三個自然狹窄處之一：（1）腎盂變窄形成輸尿管處；（2）輸尿管越過骨盆緣處；（3）輸尿管進入膀胱處。
+
+### Suprarenal Glands（腎上腺）[G 167; L 243, 244; N 310, 322; R 326; C 309]
+
+**Suprarenal (adrenal) glands（腎上腺）**脆弱且容易被撕裂，因此必須輕柔地解剖。它們與腎臟的上極密切相鄰並位於**renal fascia（腎筋膜）**的自己的隔室內 [G 167; L 243, 244; N 310, 322; R 326; C 309]。**Suprarenal glands（腎上腺）**是內分泌腺，因此有豐富的血液供應。
+
+**解剖步驟**：
+
+1. 在**pararenal fat（腎旁脂肪）**中觸摸**suprarenal glands（腎上腺）**。用探針小心地顯露每個腺體的邊界。
+2. 觀察右**suprarenal gland（腎上腺）**呈三角形。部分右**suprarenal gland（腎上腺）**位於**inferior vena cava（下腔靜脈）**的後方。
+3. 觀察左**suprarenal gland（腎上腺）**呈半月形。
+4. 每個**suprarenal gland（腎上腺）**接受多條動脈 [G 167; L 243, 244; N 310, 322; R 326; C 309]。識別：
+    - **Superior suprarenal arteries（上腎上腺動脈）**：從**inferior phrenic artery（膈下動脈）**發出。
+    - **Middle suprarenal artery（中腎上腺動脈）**：從靠近**celiac trunk（腹腔乾）**的主動脈發出。
+    - **Inferior suprarenal artery（下腎上腺動脈）**：從**renal artery（腎動脈）**發出。
+5. 注意左**suprarenal vein（腎上腺靜脈）**排入**left renal vein（左腎靜脈）**。右**suprarenal vein（腎上腺靜脈）**直接排入**inferior vena cava（下腔靜脈）**。
+6. **Suprarenal glands（腎上腺）**接受大量的交感神經纖維。
+
+> **臨床重點**：**腎上腺（Suprarenal Glands）**
+> 腎臟和腎上腺有不同的胚胎起源。如果腎臟在發育過程中未能上升到其正常位置，腎上腺在其正常位置發育，位於**celiac trunk（腹腔乾）**的外側。
+
+### Abdominal Aorta and Inferior Vena Cava（腹主動脈與下腔靜脈）[G 179; L 246; N 308; R 333; C 317]
+
+**解剖步驟**：
+
+1. 用插圖研究**abdominal aorta（腹主動脈）** [G 179; L 246; N 308; R 333; C 317]。**Abdominal aorta（腹主動脈）**在T12椎骨水平開始，作為胸主動脈的延續。它在L4椎骨水平分叉形成兩條**common iliac arteries（髂總動脈）**。
+2. 觀察**abdominal aorta（腹主動脈）**有三種類型的分支：
+    - **Unpaired visceral arteries（不成對的內臟動脈）**：到胃腸道（腹腔乾、腸繫膜上動脈、腸繫膜下動脈）。
+    - **Paired visceral arteries（成對的內臟動脈）**：到三對腹部器官（腎上腺中動脈、腎動脈、睪丸或卵巢動脈）。
+    - **Paired somatic arteries（成對的軀體動脈）**：到腹壁（腰動脈、膈下動脈）。
+3. 不成對的內臟動脈和成對的內臟動脈先前已經解剖過。
+4. 四對**lumbar arteries（腰動脈）**供應後腹壁。在右側至少識別一條腰動脈，它越過腰椎椎體。注意右腰動脈經過**inferior vena cava（下腔靜脈）**的後方。在兩側，腰動脈都經過**psoas major muscle（腰大肌）**的深層。
+5. 識別**inferior phrenic arteries（膈下動脈）**，它們在**diaphragm（橫膈）**的下表面起源於主動脈。這些動脈起源於**aortic hiatus（主動脈裂孔）**附近。回想這些動脈發出**superior suprarenal arteries（上腎上腺動脈）**。
+6. 識別在主動脈分叉處發生的**common iliac arteries（髂總動脈）**。**Common iliac arteries（髂總動脈）**供應血液到盆腔和下肢。
+7. 觀察**inferior vena cava（下腔靜脈）**及其屬支。注意以下：
+    - **Inferior vena cava（下腔靜脈）**在L5椎骨水平由兩條**common iliac veins（髂總靜脈）**會合而開始。
+    - 它在T8椎骨水平穿過橫膈排入**right atrium（右心房）**而終止。
+    - 它沒有來自胃腸道的不成對屬支，因為肝門靜脈系統收集胃腸道的血液並引流至肝臟。**Hepatic veins（肝靜脈）**將肝臟的血液排入**inferior vena cava（下腔靜脈）**。
+    - **Inferior vena cava（下腔靜脈）**確實接受來自成對腹部器官（腎靜脈、腎上腺靜脈、睪丸或卵巢靜脈）的靜脈引流，或者是直接的（右側）或者是間接的（左側）。
+    - **Inferior vena cava（下腔靜脈）**接受來自腹壁的成對靜脈（腰靜脈、膈下靜脈）。
+
+> **解剖複習**：
+> 1. 將腎臟恢復到正確的解剖位置。
+> 2. 用插圖和解剖標本複習每個腎臟與周圍結構的關係。
+> 3. 追蹤一滴尿從腎乳頭通過輸尿管到盆腔水平的路徑。
+> 4. 複習每個腎上腺的形狀、位置、關係、動脈供應和靜脈引流。
+> 5. 複習腹主動脈的分支。
+> 6. 複習下腔靜脈的屬支。
+
+---
+
+## 後腹壁（Posterior Abdominal Wall）
+
+**解剖概覽：**
+
+後腹壁由椎柱、移動椎柱的肌肉、移動下肢的肌肉和橫膈組成。支配腹壁的神經和支配下肢的**lumbar plexus（腰叢）**將與後腹壁一起解剖。
+
+**解剖步驟：**
+
+1. 將腎臟和腎上腺推向中線（不要切斷它們的血管）並用雙手移除後腹壁上剩餘的脂肪和**renal fascia（腎筋膜）**。
+
+### 腰叢（Lumbar Plexus）[G 176; L 245, 250; N 256, 260; R 331, 333; C 314, 317]
+
+**Posterior abdominal wall（後腹壁）**的肌肉：
+
+1. 識別**psoas major muscle（腰大肌）** [G 176; L 245; N 256; R 331; C 314]。**Psoas major muscle（腰大肌）**的近端附著處是腰椎（椎體、椎間盤和橫突）。其遠端附著處是**femur（股骨）**的**lesser trochanter（小轉子）**。**Psoas major muscle（腰大肌）**是下肢和椎柱的強屈肌。
+2. 尋找**psoas minor muscle（腰小肌）**。**Psoas minor muscle（腰小肌）**約在40%的病例中缺失，可能只存在於大體的一側。**Psoas minor muscle（腰小肌）**有長平的腱，越過**psoas major muscle（腰大肌）**的前表面向下。其遠端附著處是**iliopubic eminence（髂恥粗隆）**和**ilium（髂骨）**的**arcuate line（弓狀線）**。
+3. 識別**iliacus muscle（髂肌）** [G 176; L 245; N 256; R 331; C 314]。**Iliacus muscle（髂肌）**的近端附著處是**iliac fossa（髂窩）**。其遠端附著處是**femur（股骨）**的**lesser trochanter（小轉子）**。**Iliacus muscle（髂肌）**屈曲下肢。**Iliacus（髂肌）**和**psoas major（腰大肌）**形成一個功能單元，合稱為**iliopsoas muscle（髂腰肌）**。
+4. 識別**quadratus lumborum muscle（腰方肌）** [G 176; L 245; N 256; R 331; C 314]。**Quadratus lumborum muscle（腰方肌）**的近端附著處是第12肋骨和腰椎的橫突。其遠端附著處是**iliolumbar ligament（髂腰韌帶）**和**iliac crest（髂嵴）**。**Quadratus lumborum muscle（腰方肌）**使椎柱側屈並在呼吸時固定肋籠的下端。
+5. 複習**transversus abdominis muscle（腹橫肌）**。**Transversus abdominis muscle（腹橫肌）**構成後腹壁的外側部分。**Transversus abdominis muscle（腹橫肌）**位於**quadratus lumborum muscle（腰方肌）**的後方。
+6. 用插圖和解剖標本研究腎臟與後腹壁之間的關係 [G 179; L 246; N 308; R 333; C 317]。確認每個腎臟的後表面通過腎脂肪和筋膜與**diaphragm（橫膈）**、**psoas major muscle（腰大肌）**、**quadratus lumborum muscle（腰方肌）**和**transversus abdominis muscle（腹橫肌）**相鄰。右腎的上極接近第12肋骨。左腎的上極略高，接近第11肋骨。
+
+**腰叢的神經** [G 176; L 250; N 260; R 333; C 317]：
+
+後腹壁的神經起源於**spinal nerves T12 to L4（脊神經T12至L4）**的**anterior rami（腹側支）**。**Lumbar plexus（腰叢）**（L1至L4）在**psoas major muscle（腰大肌）**內形成，其分支在從這個肌肉外側緣出來時可見。腰叢只能在移除**psoas major muscle（腰大肌）**後可見。
+
+只在左側解剖腰叢。
+
+1. 識別**genitofemoral nerve（生殖股神經）** [G 176; L 250; N 260; R 333; C 317]。它位於**psoas major muscle（腰大肌）**的前表面。**Genitofemoral nerve（生殖股神經）**在**inguinal ligament（腹股溝韌帶）**上方在**psoas major muscle（腰大肌）**的前表面上分為兩支：
+    - **Genital branch（生殖支）**：穿過**deep inguinal ring（深腹股溝環）**並下行通過腹股溝管。它是支配**cremaster muscle（提睪肌）**的運動神經。
+    - **Femoral branch（股支）**：在**external iliac artery（髂外動脈）**的前表面越過**inguinal ligament（腹股溝韌帶）**。它支配腹股溝韌帶下方內側的小區域的皮膚感覺。
+2. 用鈍性解剖清除**psoas major muscle（腰大肌）**外側的**extraperitoneal fascia（腹膜外筋膜）**。腰叢的分支位於**extraperitoneal fascia（腹膜外筋膜）**中，必須將解剖器械與神經走行平行地移動以避免損壞它們。
+3. 為找到**subcostal nerve（肋下神經）**，觸摸第12肋骨並在其下方約1公分處尋找。
+4. 找到**iliohypogastric nerve（髂腹下神經）**和**ilioinguinal nerve（髂腹股溝神經）**。它們陡峭地越過**quadratus lumborum muscle（腰方肌）**的前表面向下。經常這兩條神經起源於一個共同幹，直到它們到達**transversus abdominis muscle（腹橫肌）**才分開。為確認**ilioinguinal nerve（髂腹股溝神經）**，將其追蹤到**superficial inguinal ring（淺腹股溝環）**。
+5. 識別**lateral cutaneous nerve of the thigh（大腿外側皮神經）** [G 176; L 250; N 260; R 333; C 317]。**Lateral cutaneous nerve of the thigh（大腿外側皮神經）**在**anterior superior iliac spine（前上髂棘）**附近深層越過**inguinal ligament（腹股溝韌帶）**。它支配大腿外側面的皮膚感覺。
+6. 識別**femoral nerve（股神經）** [G 176; L 250; N 260; R 333; C 317]。**Femoral nerve（股神經）**位於**psoas major muscle（腰大肌）**的外側，在**psoas major（腰大肌）**和**iliacus（髂肌）**之間的溝中。**Femoral nerve（股神經）**支配**iliacus muscle（髂肌）**。**Femoral nerve（股神經）**越過**inguinal ligament（腹股溝韌帶）**的深層並提供運動和感覺分支到前大腿。
+7. 為找到**obturator nerve（閉孔神經）**，將手指插入**psoas major muscle（腰大肌）**內側的**extraperitoneal fascia（腹膜外筋膜）**中並平行於肌肉移動手指，在**psoas major muscle（腰大肌）**和**common iliac vessels（髂總血管）**之間創造一個間隙。**Obturator nerve（閉孔神經）**支配大腿內側的運動和感覺神經支配。
+8. 識別**lumbosacral trunk（腰骶幹）**，它位於**obturator nerve（閉孔神經）**的深層 [G 176; L 250; N 260; R 333; C 317]。**Lumbosacral trunk（腰骶幹）**是由L4前支的一半和L5前支的全部形成的大神經。**Lumbosacral trunk（腰骶幹）**進入盆腔與**sacral plexus（骶叢）**連接。
+
+### 交感幹的腹部部分（Abdominal Part of the Sympathetic Trunk）[G 180; L 251; N 260; R 334]
+
+**解剖步驟**：
+
+1. 在腹部的橫切面上研究交感幹的位置 [G 179; L 246; N 308; R 333; C 317]。注意交感幹的腹部部分位於腰椎椎體上，介於**diaphragm（橫膈）**的**crura（腳）**和**psoas major muscle（腰大肌）**之間。
+2. 識別向前從**lumbar sympathetic ganglia（腰交感神經節）**走到**aortic autonomic nerve plexus（主動脈自的神經叢）**的**lumbar splanchnic nerves（腰內臟神經）**。
+3. 識別從交感神經節向後走到腰椎前支的**rami communicantes（交通支）**。注意每條**ramus communicans（交通支）**在**psoas major muscle（腰大肌）**的深層越過椎體的外側表面。下腰區域的**gray rami（灰交通支）**最長，因為交感幹越過腰椎椎體的前外側表面。
+4. 用插圖複習腹部臟器的自的神經支配。
+
+> **解剖複習**：
+> 1. 用解剖標本複習後腹壁每塊肌肉的近端和遠端附著處以及作用。
+> 2. 複習構成前外側腹壁的三塊肌肉（external oblique、internal oblique和transversus abdominis）。
+> 3. 追蹤腰叢每個分支的外周。複習這些神經各自的支配區域。
+> 4. 用解剖圖複習交感幹的腹部部分、腰內臟神經和交通支（灰和白）。
+
+---
+
+## 橫膈（Diaphragm）
+
+**解剖概覽：**
+
+橫膈構成腹腔的頂部和胸腔的底部。它是呼吸的主要肌肉。橫膈有右半和左半（每個**hemidiaphragm（半膈）**）。
+
+**解剖步驟**：
+
+### Diaphragm（橫膈）[G 178; L 245; N 256; R 282; C 314]
+
+1. 用鈍性解剖剝離**diaphragm（橫膈）**腹表面的壁層腹膜和結締組織。
+2. 識別**diaphragm（橫膈）**的部分 [G 178; L 245; N 256; R 282; C 314]：
+    - **Central tendon（中心腱）**：橫膈的腱中心，是所有肌肉部分的遠端附著處。
+    - **Sternal part（胸骨部）**：兩小束肌肉纖維附著於**xiphoid process（劍突）**的後表面。
+    - **Costal part（肋部）**：附著於下六根肋骨及其肋軟骨的肌肉纖維。
+    - **Lumbar part（腰部）**：由左右兩**crura（腳）**和從內側和外側弓狀韌帶發出的肌肉纖維構成。
+3. 識別**right crus（右腳）** [G 178; L 245; N 256; R 282; C 314]。右**crus（右腳）**的近端附著處是L1至L3椎骨的主體。**Esophageal hiatus（食管裂孔）**是右腳上的一個開口。
+4. 識別**left crus（左腳）**。左**crus（左腳）**的近端附著處是L1和L2椎骨的主體。
+5. 識別**arcuate ligaments（弓狀韌帶）** [G 178; L 245; N 256; R 282; C 314]。**Arcuate ligaments（弓狀韌帶）**是作為橫膈部分肌肉纖維近端附著處的筋膜增厚：
+    - **Lateral arcuate ligament（外側弓狀韌帶）**：橋接**quadratus lumborum muscle（腰方肌）**的前表面。
+    - **Medial arcuate ligament（內側弓狀韌帶）**：橋接**psoas major muscle（腰大肌）**的前表面。
+    - **Median arcuate ligament（正中弓狀韌帶）**（不成對）：橋接**aortic hiatus（主動脈裂孔）**處主動脈的前表面。
+6. 橫膈上有三個大開口 [G 178; L 245; N 256; R 282; C 314]。識別：
+    - **Vena caval foramen（腔靜脈孔）**：穿過中心腱（T8椎骨水平）。
+    - **Esophageal hiatus（食管裂孔）**：穿過右腳（T10椎骨水平）。
+    - **Aortic hiatus（主動脈裂孔）**：在橫膈的後方（T12椎骨水平）。
+7. 左右**phrenic nerves（膈神經）**支配橫膈。每條**phrenic nerve（膈神經）**支配橫膈一半（一個半膈）的運動。**Phrenic nerves（膈神經）**支配橫膈腹膜（壁層腹膜）和胸膜（壁層胸膜）表面的大部分感覺神經支配。橫膈周圍部分的胸膜和腹膜覆蓋物接受來自下位肋間神經（T5至T11）和肋下神經的感覺神經纖維。
+
+> **臨床重點**：
+> **Phrenic nerves（膈神經）**起源於頸部脊髓節段C3至C5。因此，橫膈的疼痛放射到肩部區域（鎖骨上神經支配區）。
+> 在高位頸椎脊髓損傷時橫膈麻痹，但在低位頸椎脊髓損傷時倖免。麻痹的半膈不能收縮（下降），因此在胸部X光片上會位於胸腔內高於正常的位置。
+
+**Greater Splanchnic Nerve（內臟大神經）**的解剖步驟：
+
+8. 在胸腔中識別**greater splanchnic nerve（內臟大神經）**並追蹤到橫膈的上表面 [G 180; L 251-253; N 260; R 280, 281; C 314]。
+9. 將探針平行於**greater splanchnic nerve（內臟大神經）**穿過橫膈。注意**greater splanchnic nerve（內臟大神經）**穿透腳進入腹腔。
+10. 觀察**greater splanchnic nerve（內臟大神經）**的主要部分分佈到**celiac ganglia（腹腔神經節）**，其交感軸突將在此處突觸。
+11. 找到**celiac ganglia（腹腔神經節）**。它們位於**celiac trunk（腹腔乾）**從主動脈發出處的左右兩側。**Celiac ganglia（腹腔神經節）**是位於主動脈表面最大的交感神經節。
+12. 用插圖或教科書複習腹部臟器的自的神經支配。
+
+> **解剖複習**：
+> 1. 複習橫膈附著於胸廓骨骼的結構。
+> 2. 追蹤胸主動脈穿過**aortic hiatus（主動脈裂孔）**成為腹主動脈的路徑。
+> 3. 複習食管和迷走神經穿過**esophageal hiatus（食管裂孔）**的路徑。
+> 4. 回想心臟在橫膈上表面的位置並複習**inferior vena cava（下腔靜脈）**的路徑。
+> 5. 研究插圖並觀察**thoracic duct（胸導管）**穿過**aortic hiatus（主動脈裂孔）**，而內臟神經（greater、lesser和least）穿透腳。
+
+---
+
+## Atlas 參考（Atlas References）
+
+> **Atlas 參考：** G = Grant's Atlas, 13th ed., page number | L = LWW Atlas of Anatomy, 1st ed., page number | N = Netter's Atlas, 5th ed., plate number | R = Color Atlas of Anatomy, 7th ed., page number | C = Clemente's Atlas, 6th ed., plate number

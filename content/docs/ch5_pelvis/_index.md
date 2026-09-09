@@ -1,2193 +1,1098 @@
 ---
-title: "Chapter 5: Pelvis and Perineum"
-description: "Grant's Dissector 15th Edition - Pelvis and Perineum"
+title: "第5章：骨盆與會陰"
+description: "Grant's Dissector 第15版 - 骨盆與會陰"
 weight: 5
 ---
 
-# Chapter 5: Pelvis and Perineum
+# 第5章：骨盆與會陰
 
-> **Atlas參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
+> **Atlas 參考：** G = Grant's Atlas，L = LWW Atlas，N = Netter's，R = Color Atlas，C = Clemente's
 
-
-# Grant's Dissector 15th Edition: Pelvis and Perineum
-
-> **Atlas References:** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
-
-
-## The Pelvis And Perineum are in the same vertical plane. In this position, the plane of the pelvic inlet forms an angle of approximately 55° to the
-*horizontal. Grant's Atlas 201 | LWW Atlas 262 | Netter's 336 | Color Atlas 439*
-
-### Anal Triangle
-Dissection Overview
-The perineum is a diamond-shaped area between the
-thighs that is divided for descriptive purposes into two tri- angles (FIG. 5.3). The anal triangle is the posterior part of the perineum and it contains the anal canal and anus. The urogenital triangle is the anterior part of the perineum and contains the urethra and the external genitalia. At the outset
-of dissection, it is important to understand that the pelvic dia-
-phragm separates the pelvic cavity from the perineum (FIG. 5.1).
-The order of dissection will be as follows:  Dissection of the anal triangle will begin with removal of skin from
-the gluteal region and retraction of the gluteus maxi- mus muscle. The nerves and vessels of the ischioanal fossa will be dissected. The fat will be removed from the ischioanal fossa to reveal the inferior surface of the pelvic
-Dissection Instructions
-Skin and Superfi cial Fascia Removal
-**1.** If the lower limb has been dissected previously, reflect the gluteus maximus muscle laterally and
-move ahead to the dissection of the ischioanal fossa.
-If the lower limb has not been dissected, continue
-with step 2.
-**2.** Place the cadaver in the prone position.
-**3.** Refer to FIGURE 5.4.
-**4.** Make an incision that follows the lateral border of the sacrum and the iliac crest from the tip of strengthened by an anterior sacroiliac ligament and a
-posterior sacroiliac ligament (FIG. 5.2A, B). The articula- tion between the ilium and the L5 vertebra is strengthened
-by the iliolumbar ligament.
-Identify the pubic arch. Note that the subpubic  angle
-(angle of the pubic arch) is wider in females than in males.
-*Grant's Atlas 202 | LWW Atlas 262 | Netter's 334 | Color Atlas 436 | Clemente's 326*
-Identify the pelvic inlet (superior pelvic aperture).
-The bony rim of the pelvic inlet is called the pelvic brim. From anterior to posterior, identify the structures
-*that form the pelvic brim: [G 203; L 261; N 335; R 435;*
-- Superior margin of the pubic symphysis
-- Posterior border of the pubic crest
-- Pecten pubis
-- Arcuate line of the ilium
-- Anterior border of the ala (wing) of the sacrum
-- Sacral promontory
-Identify the pelvic outlet. The pelvic outlet is bounded
-*on each side by: Grant's Atlas 206 | LWW Atlas 260 | Netter's 336 | Color Atlas 444 | Clemente's 328*
-- Inferior margin of the pubic symphysis
-- Ischiopubic ramus
-- Ischial tuberosity
-- Sacrotuberous ligament
-- Tip of the coccyx
-The pelvic inlet divides the pelvis into the greater (false) pelvis and lesser (true) pelvis (FIG. 5.1). The greater pelvis
-is situated superior to the pelvic brim and is bounded bi- laterally by the ala of the ilium. The lesser pelvis is located inferior to the pelvic brim. The inferior border of the lesser
-*pelvis is the pelvic diaphragm. Grant's Atlas 200*
-In the erect posture (anatomical position), the anterior superior iliac spines and the anterior aspect of the pubis
-Pubic symphysis
-Labium minus
-Labium majus
-Ischiopubic
-Ischial tuberosity
-Tip of coccyx
-FIGURE 5.3
-Boundaries of the urogenital and anal triangles in the male and female.
-**15.** Retract the gluteus maximus muscle superiorly to broaden the dissection fi eld and expose the fat of
-the ischioanal fossa.
-Ischioanal Fossa
-The ischioanal (ischiorectal) fossa is a wedge-shaped area on either side of the anus. The apex of the wedge
-is directed superiorly and the base is  beneath the skin.
-The ischioanal fossa is fi lled with fat that helps accom- modate the fetus during childbirth or the distended anal canal during the passage of feces. The ischioanal fat is part of the superficial fascia of this region. The goal of this dissection is to remove the fat and identify the nerves and vessels that pass through the ischioanal
-*fossa. Grant's Atlas 265 | LWW Atlas 283 | Netter's 391 | Color Atlas 351 | Clemente's 365*
-**1.** Lateral to the anus, insert closed scissors into the ischioanal fat to a depth of 3 cm. Open the scissors
-in the transverse direction to tear the fat (FIG. 5.6,
-initial cut).
-**2.** Insert your fi nger into this opening and move it back and forth (medial to lateral) to enlarge the
-**3.** Palpate the inferior rectal (anal) nerve and  vessels (FIG. 5.6). Preserve the branches of the  inferior rectal nerve and vessels but use blunt dissection to remove the fat that surrounds them. Dry the area with paper
-towels if  necessary. the coccyx (S) to the midaxillary line (T). If the back has been skinned, this incision has been made
-previously.
-**5.** Make a midline skin incision from S to the poste-
-rior edge of the anus.
-**6.** Make an incision that encircles the anus.
-**7.** Make an incision from the anterior edge of the anus down the medial surface of the thigh to point
-D (about 7.5 cm down the medial surface of the
-**8.** Make a skin incision from D obliquely across the posterior surface of the thigh to point E on the lateral surface of the thigh. Point E should be
-approximately 30 cm inferior to the iliac crest.
-**9.** Make a skin incision along the lateral side of the
-thigh from T to E.
-**10.** Remove the skin from medial to lateral and place it
-in the tissue container.
-**11.** Remove the superficial fascia from the surface of the gluteus maximus muscle and place it in the
-tissue container.
-**12.** Clean the inferior border of the gluteus maximus muscle (FIG. 5.5). Do not save the inferior cluneal nerves, but take care not to cut the fascia lata (deep
-fascia) of the posterior thigh.
-**13.** Use your hands to defi ne the inferior margin of the gluteus maximus muscle and separate it from the
-deeper fat and connective tissue.
-**14.** Use your fi ngers to retract the inferior border of the gluteus maximus muscle and palpate the sacrotuberous ligament. Note that the gluteus maximus muscle is attached to the sacrotuberous
-ligament and also to the sacrum.
-FIGURE 5.4
-Skin incisions.
-Gluteus maximus m.
-Iliac crest aponeurosis covering gluteus
-Ischial tuberosity
-Sacrotuberous
-Projection of:
-Inferior cluneal nerves
-(branches of the posterior cutaneous nerve of the thigh)
-FIGURE 5.5
-The gluteus maximus muscle.
-
-## The Pelvis And Perineum
-**9.** Place gentle traction on the inferior rectal ves- sels and nerve and observe that a ridge is raised in the obturator internus fascia. Carefully cut the obturator fascia along this ridge to open the pudendal canal. The inferior rectal vessels and
-nerve exit the pudendal canal to enter the ischio-
-anal fossa.
-**10.** Use a probe to elevate the contents of the puden-
-dal canal. The pudendal canal contains the pu- dendal nerve and the internal pudendal  artery
-Dissection Follow-up
-**1.** Review the boundaries of the true pelvis and the con- cept that the pelvic diaphragm separates the pelvic
-cavity from the perineum.
-**2.** In the dissected specimen, review the inferior surface of the pelvic diaphragm and understand that this is the
-"roof" of the perineum.
-**3.** Use the dissected specimen to review the lateral and
-medial walls of the ischioanal fossa.
-**4.** Review the external anal sphincter muscle and its blood and nerve supply. Understand that the external
-anal sphincter muscle is skeletal muscle under volun-
-tary control.
-
-### Male External Genitalia
-
-### And Perineum
-Dissection Overview
-If you are dissecting a female cadaver, go to the section entitled "Female External Genitalia and Perineum" located
-on page 147.
-In the embryo, the scrotum forms as an outpouching
-of the anterior abdominal wall, and most layers of the ab- dominal wall are represented in the scrotum (FIG. 5.7). The
-superficial fascia of the scrotum contains no fat. The super- fi cial fascia is represented by dartos fascia, which contains
-smooth muscle fi bers (dartos muscle).
-The order of dissection will be as follows: The scrotum
-will be opened by a vertical cut along its anterior surface.
-The spermatic cord will be followed from the superficial inguinal ring into the scrotum. The testis will be removed
-from the scrotum. The spermatic cord will be dissected.
-The testis will be studied.
-Dissection Instructions
-*Scrotum Grant's Atlas 116 | LWW Atlas 282 | Netter's 367 | Color Atlas 217 | Clemente's 236*
-This dissection corresponds to the dissection of the
-labium majus in female cadavers. Partner with a dissec- tion team that has a female cadaver for the dissection of
-**4.** Use blunt dissection to clean the external anal sphincter muscle (FIG. 5.6). The external anal
-sphincter muscle has three parts:
-- Subcutaneous-encircling the anus (not visible
-in dissection).
-- Superfi cial-anchoring the anus to the perineal
-body and coccyx.
-- Deep-a ring of muscle that is fused with the
-pelvic diaphragm.
-**5.** Note that the inferior rectal nerve innervates the external anal sphincter muscle and the skin around
-**6.** Use blunt dissection to clean the inferior surface of the pelvic diaphragm (medial boundary of the
-ischioanal fossa).
-**7.** Use blunt dissection to clean the fascia of the obturator internus muscle (the lateral boundary
-of the ischioanal fossa).
-**8.** Laterally, observe that the inferior rectal nerve and vessels penetrate the fascia of the obturator
-internus muscle.
-Tip of coccyx
-Initial cut
-Superficial part of external anal
-sphincter m.
-(posterior view)
-Anococcygeal
-Inferior rectal nerve and artery
-Pelvic diaphragm
-(inferior surface)
-Pudendal nerve and internal pudendal artery
-Perineal nerve
-FIGURE 5.6
-Initial incision used to begin the dissection of the
-ischioanal fossa.
-*Spermatic Cord Grant's Atlas 120 | LWW Atlas 288 | Netter's 367 | Color Atlas 343 | Clemente's 237*
-The spermatic cord contains the ductus deferens, tes- ticular vessels, lymphatics, and nerves. The contents of the spermatic cord are surrounded by three fascial layers, the coverings of the spermatic cord, that are derived from layers of the anterior abdominal wall (FIG. 5.7). These coverings are added to the spermatic
-cord as it passes through the inguinal canal.
-**1.** Study an illustration of a transverse section through
-the spermatic cord (FIG. 5.8).
-**2.** Palpate the ductus deferens (vas deferens) with-
-in the spermatic cord. It is hard and cord-like.
-**3.** Use a probe to open the coverings of the sper- matic cord. The three coverings are fi xed to each other at the time of embalming and cannot be separated. The coverings of the spermatic cord are
-(FIGS. 5.7 and 5.8):
-- External spermatic fascia-derived from the
-external oblique muscle.
-- Cremasteric muscle and fascia-derived from
-the internal oblique muscle.
-- Internal spermatic fascia-derived from the
-transversalis fascia.
-**4.** Use a probe to separate the ductus deferens from
-the pampiniform plexus of veins.
-**5.** Observe the artery of the ductus deferens, a small vessel located on the surface of the ductus deferens
-(FIG. 5.8)
-**6.** Follow the ductus deferens superiorly through the
-inguinal canal and toward the deep inguinal ring.
-Note that the ductus deferens passes through the deep inguinal ring lateral to the inferior epigastric
-**7.** Use a probe to separate the testicular artery from the pampiniform plexus of veins. The testicular the external genitalia. You are expected to observe and
-learn the anatomy for both sexes.
-**1.** Inferior to the superficial inguinal ring, insert your fi nger deep to the subcutaneous tissue of the lower anterior abdominal wall and push your fi nger into
-the scrotum.
-**2.** Use scissors to make a cut down the anterior sur- face of the scrotum through the skin, dartos, and
-superficial fascia.
-**3.** Use your fi ngers to free the testis and spermatic
-cord from the scrotum.
-**4.** Observe a band of tissue that anchors the inferior
-pole of the testis to the scrotum. This is the scro- tal ligament (the remnant of the gubernaculum
-*testis). Grant's Atlas 116 | Netter's 367 | Color Atlas 343 | Clemente's 237*
-**5.** Use scissors to cut the scrotal ligament. Use your fi ngers to remove the testis from the scrotum, but
-leave the testis attached to the spermatic cord.
-**6.** Observe that the scrotal septum divides the scro-
-tum into two compartments.
-Extraperitoneal fat
-Transversalis fascia
-Transversus abdominis m.
-Internal oblique m.
-External oblique m.
-Deep inguinal ring formed by transversalis fascia
-Obliterated processus
-Parietal layer of tunica vaginalis
-Visceral layer of tunica vaginalis
-(covering testis and epididymis)
-Internal spermatic fascia
-Cremasteric fascia and muscle
-External spermatic fascia
-Dartos fascia and muscle
-Superficial
-Membranous layer
-Fatty layer
-FIGURE 5.7
-Contributions of the anterior abdominal wall to the
-coverings of the spermatic cord and testis.
-Testicular artery with pampiniform plexus ductus deferens
-External spermatic
-Cremasteric muscle and fascia with genital branch of genitofemoral
-Internal spermatic fascia
-Lymph vessels and autonomic nerve fibers
-Ductus deferens
-FIGURE 5.8
-Transverse section through the spermatic cord.
-
-## The Pelvis And Perineum
-**2.** Use scissors to cut the parietal layer of the  tunica vaginalis along its anterior surface and open it widely. Observe that the visceral layer of the tunica vaginalis covers the anterior, medial, and lateral
-surfaces of the testis, but not its posterior surface.
-**3.** Use a probe to follow the ductus deferens inferiorly until it joins the epididymis. Identify the parts of
-the epididymis (FIG. 5.9):
-- Head-superior expanded part that receives the
-efferent ductules.
-- Body-middle part that is narrower in diameter
-than the head.
-- Tail-inferior part that turns superiorly to join
-the ductus deferens.
-**4.** Use a scalpel to section the testis longitudinally from its superior pole to its inferior pole. Make the cut along its anterior surface. Use the epididymis as a hinge, and open the halves of the testis as you
-would open a book.
-**5.** Note the thickness of the tunica albuginea, which is the fi brous capsule of the testis. Observe the septa that divide the interior of the testis into
-lobules (FIG. 5.9).
-**6.** Use a needle or fi ne-tipped forceps to tease some of
-the seminiferous tubules out of one lobule.
-
-### Clinical Correlation
-
-### Lymphatic Drainage Of The Testis
-Lymphatics from the scrotum drain to the superficial inguinal
-lymph nodes. Infl ammation of the scrotum may cause tender,
-enlarged superficial inguinal lymph nodes.
-In contrast, lymphatics from the testis follow the testicular ves- sels through the inguinal canal and into the abdominal cavity where they drain into lumbar (lateral aortic) lymph nodes and preaortic lymph nodes. Testicular tumors may metastasize to lumbar and
-preaortic lymph nodes, not to superficial inguinal lymph nodes.
-Dissection Follow-up
-**1.** Review the course of the ductus deferens from the
-abdominal wall to the testis.
-**2.** Review the coverings of the spermatic cord and recall the
-layers of the abdominal wall from which they are derived.
-**3.** Use an illustration to trace the route of spermatozoa from their origin in the seminiferous tubule to the
-ejaculatory duct.
-**4.** Visit a dissection table with a female cadaver and complete the Dissection Follow-up that follows the
-dissection of the labium majus (page 147). artery can be distinguished from the veins by its
-slightly thicker wall and its tortuous course.
-**8.** Note that sensory nerve fi bers, autonomic nerve fi bers, and lymphatic vessels accompany the blood vessels in the spermatic cord (FIG. 5.8), but they are
-too small to dissect.
-
-### Clinical Correlation
-The ductus deferens can be surgically interrupted in the supe- rior part of the scrotum (vasectomy). Sperm production in the
-testis continues but the spermatozoa cannot reach the urethra.
-*Testis Grant's Atlas 121 | LWW Atlas 289 | Netter's 370 | Color Atlas 343 | Clemente's 238*
-**1.** The testis is covered by the tunica vaginalis, a
-serous sac that is derived from the parietal peri-
-toneum (FIG. 5.7). The tunica vaginalis has a vis- ceral layer and a parietal layer (FIG. 5.9). The
-cavity of the tunica vaginalis is only a poten- tial space that contains a very small amount of
-serous fl uid.
-Spermatic cord
-Ductus deferens
-Testicular artery
-Epididymis:
-Testicular vein
-(pampiniform plexus)
-Efferent ductules
-Rete testis
-Seminiferous
-Visceral layer of tunica vaginalis tunica vaginalis
-Parietal layer of tunica vaginalis
-Tunica albuginea
-FIGURE 5.9
-Parts of the testis and epididymis, right testis in lateral view.
-**5.** Reflect the skin fl aps from medial to lateral. Detach the scrotum and skin fl aps along the medial thigh (FIG. 5.10, red dashed lines) and place them in the
-tissue container.
-**6.** If the cadaver has a large amount of fat in the super- fi cial fascia of the medial thighs, remove a portion of the superficial fascia starting at the ischiopubic ramus and extending down the medial thigh about
-7 cm. Stay superficial to the fascia lata (deep fascia of
-the thigh) when removing the superficial fascia.
-*Superfi cial Perineal Pouch [G 265, 261; L 284; N 361;*
-R 350; C 365]
-The superficial perineal fascia has a superficial fatty layer and a deep membranous layer. The superficial fatty layer is continuous with the superficial fatty layer of the lower
-abdominal wall, ischioanal fossa, and thigh. The membra-
-nous layer of the superficial perineal fascia (Colles' fascia) is continuous with the membranous layer of the superficial fascia of the anterior abdominal wall (Scarpa's fascia) and the dartos fascia of the penis and scrotum
-(FIG. 5.11A). The membranous layer of the superficial peri-
-neal fascia is attached to the ischiopubic ramus as far pos- teriorly as the ischial tuberosity and to the posterior edge of the perineal membrane. The membranous layer of the superficial perineal fascia forms the superficial boundary
-of the superficial perineal pouch (space).
-
-### Clinical Correlation
-
-### Superficial Perineal Pouch
-If the urethra is injured in the perineum, urine may escape into the superficial perineal pouch. The urine may spread into the scrotum and penis, and upward into the lower abdominal wall between the membranous layer of the abdominal superficial fascia (Scarpa's fascia) and the aponeurosis of the external oblique muscle (FIG. 5.11B). The urine does not enter the thigh because the membranous layer of the superficial fascia attaches to the fascia lata, ischiopubic ramus, and posterior
-edge of the perineal membrane.
-**1.** The contents of the superficial perineal pouch
-in the male are the (FIG. 5.12A, B):
-- Three pairs of muscles (left and right)
-- Ischiocavernosus
-- Bulbospongiosus
-- Superfi cial transverse perineal
-- Crura of the penis (paired: left and right)
-
-### Male Urogenital Triangle
-Dissection Overview
-The order of dissection of the male urogenital triangle will be as follows: The skin will be removed from the urogenital triangle. The superficial perineal fascia will be removed and
-the contents of the superficial perineal pouch will be iden- tifi ed. The skin will be removed from the penis and its parts will be studied. The contents of the deep perineal pouch
-will be described, but not dissected.
-Dissection Instructions
-Skin Removal
-Partner with a dissection team that has a female cadaver for the dissection of the urogenital triangle. Usually, only
-one student can work on the urogenital triangle at a time.
-The dissector should be positioned between the thighs
-with the cadaver pulled to the end of the dissection table.
-**1.** Place the cadaver in the supine position. Stretch
-the thighs widely apart and brace them.
-**2.** Make a skin incision that encircles the proximal end of the penis (FIG. 5.10, blue dashed line). The
-skin is very thin.
-**3.** Make a midline skin incision posterior to the proxi- mal end of the penis that splits the scrotum along the scrotal septum. Carry the cut posteriorly as far
-as the anus (FIG. 5.10, blue dashed line).
-**4.** Make an incision in the midline superior to the penis. Stop where the skin of the abdomen was
-removed previously.
-Shaft of penis
-FIGURE 5.10
-Skin incisions for the male perineum.
-
-## The Pelvis And Perineum
-Superficial
-abdominal fascia:
-External urethral
-Perineal membrane
-Membranous layer of superficial perineal fascia
-Membranous layer of superficial perineal fascia
-Membranous layer of superficial abdominal extravasation extravasation
-Perforation of spongy urethra
-External oblique m.
-Deep fascia
-Deep fascia
-Dartos fascia
-Dartos fascia
-Fatty layer
-Membranous layer
-FIGURE 5.11
-Fasciae of the perineum. A. The membranous layer of the su- perfi cial perineal fascia (Colles' fascia) is continuous with the superficial fascia
-(dartos fascia) of the scrotum and the penis. It is also continuous with the mem-
-branous layer of superficial fascia of the lower abdominal wall (Scarpa's fascia) and is attached to the posterior border of the perineal membrane. B.  Following injury to the urethra in the perineum, extravasated urine is contained in the
-superficial perineal pouch and spreads into the lower abdominal wall. (FIG. 5.12A). The posterior scrotal nerve and vessels are terminal branches of the superficial branch and they supply the posterior part of the scrotum. Look
-for them before continuing to step 3.
-**3.** It is not necessary to identify the membranous layer of the superficial perineal fascia to complete the dissection. Use a probe to dissect through the
-superficial perineal fascia in the midline.
-**4.** Use blunt dissection to fi nd the bulbospongiosus muscle in the midline of the urogenital triangle (FIG. 5.12A). The bulbospongiosus muscle covers the superficial surface of the bulb of the penis. The
-posterior attachments of the bulbospongiosus mus- cle are the bulbospongiosus muscle of the  opposite side (in a midline raphe) and the perineal body. The anterior attachment of the bulbospongiosus muscle
-is the corpus cavernosum penis. The bulbospon- giosus muscle compresses the bulb of the penis to
-expel urine or semen.
-**5.** Lateral to the bulbospongiosus muscle, use a probe to clean the surface of the  ischiocavernosus muscle (FIG. 5.12A). The ischiocavernosus muscle
-covers the superficial surface of the crus of the pe-
-nis. The posterior attachment of the ischiocaver-
-nosus muscle is the ischial tuberosity and the is- chiopubic ramus. The anterior attachment of the
-ischiocavernosus muscle is the crus of the penis.
-The ischiocavernosus muscle forces blood from the crus of the penis into the distal part of the corpus
-cavernosum penis.
-**6.** Using blunt dissection, attempt to fi nd the super- fi cial transverse perineal muscle at the posterior border of the urogenital triangle (FIG. 5.12A). The
-superficial transverse perineal muscle may be deli-
-cate and diffi cult to fi nd; limit the time spent look- ing for it. The lateral attachments of the superficial transverse perineal muscle are the ischial tuberosity and the ischiopubic ramus. The medial attachment of the superficial transverse perineal muscle is the
-perineal body. The perineal body is a fi bromus- cular mass located anterior to the anal canal and posterior to the perineal membrane that serves as an attachment for several muscles. The superficial transverse perineal muscle helps to support the
-perineal body.
-**7.** Use a probe to dissect between the three muscles of
-the superficial perineal pouch until a small triangu- lar opening is created (FIG. 5.12A). The membrane that becomes visible through this  opening is the perineal membrane. The perineal  membrane is the deep boundary of the superficial perineal pouch, and
-the bulb of the penis and crura are  attached to it.
-**8.** Use a scalpel to divide the bulbospongiosus muscles along their midline raphe. This is a thin muscle and care must be taken not to cut too deeply. On the left
-- Bulb of the penis (unpaired)
-- Arteries, veins, and nerves that supply the structures listed previously
-**2.** Note that the superficial branch of the perineal
-a. and n. enter the urogenital triangle by pass- ing lateral to the external anal sphincter muscle side of the cadaver, remove the  bulbospongiosus
-**9.** Identify the bulb of the penis (FIG. 5.12B). The bulb of the penis is continuous with the corpus spongiosum penis and contains a portion of the
-spongy urethra.
-**10.** On the left side of the cadaver, use blunt dissec- tion to remove the ischiocavernosus muscle from the crus of the penis (FIG. 5.12B) (L. crus, a leg-like part; pl. crura). The crus of the penis attaches the corpus cavernosum penis to the ischiopubic ramus
-and perineal membrane.
-*Penis Grant's Atlas 269 | LWW Atlas 288 | Netter's 361 | Color Atlas 337 | Clemente's 237*
-In the anatomical position, the penis is erect. The sur-
-face of the penis that is closest to the anterior abdomi-
-nal wall is the dorsal surface of the penis.
-Study a drawing of a transverse section of the  penis (L. penis, tail) (FIG. 5.13). The superficial  fascia of the penis (dartos fascia) has no fat, and contains the superficial dorsal vessels of the penis. The deep
-fascia of the penis (Buck's fascia) is an investing  fascia.
-Contained within the deep fascia of the penis are the:
-- Corpus spongiosum penis
-- Corpus cavernosum penis (paired)
-- Deep dorsal vein of the penis (unpaired)
-- Dorsal artery of the penis (paired)
-- Dorsal nerve of the penis (paired)
-**1.** Identify the parts of the penis:
-- Root-the part of the penis that is attached to the ischiopubic ramus and perineal membrane
-(bulb and crura).
-- Body (shaft) - the part of the penis that is pendant
-(corpora cavernosa and corpus spongiosum penis).
-- Glans penis
-- Corona of the glans
-- Prepuce
-- Frenulum
-- External urethral orifi ce
-Dartos fascia
-Corpus cavernosum penis
-Corpus spongiosum penis
-Scrotum (lifted)
-Ischiocavernosus m.
-Bulbospongiosus m.
-Posterior scrotal artery
-Perineal membrane
-Perineal body
-Superficial branch of perineal artery and nerve
-Superficial transverse
-perineal m.
-Internal pudendal artery and pudendal nerve
-Inferior rectal nerve
-Pelvic diaphragm
-Anococcygeal ligament
-Gluteus maximus m.
-Superficial fatty layer of perineal fascia
-Corpus cavernosum penis
-Corpus spongiosum penis
-Crus of penis
-Bulbospongiosus m. (cut)
-Bulb of penis
-Perineal membrane
-Superficial branch of
-perineal nerve and artery (cut)
-Superficial transverse
-perineal m.
-Internal pudendal artery and pudendal nerve
-Inferior rectal nerve
-Gluteus maximus m.
-FIGURE 5.12
-Contents of the superficial perineal pouch in the male. A. Superfi cial dissection. Skin has been removed on left side of fi gure to reveal fatty layer of superficial perineal fascia. Skin, fatty layer of superficial perineal fascia, and the membranous layer of superficial perineal fascia (Colles' fascia) have been removed on the right side of the fi gure to
-show the muscles, vessels, and nerves. B. Deep dissection. Bulbospongiosus and ischiocavernosus muscles, vessels,
-and nerves have been removed to show the erectile tissues.
-
-## The Pelvis And Perineum
-- Deep dorsal vein of the penis (unpaired) - in the midline. Most of the blood from the penis drains through the deep dorsal vein into the prostatic
-venous plexus.
-- Dorsal artery of the penis (paired) - one artery on each side of the deep dorsal vein. The dorsal artery of the penis is a terminal branch of the
-internal pudendal artery.
-- Dorsal nerve of the penis (paired) - one nerve on each side of the midline, lateral to the deep dorsal artery. The dorsal nerve of the penis is a
-branch of the pudendal nerve.
-**5.** Use a probe to trace the vessels and nerves of the penis proximally. Use an atlas illustration to study the course of the pudendal nerve and the internal
-*pudendal artery Grant's Atlas 271 | LWW Atlas 286 | Netter's 363 | Color Atlas 352 | Clemente's **358.** Observe that the dorsal artery and nerve of the penis course deep to the perineal membrane before they emerge onto the dorsum of the penis. The deep dorsal vein passes between the pubic arch and the anterior edge of the perineal membrane to enter the pelvis. Note that the deep dorsal vein does not accompany the deep dorsal artery and dorsal
-*nerve proximal to the body of the penis. [G 268,*
-271; N 383, 390; R 340; C 351]
-*Spongy Urethra Grant's Atlas 272 | LWW Atlas 266 | Netter's 365 | Color Atlas 338 | Clemente's 356*
-The male urethra consists of three portions: prostatic urethra, membranous urethra, and spongy urethra (FIG. 5.15). The spongy urethra is the portion that is located within the corpus spongiosum penis. The next objective is to longitudinally cut the spongy urethra and
-examine its internal features.
-**1.** Examine the external urethral orifi ce at the tip of
-the glans penis. Push a probe into the external ure- thral orifi ce, and then use a scalpel to cut down to the probe from both the dorsal and ventral surfaces
-of the penis. Cut in the median plane of the penis.
-(It may not be a straight line.)
-**2.** Advance the probe proximally, and continue to divide the penis in this manner. Dorsal to the probe, the cut should pass between the corpora
-cavernosa and may split the deep dorsal vein lon- gitudinally. Stop inferior to the pubic symphysis where the two corpora cavernosa separate. Ventral
-to the probe the cut should divide the corpus spon- giosum into equal halves. Proximally, stop at the
-bulb of the penis.
-**3.** In the bulb of the penis, the urethra bends at a sharp angle and passes through the perineal membrane (FIG. 5.15). Carefully complete the cut through the bulb posterior to the urethra but do not cut
-through the perineal membrane.
-**2.** Use a scalpel to make a midline skin incision down the ventral surface of the penis. Remove the skin from the body of the penis, detaching it around the
-corona of the glans. Do not skin the glans.
-**3.** Use a probe to dissect the superficial dorsal vein of the penis. The superficial dorsal vein of the  penis drains into the superficial external pudendal
-vein, which drains into the great  saphenous vein.
-**4.** On the dorsum of the penis, use a probe to dissect through the deep fascia of the penis and identify
-(FIG. 5.14): Grant's Atlas 268 | LWW Atlas 288 | Color Atlas 341 | Clemente's 367
-Superficial dorsal vein of penis
-Dorsal artery of penis
-Dorsal nerve of penis
-Superficial fascia of the penis
-(dartos fascia)
-Deep fascia of the penis
-(Buck's fascia)
-Tunica albuginea: of corpora cavernosa of corpus spongiosum
-Deep dorsal vein of penis
-Septum penis
-Deep artery
-Corpus spongiosum
-FIGURE 5.13
-Transverse section through the body of the penis.
-FIGURE 5.14
-Arteries and nerves of the penis. Skin has been removed on the left side of the illustration. Skin and superficial fascia have been
-removed on the right side of the illustration.
-Deep dorsal vein of penis
-Suspensory ligament
-Dorsal artery of penis
-Dorsal nerve of penis
-Tunical albuginea
-Deep fascia of
-penis (Buck's fascia,
-Glans penis
-Superficial dorsal artery and vein of penis
-Superficial external pudendal vein and artery
-Deep Perineal Pouch
-The deep perineal pouch (space) will not be dissected.
-The deep perineal pouch lies superior (deep) to the per- ineal membrane (FIG. 5.15). Note the contents of the
-deep perineal pouch in the male (FIG. 5.16):
-- Membranous urethra
-- External urethral sphincter muscle
-- Bulbourethral glands
-- Branches of the internal pudendal artery and
-vein (most notably, the dorsal artery of the  penis)
-- Branches of the pudendal nerve (most nota-
-bly, the dorsal nerve of the penis)
-**4.** Note that the glans penis (L. glans, acorn) is the distal expansion of the corpus spongiosum and that it caps the two corpora cavernosa penis. The spongy urethra terminates by passing through the
-**5.** Examine the interior of the spongy urethra. Iden- tify the navicular fossa, a widening of the urethra
-in the glans penis.
-**6.** The openings of the ducts of the bulbourethral glands are in the proximal part of the spongy
-urethra, but may be too small to see.
-**7.** On the left side of the penis, make a transverse cut through the body of the penis about midway down
-its length.
-**8.** On the cut surface of the transverse section of the penis, study the relationship of the corpus cavernosum penis and corpus spongiosum
-penis. Identify (FIG. 5.13): [G 271; L 289; N 361;
-R 339; C 237]
-- Tunica albuginea of the corpus cavernosum
-- Tunica albuginea of the corpus spongiosum
-- Septum penis
-**9.** Study the erectile tissue within the corpus spon- giosum penis. Confi rm that the corpus spongiosum
-penis surrounds the spongy urethra.
-**10.** Study the erectile tissue within the corpus caver- nosum penis (FIG. 5.13). Identify the deep artery
-of the penis near the center of the erectile tissue.
-Review the origin of the deep artery of the penis
-from the internal pudendal artery.
-Deep dorsal vein of penis
-Inferior pubic ligament
-Anterior edge of perineal
-Dorsal nerve of penis
-Dorsal artery of penis
-External urethral sphincter muscle
-Location of bulbourethral gland
-Deep transverse perineal m.
-Perineal membrane
-FIGURE 5.16
-Contents of the deep perineal pouch in the male.
-Prostatic urethra within prostate
-Membranous urethra within deep perineal
-Spongy urethra within corpus spongiosum penis
-Perineal membrane
-Corpus cavernosum
-Glans penis
-Navicular fossa
-External urethral orifice
-FIGURE 5.15
-Parts of the male urethra.
-
-## The Pelvis And Perineum
-
-### Male Pelvic Cavity
-Dissection Overview
-The male pelvic cavity contains the urinary bladder
-anteriorly, male internal genitalia, and the rectum posteri-
-orly (FIG. 5.17). The order of dissection will be as follows:
-The peritoneum will be studied in the male pelvic cavity.
-The pelvis will be sectioned in the midline and the cut surface of the sectioned pelvis will be studied. The ductus deferens will be traced from the anterior  abdominal wall to the region between the urinary bladder and rectum. The
-seminal vesicles and prostate gland will be studied.
-Dissection Instructions
-*Peritoneum Grant's Atlas 213 | LWW Atlas 265 | Netter's 346 | Color Atlas 337 | Clemente's 353*
-**1.** Using FIGURE 5.17 as a reference, examine the perito-
-neum in the male pelvis. Note that the peritoneum:
-(1, 2) Passes from the anterior abdominal wall supe- rior to the pubis (3) Covers the superior surface of the urinary bladder (4)  Passes inferiorly along the posterior surface of the urinary bladder (5)  Has a close relationship to the superior ends of the seminal vesicles (6)  Passes inferiorly between the urinary bladder and the rectum to form the rectovesical pouch (7)  Contacts the anterior surface and sides of the (8)  Forms the sigmoid mesocolon beginning at the level of the third sacral vertebra
-**2.** The paravesical fossa (paired) is a shallow depres- sion in the peritoneal cavity on the lateral side of
-the urinary bladder.
-**1.** Use an atlas illustration to study the following:
-*Grant's Atlas 261 | LWW Atlas 285 | Netter's 363 | Clemente's 358*
-- Membranous urethra-extends from the peri-
-neal membrane to the prostate gland (FIG. 5.15).
-This is the shortest (about 1 cm), thinnest, nar-
-rowest, and least distensible part of the urethra.
-- External urethral sphincter (sphincter ure-
-thrae) muscle-a voluntary muscle that sur-
-rounds the membranous urethra (FIG. 5.16).
-When the external urethral sphincter muscle
-contracts, it compresses the membranous ure-
-thra and stops the fl ow of urine.
-- Deep transverse perineal muscle (paired) - has a lateral attachment to the ischial tuberosity
-and the ischiopubic ramus and a medial attach- ment to the perineal body (FIG. 5.16). Its fi ber direction and function are identical to those
-of the superficial transverse perineal muscle, which is a content of the superficial perineal
-**2.** The bulbourethral gland (paired) is located in the deep perineal pouch but its duct passes through
-the perineal membrane and drains into the proxi- mal portion of the spongy urethra in the superficial
-perineal space.
-**3.** The deep perineal pouch contains branches of the
-pudendal nerve and internal pudendal  artery.
-These structures supply the external urethral sphinc- ter muscle, the deep transverse perineal muscle, and
-the penis (FIG. 5.16).
-**4.** Collectively, the muscles within the deep perineal pouch plus the perineal membrane are known as the urogenital diaphragm. This older anatomical
-nomenclature is still in clinical use.
-Dissection Follow-up
-**1.** Return the muscles of the urogenital triangle to their
-correct anatomical positions.
-**2.** Review the contents of the male superficial perineal pouch. Visit a dissection table with a female cadaver
-and view the contents of the superficial perineal pouch.
-**3.** Use an atlas illustration to review the course of the internal pudendal artery from its origin in the pelvis to
-the dorsum of the penis.
-**4.** Use an atlas illustration to review the course and
-branches of the pudendal nerve.
-**5.** Study an atlas illustration showing the course of the deep dorsal vein of the penis into the pelvis to join the
-prostatic venous plexus.
-**6.** Draw a cross section of the penis showing the erec- tile bodies, superficial fascia, deep fascia, vessels, and
-**7.** Review the parts of the male urethra.
-Puboprostatic ligament
-FIGURE 5.17
-Peritoneum in the male pelvis. The numbered features of
-the peritoneum are explained in the text.
-**6.** Use a saw to make two cuts in the midline:
-- Pubic symphysis - With the cadaver in the su- pine position, cut through the pubic symphysis from anterior to posterior. Do not allow the saw
-to pass into the scalpel incision.
-- Sacrum - Turn the cadaver to the prone posi- tion. Cut through the sacrum from posterior to anterior. Do not allow the saw to pass between the soft tissue structures that were cut with the
-scalpel. Spread the opening and extend the mid- line cut as far superiorly as the body of the third
-lumbar vertebra.
-**7.** Return the cadaver to the supine position. To mo- bilize the right lower limb, use a scalpel to cut the
-right common iliac vein, right common iliac artery, and right testicular vessels. Cut the right ureter and
-the branches of the right lumbar plexus.
-**8.** In the transverse plane, use the scalpel to cut the
-right psoas major and quadratus lumborum mus-
-cles at vertebral level L3. Use the saw to cut hori- zontally through the right half of the intervertebral disc between L3 and L4. Now, the right lower limb
-can be removed.
-**9.** Clean the rectum and anal canal.
-*Male Internal Genitalia Grant's Atlas 213 | LWW Atlas 270 | Netter's 346 | Color Atlas 337 | Clemente's 355*
-**1.** Study the cut surface of the sectioned specimen
-(FIG. 5.18).
-**2.** Identify the perineal membrane. It is located deep to the bulb of the penis and can be identifi ed as a thin
-line at the deep edge of the bulb (FIG. 5.18). Supe- rior (deep) to the perineal membrane, the external
-urethral sphincter muscle surrounds the membra-
-nous urethra. The external urethral sphincter mus-
-cle may be diffi cult to see in the sectioned specimen.
-**3.** On the sectioned pelvis, identify the three parts of the urethra: prostatic urethra, membranous
-urethra, and spongy urethra (FIG. 5.16).
-**4.** Examine the interior of the prostatic urethra.
-The prostatic urethra is about 3 cm in length and is the part that passes through the prostate. On the posterior wall of the prostatic urethra, identify
-(FIG. 5.19): Grant's Atlas 225 | LWW Atlas 267 | Netter's 365 | Color Atlas 338 | Clemente's 355
-- Urethral crest-a longitudinal ridge.
-- Seminal colliculus-an enlargement of the
-urethral crest.
-- Prostatic sinus-the groove on either side of
-the seminal colliculus.
-- Prostatic utricle-a small opening on the mid-
-line of the seminal colliculus.
-- Opening of the ejaculatory duct-one on
-either side of the prostatic utricle.
-Section of the Pelvis
-The pelvis will be divided in the midline. First, the pelvic viscera and the soft tissues of the perineum will
-be cut in the midline with a scalpel. The pubic sym-
-physis and vertebral column (up to vertebral level L3) will be cut in the midline with a saw. Subsequently, the right side of the body will be transected at vertebral level L3. The left lower limb and left side of the pelvis
-will  remain attached to the trunk.
-Both halves of the pelvis will be used to dissect the pelvic viscera, pelvic vasculature, and nerves of the
-pelvis. One-half of the pelvis will be used to demon-
-strate the muscles of the pelvic diaphragm.
-**1.** Begin this dissection with a new scalpel blade.
-**2.** In the pelvic cavity make a midline cut, beginning
-posterior to the pubic symphysis. Carry this mid- line cut through the superior surface of the urinary
-bladder. Open the bladder and sponge the interior,
-if necessary.
-**3.** Identify the internal urethral orifi ce in the bladder and insert a probe into it. Use the probe as a guide and
-continue the midline cut inferior to the urinary blad-
-der, dividing the urethra. Divide the prostate gland.
-**4.** Extend the midline cut in the posterior direction.
-Cut through the anterior and posterior walls of the
-rectum and the distal part of the sigmoid colon.
-Sponge them clean.
-**5.** In the perineum, insert the scalpel blade inferior to the pubic symphysis with the cutting edge  directed posteriorly. Make a cut in the midline from the pubic symphysis to the coccyx passing through the
-perineal membrane, perineal body, and anal  canal.
-Cut between the halves of the bulb of the penis
-(sectioned earlier).
-
-### Clinical Correlation
-
-### Pelvic Peritoneum
-As the urinary bladder fi lls, the peritoneal reflection from the anterior body wall to the urinary bladder (FIG. 5.17, item 2) is elevated above the level of the pubis. A fi lled urinary bladder can be penetrated by a needle inserted just superior to the
-pubis without entering the peritoneal cavity.
-**3.** The pararectal fossa (paired) is a shallow depres- sion in the peritoneal cavity on the lateral side of
-the rectum.
-
-## The Pelvis And Perineum
-Anal sphincters: rectal fold
-Rectovesical
-Rectovesical
-Perineal body
-External urethral
-sphincter m.
-Bulb of penis and
-bulbospongious m.
-Ductus deferens
-Deep dorsal vein of penis
-FIGURE 5.18
-Sagittal secion of the male pelvis.
-Detrusor muscle
-Orifices of the ureters
-Trigone of bladder
-Uvula of bladder
-Internal urethral orifice
-Prostatic sinus
-Seminal colliculus:
-Prostatic utricle
-Ejaculatory duct orifice
-Levator ani muscle
-External urethral sphincter muscle
-Dorsal nerve and artery of penis
-Interureteric crest
-Prostatic venous plexus
-Urethral crest
-Ischiocavernosus muscle
-Superficial perineal fascia
-Crus of corpus cavernosum
-(crus of penis)
-Perineal membrane
-Deep artery of penis
-Tunica albuginea
-Bulb of penis (corpus spongiosum)
-Bulbospongiosus muscle
-FIGURE 5.19
-Urinary bladder and proximal portion of the male urethra seen in frontal section.
-**5.** Near the inner surface of the anterior abdominal wall, fi nd the ductus deferens where it enters the deep inguinal ring lateral to the inferior epigastric vessels (FIG. 5.18). Use a probe to break through the peritoneum near the deep inguinal ring. Use blunt dissection to peel the peritoneum off the lateral wall of the pelvic cavity. Strip the peritoneum from
-lateral to medial, stopping where it comes in con- tact with the rectum and urinary bladder.  Detach
-the peritoneum and place it in the tissue container.
-Transversalis fascia
-(peritoneum removed)
-Inferior epigastric vein and artery
-Deep inguinal ring
-Testicular vessels
-External iliac vessels
-Femoral ring
-Umbilical artery
-Obturator vessels and nerve
-Obturator canal
-Obturator internus muscle
-Peritoneum (cut)
-Left ureter (cut)
-Urinary bladder
-Seminal vesicle
-Perineal membrane ductus deferens
-Ductus deferens
-FIGURE 5.20
-Posterior view of the urinary bladder and the male internal genitalia.
-**6.** Use blunt dissection to trace the ductus deferens
-from the deep inguinal ring toward the midline.
-Observe that the ductus deferens passes superior and then medial to the branches of the internal iliac artery. Note that the ductus deferens crosses
-*superior to the ureter. [G 220; L 270; N 347; R 336;*
-**7.** Trace the ductus deferens into the rectovesical septum, which is the endopelvic fascia between
-the rectum and the urinary bladder (FIG. 5.18).
-Observe that the ductus deferens is in contact with the fundus (posterior surface) of the urinary
-**8.** Identify the ampulla of the ductus defer- ens, which is the enlarged portion just before
-its  termination (FIG. 5.20). [G 224; L 270; N 364;
-R 339; C 354]
-**9.** Identify the seminal vesicle (FIG. 5.20). The semi- nal vesicle is located lateral to the ampulla of the ductus deferens in the rectovesical septum. Use blunt dissection to release the seminal vesicle from
-the rectovesical septum.
-**10.** Close to the prostate, the duct of the seminal vesicle joins the ductus deferens to form the  ejaculatory duct. The ejaculatory duct is delicate and easily torn where it enters the prostate. The ejaculatory
-duct empties into the prostatic urethra on the semi-
-nal colliculus.
-**11.** Observe the prostate (FIG. 5.18). The apex of the prostate is directed inferiorly and the base of the prostate is located superiorly against the neck of the urinary bladder. Use an atlas illustration to
-study the lobes of the prostate.
-Dissection Follow-up
-**1.** Review the position of the male pelvic viscera within the lesser pelvis. Visit a dissection table with a female cadaver and observe the position of the female pelvic
-**2.** Review the peritoneum in the male pelvic cavity. Visit a
-dissection table with a female cadaver and compare dif-
-ferences in the male and female peritoneum (FIGS. 5.17
-**3.** Follow the ductus deferens from the epididymis to the
-ejaculatory duct, recalling its relationships to vessels,
-nerves, the ureter, and the seminal vesicle.
-**4.** Visit a dissection table with a female cadaver and fol- low the round ligament of the uterus from the labium
-majus to the uterus.
-**5.** Compare the pelvic course of the ductus deferens with
-the pelvic course of the round ligament of the uterus.
-URINARY BLADDER, RECTUM, AND
-
-### Anal Canal
-Dissection Overview
-The urinary bladder is a reservoir for urine. When empty, it is located within the pelvic cavity. When fi lled, it extends
-into the abdominal cavity. The urinary bladder is a sub-
-peritoneal organ that is surrounded by endopelvic fascia.
-Between the pubic symphysis and the urinary bladder, there is a potential space called the retropubic space (prevesical space) (FIG. 5.17). The retropubic space is fi lled with fat and loose connective tissue that accommodates the  expansion of the urinary bladder. The puboprostatic ligament is a condensation of fascia that ties the prostate to the inner surface of the pubis (FIG. 5.17). The puboprostatic  ligament
-
-## The Pelvis And Perineum
-**3.** Examine the wall of the urinary bladder and note its thickness. The wall of the urinary bladder consists of bundles of smooth muscle called the
-detrusor muscle (L. detrudere, to thrust out).
-**4.** Identify the trigone on the inner surface of the fundus (FIG. 5.19). The angles of the trigone are the internal urethral orifi ce and the two orifi ces of the ureters. The internal urethral orifi ce is  located
-at the most inferior point in the urinary bladder.
-The interureteric crest is a ridge that extends
-across the trigone between the orifi ces of the ure-
-*ters. Grant's Atlas 225 | LWW Atlas 267 | Netter's 350 | Color Atlas 338 | Clemente's 354*
-**5.** Observe that the mucous membrane over the trigone is smooth. The mucous membrane lining the other parts of the urinary bladder lies in folds when the
-bladder is empty but will accommodate  expansion.
-**6.** Insert the tip of a probe into the orifi ce of the ureter
-and observe that the ureter passes through the mus-
-cular wall of the urinary bladder in an oblique direc-
-tion. When the urinary bladder is full  (distended), the pressure of the accumulated urine  fl attens the
-part of the ureter that is within the wall of the blad-
-der and prevents refl ux of urine into the ureter. defi nes the inferior limit of the retropubic space. The lower
-one-third of the rectum is surrounded by endopelvic fascia.
-The middle and upper thirds of the rectum are partially
-covered by peritoneum (FIG. 5.17).
-The order of dissection will be as follows: The parts of
-the urinary bladder will be studied. The interior of the uri- nary bladder will be studied. The interior of the rectum and
-anal canal will be studied.
-Dissection Instructions
-*Urinary Bladder Grant's Atlas 225 | LWW Atlas 266 | Netter's 350 | Color Atlas 337 | Clemente's 355*
-**1.** Identify the parts of the urinary bladder (FIG. 5.21):
-- Apex-the pointed part directed toward the an- terior abdominal wall. The apex of the urinary bladder can be identifi ed by the attachment of the
-- Body-between the apex and fundus.
-- Fundus-the inferior part of the posterior wall,
-also called the base of the urinary bladder.
-In the male the fundus is related to the ductus
-deferens, seminal vesicles, and rectum.
-- Neck-where the urethra exits the urinary bladder. In the neck of the urinary bladder, the wall
-thickens to form the internal urethral sphincter,
-which is an involuntary muscle.
-**2.** Identify the four surfaces of the urinary bladder
-(FIG. 5.21):
-- Superior-covered by peritoneum.
-- Posterior-covered by peritoneum on its su- perior part and by the endopelvic fascia of the
-rectovesical septum on its inferior part.
-- Inferolateral (paired) - covered by endopelvic
-Superior surface
-Inferolateral
-Prostate gland
-Ejaculatory
-FIGURE 5.21
-Parts of the urinary bladder in the male.
-
-### Clinical Correlation
-
-### Kidney Stones
-Kidney stones pass through the ureter to the urinary bladder and they may become lodged in the ureter. The point where the ureter passes through the wall of the urinary bladder is a
-relatively narrow passage. If a kidney stone becomes lodged, severe colicky pain results. The pain stops suddenly once the
-stone passes into the bladder.
-**7.** Find the ureter where it crosses the external iliac
-artery or the bifurcation of the common iliac  artery.
-Use blunt dissection to follow the ureter to the
-fundus of the urinary bladder.
-*Rectum and Anal Canal [G 213, 215; L 272, 273; N 346,*
-373; R 336; C 355, 359]
-**1.** The rectum begins at the level of the third sacral ver- tebra. Observe the sectioned pelvis and note that the
-rectum follows the curvature of the sacrum (FIG. 5.18).
-**2.** Identify the ampulla of the rectum (FIGS. 5.18 and
-5.22). At the ampulla, the rectum bends approxi- mately 80° posteriorly (anorectal flexure) and is continuous with the anal canal. Observe that the prostate and seminal vesicles are located close to
-the anterior wall of the rectum (FIG. 5.18).
-**6.** The anal sphincter muscles surround the anal
-canal. Identify the external anal sphincter mus- cle and the internal anal sphincter muscle in the
-sectioned specimen (FIGS. 5.18 and 5.22). The lon- gitudinal muscle of the anal canal separates the two sphincter muscles. If you have diffi culty identifying them, use a new scalpel blade to cut another section through the wall of the anal canal to improve the
-clarity of the dissection.
-Dissection Follow-up
-**1.** Use the dissected specimen to review the features of
-the urinary bladder, rectum, and anal canal.
-**2.** Review the relationships of the seminal vesicles, am- pulla of the ductus deferens, and ureters to the rectum
-and fundus of the urinary bladder.
-**3.** Visit a dissection table with a female cadaver and
-review the relationships of the uterus, vagina, and ure-
-ters to the rectum and fundus of the urinary bladder.
-**4.** Review the kidney, the abdominal course of the ureter, the pelvic course of the ureter, and the function of the
-urinary bladder as a storage organ.
-**5.** Review the parts of the male urethra. Visit a dissec- tion table with a female cadaver and review the female
-**6.** Review all parts of the large intestine and recall its function in absorption of water and in compaction and
-elimination of fecal material.
-**7.** Recall that the external anal sphincter muscle is composed of skeletal muscle and is under voluntary control, whereas the internal anal sphincter muscle is
-composed of smooth muscle and is involuntary.
-
-### Clinical Correlation
-HEMORRHOIDS
-In the anal columns, the superior rectal veins of the hepatic portal system anastomose with middle and inferior rectal veins of the inferior vena caval system. An abnormal increase
-in blood pressure in the hepatic portal system causes engorge- ment of the veins contained in the anal columns, resulting in internal hemorrhoids. Internal hemorrhoids are covered by mucous membrane and are relatively insensitive to painful
-stimuli because the mucous membrane is innervated by au-
-tonomic nerves.
-External hemorrhoids are enlargements of the tribu- taries of the inferior rectal veins. External hemorrhoids are
-covered by skin and are very sensitive to painful stimuli be- cause they are innervated by somatic nerves (inferior rectal
-Puborectalis m.
-Circular muscle
-Longitudinal muscle
-Levator ani m. and fascia
-External anal
-sphincter m.
-Superficial
-Subcutaneous
-Internal anal sphincter m.
-Anal column
-*Blended with puborectalis m.
-FIGURE 5.22
-Rectum, anal canal, and anal sphincter muscles.
-**3.** Examine the inner surface of the rectum. Note that
-the mucous membrane is smooth except for the pres- ence of transverse rectal folds (FIG. 5.18). There is usually one transverse rectal fold on the right side and two on the left side. The transverse rectal folds
-may be diffi cult to identify in some cadavers.
-**4.** Observe that the anal canal is only 2.5 to 3.5 cm in
-length (FIG. 5.22). The anal canal passes out of the pel-
-vic cavity and enters the anal triangle of the perineum.
-**5.** Examine the inner surface of the anal canal (FIG. 5.22). The mucosal features of the anal canal may be diffi cult to identify in older individuals, but
-attempt to identify the following:
-- Anal columns - 5 to 10 longitudinal ridges of
-mucosa in the proximal part of the anal canal.
-The anal columns contain branches of the supe-
-rior rectal artery and vein.
-- Anal valves-semilunar folds of mucosa that
-unite the distal ends of the anal columns.
-Between the anal valve and the wall of the anal
-canal is a small pocket called an anal sinus.
-- Pectinate line-the irregular line formed by all
-of the anal valves.
-
-### Clinical Correlation
-
-### Rectal Examination
-Digital rectal examination is part of the physical  examination.
-The size and consistency of the prostate gland can be  assessed
-by palpation through the anterior wall of the rectum.
-
-## The Pelvis And Perineum
-
-### Internal Iliac Artery And
-
-### Sacral Plexus
-Dissection Overview
-Anterior to the sacroiliac articulation, the common iliac artery divides to form the external and internal iliac arteries (FIG. 5.23). The external iliac artery distributes to the lower limb and the internal iliac artery distributes to the pelvis. The internal iliac artery has the most variable branching pattern of any artery, and it is worth noting at the outset of this dissection that you must use the distribution of the
-branches to identify them, not their pattern of branching.
-The internal iliac artery commonly divides into an ante- rior division and a posterior division. Branches arising from the anterior division are mainly visceral (branches to the
-urinary bladder, internal genitalia, external genitalia, rec- tum, and gluteal region). Parietal branches arise from the posterior division (branches to the pelvic walls and gluteal
-The order of dissection will be as follows: The branches of the anterior division of the internal iliac artery will be
-identifi ed. The branches of the posterior division of the in- ternal iliac artery will be identifi ed. The nerves of the sacral plexus will be dissected. Subsequently, the pelvic portion of
-the sympathetic trunk will be dissected.
-Dissection Instructions
-*Blood Vessels Grant's Atlas 228 | LWW Atlas 274 | Netter's 382 | Color Atlas 347*
-**1.** The internal iliac vein is typically plexiform. To clear the dissection fi eld, remove all tributaries to
-the internal iliac vein.
-Common iliac artery
-Iliolumbar artery
-Lumbosacral trunk
-Lateral sacral artery
-Anterior rami:
-Superior gluteal artery
-Inferior gluteal artery
-Inferior vesical artery
-Pudendal nerve
-Internal pudendal artery
-Middle rectal artery
-Prostatic branch of inferior vesical artery
-Internal iliac artery
-External iliac artery
-Umbilical artery
-Obturator artery
-Deep circumflex iliac artery
-Inferior epigastric
-Medial umbilical ligament (obliterated
-umbilical artery)
-Superior vesical arteries
-Urinary bladder
-FIGURE 5.23
-Branches of the internal iliac artery in the male.
-**2.** Identify the common iliac artery and follow it dis-
-tally until it bifurcates.
-**3.** Identify the internal iliac artery. Use blunt dissec-
-tion to follow the internal iliac artery into the pelvis.
-**4.** Identify the branches of the anterior division of the
-internal iliac artery (FIG. 5.23):
-- Umbilical artery-in the medial umbilical fold, fi nd the medial umbilical ligament (the remnant of the umbilical artery) and use blunt dissection to trace it posteriorly to the  umbilical
-artery. Note that several superior vesical arter-
-ies arise from the inferior surface of the umbili- cal artery and descend to the  superolateral part
-of the  urinary bladder.
-- Obturator artery-passes into the  obturator canal. Find the obturator artery where it  enters
-the obturator canal in the lateral wall of the pel-
-vis and follow the artery posteriorly to its origin.
-In about 20% of cases, an aberrant obturator
-artery (a branch of the external iliac artery) crosses the pelvic brim and is at risk of injury
-during surgical repair of a femoral hernia.
-- Inferior vesical artery-courses toward the fundus of the urinary bladder to supply the
-bladder,  seminal vesicle, and prostate. The infe- rior vesical artery is a named branch only in the male; in the female it is an unnamed branch of
-the vaginal artery.
-- Middle rectal artery-courses medially toward the rectum. It often arises in common with the inferior vesical artery, making positive identifi-cation diffi cult. Identify the middle rectal artery
-**6.** Use an atlas illustration to study the prostatic venous plexus, vesical venous plexus, and rectal venous plexus. All of these plexuses drain into the
-internal iliac vein.
-**7.** On the dissected specimen, observe the deep dorsal vein of the penis just inferior to the pubic symphysis. Verify that the deep dorsal vein of the
-penis empties into the prostatic venous plexus.
-*Nerves Grant's Atlas 211 | LWW Atlas 275 | Netter's 390 | Color Atlas 471 | Clemente's 362*
-The somatic plexuses of the pelvic cavity are the sacral plexus and the coccygeal plexus. These plexuses are located between the pelvic viscera and the lateral pelvic wall within the endopelvic fascia. These somatic nerve plexuses are formed by contributions from anterior
-rami of spinal nerves L4 to S4.
-The primary visceral nerve plexus of the pelvic cavity is the inferior hypogastric plexus (also called the pelvic plexus). It is formed by contributions from
-the hypogastric nerves, sacral splanchnic nerves (sym-
-pathetic), and pelvic splanchnic nerves (parasympa-
-**1.** Use your fi ngers to free the rectum from the ante-
-rior surface of the sacrum and coccyx.
-**2.** Retract the rectum medially and identify the sacral
-plexus of nerves. The sacral plexus is closely relat-
-ed to the anterior surface of the piriformis muscle.
-Verify the following (FIG. 5.24):
-- The lumbosacral trunk (anterior rami of L4
-and L5) joins the sacral plexus.
-by tracing it to the rectum. The middle rec- tal artery, like the inferior vesical artery, sends
-branches to the seminal vesicle and prostate.
-- Internal pudendal artery-exits the pelvic cavity by passing through the greater sciatic foramen inferior to the piriformis muscle. The internal pudendal artery often arises from a
-common trunk with the inferior gluteal artery.
-- Inferior gluteal artery-usually passes out of the pelvic cavity between ventral rami S2 and
-S3, but it may pass between ventral rami S1 and
-S2. The inferior gluteal artery exits the pelvis by passing through the greater sciatic foramen inferior to the piriformis muscle. The inferior gluteal artery may share a common trunk with
-the internal pudendal artery, or less commonly,
-with the superior gluteal artery.
-**5.** Identify the branches of the posterior division of
-the internal iliac artery (FIG. 5.23):
-- Iliolumbar artery-passes posteriorly, then ascends between the lumbosacral trunk and the obturator nerve. It may arise from a common
-trunk with the lateral sacral artery.
-- Lateral sacral artery-gives rise to a superior branch and an inferior branch. Observe that the inferior branch passes anterior to the sacral
-ventral rami.
-- Superior gluteal artery-usually exits the pel- vic cavity by passing between the lumbosacral
-trunk and the ventral ramus of S1.
-Superior gluteal a.
-Lumbosacral trunk
-Pelvic splanchnic
-Pudendal nerve
-Sciatic nerve
-Rectum (cut)
-Anterior rami:
-Inferior gluteal a.
-FIGURE 5.24
-Sacral plexus of nerves in the male.
-
-## The Pelvis And Perineum
-- The anterior rami of S2 and S3 emerge be-
-tween the proximal attachments of the pirifor-
-mis  muscle.
-- The sciatic nerve is formed by the anterior
-rami of spinal nerves L4 through S3. The sci- atic nerve exits the pelvis by passing through the greater sciatic foramen, usually inferior to the
-piriformis muscle.
-- The superior gluteal artery usually  passes between the lumbosacral trunk and the anterior ramus of spinal nerve S1, and exits the pelvis by passing superior to the piriformis
-- The inferior gluteal artery usually passes
-between the anterior rami of spinal nerves S2 and S3 but it may pass between anterior rami
-S1 and S2. The inferior gluteal artery exits the pelvis by passing inferior to the piriformis
-- The pudendal nerve is formed by contribu- tions from the anterior rami of spinal nerves
-S2, S3, and S4. The pudendal nerve exits the pelvis by passing inferior to the piriformis
-**3.** Identify the pelvic splanchnic nerves (nervi eri- gentes). Pelvic splanchnic nerves are branches of
-the anterior rami of spinal nerves S2, S3, and S4
-(FIG. 5.24). Pelvic splanchnic nerves carry presyn- aptic parasympathetic axons for the innervation of pelvic organs and the distal gastrointestinal tract
-(from the left colic flexure through the anal ca-
-*nal). Grant's Atlas 211 | LWW Atlas 276 | Netter's 390 | Color Atlas 349 | Clemente's 362*
-**4.** The sacral portion of the sympathetic trunk
-is located on the anterior surface of the sacrum, medial to the ventral sacral foramina. Identify the
-- Sympathetic trunk-continues from the ab- dominal region into the pelvis. The  sympathetic trunks of the two sides join in the  midline near the level of the coccyx to form the ganglion
-- Gray rami communicantes-connect the
-sympathetic ganglia to the sacral anterior rami.
-Each gray ramus communicans carries post-
-synaptic sympathetic fi bers to an anterior ra- mus for distribution to the lower extremity and
-- Sacral splanchnic nerves-arise from two or three of the sacral sympathetic ganglia and
-pass directly to the inferior hypogastric plex- us. Sacral splanchnic nerves carry sympathetic
-fi bers that distribute to the pelvic  viscera.
-
-### Clinical Correlation
-
-### Pelvic Nerve Plexuses
-The inferior hypogastric plexus is located in the endopelvic fascia lateral to the rectum, bladder, seminal vesicles, and prostate. This autonomic nerve plexus could be injured  during pelvic surgery, causing loss of bladder control and erectile
-dysfunction.
-Dissection Follow-up
-**1.** Review the abdominal aorta and its terminal branches.
-**2.** Use the dissected specimen to review the branches of the internal iliac artery. Review the region supplied by
-each branch.
-**3.** Visit a dissection table with a female cadaver and review the arteries that are unique to the female: uterine artery
-and vaginal artery. Note their relationship to the ureter.
-**4.** Review the formation of the sacral plexus and the
-branches that were dissected in the pelvis.
-**5.** Use the dissected specimen and an atlas illustration to review the course of the pudendal nerve from the
-pelvic cavity to the urogenital triangle.
-
-### Pelvic Diaphragm
-Dissection Overview
-The pelvic diaphragm is the muscular fl oor of the pel- vic cavity. The pelvic diaphragm is formed by the levator
-ani muscle and coccygeus muscle plus the fasciae cover- ing their superior and inferior surfaces (FIG. 5.25A, B). The pelvic diaphragm extends from the pubic symphysis to the coccyx. Laterally, the pelvic diaphragm is attached to the fascia covering the obturator internus muscle. The urethra and anal canal pass through midline openings in the pelvic
-diaphragm called the urogenital hiatus and anal hiatus,
-respectively.
-Dissection Instructions
-**1.** Perform the dissection of the pelvic diaphragm on
-one side of the cadaver. Save the side with the best dis-
-*section of arteries and nerves for review. [G 206-208;*
-L 278-279; N 340, 341; C 358]
-**2.** Retract the rectum, urinary bladder, prostate, and
-seminal vesicles medially.
-**3.** Use blunt dissection to remove any remaining fat and connective tissue from the superior surface of
-the pelvic diaphragm.
-Obturator internus muscle and fascia
-Piriformis muscle
-Coccygeus muscle
-Ischial spine
-Levator ani muscle:
-Iliococcygeus muscle
-Pubococcygeus muscle
-Puborectalis muscle
-Tendinous arch of levator
-Obturator canal
-Arcuate pubic ligament
-Urogenital hiatus
-Ischiopubic ramus
-Anal hiatus
-Anococcygeal raphe
-Ischial tuberosity
-Sacrotuberous ligament
-Sacrospinous ligament (cut)
-Piriformis muscle
-Ischial spine
-Obturator internus muscle and tendon
-Pelvic diaphragm:
-Levator ani muscle:
-Coccygeus muscle
-Puborectalis muscle
-Pubococcygeus muscle
-Iliococcygeus muscle
-FIGURE 5.25
-Pelvic diaphragm in the male. A. Left lateral view. B. Inferior view.
-
-## The Pelvis And Perineum
-**10.** Use your textbook to learn the general pattern of lymphatic drainage of the pelvis and the location of
-*each of the following groups of lymph nodes: [G 217,*
-232, 234; L 291; N 388]
-- Internal iliac nodes
-- External iliac nodes
-- Common iliac nodes
-- Sacral nodes
-- Lumbar nodes
-Dissection Follow-up
-**1.** Use the dissected specimen to review the proximal at-
-tachment and action of each muscle of the pelvic dia-
-**2.** Review the relationship of the branches of the internal
-iliac artery to the pelvic diaphragm.
-**3.** Review the relationship of the sacral plexus to the
-pelvic diaphragm.
-**4.** Use an atlas illustration to review the role played by
-the pelvic diaphragm in forming the boundary be- tween the pelvic cavity and the perineum. Review the function of the pelvic diaphragm and perineal body in
-supporting the pelvic and abdominal viscera.
-**5.** Use an atlas illustration to review the lymphatic drain-
-age from the pelvis and perineum. Realize that struc- tures in the perineum (including the scrotum and the
-lower part of the anal canal) drain into superficial in- guinal lymph nodes. The lymphatic drainage of the testis follows the testicular vessels to the lumbar chain of nodes, bypassing the perineal and pelvic drainage
-**6.** Review the formation of the thoracic duct to complete your understanding of the lymph drainage from this
-**7.** Visit a dissection table with a female cadaver and perform a complete review of the dissected female
-
-### Female External Genitalia
-
-### And Perineum
-Labium Majus
-Dissection Overview
-In the female, the round ligament of the uterus passes through the superficial inguinal ring and descends into the fat that forms the labium majus. The layers of the scrotum that are
-identifi ed in the male are not found in the labium majus.
-The order of dissection will be as follows: The anterior surface of the labium majus will be opened by a vertical incision. The round ligament of the uterus will be followed from the superficial inguinal ring for a short distance into
-the superior part of the labium majus.
-**4.** To fi nd the tendinous arch of the levator ani muscle (FIG. 5.25A), palpate the medial surface of
-the ischial spine and then locate the obturator ca- nal. The tendinous arch lies just inferior to a line
-connecting these two structures. Note that the ten- dinous arch is the superior edge of the levator ani
-**5.** Identify the three muscles that form the levator
-ani muscle. The muscles are identifi ed by their an- terior attachments. Learn, but do not dissect, their
-posterior attachments. Identify the following:
-- Puborectalis muscle-its anterior attachment is the body of the pubis. Its posterior attachment is the puborectalis muscle of the opposite side (in a midline raphe). The  puborectalis muscle forms
-the margin of the urogenital hiatus (FIG. 5.25B).
-The two puborectalis muscles form a  "puborectal sling," which causes the anorectal flexure at the ampulla of the rectum (FIG. 5.22). During defecation, the puborectalis muscles relax, the anorectal flexure straightens, and the elimination
-of fecal matter is facilitated.
-- Pubococcygeus muscle-its anterior attach-
-ment is the body of the pubis. Its posterior at- tachment is the coccyx and the anococcygeal
-- Iliococcygeus muscle-its anterior attachment is the tendinous arch. Its posterior attachment is
-the coccyx and the anococcygeal raphe.
-**6.** The levator ani muscle supports the pelvic viscera
-and resists increases in intra-abdominal pressure.
-**7.** Identify the coccygeus muscle. The coccygeus
-muscle completes the pelvic diaphragm posteriorly.
-The anterior attachment of the coccygeus muscle is the ischial spine and its posterior attachment is the lateral border of the coccyx and the lowest part of
-the sacrum (FIG. 5.25A).
-**8.** Place the fi ngers of one hand in the ischioanal fossa and the fi ngers of the other hand on the superior surface of the pelvic diaphragm. Palpate the pelvic
-diaphragm and appreciate its thinness.
-**9.** Observe that the obturator internus muscle forms the lateral wall of the ischioanal fossa. The medial attachment of the obturator internus muscle is the margin of the obturator foramen and inner surface of the obturator membrane. The lateral attachment of the obturator internus muscle will be studied when the gluteal region is dissected. Superior to the
-tendinous arch of the levator ani muscle, the obtu- rator internus muscle forms the lateral wall of the
-pelvic cavity. Inferior to the tendinous arch, the ob- turator internus muscle forms the lateral wall of the
-Review the adult structures that are formed from the
-gubernaculum in both sexes.
-**3.** Visit a dissection table with a male cadaver and complete the Dissection Follow-up that follows the  dissection of
-the spermatic cord and testis (page 131).
-
-### Female Urogenital Triangle
-Dissection Overview
-The order of dissection of the female urogenital triangle
-will be as follows: The external genitalia will be  examined.
-The skin will be removed from the labia majora. The
-superficial perineal fascia will be removed and the con-
-tents of the superficial perineal pouch will be identifi ed.
-The contents of the deep perineal pouch will be described,
-but not dissected.
-Dissection Instructions
-*External Genitalia Grant's Atlas 257 | LWW Atlas 282 | Netter's 356 | Color Atlas 361 | Clemente's 344*
-Partner with a dissection team that has a male cadaver for the dissection of the urogenital triangle. Usually, only
-one student can work on the urogenital triangle at a time.
-The dissector should be positioned between the thighs
-with the cadaver pulled to the end of the dissection table.
-**1.** Place the cadaver in the supine position. Stretch
-the thighs widely apart and brace them.
-**2.** Examine the vulva (female external genitalia)
-(FIG. 5.26). Identify the following structures:
-- Mons pubis
-- Anterior labial commissure
-*Dissection Instructions [G 114; L 221; R 220;*
-This dissection corresponds to the dissection of the scrotum in male cadavers. Partner with a dissection team that has a male cadaver for the dissection of the external genitalia. You are expected to observe and learn
-the anatomy for both sexes.
-**1.** At the superficial inguinal ring, use blunt dissec- tion to demonstrate that the round ligament of the uterus emerges from the superficial inguinal ring and spreads out into the fatty tissue of the labium majus. The round ligament is a delicate structure that can be demonstrated for only 1 to 2 cm distal
-*to the superficial inguinal ring. Grant's Atlas 115 | Color Atlas 220*
-Anterior labial commissure
-Labium majus
-Labium minus
-Vestibule of vagina
-Frenulum of labia minora
-Posterior labial commissure
-Prepuce of clitoris
-Glans of clitoris
-Frenulum of clitoris
-External urethral orifice
-Vaginal orifice
-Opening of greater vestibular gland
-FIGURE 5.26
-Female external genitalia.
-
-### Clinical Correlation
-
-### Lymphatic Drainage Of The
-
-### Labium Majus
-Lymphatics from the labium majus drain to the superficial in- guinal lymph nodes. Infl ammation of the labium majus may
-cause tender, enlarged superficial inguinal lymph nodes.
-Dissection Follow-up
-**1.** Review the course of the round ligament from the
-abdominal wall to the labium majus.
-**2.** Review the embryology of the ovary and testis and
-compare the role of the gubernaculum in each case.
-
-## The Pelvis And Perineum of the superficial fascia that corresponds to the skin
-that was removed.
-*Superfi cial Perineal Pouch and Clitoris [G 257,*
-273-276; L 283, 284; N 357, 358; R 363, 364; C 347, 348]
-The superficial perineal fascia has a superficial fatty layer and a deep membranous layer. In the  female, the superficial fatty layer provides the shape of the  labium majus and is continuous with the fat of the  lower
-abdominal wall, ischioanal fossa, and thigh. The mem- branous  layer of the superficial perineal fascia (Colles'  fascia) is attached to the ischiopubic ramus as far posteriorly as the ischial tuberosity and to the
-posterior edge of the perineal membrane (FIG. 5.28).
-The membranous layer of the superficial perineal fascia
-forms the superficial boundary of the superficial peri-
-neal pouch (space).
-**1.** The contents of the superficial perineal pouch
-in the female are (FIG. 5.29):
-- Three pairs of muscles (left and right)
-- Ischiocavernosus
-- Bulbospongiosus
-- Superfi cial transverse perineal
-- Crura of the clitoris (paired)
-- Bulbs of the vestibule (paired)
-- Greater vestibular glands (paired)
-- Arteries, veins, and nerves, that supply the structures listed previously
-**2.** Note that the posterior labial nerve and vessels enter the urogenital triangle by passing lateral to the external anal sphincter muscle (FIG. 5.30). The
-posterior labial nerve and vessels supply the pos- terior part of the labium majus and are superficial contents of the urogenital triangle. Look for them
-before continuing to step 3.
-**3.** It is not necessary to identify the membranous layer of the superficial perineal fascia to complete the dissection. Use a probe to dissect through the superficial perineal fascia about 2 cm lateral to the
-labium minus. Remove the fat that forms the la-
-bium majus and place it in the tissue container.
-**4.** Identify the bulbospongiosus muscle, which is
-lateral to the labium minus (FIG. 5.29). The bul-
-bospongiosus muscle covers the superficial sur- face of the bulb of the vestibule. The posterior attachment of the bulbospongiosus muscle is the perineal body. The anterior attachment of the
-bulbospongiosus muscle is the corpus caverno- sum clitoris. The bulbospongiosus muscle in the female does not join the bulbospongiosus muscle of the opposite side across the midline as it does in
-- Labium majus
-- Clitoris
-- Prepuce
-- Glans
-- Frenulum of clitoris
-- Labium minus
-- Vestibule of the vagina-the area between the labia minora
-- External urethral orifi ce
-- Vaginal orifi ce
-- Openings of the paraurethral ducts-on each side of the external urethral orifi ce
-- Frenulum of labia minora
-- Posterior labial commissure
-Skin Removal
-**1.** Refer to FIGURE 5.27.
-**2.** Make a skin incision in the midline from the ante-
-rior margin of the anus to the posterior labial com-
-missure (FIG. 5.27, red dashed line).
-**3.** Make a skin incision that follows the medial  surface of the labium majus on each side. Each incision
-should begin at the posterior labial commissure, pass lateral to the labium minus, and end at the anterior labial commissure. Extend the incision in the midline to the mons pubis (FIG. 5.27, red dashed
-**4.** Make a transverse incision across the mons pubis that extends from the right thigh to the left thigh
-(FIG. 5.27, blue dashed lines).
-**5.** Remove the skin from the labium majus (lateral to the incisions). Detach each skin fl ap along the medial surface of the thigh (FIG. 5.27, blue dashed
-lines) and place the skin in the tissue  container.
-**6.** If the cadaver has a large amount of fat in the super- fi cial fascia of the medial thighs, remove a  portion
-FIGURE 5.27
-Skin incisions for the female perineum.
-**5.** Lateral to the bulbospongiosus muscle, use blunt
-dissection to clean the surface of the ischioca- vernosus muscle (FIG. 5.29). The ischiocavernosus muscle covers the superficial surface of the crus of
-the clitoris. The posterior attachments of the ischio- cavernosus muscle are the ischial tube rosity and the ischiopubic ramus. The anterior  attachment of the
-ischiocavernosus muscle is the crus of the clitoris.
-The ischiocavernosus muscle forces blood from the crus of the clitoris into the distal part of the corpus
-cavernosum clitoris.
-**6.** The superficial transverse perineal muscle is dif- fi cult to fi nd. Using blunt dissection, attempt to fi nd
-the superficial transverse perineal muscle at the pos-
-terior border of the urogenital triangle (FIG. 5.29).
-Limit the time spent looking for it. The lateral attachment of the superficial transverse perineal muscle is the ischial tuberosity and the  ischiopubic ramus. The medial attachment of the superficial
-transverse perineal muscle is the perineal body.
-The perineal body is a fi bromuscular mass located between the anal canal and the posterior edge of the perineal membrane that serves as an attachment for several muscles. The superficial transverse perineal
-muscle helps to support the perineal body.
-**7.** To fi nd the perineal membrane, use a probe to dissect between the three muscles of the superficial
-Superficial
-abdominal fascia:
-Perineal body
-Superficial perineal pouch
-Deep perineal pouch
-Perineal membrane
-Membranous layer of superficial perineal fascia
-(Colles' fascia)
-Fatty layer
-Membranous layer
-FIGURE 5.28
-Perineal fasciae in the female. The membranous layer of superficial perineal fascia (Colles' fascia) is continuous with the  membranous layer of superficial fascia of the lower abdominal wall (Scarpa's fascia). The membranous layer of the superficial perineal fascia is
-attached along the posterior border of the perineal membrane.
-External urethral
-Ischiocavernosus m.
-Hymenal caruncle
-Bulbospongiosus m.
-Perineal membrane
-Superficial
-perineal m.
-Anococcygeal
-Perineal body
-Posterior labial
-Frenulum of labia minora
-Opening of greater vestibular gland
-Labium minus
-Vaginal orifice
-Labium majus of clitoris of clitoris
-Anterior labial of clitoris
-FIGURE 5.29
-Contents of the superficial perineal pouch in the female.
-Superfi cial dissection. Skin, superficial fascia, and the membranous layer of superficial perineal fascia (Colles' fascia) have been removed on the
-right side of the fi gure to show the muscles and perineal membrane.
-
-## The Pelvis And Perineum
-Deep Perineal Pouch
-The deep perineal pouch (space) will not be dissected.
-The deep perineal pouch lies superior (deep) to the per- ineal membrane (FIG. 5.28). Note the contents of the
-deep perineal pouch in the female (FIG. 5.31):
-- Urethra
-- Part of the vagina
-- External urethral sphincter muscle
-- Branches of the internal pudendal artery and
-vein (most notably, the dorsal artery of the clitoris) perineal pouch until a small triangular opening is created (FIG. 5.29). The perineal membrane is the
-deep boundary of the superficial perineal pouch, and the bulb of the vestibule and crura are attached
-**8.** On the left side of the cadaver, use blunt dissection to remove the bulbospongiosus muscle and identify the bulb of the vestibule (FIG. 5.30). The bulb of the vestibule is an elongated mass of erectile tissue that lies lateral to the vaginal orifi ce. Note that the greater vestibular gland is found in the superficial perineal pouch immediately posterior to the bulb
-of the vestibule.
-**9.** Anteriorly, the bulbs of the two sides are joined at the commissure of the bulbs and the commissure is continuous with the glans of the clitoris. Do not
-attempt to fi nd the commissure of the bulbs.
-**10.** On the left side of the cadaver, use blunt dissection to remove the ischiocavernosus muscle from the
-crus of the clitoris (L. crus, a leg-like part; pl.  crura)
-(FIG. 5.30). The crus of the  clitoris  attaches the cor- pus cavernosum clitoris to the  ischiopubic ramus
-and perineal membrane.
-**11.** Use an atlas illustration to study the erectile bodies
-*of the clitoris. Grant's Atlas 276 | LWW Atlas 284 | Netter's 358 | Color Atlas 362 Note the*
-- Two corpora cavernosa form the body of the
-- The glans clitoris caps the two corpora cavernosa.
-Dorsal nerve and artery of clitoris
-Body of clitoris
-Glans of clitoris
-Crus of clitoris
-Bulb of vestibule
-Greater vestibular gland
-Perineal body
-External anal sphincter m.
-Pelvic diaphragm
-External urethral orifice
-Ischiopubic ramus
-Ischiocavernosus m.
-Opening of greater vestibular gland
-Vaginal orifice
-Bulbospongiosus m.
-Perineal membrane
-Superficial transverse perineal m.
-Pudendal nerve and internal pudendal artery
-Perineal nerve and artery
-Posterior labial nerve and artery
-Deep branch of perineal nerve and artery
-Superficial branch of perineal nerve and artery
-Inferior rectal artery and nerve
-FIGURE 5.30
-Contents of the superficial perineal pouch in the female. Deep dissection. Bulbospongiosus and
-ischiocavernosus muscles have been removed on the right side of the illustration to show the erectile tissues.
-Deep dorsal vein of clitoris
-Inferior pubic ligament
-Anterior edge of perineal
-Dorsal nerve of clitoris
-Dorsal artery of clitoris
-External urethral sphincter muscle
-Deep transverse perineal m.
-Perineal membrane
-FIGURE 5.31
-Contents of the deep perineal pouch in the female.
-- Branches of the pudendal nerve (most notably,
-the dorsal nerve of the clitoris)
-**1.** Use an atlas illustration to study the following:
-*Grant's Atlas 258 | LWW Atlas 285 | Netter's 358 | Color Atlas 366 | Clemente's 345*
-- Urethra-extends from the internal urethral orifi ce in the urinary bladder to the external urethral orifi ce in the vestibule of the vagina
-(about 4 cm).
-- External urethral sphincter (sphincter ure-
-thrae) muscle-a voluntary muscle that sur- rounds the urethra. When the external urethral sphincter muscle contracts, it compresses the
-urethra and stops the fl ow of urine.
-- Deep transverse perineal muscle (paired) - has a lateral attachment to the ischial tuberosity
-and the ischiopubic ramus and a medial attach- ment to the perineal body. Its fi ber direction and function are identical to those of the superficial transverse perineal muscle (which is a content of
-the superficial perineal pouch).
-**2.** Other contents of the deep perineal pouch include branches of the internal pudendal artery and branches of the pudendal nerve that supply the
-external urethral sphincter muscle, the deep trans-
-verse perineal muscle, and the clitoris (FIG. 5.30).
-**3.** Collectively, the muscles within the deep perineal pouch plus the perineal membrane are known as the urogenital diaphragm. This older anatomical
-nomenclature is still in clinical use.
-Pubovesical ligament
-FIGURE 5.32
-Peritoneum in the female pelvis. The numbered features of
-the peritoneum are explained in the text.
-Dissection Follow-up
-**1.** Replace the muscles of the urogenital triangle in their
-correct anatomical positions.
-**2.** Review the contents of the female superficial perineal pouch. Visit a dissection table with a male cadaver and
-view the contents of the superficial perineal pouch.
-**3.** Use an atlas illustration to review the course of the  internal pudendal artery from its origin in the
-**4.** Use an atlas illustration to review the course and
-branches of the pudendal nerve.
-**5.** Review an atlas illustration that shows the female ure- thra and note its course from the urinary bladder to the
-
-### Female Pelvic Cavity
-Dissection Overview
-The female pelvic cavity contains the urinary bladder an-
-teriorly, the female internal genitalia, and the rectum pos- teriorly (FIG. 5.32). The term adnexa (L. adnexa, adjacent parts) refers to the ovaries, uterine tubes, and ligaments of the uterus. Removal of the uterus (hysterectomy), with or without the ovaries, is a common surgical procedure. If the
-uterus has been surgically removed from your cadaver,
-examine it in other cadavers.
-The order of dissection will be as follows: The perito- neum will be studied in the female pelvic cavity. The pelvis will be sectioned in the midline and the cut surface of the sectioned pelvis will be studied. The uterus and vagina will be studied. The uterine tube will be traced from the uterus
-to the ovary. The ovary will be studied.
-
-### Clinical Correlation
-
-### Obstetric Considerations
-To alleviate the pain of childbirth, a pudendal nerve block is performed by injecting a local anesthetic around the  pudendal nerve near the ischial spine. To perform the injection, the ischial spine is palpated through the vagina, and the needle is
-directed through the skin toward the ischial spine.
-As the head of the baby passes through the vagina during
-childbirth, the anus and the levator ani muscle are forced pos- teriorly toward the sacrum and coccyx. The urethra is forced anteriorly toward the pubic symphysis. Perineal lacerations
-during childbirth are common, and it may be necessary to sur- gically widen the vaginal orifi ce (episiotomy). If the perineal body is lacerated, it must be repaired to prevent weakness of the pelvic fl oor, which could result in prolapse of the urinary
-bladder, uterus, or rectum.
-
-## The Pelvis And Perineum
-Dissection Instructions
-*Peritoneum Grant's Atlas 236 | LWW Atlas 265 | Netter's 342 | Color Atlas 354 | Clemente's 342*
-**1.** Using FIGURE 5.32 as a reference, examine the perito neum in the female pelvis. Note that the
-peritoneum: (1, 2) Passes from the anterior abdominal wall superior to the pubis (3)  Covers the superior surface of the urinary
-(4)  Passes from the superior surface of the uri- nary bladder to the uterus where it forms the vesicoute rine pouch (5)  Covers the fundus and body of the uterus and contacts the wall of the posterior part of the vaginal fornix (6)  Forms the rectouterine pouch between the uterus and the rectum (7)  Covers the anterior surface and sides of the (8)  Forms the sigmoid mesocolon beginning at the level of the third sacral vertebra
-**2.** The paravesical fossa (paired) is a shallow depres- sion in the peritoneal cavity on the lateral side of
-the urinary bladder.
-**3.** The pararectal fossa (paired) is a shallow depres- sion in the peritoneal cavity on the lateral side of
-the rectum.
-Transversalis fascia
-(peritoneum removed)
-Inferior epigastric vein and artery
-External iliac
-Deep inguinal ring
-Ovarian ligament within
-mesovarium (cut)
-Uterine tube (cut)
-Round ligament of uterus
-Ureter (cut)
-Rectouterine fold
-Parietal peritoneum
-Femoral ring
-broad ligament:
-Mesosalpinx
-Mesometrium
-Broad ligament
-Perineal membrane
-Perineal body
-FIGURE 5.33
-Parts of the broad ligament of the uterus. Peritoneum has been removed from the inner
-surface of the abdominal wall on the right side of the illustration.
-
-### Clincal Correlation
-
-### Pelvic Peritoneum
-As the urinary bladder fi lls, the peritoneal reflection from the anterior abdominal wall to the bladder (FIG. 5.32, item 2) is elevated above the level of the pubis. A fi lled urinary bladder can be penetrated by a needle inserted superior to the pubis
-without entering the peritoneal cavity.
-**4.** Identify the broad ligament of the uterus. The broad ligament of the uterus is formed by two layers of peritoneum that extend from the lateral side of the uterus to the lateral pelvic wall. The uterine tube is contained within the superior margin of the broad ligament. The broad ligament
-has three parts (FIG. 5.33): [G 240; L 269; N 352;
-R 357; C 334]
-- Mesosalpinx (Gr. salpinx, tube) - supports the
-uterine tube.
-- Mesovarium-attaches the ovary to the poste-
-rior aspect of the broad ligament.
-- Mesometrium-the part of the broad liga-
-ment that is below the attachment of the mes-
-**4.** Identify the internal urethral orifi ce in the blad- der and insert a probe into it. Using the probe as a
-guide, cut through the inferior part of the bladder,
-dividing the urethra.
-**5.** Extend the midline cut in the posterior direction.
-Cut through the anterior and posterior walls of the rectum and the distal part of sigmoid colon. Sponge
-them clean.
-**6.** In the perineum, insert the tip of a probe into the external urethral orifi ce. Use the probe as a guide to make a midline cut through the clitoris, dividing
-it into right and left sides. Extend this cut posteri- orly, dividing the urethra and vagina into right and
-left sides.
-**7.** In the midline, cut through the perineal membrane, perineal body, and anal canal. Extend the cut to the
-tip of the coccyx.
-**8.** Use a saw to make two cuts in the midline:
-- Pubic symphysis - With the cadaver in the su- pine position, cut through the pubic symphysis from anterior to posterior. Do not allow the saw
-to pass into the scalpel incision.
-- Sacrum - Turn the cadaver to the prone posi- tion. Cut through the sacrum from posterior to anterior. Do not allow the saw to pass between the soft tissue structures that were cut with the
-scalpel. Spread the opening and extend the mid- line cut as far superiorly as the body of the third
-lumbar vertebra.
-**9.** Return the cadaver to the supine position. To mo- bilize the right lower limb, use a scalpel to cut the
-right common iliac vein, right common iliac artery, and right ovarian vessels. Cut the right ureter and
-the branches of the right lumbar plexus.
-**10.** In the transverse plane, use the scalpel to cut the
-psoas major muscle and quadratus lumborum mus-
-cles at vertebral level L3. Use the saw to cut hori- zontally through the right half of the intervertebral disc between L3 and L4. Now, the right lower limb
-can be removed.
-**11.** Clean the rectum and anal canal.
-*Female Internal Genitalia [G 236; L 268, 269; N 342,*
-348; R 354; C 342]
-**1.** Study the cut surface of the sectioned specimen
-(FIG. 5.34).
-**2.** Trace the sectioned urethra anteroinferiorly from
-the urinary bladder to the external urethral orifi ce.
-Attempt to identify the external urethral sphinc- ter muscle that surrounds the urethra. The external
-urethral sphincter muscle may be diffi cult to see.
-**3.** In the sectioned specimen, observe the vagina (FIG. 5.34). Observe that the anterior vaginal wall is
-**5.** The tissue enclosed between the two layers of the
-broad ligament is called parametrium (Gr. para,
-beside; metra, womb, uterus).
-**6.** Identify the round ligament of the uterus, which is visible through the anterior layer of the broad
-ligament (FIG. 5.33). Observe that the round liga- ment of the uterus passes over the pelvic brim and exits the abdominal cavity by passing through the deep inguinal ring, lateral to the inferior epigastric vessels. The round ligament of the uterus passes through the inguinal canal and ends in the labium
-**7.** Identify the ovarian ligament, which is a fi brous cord within the broad ligament that connects the
-ovary to the uterus.
-**8.** Identify the suspensory ligament of the ovary, which is a peritoneal fold that covers the  ovarian vessels. The suspensory ligament of the ovary extends into the greater pelvis from the superior
-aspect of the ovary.
-**9.** The endopelvic fascia (extraperitoneal fascia) con-
-tains condensations of connective tissue that pas- sively support the uterus. Study an atlas illustration
-*and note the following: Grant's Atlas 255 | LWW Atlas 270 | Netter's 345 | Clemente's 355*
-- Uterosacral (sacrogenital) ligament-extends from the cervix to the sacrum. The uterosacral
-ligament underlies the uterosacral fold.
-- Transverse cervical ligament (cardinal liga- ment) - extends from the cervix to the lateral
-wall of the pelvis.
-- Pubocervical (pubovesical) ligament-extends
-from the pubis to the cervix.
-Section of the Pelvis
-The pelvis will be divided in the midline. First, the pelvic viscera and the soft tissues of the perineum will be cut in
-the midline with a scalpel. The pubic symphysis and ver- tebral column (up to vertebral level L3) will be cut in the midline with a saw. Subsequently, the right side of the body will be transected at vertebral level L3. The left lower limb
-and left side of the pelvis will remain attached to the trunk.
-Both halves of the pelvis will be used to dissect the pelvic viscera, pelvic vasculature, and nerves of the
-pelvis. One-half of the pelvis will be used to demon-
-strate the muscles of the pelvic diaphragm.
-**1.** Begin this dissection with a new scalpel blade.
-**2.** Use your hand to position the uterus in the mid- line. Use a scalpel to divide the uterus in its median plane. Extend the cut through the cervix and into
-the fornix of the vagina.
-**3.** Beginning posterior to the pubic symphysis, make a midline cut through the superior surface of the urinary bladder. Open the bladder and sponge the
-interior, if necessary.
-
-## The Pelvis And Perineum shorter than the posterior vaginal wall. Identify the
-vaginal fornix and explore its four parts (FIGS. 5.34
-- Anterior part
-- Lateral part (paired: right and left)
-- Posterior part rectal fold
-Vaginal fornix:
-Posterior part
-Anterior part
-Rectouterine
-Anal sphincters:
-Perineal body
-Vaginal canal and orifice
-Labium minus
-External urethral
-External urethral
-sphincter m.
-Vesicouterine
-FIGURE 5.34
-Sagittal secion of the female pelvis.
-Uterine tube (retracted):
-Infundibulum
-Uterine cavity
-Ovarian ligament
-Ovarian artery and vein
-Internal os
-Cervical canal
-Fornix of vagina
-(lateral part)
-External os
-Cervix of uterus
-Body of uterus
-Suspensory ligament of ovary
-(containing ovarian vessels)
-Fundus of uterus
-Peritoneum (cut)
-Round ligament of uterus
-Broad ligament:
-Mesosalpinx
-Mesometrium
-FIGURE 5.35
-Uterus, uterine tubes, ovaries, and broad ligament. Posterior view.
-**4.** Observe that the posterior wall of the vagina (near
-the posterior part of the vaginal fornix) is in con- tact with the peritoneum that lines the rectouterine
-**5.** Study the uterus (FIGS. 5.34 and 5.35). Observe that the uterus is tilted approximately 90° anterior to the axis of the vagina (anteverted). The position of
-Dissection Follow-up
-**1.** Review the position of the female pelvic viscera within the pelvic cavity. Visit a dissection table with a male cadaver and observe the position of the male pelvic
-**2.** Review the peritoneum in the female pelvic cavity.  Visit
-a dissection table with a male cadaver and compare dif-
-ferences in the female and male peritoneum (FIGS. 5.17
-**3.** Trace the round ligament of the uterus from the super-
-fi cial inguinal ring to the uterus.
-**4.** Visit a table with a male cadaver and trace the ductus
-deferens from the epididymis to the ejaculatory duct,
-noting its relationships to vessels, nerves, the ureter,
-and the seminal vesicle.
-**5.** Compare the pelvic course of the ductus deferens with the pelvic course of the round ligament of the
-**6.** Review the parts of the broad ligament and review the function of the endopelvic fascia in passive support of
-the uterus.
-URINARY BLADDER, RECTUM, AND
-
-### Anal Canal
-Dissection Overview
-The urinary bladder is a reservoir for urine. When empty,
-it is located within the pelvic cavity. When fi lled, it ex- tends into the abdominal cavity. The urinary bladder is
-a retroperitoneal organ that is surrounded by endopel- vic fascia. Between the pubic symphysis and the urinary bladder, there is a potential space called the retropubic space  (prevesical space) (FIG. 5.32). The retropubic space
-is fi lled with fat and loose connective tissue that accommo-
-dates the expansion of the urinary bladder. The pubovesi- cal ligament is a condensation of fascia that ties the neck of the urinary bladder to the pubis across the retropubic space. The  pubovesical ligament defi nes the inferior limit of the retropubic space (FIG. 5.32). The lower one-third of the rectum is surrounded by endopelvic fascia. The middle and upper thirds of the rectum are partially covered by
-peritoneum (FIG. 5.32).
-The order of dissection will be as follows: The parts of the urinary bladder will be studied. The interior of the urinary bladder will be studied. The interior of the rectum
-and anal canal will be studied.
-Dissection Instructions
-*Urinary Bladder LWW Atlas 266 | Netter's 350*
-**1.** Identify the parts of the urinary bladder (FIG. 5.36):
-- Apex-the pointed part directed toward the an- terior abdominal wall. The apex of the urinary the uterus changes as the bladder fi lls, and  during
-*pregnancy. [G 241, 287; L 270; N 355; R 356, 357;*
-C 332, 334]
-**6.** Identify the following features of the uterus
-(FIG. 5.35):
-- Fundus-the rounded part of the body that lies superior to the attachments of the uterine
-- Body-the part of the uterus between the fundus and the cervix. The vesical surface of the body of the uterus faces the vesicouterine
-pouch and the intestinal surface faces the rec- touterine pouch. Note that the broad ligament is attached to the lateral surface of the body of
-the uterus.
-- Isthmus-the narrowed portion of the body
-that is superior to the cervix.
-- Cervix-the thick-walled portion of the uterus
-that protrudes into the vaginal canal.
-**7.** Identify the uterine cavity. In a coronal section, it is triangular (FIG. 5.35). In a sagittal section, it is a
-slit (FIG. 5.34).
-**8.** Note that the uterine mucosa is called endome- trium. The thick muscular wall of the uterus is called myometrium. The peritoneal covering on
-the  surface of the uterus is called perimetrium (Gr. peri, around). The tissues within the broad ligament
-are called parametrium (Gr. para,  beyond).
-**9.** Identify the uterine tube (FIG. 5.35). Use your fi n- gers to follow the uterine tube as it passes laterally
-within the mesosalpinx. Observe:
-- Isthmus-the narrow, medial one-third of the
-uterine tube.
-- Ampulla-the widest and longest part of the
-uterine tube.
-- Infundibulum-the funnel-like end of the uter-
-- Fimbriae-multiple processes that surround
-the distal margin of the infundibulum.
-**10.** Observe the ovary. The ovary is ovoid, with a tubal
-(distal) extremity and a uterine (proximal) ex-
-tremity. The ovarian vessels enter the tubal ex- tremity of the ovary, and the ligament of the ovary
-is attached to the uterine extremity.
-**11.** The ovary sits in the ovarian fossa. The ovarian fossa is a shallow depression in the lateral pelvic wall bounded by the ureter, external iliac vein, and
-uterine tube.
-**12.** Review the abdominal origin and course of the ovarian vessels. Note that they pass through the
-suspensory ligament of the ovary (FIG. 5.35).
-
-## The Pelvis And Perineum
-**2.** Identify the four surfaces of the urinary bladder
-(FIG. 5.36):
-- Superior-covered by peritoneum.
-- Posterior-covered by peritoneum on its su- perior part and by the endopelvic fascia on its
-inferior part.
-- Inferolateral (paired) - covered by endopelvic
-**3.** Examine the wall of the urinary bladder and note its thickness. The wall of the urinary bladder consists of bundles of smooth muscle called the
-detrusor muscle (L. detrudere, to thrust out).
-**4.** Identify the trigone on the inner surface of the fundus (FIG. 5.37). The angles of the trigone are the internal urethral orifi ce and the two  orifi ces of the ureters. The internal urethral orifi ce is located
-at the most inferior point in the urinary bladder.
-The  interureteric crest is a ridge that extends across the trigone between the orifi ces of the
-*ureters. LWW Atlas 267 | Netter's 350 | Color Atlas 338*
-**5.** Observe that the mucous membrane over the trigone is smooth. The mucous membrane lining the other parts of the urinary bladder lies in folds when the
-bladder is empty but will accommodate  expansion.
-**6.** Insert the tip of a probe into the orifi ce of the  ureter and observe that the ureter passes through the wall
-of the urinary bladder in an oblique direction. bladder can be identifi ed by the attachment of
-the urachus.
-- Body-between the apex and fundus.
-- Fundus-the inferior part of the posterior wall,
-also called the base of the bladder. In the fe- male, the fundus is related to the vagina and
-- Neck-where the urethra exits the urinary blad- der. In the neck of the urinary bladder, the wall
-thickens to form the internal urethral sphinc-
-ter, which is an involuntary muscle.
-Vesicouterine pouch
-Superior surface
-Inferolateral
-FIGURE 5.36
-Parts of the urinary bladder in the female.
-Detrusor muscle
-Orifices of the ureters
-Trigone of bladder
-Internal urethral orifice
-Levator ani muscle
-External urethral sphincter muscle
-Dorsal nerve and artery of clitoris
-Interureteric crest
-Ischiocavernosus muscle
-Superficial perineal fascia
-External urethral orifice
-Vestibule of vagina
-Bulb of vestibule
-Crus of corpus cavernosum
-(crus of clitoris)
-Perineal membrane
-Deep artery of clitoris
-Tunica albuginea
-Bulbospongiosus muscle
-FIGURE 5.37
-Urinary bladder and urethra in the female seen in frontal section.
-**7.** Find the ureter where it crosses the external iliac
-artery or the bifurcation of the common iliac artery.
-Use a probe to follow the ureter to the fundus of the urinary bladder. Observe that the ureter crosses inferior to the uterine artery and superior to the
-*vaginal artery. Grant's Atlas 238 | LWW Atlas 268 | Netter's 380 | Color Atlas 330*
-*Rectum and Anal Canal [G 215, 236; L 272; N 342, 373;*
-R 354; C 342, 359]
-**1.** Recall that the rectum begins at the level of the third sacral vertebra. Observe the sectioned pelvis and note that the rectum follows the curvature of
-the sacrum (FIG. 5.34).
-**2.** Identify the ampulla of the rectum (FIGS. 5.34 and
-5.38). At the ampulla, the rectum bends approxi- mately 80° posteriorly (anorectal flexure) and is
-continuous with the anal canal.
-When the urinary bladder is full  (distended), the pressure of the accumulated urine fl attens the part of the ureter that is within the wall of the bladder
-and prevents refl ux of urine into the  ureter.
-Puborectalis m.
-Circular muscle
-Longitudinal muscle
-Levator ani m. and fascia external anal
-sphincter m.
-Superficial
-Subcutaneous
-Internal anal sphincter m.
-Anal column
-* Blended with puborectalis m.
-FIGURE 5.38
-Rectum, anal canal, and anal sphincter muscles.
-
-### Clinical Correlation
-
-### Kidney Stones
-Kidney stones pass through the ureter to the urinary bladder and they may become lodged in the ureter. The point where the ureter passes through the wall of the urinary bladder is a
-relatively narrow passage. If a kidney stone becomes lodged, severe colicky pain results. The pain stops suddenly once the
-stone passes into the bladder.
-**3.** Examine the inner surface of the rectum. Note that
-the mucous membrane is smooth except for the pres- ence of transverse rectal folds (FIG. 5.34). There is usually one transverse rectal fold on the right side and two on the left side. The transverse rectal folds
-may be diffi cult to identify in some  cadavers.
-**4.** Observe that the anal canal is only 2.5 to 3.5 cm in
-length (FIG. 5.38). The anal canal passes out of the pel-
-vic cavity and enters the anal triangle of the perineum.
-**5.** Examine the inner surface of the anal canal (FIG. 5.38). Note that the mucosal features of the
-anal canal may be diffi cult to identify in older indi-
-viduals, but attempt to identify the  following:
-- Anal columns - 5 to 10 longitudinal ridges of
-mucosa in the proximal part of the anal  canal.
-The anal columns contain branches of the
-superior rectal artery and vein.
-- Anal valves-semilunar folds of mucosa that
-unite the distal ends of the anal columns. Exter- nal to each anal valve is a small pocket called an
-anal sinus.
-- Pectinate line-the irregular line formed by all
-of the anal valves.
-
-### Clinical Correlation
-HEMORRHOIDS
-In the anal columns, the superior rectal veins of the hepatic por- tal system anastomose with middle and inferior rectal veins of the inferior vena caval system. An abnormal increase in blood pressure in the hepatic portal system causes engorgement of the veins contained in the anal columns, resulting in internal hemorrhoids. Internal hemorrhoids are covered by mucous membrane, which is innervated by autonomic nerve fi bers. They
-may not experience pain or the pain may be poorly localized.
-External hemorrhoids are enlargements of the tributaries of the inferior rectal veins. External hemorrhoids are covered by skin which is innervated by somatic nerves (inferior rectal
-nerves). External hemmorrhoids experience highly specifi c,
-somatic pain.
-**6.** The anal sphincter muscles surround the anal canal. Identify the external anal sphincter  muscle
-and the internal anal sphincter  muscle in the sec-
-tioned specimen (FIGS. 5.34 and 5.38). The longi- tudinal muscle of the anal  canal separates the two sphincter muscles. If you have diffi culty identifying them, use a new scalpel blade to cut another section through the wall of the anal canal to improve the
-clarity of the  dissection.
-
-## The Pelvis And Perineum
-The internal iliac artery commonly divides into an ante- rior division and a posterior division. Branches arising from
-the anterior division are mainly visceral (branches to the uri-
-nary bladder, internal genitalia, external genitalia, rectum,
-and gluteal region). Parietal branches arise from the poste-
-rior division (branches to the pelvic walls and gluteal region).
-The order of dissection will be as follows: The branches of the anterior division of the internal iliac artery will be
-identifi ed. The branches of the posterior division of the in- ternal iliac artery will be identifi ed. The nerves of the sacral plexus will be dissected. Finally, the pelvic portion of the
-sympathetic trunk will be dissected.
-Dissection Instructions
-*Blood Vessels Grant's Atlas 246 | LWW Atlas 274 | Netter's 380*
-**1.** The internal iliac vein is typically plexiform. To clear the dissection fi eld, remove all tributaries to
-the internal iliac vein.
-**2.** Identify the common iliac artery and follow it dis-
-tally until it bifurcates.
-**3.** Identify the internal iliac artery. Use blunt dissec-
-tion to follow the internal iliac artery into the pelvis.
-**4.** Identify the branches of the anterior division of the
-internal iliac artery (FIG. 5.39):
-- Umbilical artery-in the medial umbilical fold, fi nd the medial umbilical ligament (the remnant of the umbilical artery) and use blunt
-dissection to trace it posteriorly to the umbili- cal artery. Note that several superior vesical arteries arise from the inferior surface of the
-umbilical artery and descend to the superolat-
-eral aspect of the urinary bladder.
-Dissection Follow-up
-**1.** Use the dissected specimen to review the features of
-the urinary bladder, rectum, and anal canal.
-**2.** Review the relationships of the uterus, vagina, and ure-
-ters to the rectum and fundus of the urinary  bladder.
-**3.** Visit a dissection table with a male cadaver and review the relationships of the seminal vesicles, ampulla of the ductus deferens, and ureters to the rectum and fundus
-of the urinary bladder.
-**4.** Review the kidney, the abdominal course of the ureter, the pelvic course of the ureter, and the function of the
-urinary bladder as a storage organ.
-**5.** Review the female urethra. Visit a table with a male
-cadaver and review the parts of the male urethra.
-**6.** Review all parts of the large intestine and recall its function in absorption of water and in compaction and
-elimination of fecal material.
-**7.** Recall that the external anal sphincter muscle is composed of skeletal muscle and is under voluntary control, whereas the internal anal sphincter muscle is
-composed of smooth muscle and is involuntary.
-
-### Internal Iliac Artery And Sacral
-Dissection Overview
-Anterior to the sacroiliac articulation, the common iliac artery divides to form the external and internal iliac arteries (FIG. 5.39). The external iliac artery distributes to the lower limb and the internal iliac artery distributes to the pelvis. The internal iliac artery has the most variable branching pattern of any artery, and it is worth noting at the outset of this dissection that you must use the distribution of the
-branches to identify them, not their pattern of branching.
-Common iliac artery
-Iliolumbar artery
-Lumbosacral trunk
-Lateral sacral artery
-Anterior rami:
-Superior gluteal artery
-Inferior gluteal artery
-Pudendal nerve
-Internal pudendal artery
-Middle rectal artery
-Internal iliac artery
-External iliac artery
-Umbilical artery
-Obturator artery
-Deep circumflex iliac artery
-Inferior epigastric
-Medial umbilical ligament (obliterated
-umbilical artery)
-Superior vesical arteries
-Urinary bladder
-Uterine artery
-FIGURE 5.39
-Branches of the internal iliac artery in the female.
-S3 but it may pass between ventral rami S1 and
-S2. The inferior gluteal artery exits the pelvis by passing through the greater sciatic foramen inferior to the piriformis muscle. The inferior gluteal artery may share a common trunk with
-the internal pudendal artery, or less commonly,
-with the superior gluteal artery.
-**5.** Identify the branches of the posterior division of
-the internal iliac artery (FIG. 5.39):
-- Iliolumbar artery-passes posteriorly, then as- cends between the lumbosacral trunk and the obturator nerve. It may arise from a common
-trunk with the lateral sacral artery.
-- Lateral sacral artery-gives rise to a superior branch and an inferior branch. Observe that the
-inferior branch passes anterior to the sacral ven-
-- Superior gluteal artery-usually exits the
-pelvic cavity by passing between the lumbo- sacral trunk and the ventral ramus of spinal
-**6.** Use an atlas illustration to study the vesical venous plexus, uterine venous plexus, vaginal venous
-plexus, and rectal venous plexus. All of these plex-
-uses drain into the internal iliac vein.
-*Nerves Grant's Atlas 211 | LWW Atlas 275 | Netter's 392 | Color Atlas 471 | Clemente's 362*
-The somatic plexuses of the pelvic cavity are the sacral
-plexus and coccygeal plexus. These plexuses are locat-
-ed between the pelvic viscera and the lateral pelvic wall,
-within the endopelvic fascia. These somatic nerve plex- uses are formed by contributions from anterior rami of
-spinal nerves L4 to S4.
-The primary visceral nerve plexus of the pelvic cavi- ty is the inferior hypogastric plexus (also called pelvic
-plexus). It is formed by contributions from the hypo-
-gastric nerves, sacral splanchnic nerves (sympathetic),
-and pelvic splanchnic nerves (parasympathetic).
-**1.** Use your fi ngers to dissect the rectum from the an-
-terior surface of the sacrum and coccyx.
-**2.** Retract the rectum medially and identify the sacral plexus of nerves. The sacral plexus is closely  related
-to the anterior surface of the piriformis muscle.
-Verify the following (FIG. 5.40):
-- The lumbosacral trunk (anterior rami of L4
-and L5) joins the sacral plexus.
-- The anterior rami of S2 and S3 emerge between
-the proximal attachments of the piriformis  muscle.
-- The sciatic nerve is formed by the anterior
-rami of spinal nerves L4 through S3. The sci-
-- Obturator artery-passes into the obturator canal. Find the obturator artery where it enters
-the obturator canal in the lateral wall of the pel-
-vis, and follow the artery posteriorly to its ori-
-gin. In about 20% of cases, an aberrant obtura-
-tor artery (a branch of the external iliac artery) crosses the pelvic brim and is at risk of injury
-during surgical repair of a femoral hernia.
-- Uterine artery-courses along the inferior at-
-tachment of the broad ligament. Use blunt dis- section to trace it to the lateral aspect of the uterus and note that it passes superior to the ureter. The uterine artery divides into a large superior branch to the body and fundus of the
-uterus and a  smaller branch to the cervix and va-
-gina.  Observe the close relationship of the later-
-al part of the vaginal fornix to the uterine artery.
-In a living person, the pulsations of the uterine artery may be felt through the lateral part of the
-vaginal fornix.
-
-### Clinical Correlation
-
-### Uterine Artery
-The close proximity of the ureter and the uterine artery near
-the lateral fornix of the vagina is of clinical importance.
-During hysterectomy, the uterine artery is tied off and cut.
-The ureter may be unintentionally clamped, tied off, and cut
-where it crosses the uterine artery. This would have seri- ous consequences for the corresponding kidney. To recall this relationship, use the mnemonic device "water under
-the bridge." The "water" is urine; the "bridge" is the uter-
-ine artery.
-- Vaginal artery-passes across the fl oor of the pelvis, inferior to the ureter. The vaginal artery
-supplies the vagina and the urinary bladder.
-Note that the ureter passes between the vaginal
-artery and the uterine artery.
-- Middle rectal artery-courses medially toward
-the rectum. To confi rm the identity of the mid-
-dle rectal artery, follow it to the rectum.
-- Internal pudendal artery-exits the pelvic cavity by passing through the greater sciatic foramen inferior to the piriformis muscle. The internal pudendal artery often arises from a
-common trunk with the inferior gluteal  artery.
-- Inferior gluteal artery-usually passes out of the pelvic cavity between ventral rami S2 and
-
-## The Pelvis And Perineum
-- Gray rami communicantes-connect the
-sympathetic ganglia to the sacral anterior rami.
-Each gray ramus communicans carries postsyn- aptic sympathetic fi bers to an anterior ramus for distribution to the lower extremity and the
-- Sacral splanchnic nerves-arise from two or three of the sacral sympathetic ganglia and pass directly to the inferior hypogastric
-plexus. Sacral splanchnic nerves carry sym- pathetic  fibers that distribute to the pelvic atic nerve  exits the pelvis by passing through the greater sciatic  foramen, usually inferior to the
-piriformis muscle.
-- The superior gluteal artery usually passes
-between the lumbosacral trunk and the anteri-
-or ramus of spinal nerve S1, and exits the pel-
-vis by passing superior to the piriformis muscle.
-- The inferior gluteal artery usually passes be- tween the anterior rami of spinal nerves S2 and
-S3 but it may pass between anterior rami S1 and
-S2. The inferior gluteal artery exits the pelvis by
-passing inferior to the piriformis muscle.
-- The pudendal nerve is formed by contributions
-from the anterior rami of spinal nerves S2, S3, and S4. The pudendal nerve exits the pelvis by
-passing inferior to the piriformis muscle.
-**3.** Identify the pelvic splanchnic nerves (nervi eri- gentes). Pelvic splanchnic nerves are branches of
-the anterior rami of spinal nerves S2, S3, and S4
-(FIG. 5.40). Pelvic splanchnic nerves carry presyn- aptic parasympathetic axons for the innervation of pelvic organs and the distal gastrointestinal tract
-(from the left colic flexure through the anal ca-
-*nal). Grant's Atlas 251 | LWW Atlas 275 | Netter's 392 | Clemente's 362*
-**4.** The sacral portion of the sympathetic trunk is
-located on the anterior surface of the sacrum, me- dial to the anterior sacral foramina. Identify the
-- Sympathetic trunk-continues from the abdomi- nal region into the pelvis. The sympathetic trunks of the two sides join in the midline near the level of
-the coccyx to form the ganglion  impar.
-Superior gluteal a.
-Lumbosacral trunk
-Pelvic splanchnic
-Pudendal nerve
-Sciatic nerve
-Anterior rami:
-Inferior gluteal a.
-FIGURE 5.40
-Sacral plexus of nerves in the female.
-
-### Clinical Correlation
-
-### Pelvic Nerve Plexuses
-The inferior hypogastric plexus is located in the endopelvic fascia lateral to the bladder, uterus, vagina, and rectum. This
-autonomic nerve plexus could be injured during pelvic surgery,
-causing loss of bladder control.
-Dissection Follow-up
-**1.** Review the abdominal aorta and its terminal branches.
-**2.** Use the dissected specimen to review the branches of the internal iliac artery. Review the region supplied by
-each branch.
-**3.** Review the relationship of the uterine and vaginal
-arteries to the ureter.
-**4.** Review the formation of the sacral plexus and the
-branches that were dissected in the pelvis.
-**5.** Use the dissected specimen and an atlas illustration to review the course of the pudendal nerve from the
-pelvic cavity to the urogenital triangle.
-
-### Pelvic Diaphragm
-Dissection Overview
-The pelvic diaphragm is the muscular fl oor of the pelvic cavity. The pelvic diaphragm is formed by the levator ani muscle and coccygeus muscle plus the fasciae covering their
-superior and inferior surfaces (FIG. 5.41A, B). The pelvic dia-
-phragm extends from the pubic symphysis to the coccyx.
-Laterally, the pelvic diaphragm is attached to the fascia covering the obturator internus muscle. The urethra and vagina and the anal canal pass through midline openings in the pelvic diaphragm called the urogenital hiatus and anal
-hiatus, respectively.
-Arcuate pubic ligament
-Urogenital hiatus
-Ischiopubic ramus
-Anal hiatus
-Anococcygeal raphe
-Ischial tuberosity
-Sacrotuberous ligament
-Sacrospinous ligament (cut)
-Piriformis muscle
-Ischial spine
-Obturator internus muscle and tendon
-Pelvic diaphragm:
-Levator ani muscle:
-Coccygeus muscle
-Puborectalis muscle
-Pubococcygeus muscle
-Iliococcygeus muscle
-FIGURE 5.41
-Pelvic diaphragm in the female. A. Left lateral view. B. Inferior view.
-Obturator internus muscle and fascia
-Piriformis muscle
-Coccygeus muscle
-Ischial spine
-Levator ani muscle:
-Iliococcygeus muscle
-Pubococcygeus muscle
-Puborectalis muscle
-Tendinous arch of levator
-Obturator canal
-
-## The Pelvis And Perineum surface of the pelvic diaphragm. Palpate the pelvic
-diaphragm and appreciate its thinness.
-**9.** Observe that the obturator internus muscle forms the lateral wall of the ischioanal fossa. The medial attachment of the obturator internus  muscle is the margin of the obturator foramen and inner surface of the obturator membrane. The lateral attachment of the obturator internus muscle will be studied when the gluteal region is dissected. Superior to the tendinous arch of the levator ani muscle, the obturator internus muscle forms the lateral wall of the pelvic cavity. Inferior to the tendinous arch, the obturator internus muscle forms the lateral wall of
-the perineum.
-**10.** Use your textbook to learn the general pattern
-of lymphatic drainage of the pelvis and the loca- tion of each of the following groups of lymph
-*nodes: Grant's Atlas 217 | LWW Atlas 290 | Netter's 386 | Color Atlas 360*
-- Internal iliac nodes
-- External iliac nodes
-- Common iliac nodes
-- Sacral nodes
-- Lumbar nodes
-Dissection Follow-up
-**1.** Use the dissected specimen to review the proximal attachment and action of each muscle of the pelvic
-**2.** Review the relationship of the branches of the internal
-iliac artery to the pelvic diaphragm.
-**3.** Review the relationship of the sacral plexus to the
-pelvic diaphragm.
-**4.** Use an atlas illustration to review the role played by the pelvic diaphragm in forming the boundary between the pelvic cavity and the perineum. Review the function of the pelvic diaphragm and perineal body in supporting
-the pelvic and abdominal viscera.
-**5.** Use an atlas illustration to review the lymphatic drain-
-age from the pelvis and perineum. Realize that struc- tures in the perineum (including the labia  majora and the lower part of the anal canal) drain into superficial inguinal lymph nodes. The lymphatic drainage of the ovary follows the ovarian vessels to the lumbar chain of
-nodes, bypassing the pelvic drainage systems.
-**6.** Review the formation of the thoracic duct to complete your understanding of the lymph drainage from this
-**7.** Visit a dissection table with a male cadaver and per-
-form a complete review of the dissected male pelvis.
-Dissection Instructions
-**1.** Perform the dissection of the pelvic diaphragm on one side of the cadaver. Save the side with the best
-*dissection of arteries and nerves for review. [G 206,*
-209; L 278, 279; N 337-339; C 343]
-**2.** Retract the urinary bladder, uterus, and rectum to-
-ward the midline.
-**3.** Use blunt dissection to remove any remaining fat and connective tissue from the superior surface of
-the pelvic diaphragm.
-**4.** To fi nd the tendinous arch of the levator ani muscle (FIG. 5.41A), palpate the medial surface of
-the ischial spine and then locate the obturator ca- nal. The tendinous arch lies just inferior to a line
-connecting these two structures. Note that the ten- dinous arch is the superior edge of the levator ani
-**5.** Identify the three muscles that form the levator
-ani muscle. The muscles are identifi ed by their an- terior attachments. Learn, but do not dissect, their
-posterior attachments. Identify the following:
-- Puborectalis muscle-its anterior attachment is the body of the pubis. Its posterior  attachment is the puborectalis muscle of the opposite side (in a midline raphe). The puborectalis muscle forms
-the margin of the urogenital hiatus (FIG. 5.41B).
-The two puborectalis muscles form a  "puborectal sling," which causes the anorectal flexure at the ampulla of the rectum (FIG. 5.38). During defecation, the puborectalis muscles relax, the anorectal flexure straightens, and the elimination
-of fecal matter is facilitated.
-- Pubococcygeus muscle-its anterior attach- ment is the body of the pubis. Its posterior attachment is the coccyx and the anococcygeal
-- Iliococcygeus muscle-its anterior attachment is the tendinous arch. Its posterior attachment is
-the coccyx and the anococcygeal raphe.
-**6.** The levator ani muscle supports the pelvic viscera
-and resists increases in intra-abdominal pressure.
-**7.** Identify the coccygeus muscle. The coccygeus
-muscle completes the pelvic diaphragm posteriorly.
-The anterior attachment of the coccygeus muscle is the ischial spine and its posterior attachment is the lateral border of the coccyx and the lowest part of
-the sacrum (FIG. 5.41A).
-**8.** Place the fi ngers of one hand in the ischioanal fossa and the fi ngers of the other hand on the superior
-
-### C H A P T E R
-ATLAS REFERENCES:
-G = Grant's Atlas, 13th ed., page number
-L = LWW Atlas of Anatomy, 1st ed., page number
-N = Netter's Atlas, 5th ed., plate number
-R = Color Atlas of Anatomy, 7th ed., page number
-C = Clemente's Atlas, 6th ed., plate number
-The Lower Limb
-The functional requirements of the lower limb are weight bearing, locomotion, and maintenance of equilibrium. As
-such, it is constructed for strength at the cost of mobility.
-The lower limb is divided into four parts: hip, thigh, leg, and foot (FIG. 6.1). It is worth noting that the term leg refers only to the portion of the lower limb between the knee and
-ankle, not to the entire lower limb.
-
-### Surface Anatomy
-*Grant's Atlas 373 | LWW Atlas 87 | Netter's 469 | Color Atlas 476 | Clemente's 410*
-The surface anatomy of the lower limb can be studied on a living subject or on the cadaver. Place the cadaver in the supine position and palpate the following structures
-(FIG. 6.1):
-- Iliac crest
-- Anterior superior iliac spine
-- Pubic tubercle
-- Patella
-- Medial femoral epicondyle
-- Lateral femoral epicondyle
-- Medial malleolus
-- Lateral malleolus
-
-### Superficial Veins And
-
-### Cutaneous Nerves
-Dissection Overview
-The order of dissection will be as follows: The entire lower limb will be skinned. The super! cial veins and cutaneous
-Iliac crest
-Anterior superior iliac spine
-Inguinal ligament
-Pubic tubercle
-Medial femoral epicondyle
-Lateral femoral epicondyle
-Medial malleolus
-Lateral malleolus
-FIGURE 6.1
-Surface anatomy of the lower limb.
-nerves will be dissected. The subcutaneous connective tis- sue and fat will be removed, leaving selected super! cial veins and cutaneous nerves intact. The deep fascia of the
-thigh will be studied.
-Dissection Instructions
-Skin Incisions
-**1.** The objective is to remove the skin from the lower
-limb, leaving the super! cial fascia, super! cial veins,
-and cutaneous nerves undisturbed.
-**2.** Refer to FIGURE 6.2A. Make a cut from the anterior superior iliac spine (D) along the inguinal ligament to the pubic tubercle. Extend this cut around the medial side of the thigh to the posterior surface of the thigh (E). If the abdomen and perineum have
-been dissected, this cut has been made previously.
-**3.** Make a vertical cut from the midpoint of the inguinal ligament (F) passing over the patella to the
-dorsum of the foot (G).
-**4.** Make a cut across the dorsum of the foot at the webs of the toes (H to H). The skin is very thin on
-the dorsum of the foot. Do not cut too deeply.
-**5.** Make one cut along the dorsal midline of each toe
-to the proximal end of the nail (H to P).
-**6.** Remove the skin from the thigh, leg, and dorsum
-of the foot as far laterally and medially as possi- ble. Make as many transverse skin incisions as are
-needed to speed up the skinning process.
-**7.** Turn the cadaver into the prone position and refer
-to FIGURE 6.2B.
-**8.** If not already done during the dissection of the pel- vis, remove the skin from the gluteal region. Make
-a midline incision and work from medial to lateral.
-Detach the skin along line J to K and the lateral
-side of the hip and place it in the tissue container.
-**9.** Make a cut along the midline of the thigh and leg
-from the gluteal fold to the heel (E to I).
-**10.** Extend the previous transverse skin incisions around the limb to join incision E to I. Begin at
-line E to I and work both medially and laterally.
-Remove the skin completely from the lower limb
-and place it in the tissue container.
-**11.** Remove the skin from the sole of the foot using the cuts indicated in FIGURE 6.2C. The skin is thick over
-the heel and over the heads of the metatarsal bones,
-but it is thinner on the toes and the instep.
-Superfi cial Fascia of the Posterior Lower Limb
-*Grant's Atlas 364 | LWW Atlas 89 | Netter's 472 | Color Atlas 486 | Clemente's 428*
-**1.** With the cadaver still in the prone position,  examine the structures contained in the superficial fascia of
-the posterior aspect of the lower limb (FIG. 6.3B).
-**2.** Find the small saphenous vein where it passes posterior to the lateral malleolus at the ankle
-(FIG. 6.3B). Use blunt dissection to follow it superi-
-orly. Note the following:
-- The small saphenous vein arises from the lateral
-end of the dorsal venous arch.
-- It pierces the deep fascia in the popliteal fossa.
-- It drains into the popliteal vein.
-**3.** Identify the sural nerve (L. sura, calf of the leg).
-The sural nerve pierces the deep fascia halfway down the posterior aspect of the leg and courses
-
-### P P P P
-FIGURE 6.2
-Skin incisions. parallel to the small saphenous vein. The sural nerve innervates the skin of the lateral aspect of the
-ankle and foot.
-**4.** Use an illustration (FIG. 6.3B) to study the  cutaneous innervation of the posterior surface of the lower
-limb and note the following:
-- Cluneal nerves innervate the skin of the gluteal
-region (L. clunis, buttock):
-- Superior cluneal nerves-branches of the
-posterior rami of L1 to L3 innervate the up-
-per buttock.
-- Middle cluneal nerves-branches of the
-posterior rami of S1 to S3 innervate the mid-
-dle part of the buttock.
-- Inferior cluneal nerves-branches of the posterior cutaneous nerve of the thigh wrap around the inferior border of the gluteus maximus muscle and innervate the skin over
-the lower part of the buttock.
-- Posterior cutaneous nerve of the thigh-lies deep to the deep fascia (FIG. 6.3B, ghosted).
-Branches of this nerve pierce the deep fascia to supply the skin on the posterior surface of the
-thigh and popliteal fossa.
-
+## 骨盆與會陰位於同一垂直平面。在此位置上，骨盆入口平面與水平面約成 55° 角。
+[G 201; L 262; N 336; R 439]
 
 ---
 
-*Atlas References: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+## 骨盆概述
+
+### Pelvic Girdle（骨盆帶）
+
+骨盆帶由左右兩塊髖骨（hip bone）與骶骨（sacrum）連接而成。髖骨與骶骨之間的關節（sacroiliac joint）由前、後 sacroiliac ligament（骶髂韌帶）加強。髖骨與 L5 椎骨之間的關節由 **iliolumbar ligament**（髂腰韌帶）加強。
+
+辨認 **pubic arch（恥骨弓）**。注意 subpubic angle（恥骨下角）在女性比男性更寬。
+[G 202; L 262; N 334; R 436; C 326]
+
+辨認 **pelvic inlet（骨盆入口）**（superior pelvic aperture）。骨盆入口的骨性邊緣稱為 **pelvic brim（骨盆緣）**。由前往後，依序辨認構成 pelvic brim 的結構：
+[G 203; L 261; N 335; R 435]
+
+- **Superior margin of the pubic symphysis**（恥骨聯合上緣）
+- **Posterior border of the pubic crest**（恥骨嵴後緣）
+- **Pecten pubis**（恥骨梳）
+- **Arcuate line of the ilium**（髂骨弓狀線）
+- **Anterior border of the ala of the sacrum**（骶骨翼前緣）
+- **Sacral promontory**（骶骨岬）
+
+辨認 **pelvic outlet（骨盆出口）**。骨盆出口兩側的邊界為：
+[G 206; L 260; N 336; R 444; C 328]
+
+- **Inferior margin of the pubic symphysis**（恥骨聯合下緣）
+- **Ischiopubic ramus**（恥坐骨支）
+- **Ischial tuberosity**（坐骨結節）
+- **Sacrotuberous ligament**（骶結韌帶）
+- **Tip of the coccyx**（尾骨尖）
+
+骨盆入口將骨盆分為 **greater（false）pelvis**（大骨盆／偽骨盆）與 **lesser（true）pelvis**（小骨盆／真骨盆）（圖 5.1）。Greater pelvis 位於 pelvic brim 上方，兩側以髂骨翼（ala of the ilium）為界。Lesser pelvis 位於 pelvic brim 下方，其下界為 **pelvic diaphragm（骨盆膈）**。
+[G 200]
+
+站立姿勢（解剖學姿勢）中，**anterior superior iliac spines（髂前上棘）** 與恥骨前面位於同一冠狀面。
 
 ---
-*Atlas: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+
+## 肛三角（Anal Triangle）
+
+### 解剖概述
+
+會陰（perineum）是位於大腿之間的菱形區域，為了描述目的而分為兩個三角形（圖 5.3）。**Anal triangle（肛三角）** 是會陰的後部，含有肛管（anal canal）與肛門（anus）。**Urogenital triangle（泌尿生殖三角）** 是會陰的前部，含有尿道與外生殖器。在解剖開始時，了解 **pelvic diaphragm（骨盆膈）** 將骨盆腔與會陰分開是很重要的（圖 5.1）。
+
+解剖順序如下：肛三角的解剖將從移除臀區皮膚、拉開臀大肌（gluteus maximus）開始。接著解剖坐骨直腸窩（ischioanal fossa）的神經與血管。移除坐骨直腸窩的脂肪，以顯露 pelvic diaphragm 的下表面。
+
+### 解剖操作
+
+#### 皮膚與淺筋膜移除
+
+**1.** 如果下肢已經解剖過，向外側反折臀大肌，直接繼續坐骨直腸窩的解剖。如果下肢尚未解剖，繼續步驟 2。
+
+**2.** 將大體置於俯臥姿勢。
+
+**3.** 參考圖 5.4。
+
+**4.** 做一切口，沿著骶骨外側緣與髂嵴，從尾骨尖（S）至腋中線（T）。如果背部已經去皮，此切口先前已經做過。
+
+**5.** 從 S 至肛門後緣做一正中皮膚切口。
+
+**6.** 做一圈繞肛門的切口。
+
+**7.** 從肛門前緣，沿著大腿內側面做一切口至 D 點（大約內側面下方 7.5 cm 處）。
+
+**8.** 從 D 點斜跨大腿後面做一皮膚切口至大腿外側面的 E 點。E 點大約在髂嵴下方 30 cm 處。
+
+**9.** 從 T 至 E 沿著大腿外側做一皮膚切口。
+
+**10.** 由內而外移除皮膚，放置於組織容器中。
+
+**11.** 從臀大肌表面移除淺筋膜，放置於組織容器中。
+
+**12.** 清潔臀大肌下緣（圖 5.5）。不必保存臀下皮神經（inferior cluneal nerves），但注意不要切開後大腿的深筋膜（fascia lata）。
+
+**13.** 用手指分開臀大肌下緣，使其與深層脂肪及結締組織分離。
+
+**14.** 用手指拉開臀大肌下緣，觸摸 **sacrotuberous ligament（骶結韌帶）**。注意臀大肌附著於 sacrotuberous ligament，也附著於骶骨。
+
+**15.** 向上拉開臀大肌以擴大手術視野，顯露坐骨直腸窩的脂肪。
+
+### 坐骨直腸窩（Ischioanal Fossa）
+
+**Ischioanal（ischiorectal）fossa** 是肛門兩側的楔形區域。楔形頂端向上，基底在皮膚下方。坐骨直腸窩充滿脂肪，有助於分娩時胎兒的容納，或糞便通過時肛管的擴張。坐骨直腸窩的脂肪是此區域淺筋膜的一部分。本解剖的目的是移除脂肪，辨認穿過坐骨直腸窩的神經與血管。
+[G 265; L 283; N 391; R 351; C 365]
+
+**1.** 在肛門外側，將閉合的剪刀插入坐骨直腸窩脂肪約 3 cm 深度。將剪刀向橫向撐開以撕裂脂肪（圖 5.6，初步切口）。
+
+**2.** 將手指插入此開口，往返運動（由內向外）以擴大傷口。
+
+**3.** 觸摸 **inferior rectal（anal）nerve and vessels**（直腸下神經與血管）（圖 5.6）。保存直腸下神經與血管的分支，但用鈍性解剖移除包圍它們的脂肪。如有需要，用紙巾擦乾該區域。
+
+**4.** 用鈍性解剖清潔 **external anal sphincter muscle**（肛門外括約肌）（圖 5.6）。External anal sphincter muscle 有三部分：
+- **皮下部分**——環繞肛門（在解剖中不可見）。
+- **淺部**——將肛門固定於會陰體（perineal body）與尾骨。
+- **深部**——與 pelvic diaphragm 融合的肌肉環。
+
+**5.** 注意 **inferior rectal nerve（直腸下神經）** 支配 external anal sphincter muscle 與肛門周圍的皮膚。
+
+**6.** 用鈍性解剖清潔 pelvic diaphragm 的下表面（坐骨直腸窩的內側界）。
+
+**7.** 用鈍性解剖清潔 **obturator internus muscle**（閉孔內肌）的筋膜（坐骨直腸窩的外側界）。
+
+**8.** 在外側，觀察直腸下神經與血管穿過 obturator internus muscle 的筋膜。
+
+**9.** 溫和牽拉直腸下血管與神經，觀察在 obturator internus fascia 上形成一道脊。小心沿著此脊切開 obturator fascia 以打開 **pudendal canal（陰部管）**。直腸下神經與血管離開 pudendal canal 進入坐骨直腸窩。
+
+**10.** 用探針掀起 pudendal canal 的內容物。Pudendal canal 含有 **pudendal nerve** 與 **internal pudendal artery**。
+
+#### 解剖複習
+
+**1.** 回顧真骨盆的邊界，以及 pelvic diaphragm 分隔骨盆腔與會陰的概念。
+
+**2.** 在解剖的標本上，回顧 pelvic diaphragm 的下表面，了解這是會陰的「天花板」。
+
+**3.** 用解剖的標本回顧坐骨直腸窩的外側壁與內側壁。
+
+**4.** 回顧 external anal sphincter muscle 及其血液供應與神經支配。了解 external anal sphincter muscle 是骨骼肌，屬於隨意控制。
+
+---
+
+## 男性外生殖器與會陰
+
+### Scrotum（陰囊）
+
+**Scrotum** 的解剖與女性大陰唇（labium majus）的解剖相對應。與有女性大體的解剖團隊合作。外生殖器的解剖兩性都需觀察與學習。
+[G 116; L 282; N 367; R 217; C 236]
+
+**1.** 在淺腹股溝環下方，將手指插入下腹前壁的皮下組織下方，將手指推入陰囊。
+
+**2.** 用剪刀沿著陰囊前面做一切口，穿過皮膚、dartos 與淺筋膜。
+
+**3.** 用手指將睪丸與精索從陰囊游離。
+
+**4.** 觀察將睪丸下極固定於陰囊的組織帶。這是 **scrotal ligament**（陰囊韌帶，即 gubernaculum testis 的殘餘）。
+[G 116; N 367; R 343; C 237]
+
+**5.** 用剪刀剪斷 scrotal ligament。用手指將睪丸從陰囊移除，但保留睪丸與精索的連接。
+
+**6.** 觀察 **scrotal septum（陰囊中隔）** 將陰囊分為兩側。
+
+### Spermatic Cord（精索）
+
+**Spermatic cord** 含有 ductus deferens（輸精管）、睪丸血管、淋巴管與神經。精索的內容物被三層筋膜包圍，這些精索的被膜來自前腹壁的層次（圖 5.7）。這些被膜在通過腹股溝管時添加到精索上。
+[G 120; L 288; N 367; R 343; C 237]
+
+**1.** 研讀精索橫切面的圖（圖 5.8）。
+
+**2.** 在精索內觸摸 **ductus deferens（vas deferens）**。它堅硬如繩索。
+
+**3.** 用探針打開精索的被膜。這三層被膜在防腐處理時已彼此黏連，無法分開。精索的被膜為（圖 5.7 與 5.8）：
+- **External spermatic fascia**——來自 external oblique muscle。
+- **Cremasteric muscle and fascia**——來自 internal oblique muscle。
+- **Internal spermatic fascia**——來自 transversalis fascia。
+
+**4.** 用探針將 ductus deferens 與蔓狀靜脈叢（pampiniform plexus of veins）分開。
+
+**5.** 觀察 **artery of the ductus deferens**，這是位於 ductus deferens 表面的小血管（圖 5.8）。
+
+**6.** 將 ductus deferens 向上追蹤，通過腹股溝管朝向深腹股溝環。注意 ductus deferens 在深腹股溝環處穿過，位於腹壁下血管的外側。
+
+**7.** 用探針將睪丸動脈（testicular artery）與蔓狀靜脈叢分開。睪丸动脉可通過其稍厚的管壁與紆曲的路徑與靜脈區分。
+
+**8.** 注意感覺神經纖維、自律神經纖維與淋巴管伴隨精索中的血管，但它們太小無法解剖。
+
+> **臨床重點**：**輸精管切除術（Vasectomy）**
+> Ductus deferens 可在陰囊上部進行手術切斷（輸精管切除術）。睪丸的精子製造持續，但精子無法到達尿道。
+
+### Testis（睪丸）
+
+**Testis** 被 **tunica vaginalis**（鞘膜）覆蓋，這是來自壁層腹膜的漿膜囊（圖 5.7）。Tunica vaginalis 有臟層與壁層（圖 5.9）。Tunica vaginalis 的腔隙只是潛在空間，含有非常少量的漿液。
+[G 121; L 289; N 370; R 343; C 238]
+
+**1.** 觀察覆蓋睪丸的 tunica vaginalis。用剪刀沿著壁層切開並廣泛打開。觀察 tunica vaginalis 的臟層覆蓋睪丸的前、內側與外表面，但不包括其後表面。
+
+**2.** 用探針向下追蹤 ductus deferens 直到它連接附睪（epididymis）。辨認附睪的各部分（圖 5.9）：
+- **Head（頭）**——接收輸出小管的近端擴張部分。
+- **Body（體）**——直徑比頭部窄的中間部分。
+- **Tail（尾）**——向下彎曲並連接 ductus deferens 的遠端部分。
+
+**3.** 用解剖刀從上極到下極縱向切開睪丸。沿著前面切開。以附睪為鉸鏈，像打開書本一樣打開睪丸的兩半。
+
+**4.** 注意 **tunica albuginea**（白膜）的厚度，這是睪丸的纖維被膜。觀察將睪丸內部分隔成小葉的隔膜（圖 5.9）。
+
+**5.** 用針或細尖鑷子從一小葉中剝出一些 seminiferous tubules（精細管）。
+
+> **臨床重點**：**睪丸的淋巴引流**
+> 陰囊的淋巴管引流至淺腹股溝淋巴結。陰囊發炎可能導致疼痛、腫大的淺腹股溝淋巴結。
+> 相對地，睪丸的淋巴管沿著睪丸血管通過腹股溝管進入腹腔，引流至腰（主動脈外側）淋巴結與主動脈前淋巴結。睪丸腫瘤可能轉移至腰淋巴結與主動脈前淋巴結，而不是淺腹股溝淋巴結。
+
+#### 解剖複習
+
+**1.** 回顧 ductus deferens 從腹壁到睪丸的路徑。
+
+**2.** 回顧精索的被膜，並回憶它們來自哪些腹壁層次。
+
+**3.** 用圖示追蹤精子從 seminiferous tubule 到 ejaculatory duct 的路徑。
+
+---
+
+## 男性泌尿生殖三角（Male Urogenital Triangle）
+
+### 解剖概述
+
+男性泌尿生殖三角的解剖順序如下：移除泌尿生殖三角的皮膚。移除淺會陰筋膜，辨認淺會陰囊（superficial perineal pouch）的內容物。移除陰莖的皮膚，研究其各部分。描述深會陰囊（deep perineal pouch）的內容物，但不解剖。
+
+### 解剖操作
+
+#### 皮膚移除
+
+與有女性大體的解剖團隊合作。通常一次只能有一名學生操作泌尿生殖三角。解剖者應位於大腿之間，將大體拉至解剖台末端。
+
+**1.** 將大體置於仰臥姿勢。將大腿廣泛分開並固定。
+
+**2.** 做一圈繞陰莖近端的皮膚切口（圖 5.10，藍色虛線）。皮膚非常薄。
+
+**3.** 在陰莖近端後方做一正中皮膚切口，沿著 scrotal septum 分開陰囊。將切口向後延伸至肛門（圖 5.10，藍色虛線）。
+
+**4.** 在陰莖上方正中做一切口。在腹部皮膚先前移除處停止。
+
+**5.** 由內向外反折皮膚瓣。沿著大腿內側（圖 5.10，紅色虛線）剝離陰囊與皮膚瓣，放置於組織容器中。
+
+**6.** 如果大體在內側大腿淺筋膜中有大量脂肪，從坐恥骨支開始，向下沿著內側大腿移除部分淺筋膜約 7 cm。移除淺筋膜時保持在筋膜闊（fascia lata，大腿深筋膜）的淺層。
+
+### 淺會陰囊（Superficial Perineal Pouch）
+
+淺會陰筋膜有淺層脂肪層與深層膜性層。淺層脂肪層與下腹壁、坐骨直腸窩及大腿的淺層脂肪層連續。淺會陰筋膜的膜性層（**Colles' fascia**）與前腹壁淺筋膜的膜性層（**Scarpa's fascia**）以及陰莖與陰囊的 dartos fascia 連續（圖 5.11A）。淺會陰筋膜的膜性層附著於坐恥骨支，向後至坐骨結節，並附著於會陰膜（perineal membrane）的後緣。淺會陰筋膜的膜性層形成淺會陰囊的淺層邊界。
+[G 265, 261; L 284; N 361; R 350; C 365]
+
+> **臨床重點**：**淺會陰囊**
+> 如果尿道在會陰部受傷，尿液可能逸入淺會陰囊。尿液可能擴散至陰囊與陰莖，並向上進入下腹壁，介於腹壁淺筋膜的膜性層（Scarpa's fascia）與 external oblique muscle 的腱膜之間（圖 5.11B）。尿液不會進入大腿，因為淺筋膜的膜性層附著於筋膜闊、坐恥骨支與會陰膜的後緣。
+
+**1.** 男性淺會陰囊的內容物包括（圖 5.12A, B）：
+- **三對肌肉**
+  - **Ischiocavernosus**（坐骨海綿體肌）
+  - **Bulbospongiosus**（球海綿體肌）
+  - **Superficial transverse perineal muscle**（淺會陰橫肌）
+- **陰莖腳（Crura of the penis）**（成對）
+- **陰莖球（Bulb of the penis）**（不成對）
+- 供應上述結構的 arteries、veins 與 nerves
+
+**2.** 注意 **posterior scrotal nerve and vessels** 是淺會陰神經與血管的終支，供應陰囊後部。在繼續步驟 3 之前先找出它們。
+
+**3.** 不必為了完成解剖而辨認淺會陰筋膜的膜性層。用探針在正中線上穿過淺會陰筋膜進行解剖。
+
+**4.** 用鈍性解剖在泌尿生殖三角的正中線上找出 **bulbospongiosus muscle**（圖 5.12A）。Bulbospongiosus muscle 覆蓋陰莖球的淺表面。Bulbospongiosus muscle 的後方附著於對側的 bulbospongiosus muscle（在正中縫處）與會陰體。前方附著於 corpus cavernosum penis。Bulbospongiosus muscle 壓迫陰莖球以排出尿液或精液。
+
+**5.** 在 bulbospongiosus muscle 的外側，用探針清潔 **ischiocavernosus muscle** 的表面（圖 5.12A）。Ischiocavernosus muscle 覆蓋陰莖腳的淺表面。Ischiocavernosus muscle 的後方附著於坐骨結節與坐恥骨支。前方附著於陰莖腳。Ischiocavernosus muscle 將血液從陰莖腳驅入 corpus cavernosum penis 的遠端。
+
+**6.** 用鈍性解剖，在泌尿生殖三角後緣嘗試找出 **superficial transverse perineal muscle**（圖 5.12A）。此肌肉可能纖細且難以找到；限制尋找時間。Superficial transverse perineal muscle 的外側附著於坐骨結節與坐恥骨支，內側附著於會陰體。**Perineal body（會陰體）** 是位於肛管前方與會陰膜後緣之間的纖維肌性塊，作為多塊肌肉的附著處。Superficial transverse perineal muscle 有助於支持會陰體。
+
+**7.** 用探針在淺會陰囊的三塊肌肉之間進行解剖，直到建立一個小的三角形開口（圖 5.12A）。透過此開口可見的膜是 **perineal membrane（會陰膜）**。Perineal membrane 是淺會陰囊的深層邊界，陰莖球與陰莖腳附著於其上。
+
+**8.** 用解剖刀沿正中縫切開 bulbospongiosus muscles。這是一塊薄肌肉，必須小心不要切得太深。在大體左側，移除 bulbospongiosus muscle。
+
+**9.** 辨認 **bulb of the penis（陰莖球）**（圖 5.12B）。陰莖球與 corpus spongiosum penis 連續，含有部分海綿體尿道（spongy urethra）。
+
+**10.** 在大體左側，用鈍性解剖將 ischiocavernosus muscle 從陰莖腳移除（圖 5.12B）。陰莖腳將 corpus cavernosum penis 附著於坐恥骨支與會陰膜。
+
+### Penis（陰莖）
+
+在解剖學姿勢中，陰莖處於勃起狀態。陰莖最接近前腹壁的表面是陰莖的背側表面。
+[G 269; L 288; N 361; R 337; C 237]
+
+研讀陰莖橫切面的圖（圖 5.13）。陰莖的淺筋膜（dartos fascia）不含脂肪，含有陰莖淺背側血管。陰莖的深筋膜（**Buck's fascia**）是包繞筋膜。
+
+深筋膜內包含：
+- **Corpus spongiosum penis**
+- **Corpus cavernosum penis**（成對）
+- **Deep dorsal vein of the penis**（不成對）
+- **Dorsal artery of the penis**（成對）
+- **Dorsal nerve of the penis**（成對）
+
+**1.** 辨認陰莖的各部分：
+- **Root（根部）**——附著於坐恥骨支與會陰膜的部分（陰莖球與陰莖腳）。
+- **Body（shaft）**——懸垂的部分（左右 corpus cavernosa 與 corpus spongiosum penis）。
+- **Glans penis（龜頭）**
+- **Corona of the glans（龜頭冠）**
+- **Prepuce（包皮）**
+- **Frenulum（繫帶）**
+- **External urethral orifice（尿道外口）**
+
+**2.** 用解剖刀在陰莖腹側面做一正中皮膚切口。從冠狀溝周圍剝離陰莖體的皮膚。不要剝離龜頭的皮膚。
+
+**3.** 用探針解剖陰莖的淺背側靜脈。陰莖淺背側靜脈引流至淺外陰靜脈，再引流至大隱靜脈。
+
+**4.** 在陰莖背側，用探針穿過陰莖的深筋膜並辨認（圖 5.14）：
+[G 268; L 288; R 341; C 367]
+
+- **淺背側靜脈**
+- **Dorsal artery of the penis**——位於深背側靜脈兩側各一條。陰莖背側動脈是 internal pudendal artery 的終支。
+- **Dorsal nerve of the penis**——位於正中線兩側，深背側動脈的外側。陰莖背側神經是 pudendal nerve 的分支。
+
+**5.** 用探針將陰莖的血管與神經向近端追蹤。用圖示研究 pudendal nerve 與 internal pudendal artery 的路徑。
+[G 271; L 286; N 363; R 352; C 358]
+
+觀察陰莖背側動靜脈與神經在出現於陰莖背側之前，先經過會陰膜的深層。深背側靜脈穿過恥骨弓與會陰膜前緣之間進入骨盆腔。注意深背側靜脈在陰莖體近端不伴隨深背側動脈與背側神經。
+[G 268, 271; N 383, 390; R 340; C 351]
+
+### 海綿體尿道（Spongy Urethra）
+
+男性尿道有三部分：前列腺部尿道（prostatic urethra）、膜部尿道（membranous urethra）與海綿體尿道（spongy urethra）（圖 5.15）。海綿體尿道是位於 corpus spongiosum penis 內的部分。
+[G 272; L 266; N 365; R 338; C 356]
+
+**1.** 檢查龜頭尖的尿道外口。將探針推入尿道外口，然後用解剖刀從陰莖背側與腹側面向下切至探針。沿陰莖的正中平面切開。（可能不是直線。）
+
+**2.** 將探針向近端推進，繼續以此方式劈開陰莖。背側在探針的上方，切口應通過左右 corpus cavernosa 之間，可能縱向劈開深背側靜脈。在恥骨聯合下方停止，位於兩條 corpus cavernosa 分開之處。腹側在探針的下方，切口應將 corpus spongiosum 分成兩半。近端在陰莖球處停止。
+
+**3.** 在陰莖球中，尿道以銳角彎曲並穿過會陰膜（圖 5.15）。小心完成在尿道後方穿過陰莖球的切口，但不要切穿會陰膜。
+
+**4.** 注意 **glans penis** 是 corpus spongiosum 的遠端擴張部，覆蓋兩條 corpus cavernosa penis。海綿體尿道穿過龜頭終止。
+
+**5.** 檢查海綿體尿道的內部。辨認 **navicular fossa**（舟狀窩），這是尿道在龜頭內的擴張部。
+
+**6.** Bulbourethral glands（尿道球腺）的導管開口於海綿體尿道的近端，但可能太小看不見。
+
+**7.** 在陰莖左側，約在陰莖體中點做一橫切。
+
+**8.** 在陰莖橫切面上，研究 corpus cavernosum penis 與 corpus spongiosum penis 的關係。辨認（圖 5.13）：
+[G 271; L 289; N 361; R 339; C 237]
+
+- Corpus cavernosum 的 tunica albuginea
+- Corpus spongiosum 的 tunica albuginea
+- **Septum penis（陰莖隔）**
+
+**9.** 研究 corpus spongiosum penis 內的海綿狀組織。確認 corpus spongiosum penis 圍繞海綿體尿道。
+
+**10.** 研究 corpus cavernosum penis 內的海綿狀組織（圖 5.13）。辨認靠近海綿狀組織中心的 **deep artery of the penis**。回顧陰莖深动脉來自 internal pudendal artery。
+
+### 深會陰囊（Deep Perineal Pouch）
+
+深會陰囊不解剖。深會陰囊位於會陰膜的上方（深層）（圖 5.15）。注意男性深會陰囊的內容物（圖 5.16）：
+
+- **Membranous urethra（膜部尿道）**
+- **External urethral sphincter muscle（尿道外括約肌）**
+- **Bulbourethral glands（尿道球腺）**
+- Internal pudendal artery 與 vein 的分支（尤其是陰莖背側動脈）
+- Pudendal nerve 的分支（尤其是陰莖背側神經）
+
+**1.** 用圖示研讀以下內容：
+[G 261; L 285; N 363; C 358]
+
+- **Membranous urethra**——從會陰膜延伸至攝護腺（約 1 cm），是尿道最短、最薄、最窄、最不易扩张的部分。
+- **External urethral sphincter（sphincter urethrae）muscle**——圍繞膜部尿道的隨意肌（圖 5.16）。當 external urethral sphincter muscle 收縮時，壓迫膜部尿道並阻止尿液流出。
+- **Deep transverse perineal muscle（深會陰橫肌）**（成對）——外側附著於坐骨結節與坐恥骨支，內側附著於會陰體（圖 5.16）。其纖維方向與功能與淺會陰橫肌相同。
+
+**2.** **Bulbourethral gland（尿道球腺）**（成對）位於深會陰囊，但其導管穿過會陰膜，在淺會陰空間引流至海綿體尿道的近端部分。
+
+**3.** 深會陰囊含有 pudendal nerve 與 internal pudendal artery 的分支。這些結構供應 external urethral sphincter muscle、深會陰橫肌與陰莖（圖 5.16）。
+
+**4.** 總稱來說，深會陰囊內的肌肉加上會陰膜，稱為**泌尿生殖膈（urogenital diaphragm）**。這個較古老的名稱在臨床上仍有使用。
+
+#### 解剖複習
+
+**1.** 將泌尿生殖三角的肌肉恢復到正確的解剖位置。
+
+**2.** 回顧男性淺會陰囊的內容物。參觀有女性大體的解剖台，觀察淺會陰囊的內容物。
+
+**3.** 用圖示回顧 internal pudendal artery 從骨盆腔起點到陰莖背側的路徑。
+
+**4.** 用圖示回顧 pudendal nerve 的路徑與分支。
+
+**5.** 研究圖示中陰莖深背側靜脈進入骨盆腔並會入攝護腺靜脈叢的路徑。
+
+**6.** 繪製陰莖横切面，顯示海綿狀體、淺筋膜、深筋膜、血管與神經。
+
+**7.** 回顧男性尿道的各部分。
+
+---
+
+## 男性骨盆腔（Male Pelvic Cavity）
+
+### 解剖概述
+
+男性骨盆腔前方含有**膀胱（urinary bladder）**，男性內生殖器位於中央，直腸位於後方（圖 5.17）。解剖順序如下：研究男性骨盆腔的腹膜。將骨盆正中切開，研究切面的表面。將 ductus deferens 從前腹壁追蹤至膀胱與直腸之間。 研究精囊（seminal vesicles）與攝護腺（prostate gland）。
+
+### 解剖操作
+
+#### 腹膜（Peritoneum）
+
+[G 213; L 265; N 346; R 337; C 353]
+
+**1.** 參考圖 5.17，檢查男性骨盆腔的腹膜。注意腹膜：
+1. 從前腹壁、恥骨上方通過（圖 5.17，標號 2）
+2. 覆蓋膀胱的上表面
+3. 沿著膀胱後面向下延伸
+4. 與精囊上端密切相關
+5. 在膀胱與直腸之間向下延伸，形成 **rectovesical pouch（直腸膀胱陷凹）**
+6. 接觸直腸的前表面與兩側
+7. 在第三骶椎水平形成**乙狀結腸繫膜（sigmoid mesocolon）**
+
+**2.** **Paravesical fossa**（成對）是位於膀胱外側的腹腔中的淺凹。
+
+**3.** **Pararectal fossa**（成對）是位於直腸外側的腹腔中的淺凹。
+
+> **臨床重點**：**骨盆腔腹膜**
+> 當膀胱充盈時，從前腹壁到膀胱的腹膜反折（圖 5.17，標號 2）上升到恥骨上方。充盈的膀胱可被從恥骨上方插入的穿刺針穿透，而不進入腹膜腔。
+
+#### 骨盆切開術（Section of the Pelvis）
+
+**1.** 用新的手術刀片開始此解剖。
+
+**2.** 在骨盆腔中做一正中切口，從恥骨聯合後方開始。穿過膀胱上表面繼續此正中切口。如有必要，打開膀胱並清除其內部。
+
+**3.** 在膀胱中辨認**internal urethral orifice（尿道內口）**，插入探針。用探針作為引導，向下繼續切開膀胱，分割尿道。分割攝護腺。
+
+**4.** 向後延伸正中切口。切開直腸的前壁與後壁以及乙狀結腸的遠端。清除其內容物。
+
+**5.** 在會陰部，將刀片置於恥骨聯合下方，切割面向後。在恥骨聯合與尾骨之間做一正中切口，穿過會陰膜、會陰體與肛管。切開陰莖球的兩半（先前已切開）。
+
+**6.** 用鋸做兩個正中切口：
+- **恥骨聯合**——大體仰臥，由前向後鋸過恥骨聯合。不要讓鋸進入手術刀切口。
+- **骶骨**——將大體翻至俯臥。由後向前鋸過骶骨。不要讓鋸進入先前用手術刀切開的軟組織結構之間。撐開切口，向上延伸正中切口至第三腰椎體水平。
+
+**7.** 將大體恢復仰臥姿勢。用手術刀切開右側髂總靜脈、右側髂總動脈與右側睪丸血管，以遊離右下肢。切開右側輸尿管與右側腰叢的分支。
+
+**8.** 在橫切面上，在 L3 椎體水平用手術刀切開右側腰大肌與腰方肌。用鋸在 L3 與 L4之間的椎間盤水平橫向鋸過右側一半。現在可以移除右下肢。
+
+**9.** 清除直腸與肛管的內容物。
+
+#### 男性內生殖器（Male Internal Genitalia）
+
+[G 213; L 270; N 346; R 337; C 355]
+
+**1.** 研究切開標本的切面（圖 5.18）。
+
+**2.** 辨認 **perineal membrane**。它位於陰莖球深層，可辨認為陰莖球深緣的一條細線（圖 5.18）。在會陰膜的上方（深層），external urethral sphincter muscle 圍繞膜部尿道。在切開的標本中可能難以看見 external urethral sphincter muscle。
+
+**3.** 在切開的骨盆上，辨認尿道的三部分：前列腺部尿道、膜部尿道與海綿體尿道（圖 5.16）。
+
+**4.** 檢查前列腺部尿道的內部。前列腺部尿道約長 3 cm，是穿過攝護腺的部分。在前列腺部尿道後壁上，辨認（圖 5.19）：
+[G 225; L 267; N 365; R 338; C 355]
+
+- **Urethral crest（尿道脊）**——縱向隆起。
+- **Seminal colliculus（精阜）**——尿道脊的擴大部。
+- **Prostatic sinus（前列腺竇）**——精阜兩側的溝。
+- **Prostatic utricle（前列腺囊）**——精阜正中線上的小開口。
+- **Ejaculatory duct orifice（射精管口）**——前列腺囊兩側各一。
+
+**5.** 在靠近前腹壁內面的地方，找到 ductus deferens，它從深腹股溝環外側進入（圖 5.18）。用探針在深腹股溝環附近刺穿腹膜。用鈍性解剖將腹膜從骨盆腔外側壁剝離。由外向內剝離腹膜，在接觸直腸與膀胱處停止。剝離腹膜並放置於組織容器中。
+
+**6.** 用鈍性解剖將 ductus deferens 從深腹股溝環向正中線追蹤。觀察 ductus deferens 經過並內側跨越 internal iliac artery 的分支。注意 ductus deferens 在輸尿管上方跨越。
+[G 220; L 270; N 347; R 336]
+
+**7.** 將 ductus deferens 追蹤至 **rectovesical septum**（直腸膀胱隔），這是直腸與膀胱之間的 endopelvic fascia（圖 5.18）。觀察 ductus deferens 與膀胱底（posterior surface）的接觸。
+
+**8.** 辨認 **ampulla of the ductus deferens**（輸精管壺腹），這是即將終止前的擴張部分（圖 5.20）。
+[G 224; L 270; N 364; R 339; C 354]
+
+**9.** 辨認 **seminal vesicle（精囊）**（圖 5.20）。精囊位於 rectovesical septum 中 ductus deferens 壺腹的外側。用鈍性解剖將精囊從 rectovesical septum 分離。
+
+**10.** 在接近攝護腺處，**seminal vesicle 的輸出管**與 ductus deferens 會合形成 **ejaculatory duct（射精管）**。射精管纖細，在進入攝護腺處容易撕裂。射精管引流至前列腺部尿道上的精阜。
+
+**11.** 觀察**攝護腺（prostate）**（圖 5.18）。攝護腺的尖端向下，底部位於膀胱頸的上方。用圖示研究攝護腺的葉。
+
+**12.** 用圖示研究**攝護腺靜脈叢（prostatic venous plexus）**、**膀胱靜脈叢（vesical venous plexus）**與**直腸靜脈叢（rectal venous plexus）**。所有這些靜脈叢都引流至 internal iliac vein。
+
+**13.** 在解剖的標本上，觀察在恥骨聯合下方剛好可見的陰莖深背側靜脈。確認陰莖深背側靜脈引流至攝護腺靜脈叢。
+
+#### 解剖複習
+
+**1.** 回顧男性骨盆腔臟器在 lesser pelvis 中的位置。參觀有女性大體的解剖台，觀察女性骨盆腔臟器的位置。
+
+**2.** 回顧男性骨盆腔的腹膜。參觀有女性大體的解剖台，比較男性與女性腹膜的差異。
+
+**3.** 將 ductus deferens 從附睪追蹤至射精管，回憶其與血管、神經、輸尿管及精囊的關係。
+
+**4.** 參觀有女性大體的解剖台，將**圓韌帶（round ligament of the uterus）**從大陰唇追蹤至、子宮。
+
+**5.** 比較 ductus deferens 與圓韌帶在骨盆中的路徑。
+
+---
+
+## 膀胱、直腸與肛管（Urinary Bladder, Rectum, and Anal Canal）
+
+### 解剖概述
+
+膀胱是尿液的儲存器。空虛時位於骨盆腔內，充盈時延伸到腹腔。膀胱是腹膜外器官，被 endopelvic fascia 包圍。恥骨聯合與膀胱之間有一潛在空間，稱為**恥骨後隙（retropubic space）**或**膀胱前隙（prevesical space）**（圖 5.17）。恥骨後隙充滿脂肪與疏鬆結締組織，以容納膀胱的擴張。**Puboprostatic ligament（恥骨前列腺韌帶）**是筋膜的增厚部，將攝護腺固定於恥骨內面（圖 5.17）。Puboprostatic ligament 定義恥骨後隙的下界。直腸的下三分之一被 endopelvic fascia 包圍。直腸的中、上三分之一部分被腹膜覆蓋（圖 5.17）。
+
+解剖順序如下：研究膀胱的各部分。研究膀胱的內部。研究直腸與肛管的內部。
+
+### 解剖操作
+
+#### 膀胱（Urinary Bladder）
+
+[G 225; L 266; N 350; R 337; C 355]
+
+**1.** 辨認膀胱的各部分（圖 5.21）：
+- **Apex（頂）**——指向前腹壁的尖銳部分。膀胱頂可由臍韌帶（urachus）的附著處來辨認。
+- **Body（體）**——介於頂與底之間。
+- **Fundus（底）**——後壁的下方部分，在男性與 ductus deferens、精囊及直腸相鄰。
+- **Neck（頸）**——尿道離開膀胱處。膀胱頸的壁增厚形成**內尿道括約肌（internal urethral sphincter）**，這是不隨意肌。
+
+**2.** 辨認膀胱的四個面（圖 5.21）：
+- **Superior（上表面）**——被腹膜覆蓋。
+- **Posterior（後面）**——上方被腹膜覆蓋，下方被直腸膀胱隔的 endopelvic fascia 覆蓋。
+- **Inferolateral（ pair）**——被 endopelvic fascia 覆蓋。
+
+**3.** 檢查膀胱壁並注意其厚度。膀胱壁由稱為**逼尿肌（detrusor muscle）**的平滑肌束組成。
+
+**4.** 在底的內表面辨認**trigone（膀胱三角）**（圖 5.19）。Trigone 的三個角是尿道內口與兩個輸尿管口。尿道內口位於膀胱的最下點。**Interureteric crest（輸尿管間嵴）**是橫跨兩側輸尿管口之間的脊。
+[G 225; L 267; N 350; R 338; C 354]
+
+**5.** 觀察 trigone 上的黏膜是光滑的。膀胱其他部分的黏膜在膀胱空虛時呈皺襞，但可隨充盈而伸展。
+
+**6.** 將探針尖端插入輸尿管口，觀察輸尿管以斜向穿過膀胱壁。當膀胱充盈時，蓄積尿液的壓力將輸尿管在膀胱壁內的部分壓扁，防止尿液逆流至輸尿管。
+
+**7.** 在輸尿管跨越髂外動脈或髂總動靜脈分叉處找到輸尿管。用鈍性解剖將輸尿管追蹤至膀胱底。
+
+> **臨床重點**：**腎結石（Kidney Stones）**
+> 腎結石通過輸尿管進入膀胱，可能嵌頓在輸尿管中。輸尿管穿過膀胱壁的處是相對狹窄的通道。如果腎結石嵌頓，會產生嚴重的絞痛。當結石進入膀胱後，疼痛突然停止。
+
+#### 直腸與肛管（Rectum and Anal Canal）
+
+[G 213, 215; L 272, 273; N 346, 373; R 336; C 355, 359]
+
+**1.** 直腸始於第三骶椎水平。觀察切開的骨盆，注意直腸沿著骶骨的曲度（圖 5.18）。
+
+**2.** 辨認直腸的**壺腹（ampulla）**（圖 5.18 與 5.22）。在壺腹處，直腸向後彎曲約 80°（肛門直腸曲，anorectal flexure），並延續為肛管。觀察攝護腺與精囊靠近直腸前壁（圖 5.18）。
+
+**3.** 檢查直腸的內表面。注意黏膜是光滑的，只有**直腸橫襞（transverse rectal folds）**（圖 5.18）。通常右側有一條，左側有兩條。在某些大體上可能難以辨認直腸橫襞。
+
+**4.** 觀察肛管只有 2.5 到 3.5 cm 長（圖 5.22）。肛管離開骨盆腔進入會陰的肛三角。
+
+**5.** 檢查肛管的內表面（圖 5.22）：
+- **Anal columns（肛柱）**——5 到 10 條肛管近端的縱向黏膜皺襞。肛柱含有直腸上動脈與靜脈的分支。
+- **Anal valves（肛瓣）**——連接肛柱遠端的半月形黏膜皺襞。每個肛瓣與肛管壁之間的小袋稱為 **anal sinus（肛竇）**。
+- **Pectinate line（齒狀線）**——由所有肛瓣形成的不規則線。
+
+**6.** 肛門括約肌圍繞肛管。在切開的標本中辨認 **external anal sphincter muscle** 與 **internal anal sphincter muscle**（圖 5.18 與 5.22）。肛管的縱行肌將兩塊括約肌分開。如果難以辨認，用新刀片在肛管壁上再做一切開以提高清晰度。
+
+> **臨床重點**：**痔瘡（Hemorrhoids）**
+> 在肛柱中，肝門靜脈系統的**直腸上靜脈**與下腔靜脈系統的**直腸中、下靜脈**吻合。肝門靜脈系統血壓異常升高會導致肛柱內靜脈充血，形成**內痔**。內痔被黏膜覆蓋，由自律神經支配，對疼痛刺激較不敏感。
+> **外痔**是直腸下靜脈屬支的擴大。外痔被皮膚覆蓋，由軀體神經（直腸下神經）支配，對疼痛非常敏感。
+
+> **臨床重點**：**直腸檢查（Digital Rectal Examination）**
+> 數位直腸檢查是身體檢查的一部分。可以通過直腸前壁觸診評估攝護腺的大小與質地。
+
+#### 解剖複習
+
+**1.** 用解剖的標本回顧膀胱、直腸與肛管的特徵。
+
+**2.** 回顧精囊、輸精管壺腹與輸尿管與直腸及膀胱底的關係。
+
+**3.** 參觀有女性大體的解剖台，回顧膀胱、子宮與輸尿管與直腸及膀胱底的關係。
+
+**4.** 回顧腎臟、輸尿管的腹部與骨盆路徑，以及膀胱作為儲尿器的功能。
+
+**5.** 回顧男性尿道的各部分。參觀有女性大體的解剖台，回顧女性尿道的各部分。
+
+**6.** 回顧大腸的各部分，回憶其在水分吸收以及糞便壓縮與排除中的功能。
+
+**7.** 回憶 external anal sphincter muscle 由骨骼肌組成，屬隨意控制，而 internal anal sphincter muscle 由平滑肌組成，屬不隨意控制。
+
+---
+
+## 內髂動脈與骶叢（Internal Iliac Artery and Sacral Plexus）
+
+### 解剖概述
+
+在骶髂關節前方，髂總動靜脈分為髂外與髂內動靜脈（圖 5.23）。髂外動靜脈分布至下肢，髂內動靜脈分布至骨盆腔。髂內動靜脈是所有動靜脈中分支類型變異最大的，因此在解剖開始時必須強調：必須用分支的分布來辨認它們，而不是用分支的模式來辨認。
+
+髂內動靜脈通常分為前幹與後幹。前幹的分支主要為臟支（分布至膀胱、內生殖器、外生殖器、直腸與臀區）。後幹的壁支起源於後幹（分布至骨盆壁與臀區）。
+
+解剖順序如下：辨認髂內動靜脈前幹的分支。辨認髂內動靜脈後幹的分支。解剖骶叢的神經。然後解剖交感幹的骨盆部分。
+
+### 解剖操作
+
+#### 血管（Blood Vessels）
+
+[G 228; L 274; N 382; R 347]
+
+**1.** 髂內靜脈通常是叢狀的。為了清理解剖視野，移除髂內靜脈的所有屬支。
+
+**2.** 辨認髂總動靜脈並向遠端追蹤直到它分叉。
+
+**3.** 辨認髂內動靜脈。用鈍性解剖將髂內動靜脈追蹤進入骨盆腔。
+
+**4.** 辨認髂內動靜脈前幹的分支（圖 5.23）：
+
+- **Umbilical artery（臍動靜脈）**——在內側臍皺襞中，找到**內側臍韌帶（medial umbilical ligament）**（臍動靜脈的殘餘），並用鈍性解剖向後追蹤至臍動靜脈。注意數條**膀胱上動靜脈（superior vesical arteries）**起源於臍動靜脈的下表面，下降至膀胱的上外側部。
+- **Obturator artery（閉孔動靜脈）**——進入閉孔管。在骨盆腔外側壁找到閉孔動靜脈進入閉孔管之處，向後追蹤至其起源。在約 20% 的案例中，**異常閉孔動靜脈**（來自髂外動靜脈）跨過骨盆緣，在股疝修補手術中有受傷的風險。
+- **Inferior vesical artery（膀胱下動靜脈）**——走向膀胱底供應膀胱、精囊與攝護腺。膀胱下動靜脈只在男性有命名分支；在女性，它是陰道動靜脈的無名分支。
+- **Middle rectal artery（直腸中動靜脈）**——向內側走向直腸。它常與膀胱下動靜脈共幹，使陽性辨認困難。將直腸中動靜脈追蹤至直腸來確認。像膀胱下動靜脈一樣，直腸中動靜脈也發分支至精囊與攝護腺。
+- **Internal pudendal artery（陰部內動靜脈）**——通過梨狀肌下方的坐骨大孔離開骨盆腔。陰部內動靜脈常與臀下動靜脈共幹。
+- **Inferior gluteal artery（臀下動靜脈）**——通常在 S2 與 S3 的腹側根之間離開骨盆腔，但也可在 S1 與 S2 之間。臀下動靜脈通過梨狀肌下方的坐骨大孔離開骨盆腔。臀下動靜脈可能與陰部內動靜脈共幹，或較少見地與臀上動靜脈共幹。
+
+**5.** 辨認髂內動靜脈後幹的分支（圖 5.23）：
+
+- **Iliolumbar artery（髂腰動靜脈）**——向後走，然後在腰骶幹與閉孔神經之間上升。可能與外側骶動靜脈共幹。
+- **Lateral sacral artery（外側骶動靜脈）**——發出上支與下支。觀察下支在骶腹側根的前方通過。
+- **Superior gluteal artery（臀上動靜脈）**——通常在腰骶幹與 S1 腹側根之間通過梨狀肌上方的坐骨大孔離開骨盆腔。
+
+**6.** 用圖示研究攝護腺靜脈叢、膀胱靜脈叢與直腸靜脈叢。所有這些靜脈叢都引流至髂內靜脈。
+
+**7.** 在解剖的標本上，在恥骨聯合下方觀察陰莖深背側靜脈。確認陰莖深背側靜脈引流至攝護腺靜脈叢。
+
+#### 神經（Nerves）
+
+[G 211; L 275; N 390; R 471; C 362]
+
+骨盆腔的軀體叢是**骶叢（sacral plexus）**與**尾骨叢（coccygeal plexus）**。這些叢位於骨盆腔臟器與外側骨盆壁之間，位於 endopelvic fascia 內。這些軀體神經叢由 L4 至 S4 脊神經腹側根的纖維形成。
+
+骨盆腔主要的內臟神經叢是**下腹叢（inferior hypogastric plexus）**（亦稱骨盆腔叢）。它由**腹下神經（hypogastric nerves）**、**骶內臟神經（sacral splanchnic nerves）**（交感神經）與**骨盆內臟神經（pelvic splanchnic nerves）**（副交感神經）的纖維形成。
+
+**1.** 用手指將直腸從骶骨與尾骨前面遊離。
+
+**2.** 向內側拉開直腸，辨認骶神經叢。骶叢與**梨狀肌（piriformis muscle）**的前面密切相關。確認以下內容（圖 5.24）：
+- **腰骶幹（lumbosacral trunk）**（L4 與 L5 的腹側根）連接於骶叢。
+- S2 與 S3 的腹側根在梨狀肌近端附著處之間穿出。
+- **坐骨神經（sciatic nerve）**由 L4 至 S3 的腹側根形成。坐骨神經通常通過梨狀肌下方的坐骨大孔離開骨盆腔。
+- 臀上動靜脈通常在腰骶幹與 S1 腹側根之間通過梨狀肌上方離開骨盆腔。
+- 臀下動靜脈通常在 S2 與 S3 腹側根之間通過梨狀肌下方離開骨盆腔，但也可在 S1 與 S2 之間通過。
+- **Pudendal nerve（陰部神經）**由 S2、S3 與 S4 的腹側根的纖維形成。陰部神經通過梨狀肌下方離開骨盆腔。
+
+**3.** 辨認**骨盆內臟神經（pelvic splanchnic nerves）**（nervi erigentes）。骨盆內臟神經是 S2、S3 與 S4 腹側根的分支（圖 5.24）。骨盆內臟神經攜帶節前副交感神經軸突，支配骨盆腔臟器與遠端胃腸道（從左側結腸曲到肛管）。
+[G 211; L 276; N 390; R 349; C 362]
+
+**4.** 交感幹的骶骨部分位於骶骨前面，內側於骶腹側孔。辨認：
+- **交感幹（sympathetic trunk）**——從腹部延續進入骨盆腔。兩側的交感幹在尾骨水平正中線會合，形成**奇神經節（ganglion impar）**。
+- **Gray rami communicantes（灰交通支）**——連接交感神經節與骶腹側根。每條灰交通支攜帶節後交感神經纖維至腹側根，以分布至下肢與腹壁。
+- **Sacral splanchnic nerves（骶內臟神經）**——從兩到三個骶交感神經節發出，直接走向下腹叢。骶內臟神經攜帶分布至骨盆腔臟器的交感神經纖維。
+
+> **臨床重點**：**骨盆神經叢**
+> 下腹叢位於直腸、膀胱、精囊與攝護腺外側的 endopelvic fascia 中。這個自律神經叢可能在骨盆腔手術中受傷，導致膀胱控制喪失與勃起功能障礙。
+
+#### 解剖複習
+
+**1.** 回顧腹主動脈及其終末分支。
+
+**2.** 用解剖的標本回顧髂內動靜脈的分支。回顧每個分支的供應區域。
+
+**3.** 參觀有女性大體的解剖台，回顧女性特有的動靜脈：、子宮動靜脈與陰道動靜脈。注意其與輸尿管的關係。
+
+**4.** 回顧骶叢的形成與在骨盆腔中解剖的分支。
+
+**5.** 用解剖的標本與圖示回顧 pudendal nerve 從骨盆腔到泌尿生殖三角的路徑。
+
+---
+
+## 骨盆膈（Pelvic Diaphragm）
+
+### 解剖概述
+
+骨盆膈是骨盆腔的肌肉底板。骨盆膈由**提肛肌（levator ani muscle）**與**尾骨肌（coccygeus muscle）**加上覆蓋其上、下表面的筋膜組成（圖 5.25A, B）。骨盆膈從恥骨聯合延伸到尾骨。外側，骨盆膈附著於覆蓋 obturator internus muscle 的筋膜。尿道與肛管通過骨盆膈中線上的開口，分別稱為**泌尿生殖裂孔（urogenital hiatus）**與**肛門裂孔（anal hiatus）**。
+
+### 解剖操作
+
+**1.** 在大體的一側進行骨盆膈的解剖。保留有最佳動靜脈與神經解剖的一側以供複習。
+[G 206-208; L 278-279; N 340, 341; C 358]
+
+**2.** 將直腸、膀胱、攝護腺與精囊向內側拉開。
+
+**3.** 用鈍性解剖移除骨盆膈上表面剩餘的脂肪與結締組織。
+
+**4.** 為找到**提肛肌的腱弓（tendinous arch of the levator ani muscle）**（圖 5.25A），觸摸坐骨棘的內側面，然後找到閉孔管。腱弓位於連接這兩個結構的線條下方。注意腱弓是 levator ani muscle 的上緣。
+
+**5.** 辨認形成 levator ani muscle 的三塊肌肉。這些肌肉以其前方附著來辨認。學習但不解剖其後方附著。辨認：
+- **Puborectalis muscle（恥骨直腸肌）**——前方附著於恥骨體。後方附著於對側的 puborectalis muscle（在正中縫處）。Puborectalis muscle 形成泌尿生殖裂孔的邊緣（圖 5.25B）。兩條 puborectalis muscle 形成「恥骨直腸帶」，在直腸壺腹處造成肛門直腸曲（圖 5.22）。在排便時，puborectalis muscle 放鬆，肛門直腸曲變直，糞便排出更順暢。
+- **Pubococcygeus muscle（恥骨尾骨肌）**——前方附著於恥骨體。後方附著於尾骨與肛尾縫（anococcygeal raphe）。
+- **Iliococcygeus muscle（髂尾骨肌）**——前方附著於腱弓。後方附著於尾骨與肛尾縫。
+
+**6.** Levator ani muscle 支持骨盆腔臟器並抵抗腹內壓的增加。
+
+**7.** 辨認 **coccygeus muscle（尾骨肌）**。Coccygeus muscle 在後方完成骨盆膈。Coccygeus muscle 的前方附著於坐骨棘，後方附著於尾骨的外側緣與骶骨的最下部（圖 5.25A）。
+
+**8.** 將一隻手的手指放在坐骨直腸窩，另一隻手的手指放在骨盆膈的上表面。觸摸骨盆膈並感受其薄度。
+
+**9.** 觀察 **obturator internus muscle** 形成坐骨直腸窩的外側壁。Obturator internus muscle 的內側附著於閉孔的邊緣與閉孔膜的內面。Obturator internus muscle 的外側附著將在解剖臀區時研究。在 levator ani muscle 腱弓的上方，obturator internus muscle 形成骨盆腔的外側壁。在腱弓的下方，obturator internus muscle 形成會陰的外側壁。
+
+**10.** 用教科書學習骨盆腔淋巴引流的一般模式與每組淋巴結的位置：
+[G 217, 232, 234; L 291; N 388]
+
+- **髂內淋巴結（Internal iliac nodes）**
+- **髂外淋巴結（External iliac nodes）**
+- **髂總淋巴結（Common iliac nodes）**
+- **骶淋巴結（Sacral nodes）**
+- **腰淋巴結（Lumbar nodes）**
+
+#### 解剖複習
+
+**1.** 用解剖的標本回顧每塊骨盆膈肌肉的近端附著與作用。
+
+**2.** 回顧髂內動靜脈分支與骨盆膈的關係。
+
+**3.** 回顧骶叢與骨盆膈的關係。
+
+**4.** 用圖示回顧骨盆膈在形成骨盆腔與會陰之間邊界中的作用。回顧骨盆膈與會陰體在支持骨盆腔與腹腔臟器中的功能。
+
+**5.** 用圖示回顧從骨盆腔與會陰的淋巴引流。了解會陰的結構（包括大陰唇與肛管下部）引流至淺腹股溝淋巴結。卵巢的淋巴引流沿著卵巢血管至腰淋巴結鏈，繞過會陰與骨盆腔的淋巴系統。
+
+**6.** 回顧胸導管的形成以完成對此區域淋巴引流的理解。
+
+---
+
+## 女性外生殖器與會陰（Female External Genitalia and Perineum）
+
+### 大陰唇（Labium Majus）
+
+**Labium majus** 的解剖與男性陰囊的解剖相對應。
+[G 114; L 221; R 220]
+
+**1.** 在淺腹股溝環處，用鈍性解剖證明**圓韌帶（round ligament of the uterus）**從淺腹股溝環穿出，散開進入形成大陰唇的脂肪組織中。圓韌帶是精細的結構，只能在淺腹股溝環遠端 1 到 2 cm 處顯示。
+[G 115; R 220]
+
+> **臨床重點**：**大陰唇的淋巴引流**
+> 大陰唇的淋巴管引流至淺腹股溝淋巴結。大陰唇發炎可能導致疼痛、腫大的淺腹股溝淋巴結。
+
+#### 解剖複習
+
+**1.** 回顧圓韌帶從腹壁到大陰唇的路徑。
+
+**2.** 回顧卵巢與睪丸的胚胎學，比較兩性中引導索（gubernaculum）的作用。
+
+**3.** 參觀有男性大體的解剖台，完成精子索與睪丸解剖後的解剖複習。
+
+---
+
+## 女性泌尿生殖三角（Female Urogenital Triangle）
+
+### 解剖概述
+
+女性泌尿生殖三角的解剖順序如下：檢查外生殖器。從大陰唇移除皮膚。移除淺會陰筋膜，辨認淺會陰囊的內容物。描述深會陰囊的內容物，但不解剖。
+
+### 外生殖器（External Genitalia）
+
+[G 257; L 282; N 356; R 361; C 344]
+
+與有男性大體的解剖團隊合作。
+
+**1.** 將大體置於仰臥姿勢。將大腿廣泛分開並固定。
+
+**2.** 檢查**外陰（vulva）**（女性外生殖器）（圖 5.26）。辨認以下結構：
+
+- ** Mons pubis（恥骨丘）**
+- **Anterior labial commissure（前陰唇連合）**
+- **Labium majus（大陰唇）**
+- **Clitoris（陰蒂）**——**Prepuce（包皮）**、**Glans（龜頭）**、**Frenulum of clitoris（陰蒂繫帶）**
+- **Labium minus（小陰唇）**
+- **Vestibule of the vagina（陰道前庭）**——位於小陰唇之間的區域
+- **External urethral orifice（尿道外口）**
+- **Vaginal orifice（陰道口）**
+- **Openings of the paraurethral ducts（尿道旁腺導管口）**——在尿道外口兩側各一
+- **Frenulum of labia minora（小陰唇繫帶）**
+- **Posterior labial commissure（後陰唇連合）**
+
+### 皮膚移除
+
+**1.** 參考圖 5.27。
+
+**2.** 從肛門前緣到後陰唇連合，在正中線做一皮膚切口（圖 5.27，紅色虛線）。
+
+**3.** 在每側沿著大陰唇的內側面做一皮膚切口。每個切口從後陰唇連合開始，經過小陰唇外側，終止於前陰唇連合。在正中線將切口延伸至恥骨丘（圖 5.27，紅色虛線）。
+
+**4.** 在恥骨丘上做一橫切口，從右大腿延伸到左大腿（圖 5.27，藍色虛線）。
+
+**5.** 從大陰唇移除皮膚（切口的外側）。沿著大腿內側面剝離每側皮膚瓣（圖 5.27，藍色虛線），放置於組織容器中。
+
+**6.** 如果大體在內側大腿淺筋膜中有大量脂肪，移除部分淺筋膜作為被移除皮膚的對應組織。
+
+### 淺會陰囊與陰蒂（Superficial Perineal Pouch and Clitoris）
+
+淺會陰筋膜有淺層脂肪層與深層膜性層。在女性，淺層脂肪層提供大陰唇的形狀，與下腹壁、坐骨直腸窩及大腿的脂肪連續。淺會陰筋膜的膜性層（**Colles' fascia**）附著於坐恥骨支，向後至坐骨結節，並附著於會陰膜的後緣（圖 5.28）。膜性層形成淺會陰囊的淺層邊界。
+[G 257, 273-276; L 283, 284; N 357, 358; R 363, 364; C 347, 348]
+
+**1.** 女性淺會陰囊的內容物包括（圖 5.29）：
+
+- **三對肌肉**
+  - **Ischiocavernosus（坐骨海綿體肌）**
+  - **Bulbospongiosus（球海綿體肌）**
+  - **Superficial transverse perineal muscle（淺會陰橫肌）**
+- **陰蒂腳（Crura of the clitoris）**（成對）
+- **前庭球（Bulbs of the vestibule）**（成對）
+- **前庭大腺（Greater vestibular glands）**（成對）
+- 供應上述結構的動靜脈與神經
+
+**2.** 注意 **posterior labial nerve and vessels** 經過 external anal sphincter muscle 的外側進入泌尿生殖三角（圖 5.30）。後陰唇神經與血管供應大陰唇的後部，是泌尿生殖三角的淺層內容物。在繼續步驟 3 之前先找出它們。
+
+**3.** 不必為了完成解剖而辨認淺會陰筋膜的膜性層。用探針在距小陰唇外側約 2 cm 處穿過淺會陰筋膜。移除形成大陰唇的脂肪，放置於組織容器中。
+
+**4.** 辨認位於小陰唇外側的 **bulbospongiosus muscle**（圖 5.29）。Bulbospongiosus muscle 覆蓋前庭球的淺表面。Bulbospongiosus muscle 的後方附著於會陰體。前方附著於陰蒂的 corpus cavernosum clitoris。女性 bulbospongiosus muscle 不像男性那樣在正中與對側的 bulbospongiosus muscle 會合。
+
+**5.** 在 bulbospongiosus muscle 的外側，用鈍性解剖清潔 **ischiocavernosus muscle** 的表面（圖 5.29）。Ischiocavernosus muscle 覆蓋陰蒂腳的淺表面。Ischiocavernosus muscle 的後方附著於坐骨結節與坐恥骨支。前方附著於陰蒂腳。Ischiocavernosus muscle 將血液從陰蒂腳驅入陰蒂 corpus cavernosum 的遠端。
+
+**6.** **Superficial transverse perineal muscle** 很難找到。用鈍性解剖，在泌尿生殖三角後緣嘗試找出（圖 5.29）。限制尋找時間。Superficial transverse perineal muscle 的外側附著於坐骨結節與坐恥骨支，內側附著於會陰體。
+
+**7.** 為找到會陰膜，用探針在淺會陰囊的三塊肌肉之間進行解剖，直到建立一個小的三角形開口（圖 5.29）。Perineal membrane 是淺會陰囊的深層邊界，前庭球與陰蒂腳附著於其上。
+
+**8.** 在大體左側，用鈍性解剖移除 bulbospongiosus muscle 並辨認**前庭球（bulb of the vestibule）**（圖 5.30）。前庭球是位於陰道口外側的細長海綿狀組織塊。注意前庭大腺位於淺會陰囊中，在前庭球的正後方。
+
+**9.** 在前方，兩側的前庭球在球連合處會合，並與陰蒂龜頭連續。不要嘗試找到球的連合。
+
+**10.** 在大體左側，用鈍性解剖將 ischiocavernosus muscle 從陰蒂腳移除（圖 5.30）。
+
+**11.** 用圖示研究陰蒂海綿狀體的組成。
+[G 276; L 284; N 358; R 362]
+
+注意：
+- 兩條 corpora cavernosa 形成陰蒂的體。
+- 陰蒂龜頭覆蓋兩條 corpora cavernosa。
+
+### 深會陰囊（Deep Perineal Pouch）
+
+深會陰囊不解剖。深會陰囊位於會陰膜的上方（深層）（圖 5.28）。注意女性深會陰囊的內容物（圖 5.31）：
+
+- **Urethra（尿道）**
+- **Part of the vagina（陰道的部分）**
+- **External urethral sphincter muscle（尿道外括約肌）**
+- Internal pudendal artery 與 vein 的分支（尤其是陰蒂背側動靜脈）
+- Pudendal nerve 的分支（尤其是陰蒂背側神經）
+
+**1.** 用圖示研究以下內容：
+[G 258; L 285; N 358; R 366; C 345]
+
+- **Urethra（尿道）**——從膀胱的尿道內口延伸至陰道前庭的尿道外口（約 4 cm）。
+- **External urethral sphincter muscle**——圍繞尿道的隨意肌。當收縮時，壓迫尿道並阻止尿液流出。
+- **Deep transverse perineal muscle（深會陰橫肌）**（成對）——外側附著於坐骨結節與坐恥骨支，內側附著於會陰體。
+
+**2.** 深會陰囊的其他內容物包括 internal pudendal artery 與 pudendal nerve 的分支，供應 external urethral sphincter muscle、深會陰橫肌與陰蒂（圖 5.30）。
+
+**3.** 深會陰囊內的肌肉加上會陰膜，總稱為**泌尿生殖膈（urogenital diaphragm）**。
+
+> **臨床重點**：**產科考量**
+> 為緩解分娩疼痛，進行陰部神經阻斷麻醉，方法是將局部麻醉劑注射到坐骨棘附近的陰部神經周圍。為進行注射，通過陰道觸摸坐骨棘，並將針頭朝坐骨棘方向穿過皮膚。
+> 當嬰兒頭部在分娩過程中通過陰道時，肛門與提肛肌被迫向後至骶骨與尾骨。尿道被迫向前至恥骨聯合。分娩時的會陰撕裂很常見，可能需要手術擴大陰道口（會陰切開術）。如果會陰體撕裂，必須修復以防止骨盆底薄弱，導致膀胱、子宮或直腸脫垂。
+
+#### 解剖複習
+
+**1.** 將泌尿生殖三角的肌肉恢復到正確的解剖位置。
+
+**2.** 回顧女性淺會陰囊的內容物。參觀有男性大體的解剖台，觀察淺會陰囊的內容物。
+
+**3.** 用圖示回顧 internal pudendal artery 從骨盆腔起源到陰蒂背側的路徑。
+
+**4.** 用圖示回顧 pudendal nerve 的路徑與分支。
+
+**5.** 回顧圖示中的女性尿道，注意其從膀胱到陰道前庭的路徑。
+
+---
+
+## 女性骨盆腔（Female Pelvic Cavity）
+
+### 解剖概述
+
+女性骨盆腔前方含有膀胱，中央含有女性內生殖器，後方含有直腸（圖 5.32）。**Adnexa（附件）**一詞是指卵巢、子宮輸卵管與卵巢的韌帶。切除卵巢（卵巢切除術）或不切除卵巢是常見的手術程序。
+
+解剖順序如下：研究女性骨盆腔的腹膜。將骨盆正中切開，研究切面的表面。研究卵巢與陰道。將卵巢管從追蹤至卵巢。研究卵巢。
+
+### 解剖操作
+
+#### 腹膜（Peritoneum）
+
+[G 236; L 265; N 342; R 354; C 342]
+
+**1.** 參考圖 5.32，檢查女性骨盆腔的腹膜。注意腹膜：
+1. 從前腹壁、恥骨上方通過（圖 5.32，標號 2）
+2. 覆蓋膀胱的上表面
+3. 從膀胱上表面到形成**膀胱陰道陷凹（vesicouterine pouch）**的卵巢
+4. 覆蓋卵巢的底與體，並接觸陰道後壁的腹膜
+5. 在卵巢與直腸之間形成**直腸卵巢陷凹（rectouterine pouch）**
+6. 接觸直腸的前表面與兩側
+7. 在第三骶椎水平形成**乙狀結腸繫膜（sigmoid mesocolon）**
+
+**2.** **Paravesical fossa**（成對）是位於膀胱外側的腹腔中的淺凹。
+
+**3.** **Pararectal fossa**（成對）是位於直腸外側的腹腔中的淺凹。
+
+> **臨床重點**：**骨盆腔腹膜**
+> 當膀胱充盈時，從前腹壁到膀胱的腹膜反折（圖 5.32，標號 2）上升到恥骨上方。充盈的膀胱可被從恥骨上方插入的穿刺針穿透，而不進入腹膜腔。
+
+#### 闊韌帶（Broad Ligament of the Uterus）
+
+**4.** 辨認**闊韌帶（broad ligament of the uterus）**。闊韌帶由兩層腹膜組成，從卵巢外側延伸到骨盆外側壁。卵巢管位於闊韌帶上緣之內。闊韌帶有三部分（圖 5.33）：
+[G 240; L 269; N 352; R 357; C 334]
+
+- **Mesosalpinx**——支持卵巢管。
+- **Mesovarium**——將卵巢附著於闊韌帶的後面。
+- **Mesometrium**——闊韌帶在 mesosalpinx 附著點下方的部分。
+
+**5.** 闊韌帶兩層之間的組織稱為**卵巢旁組織（parametrium）**。
+
+**6.** 辨認通過闊韌帶前層可見的**圓韌帶（round ligament of the uterus）**（圖 5.33）。觀察圓韌帶跨過骨盆緣，通過深腹股溝環離開腹腔，位於腹壁下血管的外側。圓韌帶通過腹股溝管，終止於大陰唇。
+
+**7.** 辨認**卵巢韌帶（ovarian ligament）**，這是位於闊韌帶內連接卵巢與卵巢的纖維索。
+
+**8.** 辨認**卵巢懸韌帶（suspensory ligament of the ovary）**，這是覆蓋卵巢血管的腹膜皺襞。卵巢懸韌帶從卵巢的上面向大骨盆腔延伸。
+
+**9.** **Endopelvic fascia（腹膜外筋膜）**含有被動支持卵巢的結締組織增厚部。用圖示研究並注意：
+[G 255; L 270; N 345; C 355]
+
+- **Uterosacral（sacrogenital）ligament（宮骶韌帶）**——從宮頸延伸到骶骨。宮骶韌帶位於宮骶皺襞之下。
+- **Transverse cervical（cardinal）ligament（橫韌帶／主韌帶）**——從宮頸延伸到骨盆外側壁。
+- **Pubocervical（pubovesical）ligament（恥骨宮頸韌帶）**——從恥骨延伸到宮頸。
+
+#### 骨盆切開術（Section of the Pelvis）
+
+**1.** 用新的手術刀片開始此解剖。
+
+**2.** 用手將卵巢置於正中平面。用解剖刀將卵巢從其中央平面切開。延伸切口穿過卵巢頸進入陰道穹。
+
+**3.** 從恥骨聯合後方開始，在膀胱上表面做一正中切口。打開膀胱並清除其內部，如有必要。
+
+**4.** 辨認膀胱中的尿道內口並插入探針。用探針作為引導，切開膀胱的下部，分割尿道。
+
+**5.** 向後延伸正中切口。切開直腸的前壁與後壁以及乙狀結腸的遠端。清除其內容物。
+
+**6.** 在會陰部，將探針尖端插入尿道外口。用探針作為引導，做一正中切口切開陰蒂，將其分為左右兩側。向後延伸此切口，分割尿道與陰道為左右兩側。
+
+**7.** 在正中線，切開會陰膜、會陰體與肛管。將切口延伸至尾骨尖。
+
+**8.** 用鋸做兩個正中切口：
+- **恥骨聯合**——大體仰臥，由前向後鋸過恥骨聯合。不要讓鋸進入手術刀切口。
+- **骶骨**——將大體翻至俯臥，由後向前鋸過骶骨。撐開切口，向上延伸正中切口至第三腰椎體水平。
+
+**9.** 將大體恢復仰臥姿勢。用手術刀切開右側髂總靜脈、右側髂總動靜脈與右側卵巢血管。切開右側輸尿管與右側腰叢的分支。
+
+**10.** 在橫切面上，在 L3 椎體水平用手術刀切開腰大肌與腰方肌。用鋸在 L3 與 L4 之間的椎間盤水平橫向鋸過右側一半。現在可以移除右下肢。
+
+**11.** 清除直腸與肛管的內容物。
+
+#### 女性內生殖器（Female Internal Genitalia）
+
+[G 236; L 268, 269; N 342, 348; R 354; C 342]
+
+**1.** 研究切開標本的切面（圖 5.34）。
+
+**2.** 將切開的尿道從膀胱向前下方追蹤至尿道外口。嘗試辨認圍繞尿道的 external urethral sphincter muscle。它在標本中可能難以看見。
+
+**3.** 在切開的標本中觀察**陰道（vagina）**（圖 5.34）。觀察陰道前壁比後壁短。辨認陰道穹窿並探索其四個部分（圖 5.34 與 5.35）：
+- **Anterior part（前部）**
+- **Lateral part（ pair：right and left）（側部）**
+- **Posterior part（後部）**
+
+**4.** 觀察陰道後壁（在陰道穹窿後部附近）與直腸卵巢陷凹的腹膜相接觸。
+
+**5.** 研究**卵巢（uterus）**（圖 5.34 與 5.35）。觀察卵巢向前傾斜約 90°（anteverted），與陰道軸成一定角度。卵巢的位置隨膀胱充盈而改變，並在懷孕期間發生變化。
+[G 241, 287; L 270; N 355; R 356, 357; C 332, 334]
+
+**6.** 辨認卵巢的以下特徵（圖 5.35）：
+- **Fundus（底）**——宮體上部，位於卵巢管附著點之上的圓形部分。
+- **Body（體）**——介於底與卵巢頸之間的部分。卵巢體的膀胱面朝向膀胱卵巢陷凹，腸面朝向直腸卵巢陷凹。注意闊韌帶附著於卵巢體的外側面。
+- **Isthmus（峽部）**——卵巢體在卵巢頸之上的狹窄部分。
+- **Cervix（卵巢頸）**——卵巢的厚壁部分，突出於陰道管中。
+
+**7.** 辨認**卵巢腔（uterine cavity）**。在冠狀切面上，它是三角形的（圖 5.35）。在矢狀切面上，它是一裂隙（圖 5.34）。
+
+**8.** 注意卵巢的黏膜稱為**內膜（endometrium）**。卵巢的厚肌層稱為**肌層（myometrium）**。卵巢表面的腹膜覆蓋物稱為**腹膜（perimetrium）**。闊韌帶內的組織稱為**卵巢旁組織（parametrium）**。
+
+**9.** 辨認**卵巢管（uterine tube）**（圖 5.35）。用手指追蹤卵巢管，因為它在 mesosalpinx 內向側方延伸。觀察：
+- **Isthmus（峽部）**——卵巢管的狹窄、內側三分之一。
+- **Ampulla（壺腹）**——卵巢管最寬、最長的部分。
+- **Infundibulum（漏斗部）**——卵巢管末端的漏斗狀 end。
+- **Fimbriae（繖部）**——圍繞漏斗部遠側緣的多個突起。
+
+**10.** 觀察**卵巢（ovary）**。卵巢是橢圓形的，有卵巢管（遠）極與卵巢（近）極。卵巢血管進入卵巢的卵巢管極，卵巢韌帶附著於卵巢極。
+
+**11.** 卵巢位於**卵巢窩（ovarian fossa）**中。卵巢窩是骨盆腔外側壁上的淺凹，其邊界為輸尿管、髂外靜脈與卵巢管。
+
+**12.** 回顧卵巢血管的腹部起源與路徑。注意它們穿過卵巢懸韌帶（圖 5.35）。
+
+---
+
+## 女性骨盆腔的血管與神經（Female Internal Iliac Artery and Nerves）
+
+### 髂內動靜脈（Internal Iliac Artery）
+
+[G 246; L 274; N 380]
+
+**1.** 為清理解剖視野，移除髂內靜脈的所有屬支。
+
+**2.** 辨認髂總動靜脈並向遠端追蹤直到它分叉。
+
+**3.** 辨認髂內動靜脈。用鈍性解剖將髂內動靜脈追蹤進入骨盆腔。
+
+**4.** 辨認髂內動靜脈前幹的分支（圖 5.39）：
+
+- **Umbilical artery（臍動靜脈）**——在內側臍皺襞中找到內側臍韌帶，用鈍性解剖向後追蹤至臍動靜脈。注意數條膀胱上動靜脈起源於臍動靜脈的下表面，下降至膀胱的上外側部。
+- **Obturator artery（閉孔動靜脈）**——進入閉孔管。在約 20% 的案例中，異常閉孔動靜脈（來自髂外動靜脈）跨過骨盆緣，在股疝修補手術中有受傷的風險。
+- **Uterine artery（卵巢動靜脈）**——沿闊韌帶的下附著處走行。用鈍性解剖追蹤至卵巢外側，並注意它從卵巢上方跨越輸尿管。卵巢動靜脈分為大的上行分支至卵巢體與底，以及小的分支至卵巢頸與陰道。觀察陰道穹窿外側部與卵巢動靜脈的密切關係。在活體中，可以通過陰道穹窿外側部觸摸到卵巢動靜脈的搏動。
+
+> **臨床重點**：**卵巢動靜脈**
+> 輸尿管與卵巢動靜脈在陰道穹窿外側部附近的密切關係具有臨床重要性。在卵巢切除術中，卵巢動靜脈被結紮並切斷。輸尿管可能在跨越卵巢動靜脈之處被意外鉗住、結紮並切斷。這將對相應的腎臟造成嚴重後果。為回憶此關係，使用助記法「橋下的水」。橋是卵巢動靜脈，水是尿液。
+> 陰道動靜脈穿過骨盆底，在輸尿管下方。卵巢動靜脈供應陰道與膀胱。注意輸尿管在卵巢動靜脈與陰道動靜脈之間穿過。
+
+- **Vaginal artery（陰道動靜脈）**——穿過骨盆底，在輸尿管下方。
+- **Middle rectal artery（直腸中動靜脈）**——向內側走向直腸。
+- **Internal pudendal artery（陰部內動靜脈）**——通過梨狀肌下方的坐骨大孔離開骨盆腔。
+- **Inferior gluteal artery（臀下動靜脈）**——通常在 S2 與 S3 之間離開骨盆腔。
+
+**5.** 辨認髂內動靜脈後幹的分支（圖 5.39）：
+
+- **Iliolumbar artery（髂腰動靜脈）**——在腰骶幹與閉孔神經之間上升。
+- **Lateral sacral artery（外側骶動靜脈）**——發出上支與下支。
+- **Superior gluteal artery（臀上動靜脈）**——在腰骶幹與 S1 腹側根之間離開骨盆腔。
+
+**6.** 用圖示研究膀胱靜脈叢、卵巢靜脈叢、陰道靜脈叢與直腸靜脈叢。所有這些靜脈叢都引流至髂內靜脈。
+
+### 神經（Nerves）
+
+[G 211; L 275; N 392; R 471; C 362]
+
+骨盆腔的軀體叢是骶叢與尾骨叢，位於骨盆腔臟器與外側骨盆壁之間，位於 endopelvic fascia 內。
+
+**1.** 用手指將直腸從骶骨與尾骨前面遊離。
+
+**2.** 向內側拉開直腸，辨認骶神經叢（圖 5.40）。確認：
+- 腰骶幹連接於骶叢。
+- S2 與 S3 的腹側根在梨狀肌近端附著處之間穿出。
+- 坐骨神經由 L4 至 S3 的腹側根形成。
+- 陰部神經由 S2、S3 與 S4 的腹側根形成。
+
+**3.** 辨認**骨盆內臟神經（pelvic splanchnic nerves）**（圖 5.40）。骨盆內臟神經攜帶節前副交感神經軸突，支配骨盆腔臟器與遠端胃腸道。
+[G 251; L 275; N 392; C 362]
+
+**4.** 交感幹的骶骨部分位於骶骨前面，內側於骶腹側孔。辨認交感幹與**奇神經節（ganglion impar）**。
+
+> **臨床重點**：**骨盆神經叢**
+> 下腹叢位於膀胱、卵巢、陰道與直腸外側的 endopelvic fascia 中。這個自律神經叢可能在骨盆腔手術中受傷，導致膀胱控制喪失。
+
+#### 解剖複習
+
+**1.** 回顧腹主動脈及其終末分支。
+
+**2.** 用解剖的標本回顧髂內動靜脈的分支與每個分支的供應區域。
+
+**3.** 回顧卵巢與陰道動靜脈與輸尿管的關係。
+
+**4.** 回顧骶叢的形成與在骨盆腔中解剖的分支。
+
+**5.** 用解剖的標本與圖示回顧 pudendal nerve 從骨盆腔到泌尿生殖三角的路徑。
+
+---
+
+## 女性骨盆膈（Female Pelvic Diaphragm）
+
+### 解剖概述
+
+骨盆膈是骨盆腔的肌肉底板。骨盆膈由 levator ani muscle 與 coccygeus muscle 加上覆蓋其上、下表面的筋膜組成（圖 5.41A, B）。骨盆膈從恥骨聯合延伸到尾骨。外側，骨盆膈附著於覆蓋 obturator internus muscle 的筋膜。尿道、陰道與肛管通過骨盆膈中線上的開口，分別稱為泌尿生殖裂孔與肛門裂孔。
+
+### 解剖操作
+
+**1.** 在大體的一側進行骨盆膈的解剖。
+[G 206, 209; L 278, 279; N 337-339; C 343]
+
+**2.** 將膀胱、卵巢與直腸向正中線拉開。
+
+**3.** 用鈍性解剖移除骨盆膈上表面剩餘的脂肪與結締組織。
+
+**4.** 為找到 levator ani muscle 的腱弓（圖 5.41A），觸摸坐骨棘的內側面，然後找到閉孔管。腱弓位於連接這兩個結構的線條下方。
+
+**5.** 辨認 levator ani muscle 的三塊肌肉：
+- **Puborectalis muscle**——前方附著於恥骨體。後方附著於對側的 puborectalis muscle（在正中縫處）。Puborectalis muscle 形成泌尿生殖裂孔的邊緣（圖 5.41B）。兩條 puborectalis muscle 形成「恥骨直腸帶」，在直腸壺腹處造成肛門直腸曲（圖 5.38）。在排便時，puborectalis muscle 放鬆，糞便排出更順暢。
+- **Pubococcygeus muscle**——前方附著於恥骨體，後方附著於尾骨與肛尾縫。
+- **Iliococcygeus muscle**——前方附著於腱弓，後方附著於尾骨與肛尾縫。
+
+**6.** Levator ani muscle 支持骨盆腔臟器並抵抗腹內壓的增加。
+
+**7.** 辨認 **coccygeus muscle**。Coccygeus muscle 的前方附著於坐骨棘，後方附著於尾骨外側緣與骶骨最下部（圖 5.41A）。
+
+**8.** 將一隻手的手指放在坐骨直腸窩，另一隻手的手指放在骨盆膈的上表面。觸摸骨盆膈並感受其薄度。
+
+**9.** 觀察 obturator internus muscle 形成坐骨直腸窩的外側壁。
+
+**10.** 用教科書學習骨盆腔淋巴引流的一般模式與每組淋巴結的位置：
+[G 217; L 290; N 386; R 360]
+
+- 髂內淋巴結
+- 髂外淋巴結
+- 髂總淋巴結
+- 骶淋巴結
+- 腰淋巴結
+
+#### 解剖複習
+
+**1.** 用解剖的標本回顧每塊骨盆膈肌肉的近端附著與作用。
+
+**2.** 回顧髂內動靜脈分支與骨盆膈的關係。
+
+**3.** 回顧骶叢與骨盆膈的關係。
+
+**4.** 用圖示回顧骨盆膈在形成骨盆腔與會陰之間邊界中的作用。
+
+**5.** 用圖示回顧從骨盆腔與會陰的淋巴引流。了解會陰的結構引流至淺腹股溝淋巴結。卵巢的淋巴引流沿著卵巢血管至腰淋巴結鏈，繞過骨盆腔的淋巴系統。
+
+**6.** 回顧胸導管的形成以完成對此區域淋巴引流的理解。
+
+**7.** 參觀有男性大體的解剖台，進行男性骨盆腔的完整複習。

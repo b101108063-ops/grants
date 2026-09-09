@@ -1,2351 +1,1267 @@
 ---
-title: "Chapter 2: The Upper Limb"
-description: "Grant's Dissector 15th Edition - The Upper Limb"
+title: "第 2 章：上肢"
+description: "Grant's Dissector 第 15 版 - 上肢"
 weight: 2
 ---
 
-# Chapter 2: The Upper Limb
+# 第 2 章：上肢
 
-> **Atlas參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
-
-
-# Chapter 2: The Upper Limb
-
-> **Atlas參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
-
-
-# Grant's Dissector 15th Edition: The Upper Limb
-
-> **Atlas References:** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
-
-FIGURE 2.2
-Incisions for skinning the pectoral region (A) and upper skin. They are frequently used for drawing blood and in- jecting medications. In the cadaver, the superficial veins are not conspicuous. The cutaneous nerves of the upper limb pierce the deep fascia to reach the superficial fascia
-The order of dissection will be as follows: The anterior thoracic wall and the upper limb proximal to the wrist will be skinned. The objective is to remove
-only the skin, leaving the superficial fascia undisturbed.
-The superficial veins and selected cutaneous nerves will be dissected. The fat will then be removed so that the
-*deep fascia may be observed. [G 490, 498; L 31; N 403, 404;*
-R 400, 402; C 41]
-Dissection Instructions
-Skin Incisions
-**1.** Place the cadaver in the supine position.
-**2.** Refer to FIGURE 2.2A. Before cutting, realize that
-the skin is thin on the anterior thoracic wall.
-**3.** Make a midline skin incision from the jugular
-notch (A) to the xiphisternal junction (C).
-**4.** Make a skin incision from the jugular notch (A) along the clavicle to the acromion (B). Continue this incision down the lateral side of the arm to a point that is approximately halfway down the
-**5.** At point F, make an incision around the anterior and posterior surfaces of the arm, meeting on the
-medial side (G).
-**6.** Make an incision from the xiphisternal junction (C) along the costal margin to the midaxillary line
-**7.** Make an incision that begins at G on the medial surface of the arm and extends superiorly to the ax- illa. Extend this incision inferiorly along the lateral
-surface of the trunk to V.
-**8.** Make a transverse skin incision from the middle of the manubrium to the midaxillary line, passing
-around the nipple.
-**9.** Make a transverse skin incision from the xiphister-
-nal junction (C) to the G-V incision.
-**10.** Make a transverse skin incision halfway between
-the A-B incision and the incision made in step 8.
-**11.** Remove the skin from medial to lateral. Leave the nipple attached to the superficial fascia.  Detach the skin along the midaxillary line and place it
-in the tissue container.
-**12.** If the back has not been dissected previously go to page 8, follow the skinning instructions that are
-provided there, and return to this page.
-**13.** Refer to FIGURE 2.2B.
-**14.** Make an incision that encircles the wrist (E). The skin is very thin (2 mm) on the anterior surface of
-the wrist-do not cut too deeply.
-**15.** Make a longitudinal incision on the anterior sur-
-face of the upper limb (E to G).
-**16.** Remove the skin from the arm and forearm and place it in the tissue container. Do not damage the
-superficial veins and cutaneous nerves in the super-
-fi cial fascia.
-*Superfi cial Veins Grant's Atlas 498 | LWW Atlas 31 | Netter's 403 | Color Atlas 398 | Clemente's 41*
-**1.** Use blunt dissection with a probe to demon- strate the superficial veins of the arm and forearm
-(FIG. 2.3).
-**2.** Abduct the upper limb to about 45° and have your
-dissection partner hold it in the abducted position.
-**3.** In the posterior forearm, demonstrate the basilic
-vein and cephalic vein.
-**4.** Use a probe to follow the cephalic and basilic veins proximally, freeing them from the surrounding fat
-and connective tissue.
-**5.** Demonstrate that the cephalic and basilic veins are joined across the cubital fossa by the median
-
-## The Upper Limb cubital vein. This pattern can be quite variable and
-should be observed on other cadavers.
-**6.** Follow the cephalic vein proximally into the  pectoral region where it courses in the deltopectoral groove between the deltoid muscle and the  pectoralis major muscle. Near the clavicle, the cephalic vein passes deeply through the deltopectoral triangle to join
-the axillary vein.
-**7.** Follow the basilic vein proximally. About halfway up the arm, it pierces the deep fascia to join the
-deep veins.
-**8.** Use a probe to elevate the superficial veins (FIG. 2.3).
-Note that several perforating veins penetrate the deep fascia and connect the superficial veins to the
-deep veins.
-*Cutaneous Nerves [G 490; L 31; N 403, 404; R 400;*
-C 36, 37, 68, 69]
-**1.** Before dissecting, use an illustration to familiar- ize yourself with the course and distribution of the cutaneous nerves of the arm and forearm
-(FIG. 2.3):
-- Superior lateral cutaneous nerve of the arm
-- Inferior lateral cutaneous nerve of the arm
-- Posterior cutaneous nerve of the arm
-- Intercostobrachial nerve
-- Medial cutaneous nerve of the arm
-- Posterior cutaneous nerve of the forearm
-- Lateral cutaneous nerve of the forearm
-- Medial cutaneous nerve of the forearm
-- Superfi cial branch of the radial nerve
-- Dorsal branch of the ulnar nerve
-**2.** Identify only four of the cutaneous nerves:
-- Lateral cutaneous nerve of the forearm-located at the level of the elbow in the superficial fascia lateral to the biceps brachii tendon. Note its close relationship to the cephalic vein and the
-median cubital vein.
-- Medial cutaneous nerve of the forearm-lo- cated on the medial side of the biceps brachii tendon. Note its close relationship to the basilic
-- Superfi cial branch of the radial nerve-locat- ed in the superficial fascia near the styloid pro- cess of the radius. Expose only 2 or 3 cm of this
-- Dorsal branch of the ulnar nerve-located in the superficial fascia near the styloid process of
-the ulna. Expose only 2 or 3 cm of this nerve.
-**3.** The cutaneous nerves to the digits will be studied
-when the hand is dissected.
-**4.** Remove all remaining superficial fascia from the arm and forearm, preserving the superficial veins and nerves that you have dissected. Do not disturb the deep fascia. Place the superficial fascia in the
-tissue container.
-**5.** Examine the deep fascia of the upper limb and note that it extends from the shoulder to the fi n- gertips. It attaches to the bones of the upper limb and forms compartments that contain groups of muscles. The deep fascia of the upper limb is re- gionally named: brachial fascia in the arm and
-antebrachial fascia in the forearm. In the hand, the deep fascia is called palmar fascia on the pal- mar surface and dorsal fascia of the hand on the
-posterior surface.
-Superior latera cutaneous ne cutaneous nerve
-Intercostobrachial
-Intercostobrachial
-Medial cutaneous ne
-Medial cutaneous nerve of ar
-Posterior cutaneous ne osterior cutaneous nerve of arm
-Medial cutaneous ne
-Medial cutaneous nerve of forear ve of forearm
-Posterior cutaneous ne osterior cutaneous nerve
-Lateral cutaneous ne teral cutaneous nerve
-Median cubital vein
-Median cubital vein
-Cephalic vein
-Cephalic vein
-Basilic vein
-Basilic vein
-Dorsal venous
-Inferior lateral cutaneous teral cutaneous nerve of ar
-Superficial branch
-Superficial branch of radial ne of radial nerve
-Dorsal metacarpal veins
-Dorsal metacarpal veins
-Supraclavicular
-Dorsal branch of ulnar nerve
-FIGURE 2.3
-Superfi cial veins and cutaneous nerves.
-*Skeleton of the Scapular Region [G 526, 527; L 32; N 408;*
-R 371, 373; C 112, 113]
-Refer to a skeleton. On the scapula, identify (FIG. 2.4):
-- Acromion
-- Suprascapular notch
-- Supraspinous fossa
-- Spine
-- Infraspinous fossa
-- Supraglenoid tubercle
-- Glenoid cavity
-- Infraglenoid tubercle
-- Coracoid process
-On the humerus, identify (FIG. 2.4):
-- Head
-- Anatomical neck
-- Greater tubercle
-- Lesser tubercle
-- Intertubercular sulcus (bicipital groove)
-- Surgical neck
-- Deltoid tuberosity
-- Radial groove
-Dissection Instructions
-**1.** Place the cadaver in the prone position (face down).
-Abduct the upper limb to 45°. If a block is available,
-place it under the chest.
-**2.** Reflect the trapezius muscle superiorly, leaving it attached along the "hinge" of cervical fascia that
-was created during the back dissection.
-**3.** Clean the surface and borders of the deltoid muscle. Observe the proximal attachments of the
-deltoid muscle:
-- Spine of the scapula
-Dissection Follow-up
-**1.** Review the superficial fascia of the upper limb.
-**2.** Use the dissected specimen to trace the course of the
-superficial veins from distal to proximal.
-**3.** Review the location of the cephalic vein, basilic vein, and median cubital vein in the cubital fossa and recall
-that these are important for venipuncture.
-**4.** Use the dissected specimen to review the four cutane- ous nerves that you have dissected. Use an illustration to review the pattern of distribution of the cutaneous
-nerves that you did not dissect.
-**5.** Compare this pattern of cutaneous nerve distribution
-to a dermatome chart.
-**6.** Review the deep fascia of the upper limb and name its
-*parts. Grant's Atlas 501 | LWW Atlas 31 | Netter's 401*
-
-### Superficial Muscles Of The Back
-Instructions for dissection of the superficial muscles of the back are found in Chapter 1, The Back. If you are dissect- ing the upper limb before the back, the superficial muscles
-of the back must be dissected now. Turn to pages 9 to 12,
-complete that dissection, and return to this page.
-
-### Scapular Region
-Dissection Overview
-There are six shoulder (scapulohumeral) muscles: deltoid,
-supraspinatus, infraspinatus, teres minor, teres major, and subscapularis. The order of dissection will be as fol- lows: The deltoid muscle will be studied, and then it will be detached from its proximal attachment, and the course of its nerve and artery will be studied. Subsequently, the four muscles arising from the posterior surface of the scapula (supraspinatus, infraspinatus, teres major, teres minor) will
-be dissected and their nerves and blood vessels will be dem-
-onstrated. The subscapularis muscle will be dissected later,
-with the axilla.
-Intertubercular sulcus
-Supraglenoid tubercle
-Coracoid process
-Infraglenoid
-Radial groove
-Infraspinous
-Supraspinous fossa
-Suprascapular notch
-Spine of scapula
-Superior angle
-Medial border
-Lateral border
-Inferior angle
-Surgical neck
-FIGURE 2.4
-Skeleton of the scapular region.
-
-## The Upper Limb
-- Acromion of the scapula
-- Lateral one-third of the clavicle
-Observe the distal attachment of the deltoid mus- cle on the deltoid tuberosity of the humerus. The
-*deltoid muscle abducts the humerus. [G 521; L 36;*
-N 411; R 382; C 62]
-**4.** Use a scalpel to detach the deltoid muscle from its proximal attachments. Make your cuts close to the bone. Leave the muscle attached to its distal attachment on the humerus. Reflect the deltoid muscle laterally, taking care not to tear the vessels and nerve that course along its deep
-**5.** Observe the axillary nerve and the posterior cir- cumflex humeral artery and vein on the deep surface of the deltoid muscle near its attachment to the humerus (FIG. 2.5). Use a probe to clean the
-nerve and vessels and trace them around the surgi-
-*cal neck of the humerus. [G 536; L 37; N 414; R 383;*
-**6.** Note that the axillary nerve innervates the deltoid muscle and that it also innervates the teres minor
-**7.** Follow the axillary nerve and the posterior cir- cumflex humeral artery and vein deeply. Push your fi nger parallel to the nerve and vessels to open the quadrangular space (FIG. 2.5). Defi ne the borders
-of the quadrangular space:
-- Superior border-inferior border of the teres minor muscle
-- Lateral border-surgical neck of the humerus
-- Medial border-lateral border of the long head of the triceps brachii muscle
-- Inferior border-superior border of the teres major muscle
-**8.** Identify the long head of the triceps brachii
-muscle and observe its relationships:
-- It passes anterior to the teres minor muscle
-- It passes posterior to the teres major muscle
-- It passes medial to the axillary nerve and poste- rior humeral circumflex artery
-**9.** Clean and defi ne the borders of the teres minor muscle. The medial attachment of the teres minor muscle is on the lateral border of the scapula. The lateral attachment of the teres minor muscle is on the
-inferior facet of the greater tubercle of the humerus.
-The teres minor muscle laterally rotates the humerus.
-**10.** Clean and defi ne the borders of the teres  major muscle. The medial attachment of the teres
-major muscle is the inferior angle of the scapula.
-The lateral attachment of the teres major muscle is the medial lip of the intertubercular sulcus of the  humerus. The teres major muscle adducts and
-medially rotates the humerus.
-Superior transverse scapular ligament
-Supraspinatus m. (cut)
-Infraspinatus m. (cut)
-Triangular space (green lines) with circumflex scapular artery deep to space
-Teres major m.
-Suprascapular nerve and artery
-Infraspinatus tendon (cut)
-Deltoid m. (reflected)
-Teres minor m.
-Quadrangular space (green lines) transmitting axillary nerve and posterior circumflex humeral
-Superior lateral cutaneous nerve of arm
-Deep artery of arm
-Radial nerve
-Lateral head of triceps
-Long head of triceps
-Joint capsule of shoulder
-Spine of scapula
-Posterior view
-FIGURE 2.5
-Blood and nerve supply to the posterior aspect of the shoulder.
-**11.** Defi ne the borders of the triangular space:
-- Superior border-inferior border of the teres minor muscle
-- Lateral border-medial border of the long head of the triceps brachii muscle
-- Inferior border-superior border of the teres major muscle
-**12.** Note that the circumflex scapular artery may be
-found deep within the triangular space.
-**13.** Clean and defi ne the borders of the  supraspinatus muscle. Observe the medial attachment of the su- praspinatus muscle on the supraspinous fossa of the scapula. The lateral attachment of the supraspi- natus muscle is on the highest facet of the greater tubercle of the humerus. The supraspinatus muscle
-initiates abduction of the humerus.
-**14.** Use a probe to defi ne the borders of the infraspi- natus muscle. Observe the medial attachment of the infraspinatus muscle on the infraspinous fossa of the scapula. The lateral attachment of the infra- spinatus muscle is on the middle facet of the greater tubercle of the humerus. The infraspinatus muscle
-laterally rotates the humerus.
-**15.** The suprascapular artery and the suprascapular nerve are found deep to the supraspinatus muscle (FIG. 2.5). To see them, the supraspinatus muscle
-*must be reflected. Grant's Atlas 536 | LWW Atlas 37 | Netter's 414 | Color Atlas 404 | Clemente's 33*
-**16.** Use a scalpel to transect the supraspinatus muscle
-about 5 cm lateral to the superior angle of the scap-
-ula but medial to the suprascapular notch (FIG. 2.5).
-If a disarticulated scapula is available, hold it over the scapula of the cadaver to help you locate the
-proper level of the cut.
-**17.** Use blunt dissection to loosen, from the supraspi- nous fossa, the portion of the supraspinatus muscle
-that is distal to the transection. Reflect it laterally.
-Leave it attached to the humerus.
-**18.** Identify the suprascapular artery and nerve that lie on the posterior surface of the scapula. Follow the artery and nerve superiorly. Observe that the
-suprascapular artery passes superior to the supe-
-rior transverse scapular ligament and the su-
-prascapular nerve passes inferior to it (FIG. 2.5).
-This relationship can be remembered by use of a mnemonic device: Army (artery) goes over
-the bridge; Navy (nerve) goes under the bridge.
-The "bridge" is the superior transverse scapular
-**19.** Transect the infraspinatus muscle about 5 cm lat-
-eral to the medial border of the scapula (FIG. 2.5).
-**20.** Use blunt dissection to loosen from the infraspi- nous fossa-the portion of the infraspinatus muscle
-that is distal to the transection. Reflect it laterally.
-**21.** Now follow the suprascapular artery and the su- prascapular nerve inferiorly. Observe that they reach the infraspinatus muscle by coursing deep
-(anterior) to the spine of the scapula (FIG. 2.5).
-**22.** The suprascapular artery contributes to the collat-
-eral circulation of the scapular region. Use an illus-
-*tration to study the scapular anastomosis. [G 512;*
-L 38; N 415; R 404]
-**23.** The four muscles of the rotator cuff are the supraspinatus, infraspinatus, teres minor, and subscapularis. The subscapularis muscle will be dissected with the axilla. Use an illustration to study
-the lateral attachments of the rotator cuff muscles.
-*Grant's Atlas 524 | LWW Atlas 45 | Netter's 407 | Color Atlas 383 | Clemente's 32*
-Dissection Follow-up
-**1.** Replace the muscles of the scapular region in their cor-
-rect anatomical positions.
-**2.** Use an illustration and the dissected specimen to review the attachments of each muscle of the scapular
-region. List the action of each muscle and the com-
-bined action of the rotator cuff group of muscles.
-**3.** Review the origin, course, and distribution of the transverse cervical artery, dorsal scapular artery, and
-suprascapular artery.
-**4.** Review the scapular anastomosis.
-**5.** Review the relationship of the suprascapular artery and the suprascapular nerve to the superior transverse
-scapular ligament.
-**6.** Review the innervation of each muscle dissected.
-
-### Pectoral Region
-Dissection Overview
-The pectoral region (L. pectus, chest) covers the ante- rior thoracic wall and part of the lateral thoracic wall. The order of dissection will be as follows: The breast will be dissected in female cadavers. In cadavers of both sexes, the superficial fascia will be removed to expose the pectoral
-Dissection Instructions
-*Breast Grant's Atlas 5 | LWW Atlas 39 | Netter's 176 | Color Atlas 290 | Clemente's 4*
-The breast is dissected in female cadavers only. Students with male cadavers must observe at another dissection table. Because of the advanced age of some cadavers, it may be diffi cult to dissect and identify all of the struc- tures listed. Expect the lobes of the gland to be replaced
-by fat with advanced age.
-The breast extends from the lateral border of the
-sternum to the midaxillary line, and from rib 2 to rib 6.
-
-## The Upper Limb
-The mammary gland is a modifi ed sweat gland that is contained within the superficial fascia of the breast (FIG. 2.6). The breast is positioned anterior to the pec- toral fascia (the deep fascia of the pectoralis major muscle). The pectoral fascia is attached to the overlying skin by the suspensory ligaments of the breast that
-pass between the lobes of the mammary gland.
-**1.** Identify the areola and the nipple (FIG. 2.6).
-**2.** Use the handle of a forceps to scoop the fat out of several compartments between suspensory liga- ments. These areas between suspensory ligaments
-once contained lobes of functional glandular tissue.
-**3.** Make a parasagittal (superior to inferior) cut through the nipple that divides the breast into a
-medial half and a lateral half (FIG. 2.6).
-**4.** On the cut edge of the breast, use a probe to dissect through the fat deep to the nipple. Confi ne your search area to within 3-cm deep to the areola. Find and clean one of the 15 to 20 lactiferous ducts that converge on the nipple. Deep to the nipple identify a lactiferous sinus, which is an expanded
-part of the lactiferous duct.
-**5.** Trace one lactiferous duct to the nipple and at-
-tempt to identify its opening.
-**6.** Use an illustration to study the lymphatic drain-
-*age of the breast. Grant's Atlas 8 | LWW Atlas 40 | Netter's 178 | Color Atlas 290 | Clemente's 7*
-**7.** Insert your fi ngers behind the breast and open the retromammary space. Note that the normal
-Lactiferous
-Lactiferous lactiferous
-Retromammary
-space (bursa)
-Subcutaneous
-Pectoralis minor m.
-Pectoralis major m.
-4th intercostal
-Mammary gland
-Pectoral fascia
-FIGURE 2.6
-Breast in sagittal section. breast can be easily separated from the underlying
-deep fascia of the pectoralis major muscle.
-**8.** Remove the breast from the anterior surface of the
-pectoralis major muscle with the aid of a scalpel.
-**9.** Store the breast in a plastic bag.
-
-### Clinical Correlation
-For descriptive purposes, clinicians divide the breast into four quadrants. The superolateral (upper outer) quadrant contains a large amount of glandular tissue and is a common site for
-breast cancers to develop. From this quadrant, an "axillary tail"
-of breast tissue often extends into the axilla.
-In advanced stages of breast cancer, the tumor may invade the underlying pectoralis major muscle and its fascia. When this happens, the tumor and breast become fused to the chest wall, a condition that can be detected by palpation during a physical examination. As the breast tumor enlarges, it places traction on the suspensory ligaments, resulting in dimpling of
-the skin overlying the tumor.
-Superfi cial Fascia
-**1.** Dissection of the superficial fascia of the anterior thoracic wall must be performed on both male and
-female cadavers.
-**2.** The platysma muscle is a muscle of facial expres- sion that may extend inferior to the clavicle into the superficial fascia of the superior thorax. It is very thin but broad. If the platysma muscle is present in the thorax, dissect it from the superficial fascia that lies deep to it and reflect the muscle superiorly out of the dissection fi eld. Do not extend the dissection
-fi eld superior to the clavicles.
-**3.** Make a vertical cut through the superficial fascia in the midline of the sternum. Make additional cuts through the superficial fascia corresponding to skin
-incisions A-B-F, C-V, and G-V (FIG. 2.2A).
-**4.** Remove the superficial fascia, proceeding from me-
-dial to lateral.
-**5.** Study an illustration of the cutaneous branches of a typical spinal nerve (FIG. 2.7). The anterior cutaneous branches are small and emerge from the intercostal space lateral to the border of the
-*sternum. Do not attempt to fi nd them. [G 22; L 170;*
-N 185; R 214; C 10]
-**6.** As you peel back the superficial fascia, identify an intercostal space by palpation. Palpate the lateral cutaneous branches of the intercostal nerves near the midaxillary line where they leave the intercostal space and enter the superficial fascia. Identify one lateral cutaneous branch (from intercostal space
-4, 5, or 6) while the superficial fascia is being re- moved. Trace its anterior and posterior branches
-for a short distance and preserve them.
-**7.** Detach the superficial fascia along the midaxillary
-line and place it in the tissue container.
-Dissection Follow-up
-**1.** Review the location and parts of the breast.
-**2.** Use an illustration to review the vascular supply to the
-**3.** Discuss the pattern of lymphatic drainage of the breast and identify by name the lymph node groups that are
-Body of 4th thoracic vertebra
-Spinal cord
-Spinal ganglion
-Anterior ramus (4th intercostal nerve)
-4th thoracic spinal nerve
-Posterior ramus
-Anterior branch
-Anterior cutaneous branch of 4th intercostal nerve:
-Lateral branch
-Medial branch
-Lateral cutaneous branch
-of 4th intercostal nerve:
-Posterior cutaneous branch
-of posterior ramus:
-Medial branch
-Lateral branch
-Posterior branch
-FIGURE 2.7
-Distribution of a thoracic spinal nerve.
-**4.** Use an illustration of the branching pattern of a typical spinal nerve to review the innervation of the anterior
-thoracic wall and breast (FIG. 2.7).
-
-### Muscles Of The Pectoral Region
-Dissection Overview
-There are three muscles in the pectoral region: pectoralis major, pectoralis minor, and subclavius. The muscles of the
-pectoral region attach the upper limb to the axial skeleton.
-The pectoralis major muscle is positioned immediately
-deep to the superficial fascia (deep to the breast).
-The dissection will proceed as follows: The pectoralis major muscle will be studied and reflected. The pectoralis minor muscle and clavipectoral fascia will be studied. The subclavius muscle will be identifi ed. The pectoralis minor
-muscle will be reflected, and the branches of the thoracoac-
-romial artery will be dissected.
-
-## The Upper Limb
-Pectoralis major m.
-Deltopectoral triangle
-Clavicular head
-Sternocostal head
-Pectoralis minor m.
-Cut ends of pectoralis major m. intercostal muscles
-anterior m.
-Serratus anterior m.
-Deltopectoral groove
-Subclavius m.
-Coracoid process
-FIGURE 2.8
-Cuts for reflection of the pectoralis major and pectoralis minor muscles.
-Dissection Instructions
-**1.** Clean the superficial surface of the pectoralis major muscle and use your fi ngers to defi ne its borders (FIG. 2.8). Study an illustration and note
-that the deep fascia on the superficial and deep sur- faces of the pectoralis major muscle is called pecto- ral fascia and that it is continuous with the axillary
-*fascia that forms the base of the axilla. [G 506; L 41;*
-N 411; R 406; C 17]
-**2.** Identify the two heads of the pectoralis major muscle: clavicular head and sternocostal head (FIG. 2.8). Observe that the juncture of these two
-heads is at the sternoclavicular joint.
-**3.** Use your fi ngers to trace the tendon of the pecto- ralis major muscle to its lateral attachment on the
-humerus. The pectoralis major muscle flexes, ad-
-ducts, and medially rotates the humerus.
-**4.** Identify the deltopectoral triangle (FIG. 2.8). It is located between the superior border of the clavic- ular head of the pectoralis major muscle and the inferior border of the deltoid muscle near the clav- icle. Laterally, the deltopectoral triangle narrows to
-form the deltopectoral groove.
-**5.** Using blunt dissection, follow the cephalic vein from the arm to the deltopectoral triangle where the vein passes deeply to enter the axilla. Preserve the
-cephalic vein in subsequent steps of this dissection.
-**6.** To prepare the pectoralis major muscle for transec- tion, relax the sternal head of the pectoralis major muscle by flexing and adducting the arm. Gently insert your fi ngers posterior to the inferior border of the pectoralis major muscle and create a space between the sternal head of the pectoralis major
-and the clavipectoral fascia. Push your fi ngers su-
-periorly to open this space.
-**7.** Beginning at the inferior border of the muscle, use scissors to detach the sternoscostal head of the pectoralis major muscle from its attachment to the
-sternum (FIG. 2.8, dashed line).
-**8.** Still working from inferior to superior, insert your fi ngers under the clavicular head and palpate the
-medial and lateral pectoral nerves and vessels.
-**9.** Now use scissors to cut the clavicular head of the pectoralis major muscle close to the clavicle
-(FIG. 2.8, dashed line). Preserve the cephalic vein.
-Note that the lateral pectoral nerve and the pec- toral branch of the thoracoacromial artery enter
-the deep surface of the clavicular head.
-**10.** Reflect the pectoralis major muscle laterally, leav- ing it attached to the humerus. Attempt to preserve
-the nerves and vessels that enter its deep surface.
-**11.** Deep to the pectoralis major muscle are the clavipec-
-toral fascia, pectoralis minor muscle, and subcla-
-vius muscle (FIG. 2.8). Grant's Atlas 506 | LWW Atlas 41 | Netter's 416 | Color Atlas 407
-**12.** Identify the pectoralis minor muscle. Its inferior attachment is on ribs 3 to 5 near their costal car- tilages. Its superior attachment is on the coracoid process of the scapula. The pectoralis minor muscle draws the glenoid cavity of the scapula anteriorly
-and inferiorly.
-**13.** Note that the medial pectoral nerve pierces the pectoralis minor muscle and then enters the deep surface of the pectoralis major muscle, innervating
-**14.** Identify the subclavius muscle, which is located inferior to the clavicle (FIG. 2.8). The subclavius
-muscle is attached to the clavicle and the fi rst rib,
-and it depresses the clavicle.
-**15.** Read a description of the clavipectoral fascia and understand that it is immediately deep to the pec- toralis major muscle. Superiorly, the clavipectoral fascia is attached to the clavicle. It lies both superfi-cial and deep to the subclavius muscle and the pec- toralis minor muscle. Inferiorly, the clavipectoral
-fascia is attached to the axillary fascia.
-**16.** Note that the cephalic vein passes through the cos- tocoracoid membrane (part of the clavipectoral fascia) on the medial side of the pectoralis minor
-muscle. The thoracoacromial artery and the lat-
-eral pectoral nerve also pass through the costo-
-coracoid membrane.
-**17.** Use scissors to detach the pectoralis minor muscle
-from its inferior attachments on ribs 3 to 5 (FIG. 2.8,
-dashed line).
-**18.** Reflect the pectoralis minor muscle superiorly.
-Leave the muscle attached to the coracoid process
-*of the scapula. Grant's Atlas 508 | LWW Atlas 42 | Netter's 415 | Color Atlas 412 | Clemente's 22*
-**19.** Clean the branches of the thoracoacromial artery.
-Begin by fi nding the pectoral branch and trace it proximally to fi nd the other branches. Identify the
-following (FIG. 2.9):
-- Pectoral branch-descends between the pec- toralis major muscle and the pectoralis minor muscle and supplies both. It is usually the largest
-branch of the thoracoacromial artery.
-- Deltoid branch-courses laterally in the delto- pectoral groove between the deltoid muscle and
-pectoralis major muscle. The deltoid branch ac-
-companies the cephalic vein.
-- Acromial branch-passes superior to the coracoid process and courses toward the ac- romion. It may arise from the deltoid branch several centimeters from the thoracoacromial
-- Clavicular branch-courses superiorly and me- dially to supply the subclavius muscle and the
-sternoclavicular joint.
-**20.** Along the lateral border of the pectoralis mi- nor muscle, identify the lateral thoracic artery (FIG. 2.9). Do not follow the lateral thoracic artery
-at this time.
-**21.** Identify the serratus anterior muscle (FIG. 2.8).
-It covers the lateral surface of the thoracic wall.
-Note its extensive anterior attachments on the up- per eighth or ninth ribs. The posterior attachment of the serratus anterior muscle is on the anterior surface of the scapula along the entire length of its
-medial border. You cannot see the posterior attach-
-ment at this time.
-Dissection Follow-up
-**1.** Replace the pectoral muscles into their correct ana-
-tomical positions.
-**2.** Review the attachments of the pectoralis major, pec-
-toralis minor, and subclavius muscles. Review their ac-
-tions, innervations, and blood supply.
-**3.** Review the relationship of the clavipectoral fascia to
-the muscles, vessels, and nerves of this region.
-**4.** Be sure that you understand the role played by the cla-
-vipectoral fascia to support the base of the axilla.
-**5.** Name all branches of the thoracoacromial artery and
-the structures supplied by each branch.
-Dissection Overview
-The axilla is the region between the pectoral muscles, the scapula, the arm, and the thoracic wall (FIG. 2.10). It is a region of passage for vessels and nerves that course from the root of the neck into the upper limb. The contents of the axilla are the axillary sheath, brachial plexus, axillary vessels and their branches, lymph nodes and lymphatic vessels, portions of three muscles, and a considerable
-amount of fat and connective tissue.
-Note the following walls and boundaries of the axilla
-(FIG. 2.11): Grant's Atlas 510 | Netter's 416
-- Apex of the axilla-bounded by the clavicle anteriorly, the superior border of the scapula posteriorly, and the fi rst rib medially
-- Base of the axilla-skin and fascia of the armpit
-Thoracoacromial a.
-Pectoralis minor m.
-Clavicular br.
-Pectoral br.
-Lateral thoracic a.
-Axillary a.
-Deltoid br.
-Acromial br.
-Superior thoracic a.
-Subclavian a.
-FIGURE 2.9
-Blood supply to the pectoral region.
-
-## The Upper Limb
-- Anterior wall-anterior axillary fold (pectoralis ma- jor muscle), pectoralis minor muscle, and clavipectoral
-- Posterior wall-posterior axillary fold (teres major and latissimus dorsi muscles) and the subscapularis muscle that covers the anterior surface of the scapula
-- Medial wall-upper portion of the thoracic wall and the serratus anterior muscle, which overlies this wall
-- Lateral wall-intertubercular sulcus of the humerus
-The order of dissection will be as follows: The pecto- ralis major and pectoralis minor muscles will be reflected to expose the contents of the axilla. The axillary vein and
-its tributaries will be removed to clear the dissection fi eld.
-The branches of the axillary artery will be dissected. The
-brachial plexus will be studied.
-Infraspinatus m.
-Subscapularis m.
-anterior m.
-Long thoracic n.
-Posterior cord of brachial plexus
-Medical cord of brachial plexus
-Axillary a.
-Axillary v.
-Lateral cord of brachial plexus
-Pectoralis major m.
-Pectoralis minor m.
-Coracobrachialis m. brachii m. Long
-Intertubular
-Inferior view
-FIGURE 2.10
-Contents of the right axilla. Inferior view.
-Dissection Instructions
-**1.** Review the pectoralis major muscle, the pectoralis
-minor muscle, and the clavipectoral fascia.
-**2.** Reflect the pectoralis major muscle laterally.
-**3.** Reflect the pectoralis minor muscle superiorly.
-**4.** Abduct the arm to about 45°.
-**5.** The axillary sheath is a connective tissue struc- ture that surrounds the axillary vessels and brachial plexus. The axillary sheath extends from the lateral border of the fi rst rib to the inferior border of the
-teres major muscle. It may be thin and almost un-
-noticeable.
-**6.** Use scissors to open the anterior surface of the axil-
-lary sheath.
-**7.** Identify the axillary vein. Note that the axillary
-vein is formed at the lateral border of the teres ma-
-jor muscle by the joining of the two brachial veins.
-The axillary vein ends at the lateral border of the
-fi rst rib where its name changes to subclavian vein.
-**8.** To enhance dissection of the arteries and nerves in the axilla, the axillary vein must be removed. First, cut the cephalic vein where it joins the axillary vein and preserve the cephalic vein. Next, cut the
-axillary vein at the lateral border of the fi rst rib.
-Use a probe to dissect the axillary vein from the structures that lie posterior to it (axillary artery and brachial plexus), then cut the axillary vein at
-the lateral border of the teres major muscle and re-
-*move it. Grant's Atlas 509 | Netter's 417 | Color Atlas 411 | Clemente's 20*
-**9.** As the dissection proceeds, remove smaller veins that are tributary to the axillary vein. Preserve the accompanying arteries. Note the presence of lymph
-nodes that are associated with the veins.
-*Axillary Artery Grant's Atlas 516 | LWW Atlas 44 | Netter's 415 | Color Atlas 413 | Clemente's 23*
-The axillary artery begins at the lateral border of the fi rst rib where it is the continuation of the subclavian
-Apex of axilla
-(cervicoaxillary canal)
-Intertubercular sulcus
-Lateral wall
-Posterior wall
-Anterior wall
-Base of axilla
-Medial wall
-Axillary Boundaries
-Anterior wall
-Lateral wall
-Medial wall
-Posterior wall
-FIGURE 2.11
-Walls and boundaries of the axilla. artery (FIG. 2.12). The axillary artery ends at the infe- rior border of the teres major muscle where its name changes to brachial artery. The axillary artery is sur- rounded by the brachial plexus. The brachial plexus must be retracted and preserved during dissection of the axillary
-artery and its branches.
-**1.** Identify the three parts of the axillary artery
-(FIG. 2.12):
-- First part-extends from the lateral border of the fi rst rib to the medial border of the pectora- lis minor muscle
-- Second part-lies posterior to the pectoralis minor muscle
-- Third part-extends from the lateral border of the pectoralis minor muscle to the inferior border of the teres major muscle
-Dissection note: The branching pattern of the axillary
-artery may vary from that which is commonly illustrated.
-If the pattern is different in your specimen, understand that the branches are named according to their region of
-distribution rather than by their pattern of origin.
-**2.** The fi rst part of the axillary artery has one branch,
-the superior thoracic artery. The superior thorac-
-ic artery arises near the apex of the axilla and sup-
-plies blood to the fi rst and second intercostal spaces.
-**3.** The second part of the axillary artery has two branches: thoracoacromial artery and lateral
-thoracic artery (FIG. 2.12).
-**4.** Briefl y return the pectoralis minor muscle to its an- atomical position and identify the thoracoacromial artery on the medial side of the pectoralis minor
-muscle. Review the branches of the thoracoacro-
-mial artery that have been dissected previously:
-- Pectoral branch
-- Acromial branch
-- Deltoid branch
-- Clavicular branch
-**5.** Identify the lateral thoracic artery, which aris- es at the lateral border of the pectoralis minor muscle and descends along the lateral border of
-the pectoralis minor muscle (FIG. 2.12). In a sig- nifi cant percentage of cases (35%), the lateral tho- racic artery may arise from the subscapular artery or from the thoracoacromial artery. The lateral thoracic artery supplies the pectoral muscles, the serratus anterior muscle, the axillary lymph nodes, and the lateral thoracic wall. In females, the lateral thoracic artery also supplies the lateral portion of
-the breast.
-**6.** The third part of the axillary artery has three branches: subscapular artery, posterior circum- flex humeral artery, and anterior circumflex
-humeral artery (FIG. 2.12).
-**7.** Identify the subscapular artery, which is the larg- est branch of the axillary artery. The subscapular artery courses inferiorly for a short distance before dividing into the circumflex scapular artery (to muscles on the posterior surface of the scapula) and the thoracodorsal artery (to the latissimus dorsi muscle). The subscapular artery also gives off sev- eral unnamed muscular branches and may be the
-origin of the lateral thoracic artery.
-**8.** Find the anterior and posterior circumflex hu- meral arteries, which arise from the lateral sur- face of the axillary artery distal to the origin of the subscapular artery. Occasionally, these two arteries may arise from a short common trunk. They supply
-the deltoid muscle.
-**9.** Observe that the posterior circumflex humeral artery is the larger of the two circumflex humeral
-arteries. Follow it as it passes posterior to the sur-
-gical neck of the humerus with the axillary nerve.
-Demonstrate that the posterior circumflex humeral
-artery and the axillary nerve pass through the quad-
-rangular space together.
-**10.** The anterior circumflex humeral artery courses around the anterior surface of the humerus at the surgical neck. It passes deep to the tendon of the
-long head of the biceps brachii muscle and anasto-
-moses with the posterior circumflex humeral artery.
-*Brachial Plexus Grant's Atlas 516 | LWW Atlas 43 | Netter's 417 | Color Atlas 413 | Clemente's 20*
-The brachial plexus begins in the root of the neck
-superior to the clavicle. It enters the apex of the ax-
-Superior thoracic a.
-Thoracoacromial a.
-Axillary a.
-Pectoralis minor m.
-Circumflex humeral aa.:
-Subscapular artery
-Circumflex scapular artery
-Inferior border of teres major muscle
-Thoracodorsal artery
-Brachial artery
-Lateral thoracic artery
-Subclavian a.
-FIGURE 2.12
-Branches of the axillary artery.
-
-## The Upper Limb
-**8.** Identify two nerve branches that arise from the in- ferior side of the medial cord. They are the medial cutaneous nerve of the forearm and the medial cutaneous nerve of the arm (FIG. 2.13). Use your
-fi ngers to trace these nerves a short distance (7.5
-cm) into the arm.
-**9.** Retract the axillary artery, the lateral cord, and the medial cord in the superior direction to expose the
-posterior cord of the brachial plexus (FIG. 2.14).
-The branches of the posterior cord are the axillary nerve, radial nerve, and three subscapular nerves
-(upper, middle, and lower).
-**10.** Use blunt dissection to clean the axillary nerve.
-Observe that the axillary nerve passes posterior to the humerus and courses through the quadrangular space with the posterior circumflex humeral artery
-(FIG. 2.14).
-**11.** Use blunt dissection to clean the radial nerve and confi rm that it leaves the axilla by passing poste- rior to the humerus but anterior to the latissimus dorsi and teres major muscles. The radial nerve is the only motor and sensory nerve to the posterior
-side of the upper limb.
-**12.** Identify the subscapular nerves that arise from the posterior cord (FIG. 2.14) and verify that they run in the loose connective tissue on the anterior surface
-of the subscapularis muscle:
-- Upper subscapular nerve-innervates the sub- scapularis muscle
-- Middle subscapular nerve (thoracodorsal nerve) - innervates the latissimus dorsi muscle
-- Lower subscapular nerve-innervates the sub- scapularis muscle and the teres major muscle illa then passes inferiorly toward the base of the axilla
-where its terminal branches arise. Only the infracla-
-vicular part of the brachial plexus (divisions, cords, and branches) will be dissected at this time. The su- praclavicular part (roots and trunks) will be dissected
-with the neck.
-The three cords of the brachial plexus (lateral, medial, and posterior) are named according to their relationship to the second part of the axillary artery (FIG. 2.13). All four of these structures lie close together
-posterior to the pectoralis minor muscle.
-**1.** Identify the musculocutaneous nerve. It is the most lateral terminal branch of the brachial plexus
-and enters the coracobrachialis muscle.
-**2.** To fi nd the lateral cord, use your fi ngers to follow
-the musculocutaneous nerve proximally.
-**3.** Observe that the lateral cord gives rise to one oth- er large branch, the lateral root of the median nerve. Follow the lateral root distally and identify
-the median nerve.
-**4.** To fi nd the medial cord, trace the medial root of
-the median nerve proximally.
-**5.** A portion of the medial cord continues distally as
-the ulnar nerve.
-**6.** Note that the three terminal branches (musculo-
-cutaneous nerve, median nerve, and ulnar nerve) that you have just identifi ed form the letter M anterior to the third part of the axillary artery
-(FIG. 2.13).
-**7.** Trace the medial and lateral pectoral nerves
-from the reflected pectoral muscles to their ori-
-gins from the medial and lateral cords, respec-
-Brachial a.
-Long thoracic n.
-Deltoid m. (cut)
-Medial cutaneous n. of arm and forearm
-Musculocutaneous n.
-Pectoralis major m.
-(reflected)
-Pectoralis minor m.
-(reflected)
-Coracoid process
-Thoracoacromial a.
-Axillary a. (1st part)
-Lateral and medial cords of brachial plexus
-Teres major m.
-Latissimus dorsi m.
-FIGURE 2.13
-Infraclavicular part of the brachial plexus.
-Coracoid process of scapula
-Posterior cord
-Latissimus dorsi m.
-Teres major m.
-Subscapularis m.
-Circumflex scapular
-Radial nerve
-Triceps brachii m.
-(long head)
-Posterior circumflex humeral artery
-Axillary nerve
-Subscapular nerves:
-Middle (Thoracodorsal)
-Greater tubercle
-Lesser tubercle
-Quadrangular space
-FIGURE 2.14
-Posterior wall of the axilla and posterior cord of the
-brachial plexus.
-Dissection Follow-up
-**1.** Replace the pectoralis major muscle and the pectoralis minor muscle into their correct anatomical positions
-and review their attachments.
-**2.** Review the boundaries of the axilla.
-**3.** Use the dissected specimen to observe the relationship of the three parts of the axillary artery to the pectoralis
-minor muscle.
-**4.** Recite the names of all branches of the axillary artery
-and identify each branch on your dissected specimen.
-**5.** Test your understanding of the brachial plexus by draw-
-ing a picture that shows its structure and branches. Ex- tend this exercise demonstrating the divisions, cords, and terminal branches of the infraclavicular portion of
-the brachial plexus on the cadaver.
-**6.** Review the motor nerve supply to the muscles of the scapular region. Name each muscle and the nerve that supplies it. Realize that some of these nerves arise from the supraclavicular portion of the brachial plexus and
-that they have not yet been dissected completely.
-**7.** Review the movements of the scapula.
-**8.** Examine other cadavers to gain an appreciation of vari-
-ations in the branching patterns of arteries and nerves.
-**9.** Use an illustration to review the lymphatic drainage of
-the axilla.
-
-### Arm And Cubital Fossa
-Dissection Overview
-The brachial fascia (deep fascia of the arm) is a sleeve of tough connective tissue that is continuous at its proximal end with the pectoral fascia, the axillary fascia, and the deep
-fascia that covers the deltoid and latissimus dorsi muscles.
-Distally, the brachial fascia is continuous with the ante- brachial fascia (deep fascia of the forearm). The brachial fascia is connected to the medial and lateral sides of the
-humerus by intermuscular septa (FIG. 2.15), creating an an-
-terior (flexor) compartment and a posterior  (extensor)
-**13.** Identify the three muscles that form the posterior
-wall of the axilla: latissimus dorsi, teres major,
-and subscapularis (FIG. 2.14).
-**14.** Examine the subscapularis muscle. The medial attachment of the subscapularis muscle is the sub- scapular fossa of the scapula. The lateral attachment of the subscapularis muscle is the lesser tubercle of the humerus. The subscapularis muscle medially rotates the humerus. The subscapularis muscle is a
-member of the rotator cuff group of muscles.
-**15.** Verify that the medial wall of the axilla is formed by the serratus anterior muscle (FIG. 2.13). Because this muscle is not in clear view, use an  illustration to study its attachments. The anterior attachments of the serratus anterior muscle are the external sur- faces of ribs 1 to 8 or 9. Its posterior attachment is the anterior surface of the medial border of the scapula. The serratus anterior muscle protracts the scapula. The serratus anterior muscle also rotates the scapula, especially when the arm is abducted
-*above the horizontal plane. [G 519; L 41; N 417;*
-R 412; C 20]
-**16.** Use your fi ngers to follow the serratus anterior muscle posteriorly toward the medial border of the scapula. On the superficial surface of this mus- cle, use a probe to free the long thoracic nerve
-(FIG. 2.13). Note the vertical course of this nerve.
-Observe its branches to the serratus anterior mus- cle. Follow the nerve superiorly toward the apex of
-the axilla as far as possible.
-Superficial fascia
-Brachial fascia
-Posterior compartment
-Anterior compartment intermuscular intermuscular
-FIGURE 2.15
-Compartments of the right arm.
-
-### Clinical Correlation
-
-### Nerve Injuries
-The long thoracic nerve is vulnerable to stab wounds and to surgical injury during mastectomy. Injury of the long thoracic nerve affects the serratus anterior muscle. When a patient with paralysis of the serratus anterior muscle is asked to push with both hands against a wall, the medial border of the scapula protrudes on the affected side, a condition known as "winged
-The thoracodorsal nerve is vulnerable to compression injuries and surgical trauma during mastectomy. Injury of the thoracodorsal nerve affects the latissimus dorsi muscle result- ing in a weakened ability to extend, adduct, and medially rotate
-The axillary nerve courses around the surgical neck of the humerus and may be injured during a fracture or during an infe- rior dislocation of the shoulder joint. Injury of the axillary nerve affects the deltoid muscle and teres minor muscle, resulting in
-a weakened ability to abduct and laterally rotate the arm.
-
-## The Upper Limb compartment for the muscles of the arm. The anterior compartment contains three muscles (biceps brachii, bra- chialis, and coracobrachialis) and the musculocutaneous nerve. The posterior compartment contains two muscles (triceps brachii and anconeus), the radial nerve, and the
-deep artery and vein of the arm.
-The order of dissection will be as follows: The anterior compartment of the arm will be opened and its contents will be studied. Nerves and blood vessels will then be traced through the arm from the axilla to the elbow region. The cadaver will be turned to the prone position to complete
-the dissection of the posterior compartment of the arm.
-*Skeleton of the Arm and Cubital Region [G 552; L 32, 33;*
-N 424; R 373, 374; C 113, 122]
-Refer to a skeleton. On the humerus, identify (FIG. 2.16):
-- Medial epicondyle
-- Lateral epicondyle
-- Olecranon fossa
-On the radius, identify:
-- Head
-- Neck
-- Tuberosity
-On the ulna, identify:
-- Olecranon
-- Coronoid process
-Dissection Instructions
-*Anterior Compartment of the Arm [G 530, 531; L 46;*
-N 419; R 415; C 56, 57]
-**1.** Place the cadaver in the supine position.
-**2.** Use scissors to make a longitudinal incision in the anterior surface of the brachial fascia from the level
-of the pectoralis major tendon to the elbow.
-**3.** Use your fi ngers to separate the brachial fascia from the underlying muscles. Work laterally and medially from the incision and note the presence of the lateral intermuscular septum and the medial intermuscular septum. Detach the brachial fascia
-from the intermuscular septa and place it in the tis-
-sue container.
-**4.** Use your fi ngers to separate the three muscles in
-the anterior compartment of the arm: coracobra-
-chialis, brachialis, and biceps brachii (FIG. 2.17).
-**5.** The biceps brachii muscle has two proximal at-
-tachments on the scapula:
-- Short head of the biceps brachii muscle-at- taches to the coracoid process of the scapula
-- Long head of the biceps brachii muscle-at- taches to the supraglenoid tubercle of the scapula
-**6.** The tendon of the long head of the biceps bra- chii muscle courses through the intertubercular sulcus of the humerus posterior to the transverse
-humeral ligament, then enters the shoulder joint.
-FIGURE 2.16
-Skeleton of the elbow region. rochlear notch
-Radial notch
-Interosseous osterior vie
-Anterior view
-Lateral view
-Olecranon fossa teral epicondyle
-Medial epicon
-Coronoid process
-Medial epicon
-Coronoid fossa the three muscles of the anterior compartment of
-**10.** Use your fi ngers to confi rm that the proximal at- tachment of the coracobrachialis muscle is the coracoid process and that its distal attachment is
-on the medial side of the shaft of the humerus.
-The coracobrachialis muscle adducts and flexes
-the humerus.
-**11.** Find the musculocutaneous nerve where it emerges from the coracobrachialis muscle. Follow the musculocutaneous nerve through the plane of loose connective tissue between the biceps brachii
-muscle and brachialis muscle.
-**12.** After the musculocutaneous nerve gives off its mus- cular branches, it continues distally as the lateral cutaneous nerve of the forearm. Follow the lat- eral cutaneous nerve of the forearm to the cubital fossa where it emerges on the lateral side proximal to the biceps brachii tendon. Review the relation- ship of the lateral cutaneous nerve of the forearm
-to the cephalic vein.
-**13.** Use scissors to transect the biceps brachii muscle about 5 cm proximal to the elbow (FIG. 2.17, dashed line). Do not cut the musculocutaneous nerve. Re- fl ect the two portions of the biceps brachii muscle
-proximally and distally, respectively.
-**14.** Observe the brachialis muscle, which is deep to the biceps brachii muscle. The proximal at- tachment of the brachialis muscle is the anterior surface of the distal half of the humerus and its distal attachment is on the coronoid process of
-the ulna. The brachialis muscle flexes the fore-
-**15.** Follow the medial cutaneous nerve of the fore- arm from the brachial plexus to the level of the el- bow (FIG. 2.17). Note its relationship to the basilic
-vein at the level of the elbow.
-**16.** Find the median nerve where it arises from the brachial plexus (FIG. 2.17). Use blunt dissection to follow the median nerve from the axilla to the cubi- tal fossa. The median nerve courses distally within
-the medial intermuscular septum.
-**17.** Use blunt dissection to follow the ulnar nerve from the medial cord of the brachial plexus to
-the medial epicondyle of the humerus (FIG. 2.17).
-Note that the ulnar nerve is in the medial in- termuscular septum in the proximal arm, then comes to lie on the posterior surface of the me- dial intermuscular septum in the distal one-third of the arm. At the elbow, the ulnar nerve is in contact with the posterior surface of the medial epicondyle of the humerus. On yourself, palpate the ulnar nerve where it passes posterior to the
-medial epicondyle.
-Do not follow the tendon of the long head to its
-attachment on the scapula.
-**7.** Identify the biceps brachii tendon at the level of the elbow (FIG. 2.17). The distal attachment of the biceps brachii muscle is on the tuberosity of the ra- dius. The biceps brachii muscle supinates and flexes
-the forearm.
-**8.** Identify the bicipital aponeurosis (FIG. 2.17). The
-bicipital aponeurosis is a broad extension of the bi-
-ceps tendon that attaches to the antebrachial fascia.
-The bicipital aponeurosis is located on the medial
-side of the biceps brachii tendon.
-**9.** Find the musculocutaneous nerve in the axilla
-(FIG. 2.17). Follow the musculocutaneous nerve dis-
-tally until it enters the coracobrachialis muscle.
-Note that the musculocutaneous nerve innervates
-Coracoid process
-Lateral cord, medial cord of brachial plexus
-Musculocutaneous
-Median nerve
-Medial cutaneous nerve of arm
-Medial cutaneous nerve of forearm
-Inferior ulnar collateral artery
-Medial epicondyle
-Pronator teres m.
-Bicipital aponeurosis
-Ulnar artery
-Ulnar nerve
-Superior ulnar collateral artery
-Transverse humeral
-Pectoralis major m.
-Coracobrachialis m.
-Brachial artery
-Brachialis m.
-Radial artery
-Brachioradialis m.
-Biceps brachii
-Radial recurrent
-FIGURE 2.17
-Contents of the anterior compartment of the arm.
-
-## The Upper Limb
-**18.** Identify the brachial artery. The brachial artery is the continuation of the axillary artery. The bra- chial artery begins at the inferior border of the teres major muscle and ends at the level of the el- bow by branching into the ulnar artery and radial artery (FIG. 2.18). Verify that the brachial artery courses with the median nerve within the medial intermuscular septum, and that the median nerve
-is the only large structure to cross the anterior sur-
-*face of the brachial artery. [G 533; L 46; N 421; R 415;*
-**19.** Remove the brachial veins and their tributaries to clear the dissection fi eld. Preserve the branches of
-the brachial artery.
-**20.** The brachial artery has three named branches in the arm: deep artery of the arm, superior ulnar collateral artery, and inferior ulnar collateral artery. Several unnamed muscular branches also
-arise along the length of the brachial artery.
-**21.** In the proximal arm, fi nd the deep artery of the arm
-(deep brachial artery, profunda brachii artery)
-where it arises from the brachial artery (FIG. 2.18).
-The deep artery of the arm courses around the pos- terior surface of the humerus, where it accompanies the radial nerve in the radial groove. The course of
-the deep artery of the arm will be seen when the pos-
-terior compartment of the arm is dissected.
-Ulnar recurrent arteries:
-Interosseous recurrent a.
-Radial recurrent a.
-Teres major m.
-Deep artery
-Brachial a.
-Ulnar collateral arteries:
-Radial collateral a.
-Middle collateral a.
-Axillary a.
-FIGURE 2.18
-Branches of the brachial artery.
-**22.** Identify the superior ulnar collateral artery (FIG. 2.17). It arises from the brachial artery about halfway down the arm. It courses distally with the
-ulnar nerve and passes posterior to the medial epi-
-condyle of the humerus.
-**23.** Find the inferior ulnar collateral artery (FIG. 2.17). It arises from the brachial artery about
-3 cm above the medial epicondyle of the humerus and passes anterior to the medial epicondyle be- tween the brachialis muscle and the pronator
-teres muscle.
-
-### Clinical Correlation
-*BRACHIAL ARTERY Grant's Atlas 558 | LWW Atlas 48 | Netter's 422 | Color Atlas 397 | Clemente's 59*
-Use an illustration to study the collateral circulation around the elbow joint (FIG. 2.18). The brachial artery may become blocked at any level distal to the deep artery of the arm without
-completely blocking blood fl ow to the forearm and hand.
-In the arm, the brachial artery lies medial to the biceps brachii muscle and close to the shaft of the humerus. The brachial artery is
-compressed at this location when taking a blood pressure reading.
-*Cubital Fossa Grant's Atlas 546 | LWW Atlas 46 | Netter's 421 | Color Atlas 416 | Clemente's 70*
-The cubital fossa (L. cubitus, elbow) is the depression on the anterior surface of the elbow. The cubital fossa is clinically important because it contains superficial veins that are used for venipuncture. Large nerves and vessels
-pass through this region.
-**1.** Note the boundaries of the cubital fossa (FIG. 2.19):
-- Lateral boundary-brachioradialis muscle
-- Medial boundary-pronator teres muscle
-- Superior boundary-an imaginary line con- necting the medial and lateral epicondyles of the
-- Superfi cial boundary (roof of the cubital fossa) - antebrachial fascia reinforced by the bi- cipital aponeurosis
-- Deep boundary (fl oor of the cubital fossa) - brachialis and supinator muscles
-**2.** Review the positions of the cephalic vein, basilic vein, and median cubital vein anterior to the cubital fossa. To gain access to deeper structures, it may be necessary to cut the median cubital vein and retract
-its cut ends medially and laterally, respectively.
-**3.** Use scissors to open the posterior compart- ment of the arm by making a longitudinal inci- sion through the brachial fascia from the level of the olecranon of the ulna to the teres minor muscle. Use your fingers to open the brachial fascia widely, then detach it from the medial and lateral intermuscular septa. Place it in the tissue
-**4.** Examine the triceps brachii muscle (FIG. 2.20).
-It has three heads:
-- Long head of the triceps brachii muscle-at- taches to the infraglenoid tubercle of the scapula
-- Lateral head of the triceps brachii muscle-attaches to the posterior surface of the humerus lateral to the radial groove
-- Medial head of the triceps brachii muscle-attaches to the posterior surface of the humerus medial to the radial groove
-**5.** Observe the distal attachment of the triceps brachii tendon on the olecranon of the ulna. The triceps
-brachii muscle extends the forearm.
-**6.** Use your fi ngers to separate the long head of the triceps brachii from the lateral head. Observe
-Median nerve
-Median nerve
-Ulnar nerve (seen through
-brachial fascia)
-Brachial artery
-Brachial veins
-Brachial artery
-Inferior ulnar
-Lateral epicondyle
-(deep to muscle)
-Cubital fossa
-(green lines)
-Ulnar artery
-Brachialis m.
-Lateral cutaneous nerve of forearm
-Radial nerve
-Deep branch of radial nerve
-Superficial radial nerve carpi radialis
-Radial artery
-Radial artery
-Biceps brachii m.
-Brachial fascia
-Antebrachial
-fascia (cut)
-Brachialis m.
-Brachialis m.
-Brachioradialis m.
-Brachioradialis m.
-(retracted)
-Supinator m.
-Biceps brachii
-Cephalic vein
-Basilic vein
-Branches of medial cutaneous nerve of forearm aponeurosis
-A Anterior view, superficial dissection
-B Anterior view, deep dissection
-Cephalic vein
-recurrent a.
-Basilic vein
-FIGURE 2.19
-Cubital fossa. A. Superfi cial dissection. B. Deep dissection.
-**3.** Find the tendon of the biceps brachii muscle in
-the cubital fossa (FIG. 2.19A).
-**4.** Cut the bicipital aponeurosis near the biceps bra-
-chii tendon and reflect the aponeurosis medially.
-Do not cut the brachial artery, which lies deep to
-the bicipital aponeurosis.
-**5.** Follow the median nerve and the brachial artery from the arm into the cubital fossa. Remove any fat that may be obstructing your view of these
-structures.
-**6.** Observe the relative positions of three important structures in the cubital fossa (FIG. 2.19B): The bi- ceps brachii tendon is lateral, the brachial artery is intermediate, and the median nerve is medial. Note that the bicipital aponeurosis passes superficial to the brachial artery and median nerve, but it lies
-deep to the superficial veins. During venipuncture,
-the bicipital aponeurosis provides limited protec-
-tion for the brachial artery and median nerve.
-*Posterior Compartment of the Arm [G 535, 536; L 47;*
-N 420; R 408, 409; C 60]
-**1.** Place the cadaver in the prone position.
-**2.** To gain better access to the posterior compart-
-ment, rotate the arm medially.
-
-## The Upper Limb that the teres major muscle crosses the anterior
-surface of the long head.
-**7.** Inferior to the teres major muscle is an opening between the long head of the triceps brachii  muscle and lateral head of the triceps brachii muscle (FIG. 2.20). Use a probe to widen this opening and identify the radial nerve and the deep artery of
-**8.** Push a probe distally along the course of the radial nerve. The probe should be positioned between the lateral head of the triceps brachii muscle and the
-humerus (FIG. 2.20).
-**9.** Use a scalpel to transect the lateral head of the tri- ceps brachii muscle over the probe. This cut will
-separate the lateral head of the triceps brachii mus-
-cle from the medial head.
-**10.** Use a probe to clean the radial nerve and the deep artery of the arm. Observe that the radial nerve and deep artery of the arm lie in the radial groove of
-the humerus in direct contact with the bone.
-**11.** Follow the radial nerve distally toward the elbow.
-Return to the cubital fossa and on the lateral as- pect of the forearm, identify the brachioradialis muscle (FIG. 2.19A). Use your fi ngers to open the
-connective tissue plane between the brachioradia-
-lis muscle and the brachialis muscle (FIG. 2.19B).
-Deep in this plane of connective tissue, fi nd the radial nerve and follow it proximally to complete
-its dissection.
-**12.** Note that the radial nerve passes on the flexor side of the elbow joint and that it is accompanied by the
-radial recurrent artery at that location (FIG. 2.19B).
-**13.** Identify the anconeus muscle (FIG. 2.20). The proximal attachment of the anconeus muscle is the lateral epicondyle of the humerus. The distal at- tachment is the lateral surface of the olecranon and
-superior part of the posterior  surface of the ulna.
-The anconeus muscle assists the triceps brachii
-muscle in extension of the forearm.
-Dissection Follow-up
-**1.** Replace the muscles of the anterior and posterior compartments of the arm in their correct anatomical
-**2.** Review the attachments, nerve supply, and action of
-each muscle.
-**3.** Use the dissected specimen to review the origin, course,
-termination, and branches of the brachial artery.
-**4.** Trace each nerve that you have dissected from the
-brachial plexus to the elbow, reviewing relationships.
-**5.** Review a drawing of a cross section of the arm and notice the position of the brachial fascia and the intermuscular septa relative to the structures that you
-have dissected.
-**6.** Review the nerve territories of the brachial region
-(FIG. 2.21).
-**7.** Recall the rules of innervation of the muscles of the arm:
-- All muscles in the anterior compartment of the arm are innervated by the musculocutaneous
-*nerve. LWW Atlas 76*
-- All muscles in the posterior compartment of the
-*arm are innervated and by the radial nerve. LWW Atlas 79*
-- The median nerve and the ulnar nerve do not in-
-nervate muscles in the arm.
-Deltoid m. (reflected)
-Radial nerve and deep a. of the arm
-Lateral head of triceps
-Long head of triceps
-Olecranon of ulna
-Teres minor m.
-Posterior circumflex humeral artery
-Axillary nerve
-Teres major m.
-Anconeus m.
-Medial epicondyle
-Ulnar nerve
-FIGURE 2.20
-How to transect the lateral head of the triceps brachii muscle.
-
-### Flexor Region Of The Forearm
-Dissection Overview
-The antebrachial fascia is a sleeve of connective tissue that invests the forearm. Intermuscular septa project inward from it and attach the antebrachial fascia to the radius and ulna (FIG. 2.22). The intermuscular septa, the interosseous membrane, the radius, and the ulna combine to divide the forearm into an anterior (flexor) compartment and a
-posterior (extensor) compartment.
-The muscles in the anterior compartment of the fore- arm can be divided into a superficial, intermediate, and deep layer of flexor muscles. Muscles of the superficial flexor layer arise primarily from the medial epicondyle of the humerus and its supracondylar ridge. The muscle of the intermediate layer arises from the medial epicondyle
-of  the humerus and the anterior surface of the radius.
-Muscles of the deep flexor layer arise from the anterior
-surfaces of the radius, ulna, and interosseous membrane.
-Study a transverse section through the midlevel of the forearm (FIG. 2.22) and note that the ulnar artery, ulnar nerve, and median nerve are in the connective tissue plane that separates the intermediate and deep layers of flexor
-*Skeleton of the Forearm [G 560, 582; L 33; N 424, 427;*
-R 375; C 113, 122]
-Refer to a skeleton. On the humerus, identify (FIG. 2.23):
-- Medial epicondyle
-- Medial supracondylar ridge
-- Lateral epicondyle
-- Lateral supracondylar ridge
-- Capitulum
-- Trochlea
-- Olecranon fossa
-On the radius, identify (FIG. 2.23):
-- Head
-- Neck
-- Tuberosity
-- Anterior oblique line
-Biceps brachii
-Biceps brachii
-Long head of
-Long head of
-triceps brachii m.
-triceps brachii m.
-Lateral head
-Anterior compartment
-Musculocutaneous nerve territory
-Musculocutaneous
-Posterior compartment
-Radial nerve territory
-Deep artery of the arm and radial nerve intermuscular
-Biceps brachii
-Long head of
-triceps brachii m.
-Lateral head
-FIGURE 2.21
-Compartments of the right arm. Inferior view.
-Anterior compartment
-Posterior compartment
-Median nerve
-Ulnar nerve
-Posterior interosseous nerve and artery
-Superficial branch of the
-Radial nerve
-Superficial intermediate
-Superficial
-Radial artery
-Ulnar artery
-FIGURE 2.22
-Compartments of the right forearm. Inferior view.
-Radial notch of ulna
-Interosseous borders
-Ulnar notch of radius
-Head of ulna
-Pisiform bone
-Anterior oblique line
-Medial epicondyle of humerus
-Lateral epicondyle
-Posterior view
-Anterior view
-Lateral----
-Supracondylar
-Styloid process
-Carpal bones
-FIGURE 2.23
-Skeleton of the forearm.
-
-## The Upper Limb
-- Ulnar notch
-- Styloid process
-- Interosseous border for attachment of the interosse- ous membrane
-On the ulna, identify (FIG. 2.23):
-- Olecranon
-- Trochlear notch
-- Radial notch
-- Head
-- Interosseous border for attachment of the interosse- ous membrane
-On the palmar surface of the articulated hand, identify
-the pisiform bone (FIG. 2.23).
-On a skeleton, examine the elbow joint. The elbow joint is the articulation between the trochlear notch of the ulna and the trochlea of the humerus, and the articulation between the head of the radius and the capitulum of the
-humerus. These two articulations account for the hinge ac-
-tion (flexion/extension) of the elbow joint.
-On a skeleton, observe the proximal radioulnar joint between the head of the radius and the radial notch of the ulna. Observe the distal radioulnar joint between the head of the ulna and the ulnar notch of the radius. Pronate and supinate the hand of the skeleton and notice the rotational movements that occur in the proximal and distal radioulnar joints. In the position of supination (anatomical position) note that the the radius and the ulna are parallel. In the
-position of pronation, the radius crosses the ulna.
-The order of dissection will be as follows: The struc- tures in the superficial fascia of the forearm will be re- viewed, then the superficial fascia and the antebrachial fascia will be removed. At the level of the wrist, the relative
-positions of tendons, vessels, and nerves will be studied.
-The superficial and intermediate layers of flexor muscles will be studied and then reflected. Vessels and nerves that lie between the intermediate and deep layers of flexor muscles will be studied. The deep layer of flexor muscles
-will be dissected.
-Dissection Instructions
-*Superfi cial Layer of Flexor Muscles [G 562; L 52;*
-N 434; R 422; C 70]
-**1.** Place the cadaver in the supine position and abduct the upper limb. Forcefully supinate the hand and
-have your dissection partner hold it in this position.
-**2.** Remove the remnants of the superficial fascia, tak-
-ing care to preserve the cephalic and basilic veins.
-**3.** Use scissors to incise the anterior surface of the ante- brachial fascia from the cubital fossa to the wrist. Use your fi ngers or a probe to separate the antebrachial fascia from the muscles that lie deep to it. Detach the antebrachial fascia from its attachments to the radius
-and ulna and place it in the tissue container.
-**4.** There are four muscles in the superficial layer: pronator teres, flexor carpi radialis, palmaris
-longus, and flexor carpi ulnaris (FIG. 2.24).
-**5.** Use your fi ngers to separate the tendons of the superficial layer of flexor muscles from each other and identify each. Observe that the bellies of these four
-muscles cannot be easily separated from each other.
-**6.** Identify the common flexor tendon, which is at-
-tached to the medial epicodyle of the humerus.
-It forms part of the proximal attachment of the
-muscles of the superficial layer (FIG. 2.24).
-Biceps brachii m.
-Brachialis m.
-Common flexor tendon
-Pisiform bone
-Medial epicondyle
-Pronator teres m.
-Flexor carpi radialis m.
-Palmaris longus m.
-Flexor carpi ulnaris m.
-Flexor digitorum superficialis m.
-Palmaris brevis m.
-Palmar aponeurosis
-Superficial palmar radial artery
-Abductor pollicis longus tendon
-Flexor pollicis longus m.
-Superficial branch of
-Brachioradialis m.
-Radial artery
-Bicipital aponeurosis
-(reflected)
-Biceps brachii tendon
-Lateral cutaneous n. of forearm
-Brachialis m.
-Brachial a. and v.
-Flexor carpi radialis tendon
-Flexor carpi ulnaris tendon
-Palmaris longus tendon
-FIGURE 2.24
-Superfi cial layer of flexor muscles in the right forearm.
-Anterior view.
-**7.** Although you cannot see the distal attachments of all of these muscles at this time, note the
-- Pronator teres muscle-attaches to the middle of the lateral surface of the radius. The prona- tor teres muscle pronates the hand and flexes the
-- Flexor carpi radialis tendon-attaches to the base of the second metacarpal bone. The flexor carpi radialis muscle flexes and abducts
-- Palmaris longus tendon-attaches to the pal- mar aponeurosis. The palmaris longus muscle
-flexes the hand.
-- Flexor carpi ulnaris tendon-attaches to the pisiform bone, the hamate bone, and the base of
-the fi fth metacarpal bone. The flexor carpi ulna-
-ris muscle flexes and adducts the hand.
-**8.** Examine the superficial structures on the anterior
-surface of the wrist (FIG. 2.25). From lateral to medial,
-*identify: Grant's Atlas 566 | LWW Atlas 52 | Netter's 434 | Color Atlas 422 | Clemente's 70*
-- Tendon of the abductor pollicis longus muscle
-- Radial artery
-- Tendon of the flexor carpi radialis muscle
-- Median nerve
-- Tendon of the palmaris longus muscle (absent
-in 13% of limbs)
-- Four tendons of the flexor digitorum superfi-cialis muscle
-- Ulnar artery and ulnar nerve
-- Tendon of the flexor carpi ulnaris muscle
-**9.** Palpate the tendons listed previously in your own wrist. Feel the pulse of the radial artery between the abductor pollicis longus and flexor carpi radia- lis tendons. Note that the median nerve is superfi-cial at the wrist and can be easily injured. Flex your wrist and palpate the distal attachment of the flexor carpi ulnaris tendon on the pisiform bone. Palpate the ulnar nerve and artery, which lie immediately
-lateral to the pisiform bone.
-*Intermediate Layer of Flexor Muscles [G 563; L 53;*
-N 447; C 71]
-**1.** The flexor digitorum superficialis muscle is the only member of the intermediate layer of forearm flexor muscles (FIG. 2.26). To see it, several muscles of the superficial layer must be transected and
-reflected.
-**2.** Use scissors to cut the tendon of the palmaris longus
-muscle about 3 cm proximal to the wrist (FIG. 2.24,
-cut 1) and reflect the muscle belly proximally.
-Flexor carpi ulnaris tendon
-Flexor digitorum superficialis m.
-Flexor carpi radialis
-Abductor pollicis longus tendon
-Palmaris longus
-FIGURE 2.25
-Structures of the anterior aspect of the right wrist.
-**3.** Cut the tendon of the flexor carpi radialis muscle
-about 5 cm proximal to the wrist (FIG. 2.24, cut 2)
-and reflect it proximally.
-**4.** The pronator teres muscle has two proximal heads-a superficial (humeral) head and a deep (ulnar) head. The median nerve passes between these two heads. Only the superficial head of the pronator teres muscle will be reflected at this time. Insert a probe through the pronator teres muscle along the anterior surface of the median nerve (FIG. 2.24, cut 3). Use scissors to transect the portion of the pronator teres muscle that lies anterior to the probe. Reflect the humeral head
-of the pronator teres medially along with the bel-
-lies of the palmaris longus and flexor carpi radia-
-lis  muscles.
-**5.** Observe the flexor digitorum superficialis muscle (FIG. 2.26). It has three proximal attachments-one on the humerus via the common flexor tendon, a small attachment to the ulna, and a long narrow
-
-## The Upper Limb attachment on the anterior oblique line of the
-**6.** The attachments described previously create a ten- dinous arch (FIG. 2.26). The ulnar artery and median
-nerve pass posterior (deep) to this arch.
-**7.** Distally, the flexor digitorum muscle gives rise to four tendons (FIG. 2.26). Although you can- not see their attachments at this time, note that
-Triceps brachii m.
-Pronator teres m.
-(reflected)
-Flexor carpi radialis m. (reflected)
-Common flexor tendon
-Brachialis m.
-Tendinous arch
-Anterior ulnar recurrent a.
-Flexor carpi ulnaris
-m. (retracted)
-Ulnar a. and n.
-Flexor digitorum superficialis m.
-Dorsal (cutaneous) branch of ulnar n.
-Dorsal carpal branch of ulnar a.
-Flexor digitorum profundus tendon
-Palmaris longus tendon
-(reflected)
-Pisiform bone
-Flexor carpi radialis
-tendon (reflected)
-Superficial palmar branch
-of radial a.
-Palmar carpal branch
-of radial a. (cut)
-Flexor pollicis longus m.
-Flexor digitorum superficialis m., radial head
-Pronator teres m.
-Biceps brachii m.
-Brachioradialis m.
-(retracted)
-Superficial branch
-Deep branch
-Radial nerve:
-Radial recurrent a.
-Flexor digitorum profundus m.
-Brachial a.
-Flexor digitorum superficialis tendons
-Flexor digitorum superficialis m., humeral head
-Supinator m.
-FIGURE 2.26
-Intermediate layer of flexor muscles in the right forearm. Anterior view.
-these four tendons attach to the middle phalan- ges of digits 2 to 5. The flexor digitorum su- perficialis muscle flexes the middle phalanx of
-digits 2 to 5.
-**8.** Proximal to the wrist, observe that the four ten- dons of the flexor digitorum superficialis muscle lie between the median nerve (laterally) and the ulnar
-artery and nerve (FIG. 2.26).
-*Vessels and Nerves of the Anterior Forearm [G 564;*
-L 53, 54; N 435, 436; R 423; C 76-78]
-**1.** On the lateral side of the proximal forearm, iden- tify the brachioradialis muscle (FIG. 2.24). At the point where the pronator teres muscle passes deep to the brachioradialis muscle, use your fi ngers to open the connective tissue plane that is deep to the brachioradialis muscle. In  this intermuscular
-plane, identify the superficial branch of the ra-
-dial nerve, which courses distally on the deep sur- face of the brachioradialis muscle (FIG. 2.26). Fol- low the superficial branch of the radial nerve to the distal one-third of the forearm and confi rm that it emerges on the posterior side of the brachioradialis
-tendon to become a cutaneous nerve.
-**2.** Once again, identify the brachial artery in the cubital fossa (FIG. 2.26). Use blunt dissection to fol- low the brachial artery distally until it bifurcates
-into the radial artery and the ulnar artery.
-
-### Clinical Correlation
-
-### High Bifurcation Of The Brachial
-In about 3% of upper limbs, the brachial artery bifurcates in the arm. When it does, the ulnar artery may course superficial to the superficial layer of flexor muscles. When this happens, the ulnar artery may be mistaken for a vein. When certain drugs are injected into an artery, the capillary bed is damaged, followed by gangrene. In the example of an injection into a
-superficial ulnar artery, the hand could be severely injured.
-**3.** Use a probe to clean the radial artery and follow it distally as far as the level of the wrist. The radial vein and its tributaries may be removed to clear the dis- section fi eld. Note that the radial artery gives rise to
-several unnamed muscular branches in the forearm.
-**4.** Find the radial recurrent artery, which arises from the radial artery near its origin from the bra- chial artery (FIG. 2.26). The radial recurrent artery courses proximally in the connective tissue plane
-between the brachioradialis muscle and the bra- chialis muscle. The radial recurrent artery anasto- moses with the radial collateral branch of the deep artery of the arm. Recall that the radial recurrent artery is part of the anastomotic network around
-the elbow (FIG. 2.18).
-**5.** Once again fi nd the median nerve in the cubital fossa. Observe that it is positioned medial to the brachial artery and that it passes deep to the flexor digitorum superficialis muscle (FIG. 2.26). The me- dian nerve innervates most of the muscles of the
-flexor compartment of the forearm.
-**6.** To expose the distal part of the median nerve, the flexor digitorum superficialis muscle must be cut and retracted medially. First, use scissors to cut the four tendons of the flexor digitorum superficialis muscle proximal to the wrist at the level shown in shown in FIGURE 2.26 (cut 1). Next, use scissors to detach the flexor digitorum superficialis muscle from its attachment on the anterior oblique line of the radius (FIG. 2.26, cut 2). Do not cut the ra- dial artery. Retract the muscle medially, leaving it attached to the ulna and medial epicondyle of the
-**7.** Observe the median nerve coursing distally in the median plane of the forearm (FIG. 2.27). Use a probe to free the median nerve from the loose connec- tive tissue that lies between the intermediate and deep layers of forearm flexor muscles. Observe that the median nerve gives small muscular branches to innervate the palmaris longus, flexor carpi radialis, flexor digitorum superficialis, and pronator teres muscles. The median nerve also gives rise to the anteror interosseous nerve that innervates the deep
-layer of forearm flexor muscles (FIG. 2.27).
-**8.** Find the ulnar artery in the cubital fossa. Observe that the ulnar artery passes posterior to the deep head of the pronator teres muscle. To follow the ulnar artery distally, the deep head of the prona- tor teres must be transected. Insert a probe along the anterior surface of the ulnar artery, posterior to the deep head of the pronator teres muscle. Use scissors to cut the deep head of the pronator teres muscle. The pronator teres muscle is now com- pletely transected and it may be reflected widely to
-broaden the dissection fi eld.
-**9.** Use a probe to clean the ulnar artery and follow it from the cubital fossa to the wrist (FIG. 2.27). The ulnar vein and its tributaries may be removed to
-clear the dissection fi eld. Observe the following re-
-lationships of the ulnar artery (FIG. 2.27):
-- It passes posterior to the median nerve in the cubital fossa
-- It is layered between the flexor digitorum su- perfi cialis and the flexor digitorum profundus muscles in the proximal forearm
-- It is joined by the ulnar nerve about one-third of the way down the forearm
-- The ulnar artery and nerve lie deep to the flexor carpi ulnaris muscle in the distal forearm
-- The ulnar artery and nerve pass on the lateral side of the pisiform bone at the wrist
-
-## The Upper Limb artery lies on the anterior surface of the interosse- ous membrane, between the muscles of the deep layer of forearm flexor muscles. It supplies the deep
-layer of flexor muscles.
-**12.** At the proximal end of the interosseous membrane, the posterior interosseous artery passes poste- riorly to enter the posterior compartment of the forearm. The posterior interosseous artery supplies the extensor group of forearm muscles. Identify it, but do not attempt to follow it into the posterior
-compartment at this time.
-**10.** Find the common interosseous artery. It is a
-branch of the ulnar artery that arises about 3 cm dis- tal to the origin of the ulnar artery. It passes postero- laterally toward the interosseous membrane before dividing into the anterior interosseous artery and the posterior interosseous artery. The common interosseous artery is usually quite short and may be absent (i.e., the anterior and posterior interosseous
-arteries may arise directly from the ulnar artery).
-**11.** Identify the anterior interosseous artery and fol- low it distally. Note that the anterior interosseous
-Brachioradialis m. (retracted)
-Brachialis m.
-Medial epicondyle
-Common flexor tendon (cut)
-Anterior interosseous n.
-Flexor carpi ulnaris m. (retracted)
-Dorsal branch of ulnar n.
-Dorsal carpal branch of ulnar a.
-Pisiform bone
-Flexor digitorum superficialis
-tendons (cut)
-Deep branch of ulnar a.
-Flexor retinaculum
-Abductor pollicis longus
-Flexor pollicis longus m.
-Flexor digitorum superficialis
-m., radial head (cut)
-Pronator teres m. (cut)
-Supinator m.
-Superficial branch
-Anterior and posterior ulnar
-recurrent aa.
-Extensor carpi radialis brevis m.
-Musculocutaneous n.
-Extensor carpi radialis longus m.
-Biceps brachii tendon (cut)
-Brachial a.
-Ulnar a. and n.
-Flexor digitorum
-profundus m.
-Deep branch
-Interosseous aa.:
-Flexor carpi radialis
-tendon (cut)
-Pronator quadratus m.
-FIGURE 2.27
-Deep layer of flexor muscles in the right forearm. Anterior view.
-Dissection Follow-up
-**1.** Replace the flexor muscles in their correct anatomical
-positions taking care to align the cut tendons correctly.
-**2.** Use the dissected specimen to review the attachments
-and action of each muscle dissected.
-**3.** Organize the flexor muscles into superficial, interme- diate, and deep layers and recall that the nerves and
-vessels coursing through the forearm are found be-
-tween the intermediate and deep layers.
-**4.** Follow the brachial artery from its origin in the proxi-
-mal arm to its bifurcation in the cubital fossa.
-**5.** Review all of the branches of the radial and ulnar ar- teries. Trace the course of these two arteries from the
-elbow to the wrist.
-**6.** Review the course of the median nerve from the bra-
-chial plexus to the wrist.
-**7.** Review the course of the ulnar nerve from the brachial
-plexus to the wrist.
-**8.** Recall the rule for innervation of the muscles in the
-anterior compartment of the forearm:
-- All muscles of the anterior compartment of the
-forearm are innervated by the median nerve ex-
-cept the flexor carpi ulnaris muscle and the me-
-dial half of the flexor digitorum profundus muscle,
-*which are innervated by the ulnar nerve. LWW Atlas 77*
-
-### Palm Of The Hand
-Dissection Overview
-The intrinsic hand muscles are those muscles that have
-both their proximal and distal attachments within the hand.
-There are two superficial groups of intrinsic hand muscles: the thenar group of muscles forms the thenar emi- nence, and the hypothenar group of muscles forms the hypothenar eminence. Deep in the hand is a third group of intrinsic hand muscles: the interosseous muscles and the
-adductor pollicis muscle.
-In the middle of the palm, the palmar fascia is thickened to form the palmar aponeurosis. The palmar fascia over
-the thenar and hypothenar eminences is much thinner.
-Deep to the palmar aponeurosis are the tendons of the flexor digitorum superficialis and flexor digitorum profun- dus muscles. These tendons reach the palm through the carpal tunnel and are responsible for flexing the digits. In the deepest part of the palm are muscles that abduct and
-adduct the digits.
-The palm is supplied with blood by two arterial arches.
-The superficial palmar arch is mainly derived from the ul-
-nar artery and the deep palmar arch from the radial artery.
-The nerve supply of the palmar aspect of the hand is de-
-rived from the median and ulnar nerves.
-The order of dissection will be as follows: The palmar aponeurosis will be studied and removed. The superficial palmar arch will be dissected, followed by the tendons of
-the muscles of the anterior compartment of the forearm.
-**13.** Two other named vessels arise from the ulnar ar- tery in the proximal forearm: anterior ulnar re- current artery and posterior ulnar recurrent artery (FIG. 2.27). They anastomose with the infe- rior and superior ulnar collateral branches of the brachial artery, respectively (FIG. 2.18). Note that several unnamed muscular branches arise from the
-ulnar artery in the forearm.
-**14.** Identify the ulnar nerve in the distal forearm and follow it proximally. Near the elbow, observe that the ulnar nerve penetrates the flexor carpi ulna- ris muscle and courses posterior to the medial epicondyle of the humerus. The ulnar nerve in- nervates the flexor carpi ulnaris muscle and the medial half of the flexor digitorum profundus
-*Deep Layer of Flexor Muscles [G 565; L 54; N 436;*
-R 423; C 72]
-**1.** Three muscles comprise the deep layer of fore- arm flexor muscles: flexor digitorum  profundus, flexor pollicis longus, and pronator quadratus
-(FIG. 2.27).
-**2.** The proximal attachment of the flexor digitorum profundus muscle is on the anterior surface of the ulna and interosseous membrane. In the distal
-forearm, its four tendons lie deep to the four ten-
-dons of the flexor digitorum superficialis muscle.
-Although they cannot be seen at this time, note
-that the flexor digitorum profundus tendons at- tach to the distal phalanx of digits 2 to 5. The flex- or digitorum profundus muscle flexes the distal
-phalanx of digits 2 to 5. Note that the flexor digi- torum profundus muscle has two motor nerves: the lateral half of the muscle is innervated by the median nerve and the medial half is innervated by
-the ulnar nerve.
-**3.** The proximal attachment of the flexor pollicis longus muscle is on the anterior surface of the radius and interosseous membrane. The distal at- tachment of the flexor pollicis longus tendon is the distal phalanx of digit 1 (thumb). The flexor pollicis
-longus muscle flexes digit 1.
-**4.** The pronator quadratus muscle lies posterior to the tendons of the deep flexor muscles in the distal one-fourth of the forearm (FIG. 2.27). Retract the tendons of the superficial and deep layers of flexor
-muscles and fi nd the pronator quadratus muscle.
-The fi bers of the pronator quadratus muscle run
-transversely from the ulna to the radius. The pro-
-nator quadratus muscle pronates the hand.
-**5.** Observe that the anterior interosseous artery and nerve pass deep (posterior) to the pronator quadratus muscle (i.e., between the pronator
-quadratus muscle and the interosseous membrane).
-
-## The Upper Limb
-Dissection Instructions
-Skin Incisions
-**1.** Refer to FIG. 2.30.
-**2.** Force open the clenched hand and let your dissec-
-tion partner hold it open.
-**3.** Make a longitudinal incision across the palm (E to
-**4.** Make a transverse incision at the level of the webs
-of the fi ngers (N to O).
-**5.** Make a longitudinal incision on the anterior sur-
-face of digits 2 to 5 (from incision N/O to P).
-**6.** Make a longitudinal incision along the palmar sur-
-face of the thumb (E to Q).
-**7.** Remove the skin from the palmar and posteri- or surfaces of the hand and digits 1 to 5. When skinning the digits, proceed with caution. Note that the subcutaneous tissue on the palmar surface of the digits is very thin, especially at the skin creases. There are digital nerves, vessels, and fi brous digital sheaths immediately deep to the
-skin (FIG. 2.31).
-*Superfi cial Palm Grant's Atlas 569 | LWW Atlas 62 | Netter's 447 | Color Atlas 428 | Clemente's 94*
-**1.** Use scraping motions with a dull scalpel blade to clean the fat from the palmar aponeurosis
-
-### Carpal Tunnel With Contents
-Flexor digitorum superficialis tendons
-Flexor retinaculum
-Median nerve
-Flexor carpi radialis tendon
-Flexor pollicis longus tendon
-Flexor digitorum profundus tendons
-Ulnar nerve
-Ulnar artery
-Tubercle of
-FIGURE 2.29
-Transverse section through the left carpal tunnel. Inferior view.
-FIGURE 2.30
-Incisions for skinning the forearm and hand.
-Distal phalanx
-Index finger (digit 2):
-Middle phalanx
-Proximal phalanx
-Distal phalanx
-Proximal phalanx
-METACARPALS
-
-### P H
-Thumb (digit 1):
-Hook of hamate
-FIGURE 2.28
-Skeleton of the hand. The eight carpal bones include a proxi- mal row of four bones (scaphoid; lunate, L; triquetrum, Tq; pisiform, P ) and a
-distal row of four bones (trapezium; trapezoid; capitate, C; hamate, H ).
-The flexor retinaculum will be cut and the flexor tendons will be released from the palm. The muscles of the the- nar group will be dissected, followed by the muscles of the hypothenar group. The deep palmar arch will be dissected
-along with the deep branch of the ulnar nerve. The adduc-
-tor pollicis and interosseous muscles will be studied.
-*Skeleton of the Hand [G 560, 582; L 60, 61; N 444; R 376,*
-377; C 128, 129]
-Refer to an articulated skeleton of the hand and identify
-(FIG. 2.28):
-- Eight carpal bones (Gr. karpos, wrist)
-- Five metacarpal bones
-- Fourteen phalanges
-Be able to identify the eight carpal bones in an articu-
-lated skeleton. Digit 1 (thumb) has two phalanges: proxi-
-mal and distal. Digits 2 to 5 (fi ngers) have three phalanges:
-proximal, middle, and distal.
-Identify the pisiform bone and the hook of the hamate on the medial side of the wrist. On the lateral side of the wrist, identify the tubercle of the scaphoid and the  tubercle of the trapezium. The flexor retinaculum bridges these four bones (FIG. 2.29). The space between the
-carpal bones and the flexor retinaculum is the carpal tun-
-nel, which allows passage of the flexor tendons and the me- dian nerve into the hand. the palmar aponeurosis during its removal. Do not cut too deeply because the superficial palmar arch is in contact with the deep surface of the palmar aponeurosis. Be careful to preserve the recurrent
-branch of the median nerve near the thenar emi-
-nence (FIG. 2.31)
-**7.** Near the proximal end of digits 2 and 3, remove the band of longitudinal fi bers of the palmar apo- neurosis. Use blunt dissection to clean the fi brous
-digital sheath on the flexor surface of digit 3
-(FIG. 2.31).
-**8.** Find the ulnar artery in the forearm (FIG. 2.32).
-Use a probe to dissect the ulnar artery and follow it into the palm. The ulnar artery passes lateral to the pisiform bone with the ulnar nerve, then divides into a superficial branch and a deep branch. The superficial branch of the ulnar artery crosses the palm to form the superficial palmar arch. The superficial palmar arch is completed by a smaller contribution from the superficial palmar branch
-of the radial artery (FIG. 2.32). [G 574; L 63; N 448;
-R 428; C 107]
-**9.** Use a probe to clean the superficial palmar arch and the three common palmar digital arteries that arise from it. Trace one common palmar digi- (FIG. 2.31). Observe that the palmar aponeurosis has four bands of longitudinal fi bers, one band to each of the digits 2 to 5. These longitudinal fi bers end by attaching to the fi brous digital sheath near
-the base of the proximal phalanx of each digit.
-**2.** Identify the palmar fascia covering the thenar mus- cles lateral to the palmar aponeurosis. Note that it
-is very thin compared to the palmar aponeurosis.
-**3.** Identify the palmar fascia covering the hypothe- nar muscles medial to the palmar aponeurosis. The palmaris brevis muscle is found superficial to the hypothenar fascia (FIG. 2.31). It is a thin, fragile muscle. The proximal attachment of the palmaris brevis muscle is the medial aspect of the palmar aponeurosis. Its distal attachment is the skin over
-the hypothenar eminence.
-**4.** Detach the palmaris brevis muscle from the palmar
-aponeurosis and reflect it medially.
-**5.** Find the tendon of the palmaris longus muscle where you transected it in the forearm. Follow the palmaris longus tendon distally into the palm where
-it is attached to the palmar aponeurosis (FIG. 2.31).
-Although the palmaris longus muscle may be absent,
-the palmar aponeurosis is always present.
-**6.** To remove the palmar aponeurosis, use a scalpel
-and skinning motions to detach the palmar apo- neurosis from the underlying deep structures. Be- gin at its proximal end and proceed distally. Use the palmaris longus tendon to apply traction to
-Abductor pollicis
-Superficial palmar
-branch of radial a.
-Flexor carpi radialis
-Flexor pollicis longus tendon median nerve palmar digital
-nn. and aa.
-Fibrous digital
-pollicis m.
-Flexor digitorum profundus tendons
-Flexor digitorum superficialis tendon
-Common palmar
-digital nn. and aa.
-Superficial palmar arch
-Flexor retinaculum
-Superficial branch
-of ulnar n.
-Deep branch of ulnar n. and palmar
-branch of ulnar a.
-Pisiform bone
-Ulnar n. and a.
-Flexor digitorum superficialis and profundus tendons
-Flexor carpi
-FIGURE 2.32
-Superfi cial dissection of the palm showing the superficial
-palmar arch and flexor digitorum superficialis tendons.
-Thenar fascia over thenar
-Fibrous digital
-Proper palmar digital arteries
-Longitudinal digital bands aponeurosis aponeurosis
-Hypothenar fascia over hypothenar
-Palmaris brevis m.
-Palmaris longus
-FIGURE 2.31
-Superfi cial dissection of the hand showing the palmar
-aponeurosis.
-
-## The Upper Limb tal artery distally and note that it divides into two
-proper palmar digital arteries that supply the ad-
-jacent sides of two digits.
-**10.** Find the ulnar nerve lateral to the pisiform
-bone (FIG. 2.32). Use a probe to dissect the su- perfi cial branch of the ulnar nerve, which sup- plies  cutaneous innervation to digit 5 and the medial side of digit 4. The deep branch of the ulnar nerve disappears between the hypothenar muscles. Identify the initial portion of the deep branch of the ulnar nerve but do not follow it at
-*Carpal Tunnel Grant's Atlas 575 | LWW Atlas 63 | Netter's 449 | Color Atlas 429 | Clemente's 99*
-**1.** Identify the flexor retinaculum between the the- nar and hypothenar eminences (FIG. 2.32). Use an illustration to review the flexor retinaculum and its role in the formation of the carpal tunnel
-(FIG. 2.29).
-**2.** Insert a probe from proximal to distal, deep to the flexor retinaculum (FIG. 2.33). Use a scalpel to cut through the flexor retinaculum anterior to the probe (FIG. 2.33, dashed line) and open the carpal
-**3.** Examine the contents of the carpal tunnel: median nerve, four tendons of the flexor digitorum superficialis muscle, four tendons of the flexor digitorum profundus muscle, and the tendon of the flexor pollicis longus muscle
-(FIG. 2.34).
-**4.** Find the median nerve at the level of the wrist and
-follow it through the carpal tunnel. Identify the re-
-current branch of the median nerve, which in-
-Abductor pollicis
-Flexor pollicis
-Superficial palmar
-branch of radial a.
-Flexor carpi radialis
-Flexor pollicis longus tendon
-Recurrent branch of
-pollicis m.
-Flexor digiti
-minimi brevis m.
-Abductor digiti
-Superficial palmar arch
-Flexor retinaculum
-(being reflected)
-Pisiform bone
-Ulnar n. and a.
-Flexor digitorum superficialis and profundus tendons
-Flexor carpi
-FIGURE 2.33
-How to open the carpal tunnel.
-Abductor pollicis
-Superficial palmar
-branch of radial a.
-retinaculum (cut)
-Flexor pollicis longus tendon
-Contents of carpal tunnel:
-Recurrent branch of median n. palmar digital
-nn. and aa.
-Fibrous digital
-pollicis m.
-Flexor pollicis
-Flexor digitorum profundus tendons
-Flexor digitorum superficialis tendon
-Common palmar
-digital aa. and nn.
-Superficial palmar arch
-Flexor carpi radialis tendon
-Superficial branch
-of ulnar n.
-Abductor digiti
-Flexor digiti
-minimi brevis m.
-Deep branch of ulnar n. and palmar branch of
-Pisiform bone
-Ulnar n. and a.
-Flexor digitorum profundus tendons
-Flexor digitorum superficialis tendons
-FIGURE 2.34
-Intermediate dissection of the palm showing the contents of the carpal tunnel. nervates the three thenar muscles (FIG. 2.34). The
-median nerve also innervates lumbrical muscles 1
-**5.** Follow the common palmar digital branches of the median nerve toward the lateral 3.5 digits (FIG. 2.34). Note that the common palmar digital nerves typically divide to give rise to two proper palmar digital nerves, which accompany the proper palmar digital arteries. Use an illustration to study the cutaneous distribution of the median
-*nerve in the hand. Grant's Atlas 587 | LWW Atlas 62 | Netter's 460 | Color Atlas 423*
-**6.** Identify the flexor tendons that pass through the carpal tunnel. Observe that these tendons pass through the palm of the hand posterior to the su- perfi cial palmar arch and digital nerves. The flexor
-tendons enter the fi brous digital sheaths on the an-
-terior surfaces of the digits (FIG. 2.34).
-**7.** Use an illustration to study the extent of the sy- novial tendon sheaths deep to the flexor retinacu- lum and extending into the palm. There are four synovial sheaths associated with the tendons of the fi ngers: a common flexor synovial sheath (ulnar bursa) and three digital synovial sheaths. The ten- don of the flexor pollicis longus muscle has its own
-*synovial sheath (radial bursa). [G 576, 577; L 65;*
-N 449, 450; R 390, 391; C 96]
-Abductor pollicis
-Flexor pollicis longus tendon
-Flexor carpi radialis tendon
-Recurrent branch of median nerve palmar digital
-nn. and aa.
-Fibrous digital
-mm. 1 and 2
-mm. 3 and 4
-pollicis m.
-Flexor pollicis
-Flexor digitorum profundus tendons
-Flexor digitorum superficialis tendons
-(cut and reflected)
-Common palmar
-digital aa. (cut)
-Superficial palmar
-retinaculum (cut)
-Superficial branch
-of ulnar n.
-Abductor digiti
-Flexor digiti
-minimi brevis m.
-Deep branch of ulnar n. and palmar
-branch of ulnar a.
-Pisiform bone
-Ulnar n. and a.
-Flexor digitorum profundus tendons
-FIGURE 2.35
-Intermediated dissection of the palm showing the flexor
-digitorum profundus tendons and lumbrical muscles.
-
-### Clinical Correlation
-
-### Carpal Tunnel Syndrome
-A swelling of the common flexor synovial sheath may encroach
-on the available space in the carpal tunnel. As a result, the me- dian nerve may be compressed, resulting in pain and pares- thesia of the thumb, index, and middle fi ngers, and weakness
-of the thenar muscles.
-**8.** In the distal forearm, use your fi ngers to separate the tendons of the flexor digitorum superficialis muscle from the tendons of the flexor digitorum profundus muscle. Reflect the tendons of the
-flexor digitorum superficialis distally as follows:
-Cut the superficial palmar arch in the midline of the palm and retract the common digital branches of the median and ulnar nerves laterally and medi- ally, respectively. Make a longitudinal incision in the palmar surfaces of the fi brous digital sheaths of digits 2 to 5. Now pull the tendons of the flexor digitorum superficialis muscle distally through the carpal tunnel (FIG. 2.35). During this proce- dure, the common flexor synovial sheath will be
-**9.** In the palm, observe the tendons of the flexor digi- torum profundus muscle (FIG. 2.35). Identify four lumbrical muscles. The distal attachment of the
-lumbrical muscles is on the  radial side of the exten- sor expansions of digits 2 to 5 (FIG. 2.35). The lum- brical muscles flex the metacarpophalangeal joints
-and extend the interphalangeal joints.
-**10.** In digit 3, study the relationship of the tendons of
-the flexor digitorum superficialis and flexor digi-
-torum profundus muscles (FIGS. 2.35 and 2.36).
-Note that the flexor digitorum profundus tendon passes through the flexor digitorum superficialis tendon. Verify that the flexor digitorum superficialis tendon attaches to the middle phalanx, whereas the flexor digitorum profundus tendon attaches to the
-distal phalanx. This pattern is true of digits 2 to 5.
-**11.** Identify the flexor pollicis longus muscle in the forearm (FIG. 2.27). Follow its tendon distally through the carpal tunnel into the palm. Pull on the tendon to confi rm that the flexor pollicis  longus
-muscle flexes the distal phalanx of the thumb.
-*Thenar Muscles Grant's Atlas 576 | LWW Atlas 63 | Netter's 453 | Color Atlas 428 | Clemente's 98*
-**1.** Use blunt dissection to clean the thin layer of pal-
-mar fascia off the thenar muscles. Preserve the re-
-current branch of the median nerve (FIG. 2.35).
-pollicis m.
-Ulnar and radial contributrions
-to superficial palmar arch (cut)
-Recurrent branch of median nerve palmar digital
-nn. and aa.
-First dorsal
-interosseous m.
-Transverse head of adductor
-pollicis m.
-Oblique head of adductor
-pollicis m.
-Flexor digitorum superficialis and profundus tendons
-retinaculum (cut)
-Flexor pollicis brevis and abductor pollicis
-brevis mm. (cut)
-Superficial branch
-of ulnar n.
-Abductor digiti
-Deep palmar arch
-Flexor digiti
-minimi brevis m.
-Common palmar
-digital a. (cut)
-Deep branch of ulnar n. and palmar branch
-of ulnar a.
-Pisiform bone
-Ulnar n. and a.
-metacarpal aa.
-Flexor carpi
-FIGURE 2.36
-Deep dissection of the palm showing the deep palmar arch
-and deep branch of ulnar nerve.
-
-## The Upper Limb
-**2.** The thenar group contains three muscles: abductor pollicis brevis, flexor pollicis brevis, and opponens
-pollicis (L. pollex, thumb; genitive, pollicis). The proxi-
-mal attachments of the thenar muscles are the scaph-
-oid, trapezium, and flexor retinaculum. Identify:
-- Abductor pollicis brevis muscle (FIG. 2.35) - attaches to the lateral side of the proximal pha- lanx of the thumb and abducts the thumb
-- Flexor pollicis brevis muscle (FIG. 2.35) - at- taches to the lateral side of the proximal phalanx of the thumb and flexes the thumb
-- Opponens pollicis muscle (FIG. 2.36) - attaches to the lateral side of the shaft of the fi rst meta- carpal bone and opposes the thumb
-**3.** Examine the recurrent branch of the median nerve. The recurrent branch of the median nerve crosses the superficial surface of the flexor pollicis brevis muscle, then disappears deep to the abductor
-pollicis brevis muscle.
-
-### Clinical Correlation
-
-### Recurrent Branch Of The Median Nerve
-The recurrent branch of the median nerve is superficial and it
-can easily be severed by "minor" cuts over the thenar eminence.
-If the recurrent branch of the median nerve is injured, the thenar
-muscles are paralyzed and the thumb cannot be opposed.
-**4.** Use a probe to separate the abductor pollicis brevis muscle from the flexor pollicis brevis muscle. Use the recurrent branch of the median nerve to help
-you locate the correct plane of separation.
-**5.** Use a probe to elevate the abductor pollicis brevis
-muscle and transect it with scissors.
-**6.** Observe the opponens pollicis muscle deep to the abductor pollicis brevis muscle (FIG. 2.36). Note that the opponens pollicis muscle attaches to the lateral side of the entire length of the shaft of the
-fi rst metacarpal bone.
-*Hypothenar Muscles [G 576-578; L 63, 64; N 453; R 428;*
-**1.** Use blunt dissection to clean the thin layer of pal-
-mar fascia off the hypothenar muscles (FIG. 2.31).
-The hypothenar group contains three muscles: abductor digiti minimi, flexor digiti minimi bre- vis, and opponens digiti minimi. The  proximal
-attachments of the hypothenar muscles are the pi-
-siform, hamate, and flexor retinaculum. Identify:
-- Abductor digiti minimi muscle (FIG. 2.35) - at-
-taches to the medial side of the base of the proxi-
-mal phalanx of digit 5 and abducts digit 5
-- Flexor digiti minimi brevis muscle - (FIG. 2.35), attaches to the medial side of the base of the
-proximal phalanx of digit 5 and flexes digit 5
-- Opponens digiti minimi muscle-attaches to the medial border of the fi fth metacarpal bone
-and opposes digit 5
-**2.** Find the tendons of the abductor digiti minimi and flexor digiti minimi brevis muscles near their distal attachments on the base of the proximal phalanx. Use a probe to separate and defi ne the borders of the muscles using their tendons to aid
-in this separation.
-**3.** Use a probe to elevate the abductor digiti minimi brevis muscle and detach it from its proximal at- tachment on the flexor retinaculum. Preserve the
-deep branches of the ulnar artery and ulnar nerve.
-Reflect the muscle distally.
-**4.** Observe the opponens digiti minimi muscle.
-Note that the opponens digiti minimi muscle attaches to the entire length of the shaft of the fi fth
-metacarpal bone.
-*Deep Palm Grant's Atlas 578 | LWW Atlas 64 | Netter's 453 | Color Atlas 429 | Clemente's 108*
-**1.** Transect the flexor digitorum profundus muscle in
-the distal forearm at the level shown in FIGURE 2.35.
-Reflect its tendons and the associated lumbrical muscles distally as far as possible. The deep palm is
-now exposed (FIG. 2.36).
-**2.** Find the ulnar nerve and the ulnar artery on the
-lateral side of the pisiform bone.
-**3.** The deep branch of the ulnar nerve and the deep palmar branch of the ulnar artery pass  between the proximal attachments of the flexor digiti minimi
-brevis and abductor digiti minimi muscles (FIG. 2.36).
-**4.** Push a probe parallel to the deep branch of the ul- nar nerve where it pierces the opponens digiti min- imi muscle. Use a scalpel to cut down to the probe and release the nerve. Now use blunt dissection to follow the deep branch of the ulnar nerve across
-**5.** As it passes laterally, observe that the deep branch of the ulnar nerve lies on the anterior surface of the interosseous muscles (FIG. 2.36) then passes into the
-adductor pollicis muscle.
-**6.** Observe the deep palmar arch. The deep pal- mar arch courses with the deep branch of the ul- nar nerve. It arises from the radial artery on the lateral side of the palm and is completed by the deep branch of the ulnar artery. Use an illustra- tion to study the branches of the deep palmar arch
-(FIG. 2.36).
-**7.** Identify the adductor pollicis muscle (FIG 2.36).
-Use blunt dissection to defi ne its borders. The ad- ductor pollicis muscle has two heads: oblique and transverse. The medial attachment of the trans- verse head is the anterior surface of the shaft of metacarpal bone 3. The medial attachments of the
-oblique head are the bases of metacarpal bones 2 and 3 and the adjacent carpal bones. Both heads at- tach to the medial side of the base of the proximal phalanx of the thumb. The adductor pollicis muscle
-draws the thumb toward digit 3 (adduction).
-**8.** Use an illustration to study the three palmar interosseous muscles (FIG. 2.37A). The palmar interosseous muscles are unipennate muscles that
-attach to the metacarpal bones of digits 2, 4, and 5.
-Distally, each palmar interosseous muscle attaches
-to the base of the proximal phalanx and the exten-
-sor expansion of the same digit on which it origi-
-nates. Do not attempt to dissect these muscles.
-*Grant's Atlas 573 | LWW Atlas 64 | Netter's 453 | Color Atlas 429 | Clemente's 104*
-**9.** Use an illustration to study the four dorsal
-interosseous muscles (FIG. 2.37B). The dorsal in-
-terosseous muscles are bipennate muscles that at- tach to metacarpal bones 1 to 5. Distally, the dor- sal interosseous muscles attach to the bases of the proximal phalanges and the extensor expansions of digits 2, 3, and 4. Look at the dorsum of the dis- sected hand and note that the dorsal interosseous
-muscles occupy the intervals between the metacar-
-pal bones. Do not dissect these muscles.
-**10.** Study the actions of the interosseous muscles
-(FIG. 2.37A, B). The three Palmar interosseous mus- cles are ADductors (PAD). They adduct digits 2, 4, and 5 toward an imaginary axial line drawn through the long axis of digit 3. The four Dorsal interos- seous muscles are ABductors (DAB). They move
-digits 2, 3, and 4 away from the imaginary axial line.
-The two dorsal interosseous muscles that attach to digit 3 move it to either side of the imaginary axial line. The interosseous muscles are innervated by
-the deep branch of the ulnar nerve.
-Dissection Follow-up
-**1.** Place the muscles, tendons, and nerves that you have
-dissected back into their correct anatomical positions.
-**2.** Review the movements of the fi ngers and thumb. Defi ne flexion, extension, abduction, and adduction. Review the
-muscles that are responsible for each action.
-**3.** Use the dissected specimen to follow the median nerve from the forearm into the hand. Review its recurrent branch and list the three muscles that the recurrent
-branch innervates.
-interosseous m.
-
-### Axial Line
-Palmar view interosseous
-
-### Axial Line
-Dorsal view
-interosseous m.
-pollicis m.
-Oblique head
-Transverse head (cut)
-FIGURE 2.37
-A. The three unipennate Palmar interosseous muscles
-ADduct (PAD) the fi ngers (arrows) in relation to the axial line. B. The four
-bipennate Dorsal interosseous muscles ABduct (DAB) the fi ngers (arrows).
-
-## The Upper Limb
-**4.** Follow the ulnar artery from the elbow to the hand. In the hand, trace the superficial branch and deep palmar branch of the ulnar artery and review the formation of
-the palmar arterial arches.
-**5.** Follow the ulnar nerve from the medial epicondyle of
-the humerus to the hand. In the hand, trace the super-
-fi cial and deep branches of the ulnar nerve.
-**6.** Review an illustration that demonstrates the cutaneous
-distribution of the ulnar and median nerves in the hand.
-**7.** Recall the rule for innervation of the muscles in the
-- All intrinsic muscles of the hand are innervated by the ulnar nerve except the muscles of the thenar group and the fi rst two lumbrical muscles, which are
-*innervated by the median nerve. LWW Atlas 77 | Netter's 460*
-
-### Extensor Region Of The Forearm And
-
-### Dorsum Of The Hand
-Dissection Overview
-The posterior compartment of the forearm contains the extensor muscles of the hand and digits. They can be divid- ed into a superficial layer and a deep layer (FIG. 2.22). The muscles of the superficial layer extend the wrist and the proximal phalanges. The muscles of the deep layer cause supination of the hand, extension of the index fi nger, and abduction and extension of the thumb. The deep branch of the radial nerve innervates the extensor muscles of the forearm. Nerves and vessels of the posterior compartment
-run in the connective tissue plane that divides the superfi-cial layer of extensor muscles from the deep layer of exten-
-sor muscles (FIG. 2.22).
-In the dorsum of the hand, the bones are superficial.
-There are no intrinsic muscles in the dorsum of the hand, so no motor innervation is required. The radial, ulnar, and
-median nerves share the cutaneous innervation of the dor-
-sum of the hand.
-The order of dissection will be as follows: The ante-
-brachial fascia will be removed from the elbow to the wrist.
-The muscles of the superficial extensor layer will be identi-
-fi ed and followed to their distal attachments in the hand.
-The tendons of the superficial extensor muscles will be released from the extensor retinaculum and retracted to expose the muscles of the deep extensor layer. The contents
-of the anatomical snuffbox will be identifi ed.
-Dissection Instructions
-*Superfi cial Layer of Extensor Muscles [G 584; L 58;*
-N 432; R 421; C 80]
-**1.** Place the cadaver in the supine position.
-**2.** Use blunt dissection to remove the remnants of the superficial fascia from the posterior forearm and dorsum of the hand, taking care to preserve the
-dorsal venous arch.
-**3.** Identify the extensor retinaculum, which is a spe- cialization of the antebrachial fascia located on the
-posterior surface of the distal forearm (FIG. 2.38).
-**4.** Use scissors to incise the posterior surface of the antebrachial fascia from the olecranon to the extensor retinaculum. Preserve the extensor reti- naculum. Use your fi ngers or a probe to separate the antebrachial fascia from the muscles that lie deep to it. Detach the antebrachial fascia from its attachments to the radius and ulna and place it in
-the tissue container.
-**5.** Six muscles comprise the superficial layer of
-extensor muscles: brachioradialis, extensor car-
-pi radialis longus, extensor carpi radialis bre- vis, extensor digitorum, extensor digiti minimi, and extensor carpi ulnaris. Note that four of the muscles in the superficial extensor layer (extensor carpi radialis brevis, extensor digitorum, extensor digiti minimi, and extensor carpi ulnaris) attach to the lateral epicondyle of the humerus by way of a
-common extensor tendon (FIG. 2.38).
-**6.** Use tendon patterns at the wrist and distal attach- ments to positively identify the muscles of the
-superficial extensor layer:
-- Brachioradialis tendon-attaches to the lateral surface of the distal radius
-- Extensor carpi radialis longus tendon-attaches
-to the base of metacarpal 2
-- Extensor carpi radialis brevis tendon-attaches
-to the base of metacarpal 3
-- Extensor digitorum tendons-attach to the
-extensor expansions of digits 2 to 5
-- Extensor digiti minimi tendon-attaches to
-the extensor expansion of digit 5
-- Extensor carpi ulnaris tendon-attaches to
-the base of metacarpal 5
-**7.** Note that the tendons of the extensor digitorum
-muscle are tied together by intertendinous con-
-nections on the posterior surface of the hand.
-*Grant's Atlas 590 | LWW Atlas 58 | Netter's 458 | Color Atlas 424 | Clemente's 92*
-**8.** Observe the extensor expansion of digit 3 (FIG. 2.39).
-The extensor expansion is wrapped around the dor- sum and the sides of the proximal phalanx and the distal end of the metacarpal bone. The hood-like ex- pansion retains the extensor tendon in the midline
-of the digit. The tendons of the lumbrical and in-
-terosseous muscles attach to the extensor expansion.
-*Grant's Atlas 591 | LWW Atlas 59 | Netter's 452 | Color Atlas 421 | Clemente's 69*
-**9.** Note that all of the extensor tendons are contained within individual osseofi brous tunnels. Synovial
-sheaths line these tunnels.
-Anconeus m.
-Brachioradialis m.
-Extensor carpi
-radialis longus m.
-Extensor carpi radialis brevis m. pollicis longus
-Extensor pollicis longus tendon
-Extensor pollicis brevis tendon
-Radial artery in the anatomical snuffbox pollicis brevis
-Outcropping pollicis longus
-Extensor indicis tendon
-Dorsal carpal branch
-of ulnar a.
-Extensor retinaculum
-Common extensor tendon
-Antebrachial fascia
-Extensor indicis m.
-Extensor carpi ulnaris m.
-Extensor digiti minimi m.
-Extensor digitorum m.
-Extensor digitorum
-Extensor carpi urnalis tendon
-Dorsal carpal arch
-Extensor digiti minimi tendon
-Extensor carpi radialis brevis tendon
-Extensor carpi radialis longus tendon
-1st dorsal interosseous m.
-Central band
-Lateral bands
-Extensor digitorum tendons
-Intertendinous connections
-Extensor expansion:
-FIGURE 2.38
-Superfi cial layer of extensor muscles in the right forearm. Posterior view.
-
-## The Upper Limb
-*Deep Layer of Extensor Muscles [G 585; L 59; N 433;*
-R 421; C 82]
-**1.** Five muscles comprise the deep layer of extensor
-muscles: supinator, abductor pollicis longus,
-extensor pollicis brevis, extensor pollicis lon-
-gus, and extensor indicis (FIG. 2.38).
-**2.** Cut through the extensor retinaculum to re- lease the tendons of the extensor digitorum muscle (FIG. 2.38, dashed line). Retract the tendons  medially
-(FIG. 2.40).
-**3.** The proximal attachments of four of the muscles
-of the deep extensor layer (abductor pollicis lon- gus, extensor pollicis brevis, extensor pollicis lon- gus, and extensor indicis) are the posterior surfaces
-of the radius, ulna, and interosseous membrane.
-Three of these muscles (or their tendons) emerge from the interval between the extensor digitorum muscle and the extensor carpi radialis brevis muscle and for this reason they are often referred to as the
-"outcropping" muscles of the thumb (FIG. 2.38).
-**4.** Identify the tendon of each of the following mus-
-cles and follow it to its distal attachment:
-- Abductor pollicis longus tendon-attaches to
-the base of metacarpal 1
-- Extensor pollicis brevis tendon-attaches to
-the base of the proximal phalanx of digit 1
-- Extensor pollicis longus tendon-attaches to
-the base of the distal phalanx of digit 1
-- Extensor indicis tendon-attaches to the ex-
-tensor expansion of digit 2
-**5.** Identify the anatomical snuffbox (FIG. 2.41A, B). The anatomical snuffbox is a depression on the posterior surface of the wrist that is bounded anteriorly by the abductor pollicis longus tendon and the extensor pollicis brevis tendon. The posterior boundary of
-the anatomical snuffbox is the extensor pollicis lon-
-*gus tendon. Grant's Atlas 593 | LWW Atlas 58 | Netter's 457 | Color Atlas 424 | Clemente's 111*
-**6.** Within the anatomical snuffbox, fi nd the radial artery (FIG. 2.41B). Use a probe to clean the radial
-artery and follow it distally until it disappears be- tween the two heads of the fi rst dorsal interos- seous muscle. Note that the dorsal carpal arch receives a branch of the radial artery that arises in the anatomical snuff box. The dorsal carpal arch supplies arterial blood to the dorsum of the hand
-(FIG. 2.41A). Do not dissect its branches.
-**7.** Near the elbow, use your fi ngers to retract the brachioradialis muscle and observe the supinator muscle (FIG. 2.40). The proximal attachments of the supinator muscle are the lateral epicondyle of the humerus, the radial collateral and annular liga- ments of the elbow, and the lateral surface of the ulna. The distal attachment of the supinator muscle
-is the proximal one-third of the radius. The supina-
-tor muscle supinates the hand.
-**8.** On the lateral aspect of the elbow, once again fi nd the radial nerve in the connective tissue plane between the brachioradialis muscle and the brachi- alis muscle. Observe that the radial nerve divides into a superficial branch and a deep branch. The
-deep branch of the radial nerve enters the supi-
-nator muscle.
-**9.** Look for the deep branch of the radial nerve where it emerges from the distal border of the supinator muscle. Its name changes to posterior
-interosseous nerve at this location (FIG. 2.40).
-The posterior interosseous nerve provides motor
-branches to the extensor muscles.
-**10.** Observe that the posterior interosseous nerve is  accompanied by the posterior interosseous
-artery, which is a branch of the common interosse-
-ous  artery.
-Dissection Follow-up
-**1.** Replace the muscles of the posterior compartment of
-the forearm into their correct anatomical positions.
-**2.** Use the dissected specimen to review the attachments
-of the extensor tendons.
-Extensor (dorsal) expansion
-Vincula brevia
-Extensor digitorum tendon
-Flexor digitorum profundus tendon
-interosseous m.
-2nd lumbrical m.
-Flexor digitorum superficialis
-Vincula longa
-Central band
-Lateral band
-3rd metacarpal bone
-FIGURE 2.39
-Extensor expansion of the right third digit. Lateral view.
-Lateral epicondyle
-Brachioradialis m.
-Extensor carpi radialis longus m.
-Extensor carpi radialis brevis m.
-Posterior interosseous n.
-Abductor pollicis longus m.
-Extensor pollicis brevis m.
-Extensor pollicis longus tendon
-Adductor pollicis m.
-Extensor digitorum tendon
-Extensor retinaculum
-Extensor indicis m.
-Extensor digitorum m.
-(retracted)
-Branches of posterior
-interosseous n.
-Interosseous
-recurrent a.
-Posterior interosseous a.
-1st dorsal interosseous m.
-Supinator m.
-Deep branch of radial n.
-Extensor carpi radialis
-Extensor pollicis brevis tendon
-Abductor pollicis longus tendon
-Extensor pollicis longus tendon
-FIGURE 2.40
-Deep layer of extensor muscles in the right forearm. Lateral view.
-
-## The Upper Limb
-
-### Joints Of The Upper Limb
-Dissection Overview
-Dissect the joints in one upper limb. Keep the soft tissue
-structures of the other limb intact for review purposes. Dur-
-ing this dissection, the muscles of one limb will be removed.
-Take advantage of this opportunity to review the attachments,
-innervation, and action of each muscle as it is removed.
-The order of dissection will be as follows: The sterno-
-clavicular and acromioclavicular joints will be dissected.
-The glenohumeral joint will be dissected. The elbow joint and radioulnar joints will be studied. The wrist joint will be dissected. Finally, the joints of the digits will be
-Dissection Instructions
-*Sternoclavicular Joint Grant's Atlas 514 | LWW Atlas 71 | Netter's 406 | Clemente's 140*
-**1.** Use an articulated skeleton to observe the relation- ships between the sternum and clavicle. Identify the clavicular notch of the manubrium. The  medial end of the clavicle articulates with the clavicular
-notch and the adjacent part of the fi rst costal carti-
-lage (FIG. 2.42).
-**3.** Note that the tendons of three strong extensor mus- cles (extensor carpi radialis longus, extensor carpi radialis brevis, and extensor carpi ulnaris) attach to the proximal ends of metacarpal bones. These three extensors of the wrist work synergistically with the flexors of the digits: A fi rm grip requires an extended
-**4.** Review the extensor expansion of digit 3. Recall the
-muscles that insert there and the action of each muscle.
-**5.** Review the course of the common interosseous branch of the ulnar artery and observe how the posterior in- terosseous artery enters the posterior compartment of
-the forearm.
-**6.** Review the course of the radial artery from the cubital
-fossa to the deep palmar arch.
-**7.** Palpate the anatomical snuffbox on yourself. Feel the
-pulsations of the radial artery within its boundaries.
-**8.** Recall the rule for innervation of the posterior com-
-partment of the forearm:
-- The radial nerve innervates all of the muscles
-in the posterior compartment of the forearm.
-*LWW Atlas 79*
-- Note that there are no intrinsic muscles in the dorsum of the hand. Therefore, there are no mus- cles in the hand that are innervated by the radial
-Dorsal digital
-Dorsal metacarpal
-Dorsal interosseous mm.
-Perforating a.
-Dorsal carpal arch
-Dorsal carpal branch
-of ulnar a.
-Extensor tendons (cut)
-Extensor retinaculum
-Radial a. in anatomical
-Dorsal carpal branch
-of radial a.
-Radialis indicis artery
-Insertion of 1st
-dorsal interosseous m.
-interosseous m.
-Extensor pollicis longus tendon
-Extensor pollicis brevis tendon
-Abductor pollicis longus tendon
-Adductor pollicis m.
-A Posterior view
-B Lateral view
-Extensor tendons and dorsal fascia of the hand
-(reflected)
-FIGURE 2.41
-Dorsum of hand showing radial artery in anatomical snuff box. Boundaries of anatomical snuffbox
-are outlined in green.
-**2.** Place the cadaver in the supine position. The ten- don of the sternocleidomastoid muscle is attached
-to the anterior surface of the sternoclavicular joint.
-Detach the tendon and reflect the sternocleido-
-mastoid muscle superiorly.
-**3.** Identify the anterior sternoclavicular ligament,
-which spans from the sternum to the clavicle.
-**4.** Use blunt dissection to clean the costoclavicular ligament, which runs obliquely from the fi rst cos- tal cartilage to the inferior surface of the clavicle
-near its medial end.
-**5.** Use a scalpel to remove the anterior sternocla- vicular ligament. Within the joint cavity, observe the articular disc. Inferiorly, the articular disc is attached to the fi rst costal cartilage. Superiorly, the articular disc is attached to the clavicle. Observe that the articular disc is attached in such a manner
-that it resists medial displacement of the clavicle.
-**6.** Palpate the movements of the sternoclavicular joint on yourself. Place your left hand on your right ster- noclavicular joint and circumduct your right upper
-limb through a large circle. Observe that the ster-
-noclavicular joint allows a limited amount of move-
-ment in every direction.
-*Acromioclavicular Joint [G 540, 543; L 71; N 410; R 378;*
-**1.** Review the bony features that are relevant to the
-acromioclavicular joint (FIG. 2.43):
-- Acromion
-- Coracoid process of the scapula
-- Lateral end of the clavicle
-**2.** Detach the trapezius muscle from the lateral end of the clavicle. Detach the coracobrachialis and pecto- ralis minor muscles from the coracoid process. The
-acromioclavicular joint is now exposed. The acro-
-Anterior sternoclavicular
-Articular disc of sternoclavicular joint
-Articular cavities of sternoclavicular joint
-Costoclavicular
-Costal cartilages
-Subclavius m.
-Costoclavicular
-FIGURE 2.42
-Sternoclavicular joint. Surface view and sectional view. mioclavicular joint is a plane synovial joint between
-the acromion and the distal end of the clavicle.
-**3.** Identify the coracoclavicular ligament, which supports the acromioclavicular joint (FIG. 2.43). Use
-a probe to clean the ligament. Identify its two parts:
-- Conoid ligament
-- Trapezoid ligament
-**4.** Open the acromioclavicular joint by completely removing the joint capsule. Separate the acromion
-from the lateral end of the clavicle.
-**5.** Note the shape of the articulating surfaces. The angle of the articulating surfaces causes the acromi- on to slide inferior to the distal end of the clavicle when the acromion is forced medially. The  conoid and trapezoid ligaments prevent the acromion from moving inferiorly relative to the clavicle, thus
-strengthening the joint.
-*Glenohumeral Joint [G 540-543; L 71; N 410; R 378;*
-C 112, 114, 116, 118, 119]
-The glenohumeral joint (shoulder joint) is a ball-
-and-socket synovial joint with a wide range of motion.
-The shoulder joint has a greater degree of movement than any other joint in the body. This is due to the small area of  contact between the bones involved (head of the humerus and the glenoid fossa of the scapula) and the loose joint capsule. Stability of the shoulder joint depends on the proper function of the muscles of the
-rotator cuff.
-**1.** Place the cadaver in the supine position.
-**2.** Review the bony features pertinent to dissection of
-the glenohumeral joint (FIG. 2.4):
-- Glenoid fossa of the scapula
-- Head of the humerus
-- Anatomical neck of the humerus
-
-## The Upper Limb
-**3.** To expose the capsule of the glenohumeral joint, the muscles and tendons that span the joint must be removed. Review the proximal attach- ment and distal attachment of each muscle as you
-**4.** Remove the coracobrachialis muscle and the short
-head of the biceps brachii muscle. Leave the sub-
-scapularis muscle intact.
-**5.** Place the cadaver in the prone position. Observe
-that the tendons of the supraspinatus, infraspinatus,
-and teres minor muscles blend with the joint cap-
-sule. Remove these tendons.
-**6.** Remove the long head of the triceps brachii muscle.
-**7.** The posterior surface of the joint capsule is now exposed. Verify that the joint capsule is attached to
-the anatomical neck of the humerus.
-**8.** Use a scalpel to open the posterior surface of the
-joint capsule (FIG. 2.44A).
-**9.** Use a saw or a chisel to remove the head of the
-humerus at the anatomical neck.
-**10.** Use a probe to explore the glenoid cavity. Iden- tify the glenoid labrum and attempt to demon- strate the three glenohumeral ligaments, which strengthen the anterior wall of the fi brous capsule
-(FIGS. 2.43 and 2.44B).
-**11.** Observe that the tendon of the long head of the biceps brachii muscle passes through the glenoid cavity and is attached to the supraglenoid
-Acromioclavicular joint capsule
-Superior transverse scapular ligament and suprascapular notch
-Coracoid process
-Coracoclavicular
-Coracoacromial ligament
-Supraspinatus tendon (cut)
-Greater tubercle and lesser tubercle
-Transverse humeral
-Subscapularis tendon (cut)
-Biceps brachii tendon
-(long head)
-FIGURE 2.43
-Acromioclavicular joint and anterior aspect of glenohumeral joint.
-Surgical neck
-Anatomical neck
-
-### Posterior View
-Joint capsule
-Glenohumeral ligaments:
-Head of humerus removed
-subscapularis m.
-Coracoacromial
-Biceps brachii tendon (long head)
-FIGURE 2.44
-How to open the glenohumeral joint capsule and remove
-the head of the humerus.
-**12.** Place the cadaver in the supine position. Defi ne and clean the coracoacromial ligament, which
-spans from the coracoid process to the acromion.
-The coracoacromial ligament, the acromion, and the coracoid process prevent superior displacement
-of the head of the humerus.
-**13.** Use the dissected specimen to perform the move- ments of the glenohumeral joint: flexion, extension, abduction, adduction, and circumduction. Note that this freedom of motion is obtained at the loss
-of joint stability.
-*Elbow Joint and Proximal Radioulnar Joint [G 554,*
-555; L 72; N 426; R 379; C 123-126]
-**1.** Review the bony features of the elbow region
-(FIG. 2.45A).
-**2.** Use an articulated skeleton to verify that the elbow
-joint consists of two parts:
-- A hinge joint between the trochlea of the humerus and the trochlear notch of the ulna
-- A gliding joint between the capitulum of the humerus and the head of the radius
-**3.** Remove the brachialis muscle from the anterior
-surface of the joint capsule.
-**4.** Detach the triceps brachii tendon from the olecranon and the posterior surface of the joint
-Head of radius
-Coronoid process
-Radial notch
-Radial fossa
-Coronoid fossa
-
-### Lateral View
-Annular ligament
-Interosseous
-Joint capsule
-Ulnar collateral ligament
-
-### Medial View
-Biceps brachii tendon
-Annular ligament
-Radial collateral ligament
-FIGURE 2.45
-Elbow joint.
-**5.** Remove the superficial flexor muscles of the fore- arm from their attachment to the medial epicon- dyle. Review the common flexor tendon and the
-five muscles that attach to it.
-**6.** Identify the ulnar collateral ligament on the me- dial side of the elbow joint (FIG. 2.45D). Observe
-that it consists of a strong anterior cord and a fan-
-like posterior portion.
-**7.** Remove the superficial extensor muscles of the fore- arm from their attachment to the lateral epicondyle
-of the humerus. Review the common extensor ten-
-don and the muscles that attach to it.
-**8.** Remove the supinator muscle.
-**9.** Identify the radial collateral ligament (FIG. 2.45C).
-It fans out from the lateral epicondyle of the hu-
-merus to the radius and annular  ligament.
-**10.** The proximal radioulnar joint is a pivot joint that occurs between the head of the radius and the radial notch of the ulna. The annular ligament and the ra- dial notch of the ulna completely encircle the head of the radius (FIG. 2.45B). Note that the radius can freely rotate in the annular ligament. Place the hand of the cadaver specimen into the pronated position. Now pull on the biceps brachii tendon. Note the strong
-supinating action of the biceps brachii muscle.
-**11.** Open the elbow joint by making a transverse cut through the anterior surface of the joint capsule between the ulnar collateral ligament and the radial
-collateral ligament.
-
-## The Upper Limb
-**12.** Use a probe to explore the extent of the synovial cavity. Observe the smooth articular surfaces of the
-humerus, ulna, and radius.
-**13.** Use the dissected specimen to perform the move-
-ments of the elbow joint: flexion and extension.
-Observe the joint surfaces and the collateral liga-
-ments during these movements.
-*Intermediate Radioulnar Joint [G 559; L 72, 73; N 427;*
-R 380; C 126]
-**1.** The radius and ulna are joined throughout their length by the interosseous membrane. This is a fi brous joint. Use an illustration to study this
-*Distal Radioulnar Joint [G 598, 600; L 73; N 443; R 381;*
-**1.** The distal radioulnar joint is a pivot joint that occurs between the head of the ulna and the ulnar
-notch of the radius (FIG. 2.46).
-**2.** Remove all tendons and soft tissue structures that cross the wrist. Review the distal attachment of
-each tendon and the action of each muscle.
-**3.** Note that the anterior and posterior surfaces of the wrist joint are reinforced by radiocarpal
-**4.** To open the distal radioulnar joint, extend the
-hand. On the anterior surface of the joint capsule,
-Distal radioulnar
-Wrist (radiocarpal)
-Metacarpal bones
-Articular disc of wrist joint
-FIGURE 2.46
-Distal radioulnar and wrist joints.
-cut transversely through the radiocarpal ligaments.
-This cut should be made proximal to the flexor retinaculum and carpal tunnel. Leave the hand at- tached to the forearm by the posterior part of the
-joint capsule.
-**5.** Use a probe to explore the articulation between the radius and the ulna. Note that the distal radioul- nar joint contains an articular disc. Verify that the articular disc holds the distal ends of the radius and
-the ulna together.
-*Wrist Joint [G 598, 599; L 73, 74; N 442, 443; R 380, 381;*
-C 130, 131]
-**1.** The wrist joint (radiocarpal joint) is the articula- tion between the distal end of the radius and the proximal carpal bones (FIG. 2.46). Note that the distal end of the radius articulates with only two
-carpal bones: scaphoid and lunate.
-**2.** Identify the smooth proximal surfaces of the scaphoid, lunate, and triquetrum. Study the corresponding articular surface of the radi- us.  Notice that the scaphoid and lunate bones
-transmit forces from the hand to the forearm.
-Therefore, these carpal bones are the ones most commonly fractured in a fall on the outstretched
-**3.** Once again, identify the articular disc. The articu- lar disc articulates with the triquetrum when the
-hand is adducted.
-**4.** Use the dissected specimen to perform the move- ments of the wrist joint: flexion, extension, adduc- tion, abduction, and circumduction. Observe the
-articular surfaces during these movements.
-*Metacarpophalangeal Joints [G 602; L 74; N 446;*
-R 381; C 130, 131]
-**1.** Dissect digit 3 as a representative example.
-**2.** Remove the tendons of the flexor digitorum su-
-perfi cialis and flexor digitorum profundus muscles.
-Note their attachments on the phalanges.
-**3.** Remove the interosseous muscles and the extensor expansion to expose the metacarpophalangeal joint
-**4.** Clean the collateral ligaments (FIG. 2.47A). Move the digit to confi rm that the ligaments are slack during extension and taut during flexion. There- fore, the digits cannot be spread (abducted) unless
-they are extended.
-**5.** Use the dissected specimen to perform the move- ments of the digit at the metacarpophalangeal
-joint: flexion, extension, abduction, and adduction.
-Confi rm that the metacarpophalangeal joints are
-condyloid joints.
-**3.** Use the dissected specimen to perform flexion and extension of the interphalangeal joint and confi rm that the collateral ligaments limit the range of mo- tion. Confi rm that the interphalangeal joints are
-hinge joints.
-*Interphalangeal Joints Grant's Atlas 602 | LWW Atlas 74 | Netter's 446 | Color Atlas 381 | Clemente's 131*
-**1.** Clean the collateral ligaments of the interphalan-
-geal joints of digit 3 (FIG. 2.47B).
-**2.** Use a probe to explore the synovial cavity of one interphalangeal joint. Inspect the articular surfaces
-that are covered with smooth cartilage.
-Metacarpal bone
-In extension: medial view
-In flexion: medial view
-Dorsal surface
-Metacarpophalaneal joint
-Proximal interphalangeal joint
-Distal interphalangeal joint
-Joint capsule
-Joint capsule
-Collateral ligaments
-Palmar surface
-Palmar ligament (plate)
-FIGURE 2.47
-Metacarpophalangeal and interphalangeal joints.
-
-### C H A P T E R
-ATLAS REFERENCES:
-G = Grant's Atlas, 13th ed., page number
-L = LWW Atlas of Anatomy, 1st ed., page number
-N = Netter's Atlas, 5th ed., plate number
-R = Color Atlas of Anatomy, 7th ed., page number
-C = Clemente's Atlas, 6th ed., plate number
-The heart and lungs are fragile organs, and the main func- tion of the thorax is to house and protect them. The protec- tive function of the thoracic wall is combined with mobility to accommodate volume changes during respiration. These two dissimilar functions, protection and flexibility, are ac- complished by the alternating arrangement of the ribs and
-intercostal muscles.
-The superficial fascia of the thorax contains the usual elements that are common to superficial fascia in all body regions: blood vessels, lymph vessels, cutaneous nerves, and sweat glands. In addition, the superficial fascia of the anterior thoracic wall in the female contains the mammary glands, which are highly specialized organs unique to the
-superficial fascia of the thorax.
-
-### Surface Anatomy
-*Grant's Atlas 2 | LWW Atlas 160 | Netter's 175 | Clemente's 139*
-The surface anatomy of the thorax can be studied on a living subject or on the cadaver. Turn the cadaver to the supine position and palpate the following structures
-(FIG. 3.1):
-- Jugular notch (suprasternal notch)
-- Clavicle
-- Acromion of the scapula
-- Manubrium
-- Sternal angle
-- Body of the sternum
-- Xiphoid process
-- Costal margin
-- Anterior axillary fold (lateral border of the  pectoralis
-major muscle)
-
-### Skeleton Of The Thorax
-If you have previously dissected the back, review the parts
-of a thoracic vertebra. If you have not dissected the back,
-you must study the vertebrae now. Turn to pages 6 to 8,
-complete that exercise, and return to this page.
-Refer to a skeleton. Examine a rib from the midthorax
-level and identify (FIG. 3.2): Grant's Atlas 15 | LWW Atlas 164 | Netter's 180 | Color Atlas 197 | Clemente's 142
-- Head
-- Neck
-- Tubercle
-- Costal angle
-- Shaft (body)
-- Costal groove
-On an articulated skeleton, note the following features:
-- The fi rst rib is the highest, shortest, broadest, and most
-sharply curved rib.
-FIGURE 3.1
-Surface anatomy of the anterior thoracic wall.
-Jugular notch
-Sternal angle axillary fold
-Body of sternum
-Xiphisternal joint
-Xiphoid process
-Seventh costal cartilage
-Costal margin
-
+> **Atlas 參考：** G = Grant's Atlas，L = LWW Atlas，N = Netter's，R = Color Atlas，C = Clemente's
 
 ---
 
-*Atlas References: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+## 皮膚切口
+
+解剖順序如下：去除胸前壁和腕部近端上肢的皮膚。目標是僅移除皮膚，保留淺筋膜不受影響。
+
+接下來解剖淺層靜脈和選定的皮神經。然後移除脂肪，以便觀察**深筋膜**。 [G 490, 498; L 31; N 403, 404; R 400, 402; C 41]
+
+### 解剖步驟
+
+**1.** 將大體置於仰臥位。
+
+**2.** 參閱圖 2.2A。切割前，注意胸前壁的皮膚很薄。
+
+**3.** 從**胸骨上切跡**（A）到**劍胸關節**（C）做正中皮膚切口。
+
+**4.** 從**胸骨上切跡**（A）沿著**鎖骨**到**肩峰**（B）做皮膚切口。繼續此切口沿著手臂外側向下至約一半處。
+
+**5.** 在 F 點，做繞過手臂前表面和後表面的切口，在內側會合（G）。
+
+**6.** 從**劍胸關節**（C）沿著**肋骨緣**到**腋中線**做切口。
+
+**7.** 做一個始於手臂內側表面 G 點向上到腋窩的切口。向下沿著軀幹外側延伸到 V 點。
+
+**8.** 從**胸骨體中部**到**腋中線**做橫向皮膚切口，繞過乳頭。
+
+**9.** 從**劍胸關節**（C）到 G-V 切口做橫向皮膚切口。
+
+**10.** 在 A-B 切口和步驟 8 做的切口之間的中點做橫向皮膚切口。
+
+**11.** 從內側到外側移除皮膚。將乳頭留在淺筋膜上。沿著腋中線分離皮膚並放入組織容器中。
+
+**12.** 如果背部之前未進行解剖，請到第 8 頁，按照提供的皮膚剝離說明操作，然後返回本頁。
+
+**13.** 參閱圖 2.2B。
+
+**14.** 做一個環繞手腕的切口（E）。手腕前表面的皮膚非常薄（2 公釐）——不要切得太深。
+
+**15.** 在上肢前表面做縱向切口（E 到 G）。
+
+**16.** 從手臂和前臂移除皮膚並放入組織容器中。不要損壞淺筋膜中的淺層靜脈和皮神經。
 
 ---
-*Atlas: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+
+## 淺層靜脈
+
+> [G 498; L 31; N 403; R 398; C 41]
+
+**1.** 使用鈍性分離和探針展示手臂和前臂的淺層靜脈（圖 2.3）。
+
+**2.** 將上肢外展約 45°，並請解剖搭檔將其保持在外展位置。
+
+**3.** 在前臂後側，確認**貴要靜脈**（basilic vein）和**頭靜脈**（cephalic vein）。
+
+**4.** 使用探針追蹤頭靜脈和貴要靜脈近端，將其從周圍脂肪和結締組織中游離出來。
+
+**5.** 確認頭靜脈和貴要靜脈在**肘窩**由**肘正中靜脈**（median cubital vein）連接。此模式可能有相當大的變異，應在其它大體上觀察。
+
+**6.** 追蹤頭靜脈近端進入胸區，在此它走行於**三角肌胸肌溝**中，介於**三角肌**和**胸大肌**之間。靠近鎖骨處，頭靜脈穿過**三角肌胸肌三角**深部加入**腋靜脈**。
+
+**7.** 追蹤貴要靜脈近端。大約在半臂處，它穿過深筋膜加入深靜脈。
+
+**8.** 使用探針抬起淺層靜脈（圖 2.3）。注意有幾條穿通靜脈穿過深筋膜，連接淺層靜脈和深靜脈。
 
 ---
-*Atlas: G=Grant's Atlas, L=LWW, N=Netter's, R=Color Atlas, C=Clemente's*
+
+## 皮神經
+
+> [G 490; L 31; N 403, 404; R 400; C 36, 37, 68, 69]
+
+**1.** 解剖前，使用圖示熟悉手臂和前臂皮神經的走行和分布（圖 2.3）：
+   - **上外側皮神經**（Superior lateral cutaneous nerve of arm）
+   - **下外側皮神經**（Inferior lateral cutaneous nerve of arm）
+   - **後皮神經**（Posterior cutaneous nerve of arm）
+   - **肋間臂神經**（Intercostobrachial nerve）
+   - **臂內側皮神經**（Medial cutaneous nerve of arm）
+   - **前臂後皮神經**（Posterior cutaneous nerve of forearm）
+   - **前臂外側皮神經**（Lateral cutaneous nerve of forearm）
+   - **前臂內側皮神經**（Medial cutaneous nerve of forearm）
+   - **橈神經淺支**（Superficial branch of radial nerve）
+   - **尺神經背支**（Dorsal branch of ulnar nerve）
+
+**2.** 僅確認四條皮神經：
+   - **前臂外側皮神經**——位於淺筋膜中，在肘部水平，在**肱二頭肌**腱外側。注意其與頭靜脈和肘正中靜脈的密切關係。
+   - **前臂內側皮神經**——位於**肱二頭肌**腱內側。注意其與貴要靜脈的密切關係。
+   - **橈神經淺支**——位於淺筋膜中，靠近**橈骨莖突**。僅暴露 2-3 公分。
+   - **尺神經背支**——位於淺筋膜中，靠近**尺骨莖突**。僅暴露 2-3 公分。
+
+**3.** 手指的皮神經將在解剖手部時學習。
+
+**4.** 從手臂和前臂移除所有剩餘的淺筋膜，保留已解剖的淺層靜脈和神經。不要擾動深筋膜。將淺筋膜放入組織容器中。
+
+**5.** 檢查上肢的深筋膜，注意它從肩部延伸到指尖。它附著於上肢的骨骼，形成容納肌肉群的分隔。上肢深筋膜按區域命名：手臂的**臂筋膜**（brachial fascia）和前臂的**前臂筋膜**（antebrachial fascia）。在手中，深筋膜在掌側稱為**掌筋膜**（palmar fascia），在背側稱為**手背筋膜**（dorsal fascia of hand）。
+
+---
+
+## 解剖複習
+
+**1.** 回顧上肢的淺筋膜。
+
+**2.** 使用解剖標本從遠端到近端追蹤淺層靜脈的走行。
+
+**3.** 回顧肘窩中頭靜脈、貴要靜脈和肘正中靜脈的位置，並記住這些是靜脈穿刺的重要位置。
+
+**4.** 使用解剖標本回顧已解剖的四條皮神經。使用圖示回顧未解剖的皮神經分布模式。
+
+**5.** 將此皮神經分布模式與**皮節圖**進行比較。
+
+**6.** 回顧上肢的深筋膜及其各部分的名稱。 [G 501; L 31; N 401]
+
+---
+
+## 肩胛區
+
+### 概述
+
+有六塊肩部（肩胛肱骨）肌肉：**三角肌**、**岡上肌**、**岡下肌**、**小圓肌**、**大圓肌**和**肩胛下肌**。
+
+解剖順序如下：首先研究**三角肌**，然後從其近端附著處分離，研究其神經和血管的走行。隨後解剖起源於肩胛後表面的四塊肌肉（岡上肌、岡下肌、大圓肌、小圓肌），並展示其神經和血管。**肩胛下肌**將在腋窩一併解剖。
+
+### 肩胛區骨骼
+
+> [G 526, 527; L 32; N 408; R 371, 373; C 112, 113]
+
+在肩胛骨上確認（圖 2.4）：
+- **肩峰**（Acromion）
+- **肩胛上切跡**（Suprascapular notch）
+- **岡上窩**（Supraspinous fossa）
+- **肩胛棘**（Spine）
+- **岡下窩**（Infraspinous fossa）
+- **盂上結節**（Supraglenoid tubercle）
+- **關節盂**（Glenoid cavity）
+- **盂下結節**（Infraglenoid tubercle）
+- **喙突**（Coracoid process）
+
+在肱骨上確認（圖 2.4）：
+- **肱骨頭**（Head）
+- **解剖頸**（Anatomical neck）
+- **大結節**（Greater tubercle）
+- **小結節**（Lesser tubercle）
+- **結節間溝**（Intertubercular sulcus / bicipital groove）
+- **外科頸**（Surgical neck）
+- **三角肌粗隆**（Deltoid tuberosity）
+- **橈神經溝**（Radial groove）
+
+### 三角肌
+
+**1.** 將大體置於俯臥位。外展上肢至 45°。如果可用墊塊，將其放在胸部下方。
+
+**2.** 向上反射**斜方肌**，將其附著於頸部筋膜的「鉸鏈」處。
+
+**3.** 清理**三角肌**的表面和邊界。觀察三角肌的近端附著：
+   - 肩胛棘
+   - 肩胛骨的肩峰
+   - 鎖骨外側三分之一
+
+觀察三角肌在肱骨三角肌粗隆上的遠端附著。三角肌的作用是**外展肱骨**。 [G 521; L 36; N 411; R 382; C 62]
+
+**4.** 使用手術刀從近端附著處分離三角肌。切割時靠近骨骼。保留肌肉在肱骨上的遠端附著。向外側反射三角肌，注意不要撕裂沿其深面走行的血管和神經。
+
+**5.** 觀察**腋神經**和**旋肱後動脈**和靜脈，它們位於三角肌深面，靠近其附著於肱骨處（圖 2.5）。使用探針清理神經和血管，並追蹤它們繞過肱骨外科頸的走行。 [G 536; L 37; N 414; R 383; C 33]
+
+**6.** 注意腋神經支配三角肌，也支配小圓肌。
+
+**7.** 將腋神經和旋肱後動靜脈向深部追蹤。將手指平行於神經和血管推開，以打開**四方空間**（圖 2.5）。定義四方空間的邊界：
+   - **上邊界**——小圓肌下緣
+   - **外側邊界**——肱骨外科頸
+   - **內側邊界**——肱三頭肌長頭外側緣
+   - **下邊界**——大圓肌上緣
+
+**8.** 確認**肱三頭肌長頭**，並觀察其關係：
+   - 它在小圓肌前方通過
+   - 它在大圓肌後方通過
+   - 它在腋神經和旋肱後動脈內側通過
+
+### 小圓肌
+
+**9.** 清理並定義**小圓肌**的邊界。小圓肌的內側附著於肩胛骨外側緣。小圓肌的外側附著於肱骨大結節下關節面。小圓肌的作用是**外旋肱骨**。
+
+### 大圓肌
+
+**10.** 清理並定義**大圓肌**的邊界。大圓肌的內側附著於肩胛骨下角。大圓肌的外側附著於肱骨結節間溝內唇。大圓肌的作用是**內收和內旋肱骨**。
+
+### 四方空間和三角空間
+
+**11.** 定義**三角空間**的邊界：
+    - **上邊界**——小圓肌下緣
+    - **外側邊界**——肱三頭肌長頭內側緣
+    - **下邊界**——大圓肌上緣
+
+**12.** 注意**旋肩胛動脈**可在三角空間深部找到。
+
+### 岡上肌
+
+**13.** 清理並定義**岡上肌**的邊界。觀察岡上肌在肩胛骨岡上窩的內側附著。岡上肌的外側附著於肱骨大結節最高關節面。岡上肌的作用是**啟動肱骨的外展**。
+
+### 岡下肌
+
+**14.** 使用探針定義**岡下肌**的邊界。觀察岡下肌在肩胛骨岡下窩的內側附著。岡下肌的外側附著於肱骨大結節中關節面。岡下肌的作用是**外旋肱骨**。
+
+**15.** **肩胛上動脈**和**肩胛上神經**位於岡上肌深面（圖 2.5）。要看到它們，必須反射岡上肌。 [G 536; L 37; N 414; R 404; C 33]
+
+**16.** 使用手術刀在肩胛上切跡內側約 5 公分處橫斷岡上肌（圖 2.5）。如果有游離肩胛骨可用，將其放在大體肩胛骨上以幫助定位正確的切割水平。
+
+**17.** 使用鈍性分離從岡上窩游離橫斷遠端的岡上肌部分。向外側反射。保留其附著於肱骨處。
+
+**18.** 確認位於肩胛骨後表面的肩胛上動脈和神經。向上追蹤它們。觀察肩胛上動脈穿過**肩胛上橫韌帶**上方，肩胛上神經穿過其下方（圖 2.5）。可用助記法記住：陸軍（Artery）在橋上走，海軍（Nerve）在橋下走。橋就是肩胛上橫韌帶。
+
+**19.** 在肩胛骨內側緣外側約 5 公分處橫斷岡下肌（圖 2.5）。
+
+**20.** 使用鈍性分離從岡下窩游離橫斷遠端的岡下肌部分。向外側反射。
+
+**21.** 向下追蹤肩胛上動脈和肩胛上神經。觀察它們穿過肩胛棘深部（前）到達岡下肌（圖 2.5）。
+
+**22.** 肩胛上動脈參與肩胛區的側支循環。使用圖示研究**肩胛網**。 [G 512; L 38; N 415; R 404]
+
+**23.** 旋轉袖的四塊肌肉是岡上肌、岡下肌、小圓肌和肩胛下肌。肩胛下肌將與腋窩一起解剖。使用圖示研究旋轉袖肌肉的外側附著。 [G 524; L 45; N 407; R 383; C 32]
+
+> **臨床重點**：旋轉袖損傷在運動員和老年人中常見。岡上肌是最常受傷的旋轉袖肌肉，因為它在肩峰下空間中通過，易於受到夾擠。
+
+---
+
+## 胸前區
+
+### 概述
+
+胸前區覆蓋胸前壁和部分側胸壁。解剖順序如下：在女性大體中解剖乳房。在兩性大體中，移除淺筋膜以暴露胸肌。
+
+### 乳房
+
+> [G 5; L 39; N 176; R 290; C 4]
+
+乳房僅在女性大體中解剖。男性大體的學生必須在另一解剖台上觀察。
+
+乳房從胸骨外側緣延伸到腋中線，從第 2 肋到第 6 肋。
+
+乳房是包含在淺筋膜中的改良汗腺（圖 2.6）。乳房位於胸肌筋膜（胸大肌深筋膜）的淺面。胸肌筋膜通過穿過乳房小葉間的**乳房懸韌帶**附著於上覆的皮膚。
+
+**1.** 確認**乳頭**和**乳暈**（圖 2.6）。
+
+**2.** 使用鑷子柄舀出懸韌帶之間數個間隔中的脂肪。這些懸韌帶之間的區域曾包含功能性腺體組織的小葉。
+
+**3.** 做一個經過乳頭的矢狀（從上到下）切口，將乳房分為內側半和外側半（圖 2.6）。
+
+**4.** 在乳房切口邊緣，使用探針在乳頭深部的脂肪中解剖。將搜索範圍限制在乳暈深側 3 公分內。找到並清理匯集於乳頭的 15-20 條**輸乳管**中的一條。在乳頭深部確認**輸乳竇**，這是輸乳管的擴張部分。
+
+**5.** 追蹤一條輸乳管到乳頭，並嘗試確認其開口。
+
+**6.** 使用圖示研究乳房的淋巴引流。 [G 8; L 40; N 178; R 290; C 7]
+
+**7.** 將手指插入乳房後方，打開**乳房後間隙**。注意正常的乳房可以很容易地與胸大肌深筋膜分離。
+
+**8.** 使用手術刀協助將乳房從胸大肌前表面移除。
+
+**9.** 將乳房保存在塑膠袋中。
+
+> **臨床重點**：臨床上將乳房分為四個象限。上外側（上外）象限含有大量腺體組織，是乳腺癌常見的發生部位。從這個象限，乳房組織的「腋尾」常延伸到腋窩。
+>
+> 在乳腺癌晚期，腫瘤可能侵犯下方的胸大肌及其筋膜。當這種情況發生時，腫瘤和乳房與胸壁融合，這種情況可在物理檢查中通過觸診檢測到。隨著乳房腫瘤增大，它對懸韌帶施加拉力，導致腫瘤上方皮膚凹陷。
+
+### 淺層筋膜
+
+**1.** 胸前壁淺層筋膜的解剖必须在男性和女性大體上進行。
+
+**2.** **頸濁肌**是面部表情肌，可延伸到鎖骨下方進入上胸部的淺筋膜。它非常薄但寬。如果頸濁肌存在於胸部，從其深面的淺筋膜中游離並向上反射。不要將解剖範圍延伸到鎖骨上方。
+
+**3.** 在胸骨正中做淺筋膜的垂直切口。做對應於皮膚切口 A-B-F、C-V 和 G-V 的額外切口（圖 2.2A）。
+
+**4.** 從內側到外側移除淺筋膜。
+
+**5.** 研究典型脊神經皮支的分布圖（圖 2.7）。前皮支很小，在胸骨緣外側從肋間隙出現。不要嘗試尋找它們。 [G 22; L 170; N 185; R 214; C 10]
+
+**6.** 當剝離淺筋膜時，通過觸摸確認一個肋間隙。在腋中線附近觸摸**肋間神經外側皮支**離開肋間隙進入淺筋膜的位置。在移除淺筋膜時確認一條外側皮支（來自第 4、5 或 6 肋間隙），追蹤其前支和後支一小段距離並保留它們。
+
+**7.** 沿腋中線分離淺筋膜並放入組織容器中。
+
+---
+
+## 胸肌區肌肉
+
+### 概述
+
+胸肌區有三塊肌肉：**胸大肌**、**胸小肌**和**鎖骨下肌**。胸肌區的肌肉將上肢附著於中軸骨骼。
+
+胸大肌位於淺筋膜深面（乳房深面）。
+
+解剖順序如下：研究和反射胸大肌。研究胸小肌和鎖胸筋膜。確認鎖骨下肌。反射胸小肌並解剖胸肩峰動靜脈的分支。
+
+### 胸大肌
+
+**1.** 清理胸大肌淺面並用手指定義其邊界（圖 2.8）。研究圖示並注意胸大肌淺面和深面的深筋膜稱為**胸肌筋膜**，它與構成腋窩底的**腋筋膜**延續。 [G 506; L 41; N 411; R 406; C 17]
+
+**2.** 確認胸大肌的兩個頭：**鎖骨頭**和**胸肋頭**（圖 2.8）。注意這兩個頭在胸鎖關節處交匯。
+
+**3.** 用手指追蹤胸大肌腱到其在肱骨外側的附著處。胸大肌的作用是**屈曲、內收和內旋肱骨**。
+
+**4.** 確認**三角肌胸肌三角**（圖 2.8）。它位於胸大肌鎖骨頭上緣和三角肌靠近鎖骨的下緣之間。三角肌胸肌三角外側變窄形成**三角肌胸肌溝**。
+
+**5.** 使用鈍性分離，從手臂追蹤頭靜脈到三角肌胸肌三角，在此靜脈穿入深部進入腋窩。在後續解剖步驟中保留頭靜脈。
+
+**6.** 為橫斷胸大肌做準備，通過屈曲和外展手臂放鬆胸大肌胸肋頭。輕輕將手指插入胸大肌下緣後方，在胸大肌胸肋頭和鎖胸筋膜之間創造一個空間。將手指向上推開這個空間。
+
+**7.** 從肌肉下緣開始，使用剪刀從胸骨附著處分離胸大肌胸肋頭（圖 2.8，虛線）。
+
+**8.** 繼續從下到上工作，將手指插入鎖骨頭下方，觸摸**胸神經內側支**和血管。
+
+**9.** 使用剪刀從鎖骨附近切割胸大肌鎖骨頭（圖 2.8，虛線）。保留頭靜脈。注意**胸神經外側支**和**胸肩峰動靜脈胸支**進入鎖骨頭深面。
+
+**10.** 向外側反射胸大肌，保留其附著於肱骨處。嘗試保留進入其深面的神經和血管。
+
+### 胸小肌和鎖胸筋膜
+
+**11.** 胸大肌深面是鎖胸筋膜、胸小肌和鎖骨下肌（圖 2.8）。 [G 506; L 41; N 416; R 407; C 22]
+
+**12.** 確認**胸小肌**。其下附著於第 3-5 肋近其肋軟骨處。其上附著於肩胛骨喙突。胸小肌的作用是將肩胛骨的**關節盂**向前和向下拉。
+
+**13.** 注意**胸神經內側支**穿過胸小肌，然後進入胸大肌深面，支配兩塊肌肉。
+
+**14.** 確認**鎖骨下肌**（圖 2.8）。它位於鎖骨下方。鎖骨下肌附著於鎖骨和第一肋，作用是**下降鎖骨**。
+
+**15.** 閱讀鎖胸筋膜的描述並理解它位於胸大肌深面。上方，鎖胸筋膜附著於鎖骨。它位於鎖骨下肌和胸小肌的淺面和深面。下方，鎖胸筋膜附著於腋筋膜。
+
+**16.** 注意頭靜脈穿過肋鎖膜（鎖胸筋膜的一部分），在胸小肌內側。**胸肩峰動靜脈**和**胸神經外側支**也穿過肋鎖膜。
+
+**17.** 使用剪刀從第 3-5 肋的下附著處分離胸小肌（圖 2.8，虛線）。
+
+**18.** 向上反射胸小肌。保留其附著於肩胛骨喙突處。 [G 508; L 42; N 415; R 412; C 22]
+
+### 胸肩峰動靜脈的分支
+
+**19.** 清理**胸肩峰動靜脈**的分支。首先找到胸支並將其近端追蹤以找到其它分支。確認以下內容（圖 2.9）：
+    - **胸支**——在胸大肌和胸小肌之間下降，供應兩者。它通常是胸肩峰動靜脈最大的分支。
+    - **三角肌支**——在三角肌和胸大肌之間的三角肌胸肌溝中外側走行。三角肌支與頭靜脈伴行。
+    - **肩峰支**——向上通過喙突上方並向肩峰方向走行。它可能起源於距胸肩峰動靜脈數公分處的三角肌支。
+    - **鎖骨支**——向上內側走行，供應鎖骨下肌和胸鎖關節。
+
+**20.** 沿胸小肌外側緣確認**胸外側動脈**（圖 2.9）。此時不要追蹤它。
+
+**21.** 確認**前鋸肌**（圖 2.8）。它覆蓋胸壁外側面。注意其在上位第 8 或第 9 肋前面的廣泛附著。前鋸肌的後附著於肩胛骨內側緣整個前表面。此時您無法看到後附著。
+
+> **臨床重點**：前鋸肌癱瘓導致翼狀肩胛（winged scapula）。當患者向前推動手臂時，肩胛骨內側緣從胸壁突出。這通常是胸長神經損傷的結果。
+
+---
+
+## 腋窩
+
+### 概述
+
+腋窩是介於胸肌、肩胛、手臂和胸壁之間的區域（圖 2.10）。它是從頸根到上肢的神經和血管的通過區域。腋窩的內容物包括腋鞘、**臂神經叢**、腋動靜脈及其分支、淋巴結和淋巴管、三塊肌肉的部分，以及大量的脂肪和結締組織。
+
+注意腋窩的以下牆壁和邊界（圖 2.11）： [G 510; N 416]
+- **腋窩尖**——前方為鎖骨、後方為肩胛骨上緣、內側為第一肋
+- **腋窩底**——腋窩的皮膚和筋膜
+- **前壁**——前腋皺襞（胸大肌）、胸小肌和鎖胸筋膜
+- **後壁**——後腋皺襞（大圓肌和背闊肌）以及覆蓋肩胛前表面的肩胛下肌
+- **內側壁**——胸壁上部和覆蓋此壁的前鋸肌
+- **外側壁**——肱骨結節間溝
+
+解剖順序如下：反射胸大肌和胸小肌以暴露腋窩內容物。移除腋靜脈及其屬支以清理解剖視野。解剖腋動靜脈的分支。研究臂神經叢。
+
+### 腋靜脈
+
+**1.** 回顧胸大肌、胸小肌和鎖胸筋膜。
+
+**2.** 向外側反射胸大肌。
+
+**3.** 向上反射胸小肌。
+
+**4.** 外展手臂至約 45°。
+
+**5.** **腋鞘**是包繞腋動靜脈和臂神經叢的結締組織結構。它從第一肋外側緣延伸到胸大肌下緣。它可能很薄且幾乎不可察覺。
+
+**6.** 使用剪刀打開腋鞘前表面。
+
+**7.** 確認**腋靜脈**。注意腋靜脈由兩條肱靜脈在大圓肌外側緣匯合形成。腋靜脈在第一肋外側緣改名為鎖骨下靜脈。
+
+**8.** 為增強腋窩動脈和神經的解剖，必須移除腋靜脈。首先在頭靜脈匯入腋靜脈處切斷頭靜脈並保留之。然後在第一肋外側緣切斷腋靜脈。使用探針從其後方的結構（腋動靜脈和臂神經叢）游離腋靜脈，然後在大圓肌外側緣切斷腋靜脈並移除。 [G 509; N 417; R 411; C 20]
+
+**9.** 隨著解剖進行，移除注入腋靜脈的較小靜脈。保留伴行的動靜脈。注意與靜脈相關的淋巴結的存在。
+
+### 腋動靜脈
+
+> [G 516; L 44; N 415; R 413; C 23]
+
+腋動靜脈始於第一肋外側緣，它是**鎖骨下動靜脈**的延續（圖 2.12）。腋動靜脈在胸大肌下緣改名為**肱動靜脈**。腋動靜脈被臂神經叢包繞。在解剖腋動靜脈及其分支時，必須牽拉並保留臂神經叢。
+
+**1.** 確認腋動靜脈的三個部分（圖 2.12）：
+    - **第一部分**——從第一肋外側緣到胸小肌內側緣
+    - **第二部分**——位於胸小肌後方
+    - **第三部分**——從胸小肌外側緣到胸大肌下緣
+
+> **解剖註記**：腋動靜脈的分支模式可能與常見圖示不同。如果您的標本中模式不同，請理解分支是根據其分布區域而非起源模式命名。
+
+**2.** 腋動靜脈第一部分有一條分支：**胸上動靜脈**。胸上動靜脈起源於腋窩尖附近，供應第一和第二肋間隙的血液。
+
+**3.** 腋動靜脈第二部分有兩條分支：**胸肩峰動靜脈**和**胸外側動靜脈**（圖 2.12）。
+
+**4.** 短暫地將胸小肌返回其解剖位置並確認胸小肌內側的胸肩峰動靜脈。回顧之前已解剖的胸肩峰動靜脈的分支：
+    - 胸支
+    - 肩峰支
+    - 三角肌支
+    - 鎖骨支
+
+**5.** 確認**胸外側動靜脈**，它起源於胸小肌外側緣並沿胸小肌外側緣下降（圖 2.12）。在相當比例（35%）的病例中，胸外側動靜脈可能起源於肩胛下動靜脈或胸肩峰動靜脈。胸外側動靜脈供應胸肌、前鋸肌、腋淋巴結和側胸壁。在女性中，胸外側動靜脈也供應乳房外側部分。
+
+**6.** 腋動靜脈第三部分有三條分支：**肩胛下動靜脈**、**旋肱後動靜脈**和**旋肱前動靜脈**（圖 2.12）。
+
+**7.** 確認**肩胛下動靜脈**，這是腋動靜脈最大的分支。肩胛下動靜脈向下走行一小段距離後分為**旋肩胛動靜脈**（到肩胛後表面的肌肉）和**胸背動靜脈**（到背闊肌）。肩胛下動靜脈也發出幾條未命名的肌支，並可能是胸外側動靜脈的起源。
+
+**8.** 找到旋肱前和旋肱後動靜脈，它們起源於肩胛下動靜脈起源遠端腋動靜脈的外側表面。有時這兩條動靜脈可能起源於一條短共幹。它們供應三角肌。
+
+**9.** 觀察旋肱後動靜脈是兩條旋肱動靜脈中較大的一條。追蹤它與腋神經一起通過肱骨外科頸後方。展示旋肱後動靜脈和腋神經一起穿過**四方空間**。
+
+**10.** 旋肱前動靜脈繞過肱骨外科頸前表面。它在肱二頭肌長頭腱深面通過，並與旋肱後動靜脈吻合。
+
+### 臂神經叢
+
+> [G 516; L 43; N 417; R 413; C 20]
+
+臂神經叢始於鎖骨上方頸根。它進入腋窩尖然後向下走向腋窩底，在此發出其終支。此時僅解剖臂神經叢的鎖骨下部分（分支、股和終支）。鎖骨上部分（根和幹）將與頸部一起解剖。
+
+臂神經叢的三條股（外側、內側和後側）根據其與腋動靜脈第二部分的關係命名（圖 2.13）。所有這四個結構在胸小肌後方紧密相邻。
+
+**1.** 確認**肌皮神經**。它是臂神經叢最外側的終支，進入喙肱肌。
+
+**2.** 為找到外側股，用手指向上追蹤肌皮神經。
+
+**3.** 觀察外側股發出另一大分支：**正中神經外側根**。向下追蹤外側根並確認正中神經。
+
+**4.** 為找到內側股，向上追蹤正中神經內側根。
+
+**5.** 內側股的一部分繼續向下成為**尺神經**。
+
+**6.** 注意三條終支（肌皮神經、正中神經和尺神經）在腋動靜脈第三部分前方形成字母 M（圖 2.13）。
+
+**7.** 從已反射的胸肌追蹤**胸神經內側支**和外側支到它們分別從內側股和外側股的起源（圖 2.13）。
+
+**8.** 確認從內側股下緣發出的兩條神經分支。它們是**前臂內側皮神經**和**臂內側皮神經**（圖 2.13）。用手指追蹤這些神經一小段距離（7.5 公分）進入手臂。
+
+**9.** 向上牽拉腋動靜脈、外側股和內側股以暴露臂神經叢的後股（圖 2.14）。後股的分支是腋神經、橈神經和三條肩胛下神經（上、中、下）。
+
+**10.** 使用鈍性分離清理**腋神經**。觀察腋神經在肱骨後方通過並與旋肱後動靜脈一起穿過**四方空間**（圖 2.14）。
+
+**11.** 使用鈍性分離清理**橈神經**並確認它離開腋窩通過肱骨後方但在背闊肌和大圓肌前方。橈神經是上肢後側唯一的運動和感覺神經。
+
+**12.** 確認起源於後股的**肩胛下神經**（圖 2.14）並驗證它們走行於肩胛下肌前表面的疏鬆結締組織中：
+    - **上肩胛下神經**——支配肩胛下肌
+    - **中肩胛下神經**（胸背神經）——支配背闊肌
+    - **下肩胛下神經**——支配肩胛下肌和大圓肌
+
+**13.** 確認形成腋窩後壁的三塊肌肉：背闊肌、大圓肌和肩胛下肌（圖 2.14）。
+
+**14.** 檢查**肩胛下肌**。肩胛下肌的內側附著於肩胛骨的肩胛下窩。肩胛下肌的外側附著於肱骨小結節。肩胛下肌的作用是**內旋肱骨**。肩胛下肌是旋轉袖的成員。
+
+**15.** 確認腋窩內側壁由**前鋸肌**形成（圖 2.13）。因為這塊肌肉不在清晰視野中，使用圖示研究其附著。前鋸肌的前附著於第 1-8 或 9 肋外表面。其後附著於肩胛骨內側緣前表面。前鋸肌的作用是**前伸肩胛骨**。前鋸肌也旋轉肩胛骨，特別是當手臂外展超過水平面時。 [G 519; L 41; N 417; R 412; C 20]
+
+**16.** 用手指將前鋸肌向後追蹤到肩胛骨內側緣。在這塊肌肉淺面上，使用探針游離**胸長神經**（圖 2.13）。注意這條神經的垂直走行。觀察其到前鋸肌的分支。盡可能向上追蹤神經到腋窩尖。
+
+> **臨床重點**：胸長神經易受刺傷和乳房切除術中的手術損傷。胸長神經損傷影響前鋸肌。當要求前鋸肌癱瘓的患者用雙手推牆時，受累側的肩胛骨內側緣突出，稱為「翼狀肩胛」。
+>
+> 胸背神經易受壓迫損傷和乳房切除術中的手術創傷。胸背神經損傷影響背闊肌，導致伸、內收和內旋手臂的能力減弱。
+>
+> 腋神經在肱骨外科頸周走行，可能在骨折或肩關節下脫位時受傷。腋神經損傷影響三角肌和小圓肌，導致外展和外旋手臂的能力減弱。
+
+### 解剖複習
+
+**1.** 將胸大肌和胸小肌放回正確的解剖位置並回顧它們的附著。
+
+**2.** 回顧腋窩的邊界。
+
+**3.** 使用解剖標本觀察腋動靜脈三部分與胸小肌的關係。
+
+**4.** 背誦腋動靜脈所有分支的名稱並在解剖標本上確認每條分支。
+
+**5.** 通過繪圖測試您對臂神經叢的理解，顯示其結構和分支。擴展此練習，在大體上演示鎖骨下部分的分支、股和終支。
+
+**6.** 回顧肩胛區肌肉的運動神經供應。列出每塊肌肉及其支配神經。注意其中一些神經起源於臂神經叢的鎖骨上部分，尚未完全解剖。
+
+**7.** 回顧肩胛骨的運動。
+
+**8.** 檢查其它大體以了解動靜脈和神經分支模式的變異。
+
+**9.** 使用圖示回顧腋窩的淋巴引流。
+
+---
+
+## 手臂和肘窩
+
+### 概述
+
+**臂筋膜**（手臂的深筋膜）是一層堅韌的結締組織袖，其近端與胸肌筋膜、腋筋膜以及覆蓋三角肌和背闊肌的深筋膜延續。遠端，臂筋膜與**前臂筋膜**（前臂的深筋膜）延續。臂筋膜通過肌間隔連接到肱骨內側和外側（圖 2.15），形成前（屈肌） compartment 和後（伸肌） compartment。
+
+前 compartment 包含三塊肌肉（**肱二頭肌**、**肱肌**和**喙肱肌**）和**肌皮神經**。後 compartment 包含兩塊肌肉（**肱三頭肌**和**肘肌**）、**橈神經**以及**臂深動靜脈**。
+
+解剖順序如下：打開手臂前 compartment 並研究其內容物。然後追蹤神經和血管從腋窩到肘區的手臂走行。將大體翻轉至俯臥位以完成手臂後 compartment 的解剖。
+
+### 手臂和肘區骨骼
+
+> [G 552; L 32, 33; N 424; R 373, 374; C 113, 122]
+
+在肱骨上確認（圖 2.16）：
+- **內側髁**（Medial epicondyle）
+- **外側髁**（Lateral epicondyle）
+- **鷹嘴窩**（Olecranon fossa）
+
+在橈骨上確認：
+- **橈骨頭**（Head）
+- **橈骨頸**（Neck）
+- **橈骨粗隆**（Tuberosity）
+
+在尺骨上確認：
+- **尺骨鷹嘴**（Olecranon）
+- **冠狀突**（Coronoid process）
+
+### 手臂前 Compartment
+
+> [G 530, 531; L 46; N 419; R 415; C 56, 57]
+
+**1.** 將大體置於仰臥位。
+
+**2.** 使用剪刀從胸大肌腱水平到肘部在臂筋膜前表面做縱向切口。
+
+**3.** 用手指分離臂筋膜和深層肌肉。從切口向外側和內側工作，注意外側肌間隔和內側肌間隔的存在。從肌間隔分離臂筋膜並放入組織容器中。
+
+**4.** 用手指分離手臂前 compartment 的三塊肌肉：喙肱肌、肱肌和肱二頭肌（圖 2.17）。
+
+**5.** 肱二頭肌在肩胛骨上有兩個近端附著：
+    - **肱二頭肌短頭**——附著於肩胛骨喙突
+    - **肱二頭肌長頭**——附著於肩胛骨盂上結節
+
+**6.** 肱二頭肌長頭腱穿過肱骨結節間溝，在橫肱韌帶後方，然後進入肩關節。不要追蹤長頭腱到其在肩胛骨的附著處。
+
+**7.** 在肘部確認**肱二頭肌腱**（圖 2.17）。肱二頭肌的遠端附著於橈骨粗隆。肱二頭肌的作用是**旋後和屈曲前臂**。
+
+**8.** 確認**肱二頭肌腱膜**（圖 2.17）。肱二頭肌腱膜是肱二頭肌腱的寬展，附著於前臂筋膜。肱二頭肌腱膜位於肱二頭肌腱內側。
+
+**9.** 在腋窩找到**肌皮神經**（圖 2.17）。向下追蹤肌皮神經直到它進入喙肱肌。注意肌皮神經支配前 compartment 的三塊肌肉。
+
+**10.** 用手指確認喙肱肌的近端附著是喙突，遠端附著於肱骨幹內側。喙肱肌的作用是**內收和屈曲肱骨**。
+
+**11.** 找到肌皮神經離開喙肱肌之處。追蹤肌皮神經穿過肱二頭肌和肱肌之間的疏鬆結締組織平面。
+
+**12.** 肌皮神經發出肌支後，繼續向下成為**前臂外側皮神經**。追蹤前臂外側皮神經到肘窩，在此它出現在肱二頭肌腱近端外側。回顧前臂外側皮神經與頭靜脈的關係。
+
+**13.** 使用剪刀在肘部近端約 5 公分處橫斷肱二頭肌（圖 2.17，虛線）。不要切斷肌皮神經。分別向上和向下反射肱二頭肌的兩部分。
+
+### 肱肌
+
+**14.** 觀察位於肱二頭肌深面的**肱肌**（圖 2.17）。肱肌的近端附著於肱骨遠端前半表面，遠端附著於尺骨冠狀突。肱肌的作用是**屈曲前臂**。
+
+**15.** 從臂神經叢追蹤**前臂內側皮神經**到肘部水平（圖 2.17）。注意其在肘部與貴要靜脈的關係。
+
+**16.** 找到從臂神經叢發出的**正中神經**（圖 2.17）。使用鈍性分離從腋窩追蹤正中神經到肘窩。正中神經在內側肌間隔內向下走行。
+
+**17.** 使用鈍性分離從臂神經叢內側股追蹤**尺神經**到肱骨內側髁（圖 2.17）。注意尺神經在近端手臂位於內側肌間隔，然後在手臂遠端三分之一處位於內側肌間隔後表面。在肘部，尺神經與肱骨內側髁後表面接觸。在您自己身上，觸摸尺神經通過內側髁後方之處。
+
+### 臂動靜脈
+
+**18.** 確認**臂動靜脈**。臂動靜脈是腋動靜脈的延續。臂動靜脈始於胸大肌下緣，在肘部水平分為尺動靜脈和橈動靜脈（圖 2.18）。驗證臂動靜脈與正中神經在內側肌間隔內伴行，正中神經是橫跨臂動靜脈前表面的唯一大結構。 [G 533; L 46; N 421; R 415; C 59]
+
+**19.** 移除臂靜脈及其屬支以清理解剖視野。保留臂動靜脈的分支。
+
+**20.** 臂動靜脈在手臂有三條命名分支：**臂深動靜脈**、**尺側上副動靜脈**和**尺側下副動靜脈**。沿臂動靜脈全程也有幾條未命名的肌支。
+
+**21.** 在近端手臂，找到**臂深動靜脈**（臂深動靜脈，profunda brachii artery），它起源於臂動靜脈（圖 2.18）。臂深動靜脈繞過肱骨後表面，在此它與橈神經伴行於橈神經溝中。臂深動靜脈的走行將在解剖手臂後 compartment 時看到。
+
+**22.** 確認**尺側上副動靜脈**（圖 2.17）。它大約在半臂處起源於臂動靜脈。它與尺神經伴行向下走行並通過肱骨內側髁後方。
+
+**23.** 找到**尺側下副動靜脈**（圖 2.17）。它大約在內側髁近端 3 公分處起源於臂動靜脈並在肱肌和旋前圓肌之間通過內側髁前方。
+
+> **臨床重點**：使用圖示研究肘關節周圍的側支循環（圖 2.18）。臂動靜脈可能在臂深動靜脈遠端任何水平阻塞而不完全阻斷前臂和手的血流。
+>
+> 在手臂中，臂動靜脈位於肱二頭肌內側，靠近肱骨幹。測量血壓時在此位置壓迫臂動靜脈。
+
+### 肘窩
+
+> [G 546; L 46; N 421; R 416; C 70]
+
+肘窩是肘部前表面的凹陷區。肘窩在臨床上重要，因為它包含用於靜脈穿刺的淺層靜脈。大的神經和血管通過此區域。
+
+**1.** 注意肘窩的邊界（圖 2.19）：
+    - **外側邊界**——肱橈肌
+    - **內側邊界**——旋前圓肌
+    - **上邊界**——連接肱骨內側和外側髁的想像線
+    - **淺層邊界**（肘窩頂）——由前臂筋膜和肱二頭肌腱膜加固
+    - **深層邊界**（肘窩底）——肱肌和旋後肌
+
+**2.** 回顧頭靜脈、貴要靜脈和肘正中靜脈在肘窩前方的位置。為進入更深層結構，可能需要切斷肘正中靜脈並分別向內側和外側牽拉其斷端。
+
+**3.** 在肘窩確認**肱二頭肌腱**（圖 2.19A）。
+
+**4.** 在肱二頭肌腱附近切斷肱二頭肌腱膜並向內側反射。不要切斷位於肱二頭肌腱膜深面的臂動靜脈。
+
+**5.** 追蹤正中神經和臂動靜脈從手臂到肘窩。移除可能阻礙這些結構視野的脂肪。
+
+**6.** 觀察肘窩中三個重要結構的相對位置（圖 2.19B）：肱二頭肌腱在外側，臂動靜脈在中間，正中神經在內側。注意肱二頭肌腱膜走行於臂動靜脈和正中神經淺面，但在淺層靜脈深面。在靜脈穿刺期間，肱二頭肌腱膜為臂動靜脈和正中神經提供有限的保護。
+
+### 手臂後 Compartment
+
+> [G 535, 536; L 47; N 420; R 408, 409; C 60]
+
+**1.** 將大體置於俯臥位。
+
+**2.** 為更好地進入後 compartment，向內側旋轉手臂。
+
+**3.** 使用剪刀通過從尺骨鷹嘴到小圓肌水平的臂筋膜做縱向切口，打開手臂後 compartment。用手指廣泛打開臂筋膜，然後從內側和外側肌間隔分離。將其放入組織容器中。
+
+**4.** 檢查**肱三頭肌**（圖 2.20）。它有三個頭：
+    - **肱三頭肌長頭**——附著於肩胛骨盂下結節
+    - **肱三頭肌外側頭**——附著於肱骨橈神經溝外側的後表面
+    - **肱三頭肌內側頭**——附著於肱骨橈神經溝內側的後表面
+
+**5.** 觀察肱三頭肌腱在尺骨鷹嘴上的遠端附著。肱三頭肌的作用是**伸直前臂**。
+
+**6.** 用手指分離肱三頭肌長頭和外側頭。觀察**大圓肌**越過長頭前表面。
+
+**7.** 大圓肌下方是肱三頭肌長頭和外側頭之間的開口（圖 2.20）。使用探針擴開此開口並確認**橈神經**和**臂深動靜脈**。
+
+**8.** 沿橈神經走行向下推動探針。探針應位於肱三頭肌外側頭和肱骨之間（圖 2.20）。
+
+**9.** 使用手術刀在探針上方橫斷肱三頭肌外側頭。此切口將分離肱三頭肌外側頭和內側頭。
+
+**10.** 使用探針清理橈神經和臂深動靜脈。觀察橈神經和臂深動靜脈位於肱骨橈神經溝中直接與骨骼接觸。
+
+**11.** 向下追蹤橈神經向肘部。返回肘窩並在前臂外側確認**肱橈肌**（圖 2.19A）。用手指在肱橈肌和肱肌之間打開結締組織平面（圖 2.19B）。在此結締組織平面深處，找到橈神經並向上追蹤以完成其解剖。
+
+**12.** 注意橈神經在肘關節屈肌側通過，並在此與**橈側返動靜脈**伴行（圖 2.19B）。
+
+**13.** 確認**肘肌**（圖 2.20）。肘肌的近端附著於肱骨外側髁。肘肌的遠端附著於尺骨鷹嘴外側面和尺骨後表面上部。肘肌協助肱三頭肌伸直前臂。
+
+> **臨床重點**：橈神經在臂部中段繞過肱骨後方，在使用夾板或過度壓迫時容易受傷。橈神經損傷導致「腕下垂」（wrist drop），因為伸腕肌肉癱瘓。
+
+### 解剖複習
+
+**1.** 將手臂前和後 compartment 的肌肉放回正確的解剖位置。
+
+**2.** 回顧每塊肌肉的附著、神經供應和作用。
+
+**3.** 使用解剖標本回顧臂動靜脈的起源、走行、終止和分支。
+
+**4.** 追蹤每條已解剖的神經從臂神經叢到肘部，回顧其關係。
+
+**5.** 回顧手臂橫切面圖並注意臂筋膜和肌間隔相對於已解剖結構的位置。
+
+**6.** 回顧臂區的神經支配範圍（圖 2.21）。
+
+**7.** 回顧手臂肌肉的神經支配規則：
+    - 前 compartment 的所有肌肉由**肌皮神經**支配。 [L 76]
+    - 後 compartment 的所有肌肉由**橈神經**支配。 [L 79]
+    - 正中神經和尺神經不支配手臂的肌肉。
+
+---
+
+## 前臂屈肌區
+
+### 概述
+
+**前臂筋膜**是包裹前臂的結締組織袖。肌間隔從中突出並附著於橈骨和尺骨（圖 2.22）。肌間隔、骨間膜、橈骨和尺骨共同將前臂分為前（屈肌） compartment 和後（伸肌） compartment。
+
+前 compartment 的肌肉可分為淺層、中層和深層屈肌。淺層屈肌主要起源於肱骨內側髁及其髁上嵴。中層屈肌起源於肱骨內側髁和橈骨前表面。深層屈肌起源於橈骨、尺骨和骨間膜的前表面。
+
+研究前臂中段水平的橫切面（圖 2.22）並注意**尺動靜脈**、**尺神經**和**正中神經**位於中層和深層屈肌之間的結締組織平面中。
+
+### 前臂骨骼
+
+> [G 560, 582; L 33; N 424, 427; R 375; C 113, 122]
+
+在肱骨上確認（圖 2.23）：
+- **內側髁**
+- **內側髁上嵴**
+- **外側髁**
+- **外側髁上嵴**
+- **肱骨小頭**
+- **肱骨滑車**
+- **鷹嘴窩**
+
+在橈骨上確認（圖 2.23）：
+- **橈骨頭**
+- **橈骨頸**
+- **橈骨粗隆**
+- **前斜線**
+- **尺骨切跡**
+- **莖突**
+- **骨間緣**
+
+在尺骨上確認（圖 2.23）：
+- **尺骨鷹嘴**
+- **滑車切跡**
+- **橈骨切跡**
+- **尺骨頭**
+- **骨間緣**
+
+在掌面手關節上確認**豌豆骨**（圖 2.23）。
+
+在骨骼上檢查肘關節。肘關節是尺骨滑車切跡和肱骨滑車之間的關節，以及橈骨頭和肱骨小頭之間的關節。這兩個關節決定了肘關節的鉸鏈動作（屈曲/伸展）。
+
+在骨骼上觀察近端尺橈關節（橈骨頭和尺骨橈骨切跡之間）。觀察遠端尺橈關節（尺骨頭和橈骨尺骨切跡之間）。旋前和旋後手部，注意在近端和遠端尺橈關節發生的旋轉運動。在旋後位（解剖位），注意橈骨和尺骨平行。在旋前位，橈骨越過尺骨。
+
+### 淺層屈肌
+
+> [G 562; L 52; N 434; R 422; C 70]
+
+**1.** 將大體置於仰臥位並外展上肢。用力旋後手並請解剖搭檔保持此位置。
+
+**2.** 移除淺層筋膜殘餘，小心保留頭靜脈和貴要靜脈。
+
+**3.** 使用剪刀從肘窩到手腕切開前臂筋膜前表面。用手指或探針分離前臂筋膜和位於其深層的肌肉。從橈骨和尺骨附著處分離前臂筋膜並放入組織容器中。
+
+**4.** 淺層有四塊肌肉：**旋前圓肌**、**橈側屈腕肌**、**掌長肌**和**尺側屈腕肌**（圖 2.24）。
+
+**5.** 用手指分離淺層屈肌的肌腱並確認每一塊。注意這四塊肌肉的肌腹不能容易地彼此分離。
+
+**6.** 確認**總屈肌腱**，它附著於肱骨內側髁。它形成淺層肌肉近端附著的一部分（圖 2.24）。
+
+**7.** 雖然此時無法看到所有這些肌肉的遠端附著，但注意：
+    - **旋前圓肌**——附著於橈骨外側表面中部。旋前圓肌的作用是**旋前和屈曲手**。
+    - **橈側屈腕肌腱**——附著於第二掌骨底。橈側屈腕肌的作用是**屈曲和外展手**。
+    - **掌長肌腱**——附著於掌腱膜。掌長肌的作用是**屈曲手**。
+    - **尺側屈腕肌腱**——附著於豌豆骨、鉤骨和第五掌骨底。尺側屈腕肌的作用是**屈曲和內收手**。
+
+**8.** 檢查手腕前表面的淺層結構（圖 2.25）。從外側到內側確認： [G 566; L 52; N 434; R 422; C 70]
+    - **拇長展肌腱**
+    - **橈動靜脈**
+    - **橈側屈腕肌腱**
+    - **正中神經**
+    - **掌長肌腱**（13% 的肢體中缺如）
+    - **屈指淺肌**的四條肌腱
+    - **尺動靜脈**和**尺神經**
+    - **尺側屈腕肌腱**
+
+**9.** 在您自己的手腕上觸摸上述肌腱。在拇長展肌和橈側屈腕肌腱之間觸摸橈動靜脈的搏動。注意正中神經在手腕是淺層的，容易受傷。屈腕並觸摸尺側屈腕肌腱在豌豆骨上的遠端附著。觸摸尺神經和動靜脈，它們位於豌豆骨外側。
+
+### 中層屈肌
+
+> [G 563; L 53; N 447; C 71]
+
+**1.** **屈指淺肌**是前臂屈肌中層的唯一成員（圖 2.26）。為看到它，必須橫斷並反射淺層的幾塊肌肉。
+
+**2.** 在腕近端約 3 公分處切斷掌長肌腱（圖 2.24，切口 1）並向上反射肌腹。
+
+**3.** 在腕近端約 5 公分處切斷橈側屈腕肌腱（圖 2.24，切口 2）並向上反射。
+
+**4.** 旋前圓肌有兩個近端頭——淺（肱）頭和深（尺）頭。正中神經通過這兩個頭之間。僅此時反射旋前圓肌淺頭。沿正中神經前表面將探針插入旋前圓肌（圖 2.24，切口 3）。使用剪刀橫斷探針前方的那部分旋前圓肌。將旋前圓肌肱頭連同掌長肌和橈側屈腕肌的肌腹向內側反射。
+
+**5.** 觀察**屈指淺肌**（圖 2.26）。它有三個近端附著——一個通過總屈肌腱附著於肱骨，一個小附著於尺骨，以及一個沿橈骨前斜線的長窄附著。
+
+**6.** 上述附著形成腱弓（圖 2.26）。尺動靜脈和正中神經通過此腱弓深面。
+
+**7.** 在遠端，屈指淺肌發出四條肌腱（圖 2.26）。雖然此時看不到它們的附著，但注意這四條肌腱附著於第 2-5 指的中節指骨。屈指淺肌的作用是**屈曲第 2-5 指的中節指骨**。
+
+**8.** 在腕近端，觀察屈指淺肌的四條肌腱位於正中神經（外側）和尺動靜脈和神經（內側）之間（圖 2.26）。
+
+### 前臂前側的神經和血管
+
+> [G 564; L 53, 54; N 435, 436; R 423; C 76-78]
+
+**1.** 在前臂近端外側確認**肱橈肌**（圖 2.24）。在旋前圓肌通過肱橈肌深面之處，用手指打開肱橈肌深面的結締組織平面。在此肌間平面中，確認**橈神經淺支**，它走行於肱橈肌深面（圖 2.26）。追蹤橈神經淺支到前臂遠端三分之一並確認它在肱橈肌腱後方變為皮神經。
+
+**2.** 再次在肘窩確認**臂動靜脈**（圖 2.26）。使用鈍性分離向下追蹤臂動靜脈直到它分為橈動靜脈和尺動靜脈。
+
+> **臨床重點**：約 3% 的上肢中，臂動靜脈在手臂分叉。當發生時，尺動靜脈可能走行於淺層屈肌淺面。在此情況下，尺動靜脈可能被誤認為靜脈。當某些藥物注射入動靜脈時，毛細血管床受損，隨後發生壞死。在注射到淺層尺動靜脈的案例中，手可能受到嚴重損傷。
+
+**3.** 使用探針清理**橈動靜脈**並追蹤它到腕部水平。可以移除橈靜脈及其屬支以清理解剖視野。注意橈動靜脈在前臂發出幾條未命名的肌支。
+
+**4.** 找到**橈側返動靜脈**，它起源於橈動靜脈靠近其從臂動靜脈的起源處（圖 2.26）。橈側返動靜脈在肱橈肌和肱肌之間的結締組織平面向近端走行。橈側返動靜脈與臂深動靜脈的橈側返支吻合。回憶橈側返動靜脈是肘周圍吻合網的一部分（圖 2.18）。
+
+**5.** 再次在肘窩找到**正中神經**。觀察它位於臂動靜脈內側，並通過屈指淺肌深面（圖 2.26）。正中神經支配前臂屈肌 compartment 大部分的肌肉。
+
+**6.** 為暴露正中神經遠端，必須切斷屈指淺肌並向內側反射。首先，在腕近端如圖 2.26 所示的水平（切口 1）切斷屈指淺肌的四條肌腱。然後使用剪刀從橈骨前斜線的附著處分離屈指淺肌（圖 2.26，切口 2）。不要切斷橈動靜脈。向內側反射肌肉，保留其附著於尺骨和肱骨內側髁處。
+
+**7.** 觀察**正中神經**在前臂正中平面遠端走行（圖 2.27）。使用探針從位於前臂屈肌中層和深層之間的疏鬆結締組織中游離正中神經。觀察正中神經發出小的肌支支配掌長肌、橈側屈腕肌、屈指淺肌和旋前圓肌。正中神經也發出**前骨間神經**，它支配前臂屈肌深層（圖 2.27）。
+
+**8.** 在肘窩找到**尺動靜脈**。觀察尺動靜脈通過旋前圓肌深頭後方。為向下追蹤尺動靜脈，必須橫斷旋前圓肌深頭。沿尺動靜脈前表面，在旋前圓肌深頭後方插入探針。使用剪刀切斷旋前圓肌深頭。旋前圓肌此時完全橫斷，可以廣泛反射以擴大解剖視野。
+
+**9.** 使用探針清理**尺動靜脈**並從肘窩追蹤到手腕（圖 2.27）。可以移除尺靜脈及其屬支以清理解剖視野。觀察尺動靜脈的以下關係（圖 2.27）：
+    - 它在肘窩通過正中神經後方
+    - 它在前臂近端介於屈指淺肌和屈指深肌之間
+    - 它在大約前臂三分之一處與尺神經會合
+    - 尺動靜脈和神經位於前臂遠端尺側屈腕肌深面
+    - 尺動靜脈和神經在腕部通過豌豆骨外側
+
+**10.** 找到**骨間總動靜脈**。它是尺動靜脈的分支，大約在尺動靜脈起源遠端 3 公分處起源。它向後外側走向骨間膜，在分為前骨間和後骨間動靜脈之前。骨間總動靜脈通常很短，可能缺如（即前骨間和後骨間動靜脈可能直接起源於尺動靜脈）。
+
+**11.** 確認**前骨間動靜脈**並向下追蹤。注意前骨間動靜脈位於骨間膜前表面，介於前臂屈肌深層肌肉之間。它供應屈肌深層。
+
+**12.** 在骨間膜近端，**後骨間動靜脈**向後通過進入前臂後 compartment。後骨間動靜脈供應前臂伸肌群。確認它，但此時不要嘗試追蹤它進入後 compartment。
+
+**13.** 另外兩條命名血管起源於前臂近端的尺動靜脈：**尺側前返動靜脈**和**尺側後返動靜脈**（圖 2.27）。它們分別與臂動靜脈的尺側下和尺側上副支吻合（圖 2.18）。注意前臂尺動靜脈沿途發出幾條未命名的肌支。
+
+**14.** 在前臂遠端確認**尺神經**並向上追蹤。在肘部附近，觀察尺神經穿過尺側屈腕肌並在肱骨內側髁後方走行。尺神經支配**尺側屈腕肌**和**屈指深肌內側半**。
+
+### 深層屈肌
+
+> [G 565; L 54; N 436; R 423; C 72]
+
+**1.** 前臂屈肌深層由三塊肌肉組成：**屈指深肌**、**拇長屈肌**和**旋前方肌**（圖 2.27）。
+
+**2.** **屈指深肌**的近端附著於尺骨和骨間膜的前表面。在前臂遠端，它的四條肌腱位於屈指淺肌四條肌腱深面。雖然此時看不到，但注意屈指深肌腱附著於第 2-5 指的遠節指骨。屈指深肌的作用是**屈曲第 2-5 指的遠節指骨**。注意屈指深肌有兩個運動神經：肌肉外側半由正中神經支配，內側半由尺神經支配。
+
+**3.** **拇長屈肌**的近端附著於橈骨和骨間膜的前表面。拇長屈肌腱的遠端附著於拇指（第 1 指）遠節指骨。拇長屈肌的作用是**屈曲拇指**。
+
+**4.** **旋前方肌**位於前臂遠端四分之一處，深層屈肌腱後方（圖 2.27）。牽開淺層和深層屈肌的肌腱並找到旋前方肌。旋前方肌的纖維從尺骨橫向到橈骨。旋前方肌的作用是**旋前手**。
+
+**5.** 觀察**前骨間動靜脈**和神經通過旋前方肌深面（即介於旋前方肌和骨間膜之間）。
+
+### 解剖複習
+
+**1.** 將屈肌放回正確的解剖位置，注意將切斷的肌腱正確對齊。
+
+**2.** 使用解剖標本回顧每塊解剖肌肉的附著和作用。
+
+**3.** 將屈肌組織為淺層、中層和深層，並回顧穿過前臂的神經和血管位於中層和深層之間。
+
+**4.** 從近端手臂的起源追蹤臂動靜脈到它在肘窩的分叉。
+
+**5.** 回顧橈動靜脈和尺動靜脈的所有分支。從肘到手追蹤這兩條動靜脈的走行。
+
+**6.** 回顧正中神經從臂神經叢到手腕的走行。
+
+**7.** 回顧尺神經從臂神經叢到手腕的走行。
+
+**8.** 回顧前臂前 compartment 肌肉的神經支配規則：
+    - 前臂前 compartment 的所有肌肉由正中神經支配，除了**尺側屈腕肌**和**屈指深肌內側半**由尺神經支配。 [L 77]
+
+---
+
+## 手掌
+
+### 概述
+
+內在手肌是近端和遠端附著都在手內的肌肉。有兩組淺層內在手肌：**魚際肌群**形成魚際隆起，**小魚際肌群**形成小魚際隆起。手深部有第三組內在手肌：**骨間肌**和**拇收肌**。
+
+在手掌中部，掌筋膜增厚形成**掌腱膜**。魚際和小魚際隆起上的掌筋膜要薄得多。掌腱膜深面是屈指淺肌和屈指深肌的肌腱。這些肌腱穿過腕管到達手掌，負責屈曲手指。在手掌最深處是外展和內收手指的肌肉。
+
+手掌由兩條動靜脈弓供血。**淺掌弓**主要由尺動靜脈形成，**深掌弓**由橈動靜脈形成。手掌的神經供應來自正中神經和尺神經。
+
+解剖順序如下：研究和移除掌腱膜。解剖淺掌弓，然後是前臂肌肉的肌腱。切斷屈肌支持帶並從手掌釋放屈肌腱。解剖魚際肌群，然後是小魚際肌群。解剖深掌弓和尺神經深支。研究拇收肌和骨間肌。
+
+### 手骨骼
+
+> [G 560, 582; L 60, 61; N 444; R 376, 377; C 128, 129]
+
+在手的關節標本上確認（圖 2.28）：
+- **八塊腕骨**——近端排（舟骨、月骨、三角骨、豌豆骨）和遠端排（大多角骨、小多角骨、頭狀骨、鉤骨）
+- **五塊掌骨**
+- **十四塊指骨**
+
+拇指（第 1 指）有兩塊指骨：近節和遠節。第 2-5 指有三塊指骨：近節、中節和遠節。
+
+確認腕內側的**豌豆骨**和**鉤骨鉤**。在腕外側，確認**舟骨結節**和**大多角骨結節**。屈肌支持帶跨越這四塊骨骼（圖 2.29）。腕骨和屈肌支持帶之間的空間是**腕管**，允許屈肌腱和正中神經進入手部。
+
+### 皮膚切口
+
+**1.** 參閱圖 2.30。
+
+**2.** 強行打開握拳的手並請解剖搭檔保持張開。
+
+**3.** 做一個橫跨手掌的縱向切口（E 到 G）。
+
+**4.** 在指蹼水平做一個橫向切口（N 到 O）。
+
+**5.** 在第 2-5 指前表面做縱向切口（從切口 N/O 到 P）。
+
+**6.** 沿拇指掌面做縱向切口（E 到 Q）。
+
+**7.** 從手掌和手背以及第 1-5 指移除皮膚。剝離手指皮膚時要小心。注意手指掌面的皮下組織非常薄，特別是在皮膚皺褶處。指神經、血管和纖維鞘就在皮膚深面（圖 2.31）。
+
+### 淺層手掌
+
+> [G 569; L 62; N 447; R 428; C 94]
+
+**1.** 使用鈍刀片刮擦動作從掌腱膜清理脂肪。在移除掌腱膜期間不要切得太深，因為淺掌弓與掌腱膜深面接觸。小心保留魚際隆起附近的**正中神經返支**（圖 2.31）。
+
+**2.** 確認覆蓋魚際肌的掌筋膜，在掌腱膜外側。注意與掌腱膜相比它非常薄。
+
+**3.** 確認覆蓋小魚際肌的掌筋膜，在掌腱膜內側。**掌短肌**位於小魚際筋膜淺面（圖 2.31）。它是一塊薄而脆弱的肌肉。掌短肌的近端附著於掌腱膜內側。遠端附著於小魚際隆起覆蓋的皮膚。
+
+**4.** 從掌腱膜分離掌短肌並向內側反射。
+
+**5.** 找到在手臂橫斷的掌長肌腱。向下追蹤掌長肌腱進入手掌到掌腱膜附著處（圖 2.31）。雖然掌長肌可能缺如，但掌腱膜始終存在。
+
+**6.** 為移除掌腱膜，使用手術刀和剝皮動作從深層結構分離掌腱膜。從其近端開始並向遠端操作。使用掌長肌腱對掌腱膜施加牽引力。小心保留淺掌弓。
+
+**7.** 在第 2 和 3 指近端附近，移除掌腱膜的縱向纖維帶。使用鈍性分離清理第 3 指屈面的纖維鞘（圖 2.31）。
+
+**8.** 在前臂找到**尺動靜脈**（圖 2.32）。使用探針解剖尺動靜脈並追蹤它進入手掌。尺動靜脈在尺神經外側通過豌豆骨，然後分為淺支和深支。尺動靜脈淺支橫過手掌形成**淺掌弓**。淺掌弓由橈動靜脈淺掌支的較小分支完成（圖 2.32）。 [G 574; L 63; N 448; R 428; C 107]
+
+**9.** 使用探針清理**淺掌弓**和從它發出的三條**掌總動靜脈**。向下追蹤一條掌總動靜脈並注意它分為兩條**指掌側固有動靜脈**，供應相鄰兩指的相對側（圖 2.31）。
+
+**10.** 在豌豆骨外側找到**尺神經**（圖 2.32）。使用探針解剖尺神經淺支，它供應第 5 指和第 4 指內側的皮神經。尺神經深支消失於小魚際肌之間。確認尺神經深支的起始部分，但此時不要追蹤它。
+
+### 腕管及其內容物
+
+> [G 575; L 63; N 449; R 429; C 99]
+
+**1.** 確認魚際和小魚際隆起之間的**屈肌支持帶**（圖 2.32）。使用圖示回顧屈肌支持帶及其在形成腕管中的作用（圖 2.29）。
+
+**2.** 從近端到遠端，在屈肌支持帶深面插入探針（圖 2.33）。使用手術刀在探針前方切斷屈肌支持帶（圖 2.33，虛線）並打開腕管。
+
+**3.** 檢查腕管的內容物：**正中神經**、屈指淺肌的四條肌腱、屈指深肌的四條肌腱和拇長屈肌腱（圖 2.34）。
+
+**4.** 在腕部找到**正中神經**並追蹤它穿過腕管。確認**正中神經返支**，它支配三塊魚際肌（圖 2.34）。正中神經也支配第 1 和第 2 蚓狀肌。
+
+**5.** 追蹤正中神經的**掌總神經**到外側 3.5 指（圖 2.34）。注意掌總神經通常分為兩條指掌側固有神經，它們伴行於指掌側固有動靜脈。使用圖示研究正中神經在手上的皮神經分布。 [G 587; L 62; N 460; R 423; C 104]
+
+**6.** 確認穿過腕管的屈肌腱。觀察這些肌腱在手掌中走行於淺掌弓和指神經後方。屈肌腱進入手指前面的纖維鞘（圖 2.34）。
+
+**7.** 使用圖示研究屈肌支持帶深面並延伸到手掌的滑膜腱鞘範圍。有四個與指肌腱相關的滑膜鞘：指總屈肌滑膜鞘（尺側囊）和三個指滑膜鞘。拇長屈肌腱有自己的滑膜鞘（橈側囊）。 [G 576, 577; L 65; N 449, 450; R 390, 391; C 96]
+
+> **臨床重點**：腕管症候群——指總屈肌滑膜鞘腫脹可能侵犯腕管的可用空間。因此，正中神經可能受壓，導致拇指、食指和中指的疼痛和感覺異常，以及魚際肌無力。
+
+**8.** 在前臂遠端，用手指分離屈指淺肌腱和屈指深肌腱。按如下方式向下反射屈指淺肌腱：在手掌正中線切斷淺掌弓並分別向外側和內側牽拉正中神經和尺神經的掌總支。在第 2-5 指掌面的纖維鞘做縱向切口。現在通過腕管向下拉屈指淺肌腱（圖 2.35）。在此過程中，指總屈肌滑膜鞘將打開。
+
+**9.** 在手掌中，觀察**屈指深肌腱**（圖 2.35）。確認四塊**蚓狀肌**。蚓狀肌的遠端附著於第 2-5 指伸肌裝置的橈側（圖 2.35）。蚓狀肌的作用是**屈曲掌指關節並伸開指間關節**。
+
+**10.** 在第 3 指中，研究屈指淺肌和屈指深肌腱的關係（圖 2.35 和 2.36）。注意屈指深肌腱穿過屈指淺肌腱。驗證屈指淺肌腱附著於中節指骨，而屈指深肌腱附著於遠節指骨。此模式適用於第 2-5 指。
+
+**11.** 在前臂確認**拇長屈肌**（圖 2.27）。追蹤其肌腱通過腕管進入手掌。拉動肌腱確認拇長屈肌屈曲拇指遠節指骨。
+
+### 魚際肌
+
+> [G 576; L 63; N 453; R 428; C 98]
+
+**1.** 使用鈍性分離清理覆蓋魚際肌的薄層掌筋膜。保留正中神經返支（圖 2.35）。
+
+**2.** 魚際肌群包含三塊肌肉：**拇短展肌**、**拇短屈肌**和**對掌拇肌**。魚際肌的近端附著於舟骨、大多角骨和屈肌支持帶。確認：
+    - **拇短展肌**（圖 2.35）——附著於拇指近節指骨外側並外展拇指
+    - **拇短屈肌**（圖 2.35）——附著於拇指近節指骨外側並屈曲拇指
+    - **對掌拇肌**（圖 2.36）——附著於第一掌骨骨幹整個外側緣並對掌拇指
+
+**3.** 檢查**正中神經返支**。正中神經返支越過拇短屈肌淺面，然後消失在拇短展肌深面。
+
+> **臨床重點**：正中神經返支是淺表的，容易被魚際隆起上方的「輕微」切口切斷。如果正中神經返支受傷，魚際肌癱瘓，拇指無法對掌。
+
+**4.** 使用探針分離拇短展肌和拇短屈肌。使用正中神經返支幫助您找到正確的分離平面。
+
+**5.** 使用探針抬起拇短展肌並用剪刀橫斷。
+
+**6.** 觀察位於拇短展肌深面的**對掌拇肌**（圖 2.36）。注意對掌拇肌附著於第一掌骨骨幹整個外側緣。
+
+### 小魚際肌
+
+> [G 576-578; L 63, 64; N 453; R 428; C 98]
+
+**1.** 使用鈍性分離清理覆蓋小魚際肌的薄層掌筋膜（圖 2.31）。
+
+小魚際肌群包含三塊肌肉：**小指展肌**、**小指短屈肌**和**對掌小指肌**。小魚際肌的近端附著於豌豆骨、鉤骨和屈肌支持帶。確認：
+    - **小指展肌**（圖 2.35）——附著於第 5 指近節指骨底內側並外展第 5 指
+    - **小指短屈肌**（圖 2.35）——附著於第 5 指近節指骨底內側並屈曲第 5 指
+    - **對掌小指肌**——附著於第五掌骨內側緣並對掌第 5 指
+
+**2.** 在遠端附著處附近找到小指展肌和小指短屈肌腱。使用探針分離並使用它們的肌腱幫助定義肌肉邊界。
+
+**3.** 使用探針抬起小指展肌並從屈肌支持帶的近端附著處分離。保留尺動靜脈和尺神經深支的深分支。向遠端反射肌肉。
+
+**4.** 觀察**對掌小指肌**。注意對掌小指肌附著於第五掌骨骨幹整個長度。
+
+### 手掌深部
+
+> [G 578; L 64; N 453; R 429; C 108]
+
+**1.** 在前臂遠端如圖 2.35 所示的水平橫斷屈指深肌。盡可能向遠端反射其肌腱和相關的蚓狀肌。現已暴露手深部（圖 2.36）。
+
+**2.** 在豌豆骨外側找到**尺神經**和**尺動靜脈**。
+
+**3.** **尺神經深支**和**尺動靜脈深掌支**在小指短屈肌和，小指展肌近端附著之間通過（圖 2.36）。
+
+**4.** 在尺神經深支穿過對掌小指肌之處，平行於神經插入探針。使用手術刀切到探針並釋放神經。現在使用鈍性分離追蹤尺神經深支穿過手掌。
+
+**5.** 當它向外側通過時，觀察尺神經深支位於骨間肌前表面（圖 2.36），然後進入拇收肌。
+
+**6.** 觀察**深掌弓**。深掌弓與尺神經深支伴行。它起源於手掌外側的橈動靜脈並由尺動靜脈深支完成。使用圖示研究深掌弓的分支（圖 2.36）。
+
+**7.** 確認**拇收肌**（圖 2.36）。使用鈍性分離定義其邊界。拇收肌有兩個頭：斜頭和橫頭。橫頭的內側附著於第三掌骨骨幹前表面。斜頭的內側附著於第二和第三掌骨底及相鄰腕骨。兩個頭都附著於拇指近節指骨底內側。拇收肌的作用是將拇指拉向第 3 指（內收）。
+
+**8.** 使用圖示研究三塊**掌側骨間肌**（圖 2.37A）。掌側骨間肌是單羽狀肌肉，附著於第 2、4 和 5 掌骨。遠端，每塊掌側骨間肌附著於同指近節指骨底和伸肌裝置。不要嘗試解剖這些肌肉。 [G 573; L 64; N 453; R 429; C 104]
+
+**9.** 使用圖示研究四塊**背側骨間肌**（圖 2.37B）。背側骨間肌是雙羽狀肌肉，附著於第 1-5 掌骨。遠端，背側骨間肌附著於第 2、3 和 4 指近節指骨底和伸肌裝置。查看已解剖手的背側並注意背側骨間肌佔據掌骨之間的間隙。不要解剖這些肌肉。
+
+**10.** 研究骨間肌的作用（圖 2.37A, B）。三塊掌側骨間肌是內收肌（PAD）。它們使第 2、4 和 5 指朝向通過第 3 指長軸的想像軸線內收。四塊背側骨間肌是外展肌（DAB）。它們使第 2、3 和 4 指遠離想像軸線。附著於第 3 指的兩塊背側骨間肌將其移向軸線任一側。骨間肌由尺神經深支支配。
+
+### 解剖複習
+
+**1.** 將已解剖的肌肉、肌腱和神經放回正確的解剖位置。
+
+**2.** 回顧手指和拇指的運動。定義屈、伸、外展和內收。回顧每個動作負責的肌肉。
+
+**3.** 使用解剖標本追蹤正中神經從前臂到手部。回顧其返支並列出返支支配的三塊肌肉。
+
+**4.** 從肘到手追蹤尺動靜脈。在手中，追蹤尺動靜脈的淺支和深掌支並回顧掌動靜脈弓的形成。
+
+**5.** 從肱骨內側髁到手追蹤尺神經。在手中，追蹤尺神經淺支和深支。
+
+**6.** 回顧圖示證明尺神經和正中神經在手上的皮神經分布。
+
+**7.** 回顧手部肌肉的神經支配規則：
+    - 手部所有內在肌肉由尺神經支配，除了魚際肌群和前兩塊蚓狀肌由正中神經支配。 [L 77; N 460]
+
+---
+
+## 前臂伸肌區和手背
+
+### 概述
+
+前臂後 compartment 包含手和手指的伸肌。它們可分為淺層和深層（圖 2.22）。淺層伸肌伸腕和近節指骨。深層伸肌引起手的旋後、食指的伸開以及拇指的外展和伸開。橈神經深支支配前臂伸肌。前臂後 compartment 的神經和血管走在分隔淺層伸肌和深層伸肌的結締組織平面中（圖 2.22）。
+
+在手背上，骨骼是淺表的。手背上沒有內在肌肉，因此不需要運動神經支配。橈神經、尺神經和正中神經共享手背的皮神經分布。
+
+解剖順序如下：從肘部到手腕移除前臂筋膜。確認淺層伸肌並追蹤它們到手部的遠端附著。從伸肌支持帶釋放淺層伸肌的肌腱並向後牽拉以暴露深層伸肌。確認解剖鼻煙窩的內容物。
+
+### 淺層伸肌
+
+> [G 584; L 58; N 432; R 421; C 80]
+
+**1.** 將大體置於仰臥位。
+
+**2.** 使用鈍性分離從前臂後面和手背移除淺層筋膜殘餘，小心保留手背靜脈弓。
+
+**3.** 確認**伸肌支持帶**，這是位於前臂遠端後表面的前臂筋膜特化部分（圖 2.38）。
+
+**4.** 使用剪刀從鷹嘴到伸肌支持帶切開前臂筋膜後表面。保留伸肌支持帶。使用手指或探針分離前臂筋膜和位於其深面的肌肉。從橈骨和尺骨附著處分離前臂筋膜並放入組織容器中。
+
+**5.** 六塊肌肉構成淺層伸肌：**肱橈肌**、**桡側伸腕長肌**、**桡側伸腕短肌**、**伸指肌**、**伸小指肌**和**尺側伸腕肌**。注意淺層伸肌中的四塊肌肉（桡側伸腕短肌、伸指肌、伸小指肌和尺側伸腕肌）通過**總伸肌腱**附著於肱骨外側髁（圖 2.38）。
+
+**6.** 使用手腕和遠端附著處的肌腱模式積極確認淺層伸肌的每塊肌肉：
+    - **肱橈肌腱**——附著於橈骨遠端外側表面
+    - **桡側伸腕長肌腱**——附著於第 2 掌骨底
+    - **桡側伸腕短肌腱**——附著於第 3 掌骨底
+    - **伸指肌腱**——附著於第 2-5 指的伸肌裝置
+    - **伸小指肌腱**——附著於第 5 指的伸肌裝置
+    - **尺側伸腕肌腱**——附著於第 5 掌骨底
+
+**7.** 注意伸指肌的肌腱通過手背表面的肌腱間連接束在一起。 [G 590; L 58; N 458; R 424; C 92]
+
+**8.** 觀察第 3 指的**伸肌裝置**（圖 2.39）。伸肌裝置包裹近節指骨背面和側面以及掌骨骨幹遠端。帽狀擴展將伸肌腱保持在手指中線。蚓狀肌和骨間肌的肌腱附著於伸肌裝置。 [G 591; L 59; N 452; R 421; C 69]
+
+**9.** 注意所有伸肌腱都包含在單獨的骨纖維隧道中。滑膜鞘排列這些隧道。
+
+### 深層伸肌
+
+> [G 585; L 59; N 433; R 421; C 82]
+
+**1.** 五塊肌肉構成深層伸肌：**旋後肌**、**拇長展肌**、**拇短伸肌**、**拇長伸肌**和**示指伸肌**（圖 2.38）。
+
+**2.** 切斷伸肌支持帶以釋放伸指肌的肌腱（圖 2.38，虛線）。向內側反射肌腱（圖 2.40）。
+
+**3.** 深層伸肌的四塊肌肉（拇長展肌、拇短伸肌、拇長伸肌和示指伸肌）的近端附著於橈骨、尺骨和骨間膜後表面。這些肌肉中三塊的肌腱從伸指肌和桡側伸腕短肌之間的間隙出現，因此它們常被稱為拇指的「長出」肌肉（圖 2.38）。
+
+**4.** 確認以下每塊肌肉的肌腱並追蹤到其遠端附著：
+    - **拇長展肌腱**——附著於第 1 掌骨底
+    - **拇短伸肌腱**——附著於拇指近節指骨底
+    - **拇長伸肌腱**——附著於拇指遠節指骨底
+    - **示指伸肌腱**——附著於第 2 指的伸肌裝置
+
+**5.** 確認**解剖鼻煙窩**（圖 2.41A, B）。解剖鼻煙窩是腕後表面的凹陷，前界為拇長展肌腱和拇短伸肌腱，後界為拇長伸肌腱。 [G 593; L 58; N 457; R 424; C 111]
+
+**6.** 在解剖鼻煙窩內，找到**橈動靜脈**（圖 2.41B）。使用探針清理橈動靜脈並向下追蹤直到它消失在第一背側骨間肌兩個頭之間。注意腕背弓接受起源於解剖鼻煙窩的橈動靜脈分支。腕背弓到手背供應動靜脈血（圖 2.41A）。不要解剖其分支。
+
+**7.** 在肘部附近，牽開肱橈肌並觀察**旋後肌**（圖 2.40）。旋後肌的近端附著於肱骨外側髁、肘的橈側副韌帶和環狀韌帶以及尺骨外側面。旋後肌的遠端附著於橈骨近端三分之一。旋後肌的作用是**旋後手**。
+
+**8.** 在肘外側，再次在肱橈肌和肱肌之間的結締組織平面中找到**橈神經**。觀察橈神經分為淺支和深支。橈神經深支進入旋後肌。
+
+**9.** 尋找橈神經深支從旋後肌遠側緣出現之處。它的名稱在此處改為**後骨間神經**（圖 2.40）。後骨間神經向伸肌發出運動支。
+
+**10.** 觀察後骨間神經由**後骨間動靜脈**伴行，後者是骨間總動靜脈的分支。
+
+### 解剖複習
+
+**1.** 將前臂後 compartment 的肌肉放回正確的解剖位置。
+
+**2.** 使用解剖標本回顧伸肌腱的附著。
+
+**3.** 觀察三塊強伸肌（桡側伸腕長肌、桡側伸腕短肌和尺側伸腕肌）的肌腱附著於掌骨近端。這三塊伸腕肌肉與手指屈肌協同工作：穩固的握持需要伸展的腕關節。
+
+**4.** 回顧第 3 指的伸肌裝置。回顧附著在那裡的肌肉以及每塊肌肉的作用。
+
+**5.** 回顧尺動靜脈骨間總支的走行並觀察後骨間動靜脈如何進入前臂後 compartment。
+
+**6.** 回顧橈動靜脈從肘窩到深掌弓的走行。
+
+**7.** 在您自己身上觸摸解剖鼻煙窩。感受其邊界內橈動靜脈的搏動。
+
+**8.** 回顧前臂後 compartment 的神經支配規則：
+    - **橈神經**支配前臂後 compartment 的所有肌肉。 [L 79]
+    - 注意手背沒有內在肌肉。因此，沒有肌肉由橈神經支配。
+
+---
+
+## 上肢關節
+
+### 概述
+
+在一個上肢上解剖關節。保持另一肢體的軟組織結構完整用於複習。在此次解剖中，將移除一肢的肌肉。利用此機會在移除每塊肌肉時回顧其附著、神經支配和作用。
+
+解剖順序如下：解剖胸鎖關節和肩鎖關節。解剖肩關節。研究肘關節和尺橈關節。解剖腕關節。最後，解剖手指的關節。
+
+### 胸鎖關節
+
+> [G 514; L 71; N 406; C 140]
+
+**1.** 使用關節標本觀察胸骨和鎖骨之間的關係。確認胸骨的**鎖骨切跡**。鎖骨內側端與鎖骨切跡和第一肋軟骨相鄰部分相關節（圖 2.42）。
+
+**2.** 將大體置於仰臥位。**胸鎖乳突肌**腱附著於胸鎖關節前表面。分離腱並向上反射胸鎖乳突肌。
+
+**3.** 確認**胸鎖前韌帶**，它從胸骨延伸到鎖骨。
+
+**4.** 使用鈍性分離清理**肋鎖韌帶**，它從第一肋軟骨斜行到鎖骨下面靠近其內側端。
+
+**5.** 使用手術刀移除胸鎖前韌帶。在關節腔內，觀察**關節盤**。關節盤下方附著於第一肋軟骨。關節盤上方附著於鎖骨。觀察關節盤的附著方式使其抵抗鎖骨的內側位移。
+
+**6.** 在您自己身上觸摸胸鎖關節的運動。將左手放在右胸鎖關節上並使右側上肢畫大圓圈。觀察胸鎖關節在每個方向允許有限的運動。
+
+### 肩鎖關節
+
+> [G 540, 543; L 71; N 410; R 378; C 140]
+
+**1.** 回顧與肩鎖關節相關的骨骼特徵（圖 2.43）：
+    - 肩峰
+    - 肩胛骨喙突
+    - 鎖骨外側端
+
+**2.** 從鎖骨外側端分離**斜方肌**。從喙突分離**喙肱肌**和**胸小肌**。現已暴露肩鎖關節。肩鎖關節是肩峰和鎖骨遠端之間的平面滑膜關節。
+
+**3.** 確認支持肩鎖關節的**喙鎖韌帶**（圖 2.43）。使用探針清理韌帶。確認其兩個部分：
+    - **錐狀韌帶**
+    - **斜方韌帶**
+
+**4.** 通過完全移除關節囊打開肩鎖關節。分離肩峰和鎖骨外側端。
+
+**5.** 注意關節面的形狀。關節面的角度使肩峰在肩峰被推向內側時滑到鎖骨遠端下方。喙鎖韌帶防止肩峰相對於鎖骨向下移動，從而加強關節。
+
+### 肩關節
+
+> [G 540-543; L 71; N 410; R 378; C 112, 114, 116, 118, 119]
+
+肩關節（盂肱關節）是球窩滑膜關節，具有廣泛的運動範圍。肩關節比任何其它關節有更大的運動範圍。這是由於所涉及骨骼之間接觸面積小（肱骨頭和肩胛骨關節盂）以及鬆弛的關節囊。肩關節的穩定性取決於旋轉袖肌肉的正常功能。
+
+**1.** 將大體置於仰臥位。
+
+**2.** 回顧與肩關節解剖相關的骨骼特徵（圖 2.4）：
+    - 肩胛骨關節盂
+    - 肱骨頭
+    - 肱骨解剖頸
+
+**3.** 為暴露肩關節囊，必須移除跨越關節的肌肉和肌腱。在移除每塊肌肉時回顧其近端和遠端附著。
+
+**4.** 移除**喙肱肌**和**肱二頭肌短頭**。保留**肩胛下肌**完整。
+
+**5.** 將大體置於俯臥位。觀察**岡上肌**、**岡下肌**和**小圓肌**的肌腱與關節囊混合。移除這些肌腱。
+
+**6.** 移除**肱三頭肌長頭**。
+
+**7.** 現已暴露關節囊後表面。驗證關節囊附著於肱骨解剖頸。
+
+**8.** 使用手術刀打開關節囊後表面（圖 2.44A）。
+
+**9.** 使用鋸或鑿子在解剖頸處移除**肱骨頭**。
+
+**10.** 使用探針探索**關節盂**。確認**盂唇**並嘗試展示三條加強纖維囊前壁的**盂肱韌帶**（圖 2.43 和 2.44B）。
+
+**11.** 觀察**肱二頭肌長頭腱**穿過關節盂並附著於**盂上結節**。
+
+**12.** 將大體置於仰臥位。定義並清理**喙肩韌帶**，它從喙突跨越到肩峰。喙肩韌帶、肩峰和喙突防止肱骨頭向上脫位。
+
+**13.** 使用解剖標本執行肩關節的運動：屈、伸、外展、內收和環轉。注意這種運動自由是以關節穩定性喪失為代價的。
+
+### 肘關節和近端尺橈關節
+
+> [G 554, 555; L 72; N 426; R 379; C 123-126]
+
+**1.** 回顧肘區的骨骼特徵（圖 2.45A）。
+
+**2.** 使用關節標本驗證肘關節由兩部分組成：
+    - 肱骨滑車和尺骨滑車切跡之間的鉸鏈關節
+    - 肱骨小頭和橈骨頭之間的滑動關節
+
+**3.** 從關節囊前表面移除**肱肌**。
+
+**4.** 從尺骨鷹嘴和關節囊後表面分離**肱三頭肌腱**。
+
+**5.** 從內側髁移除前臂淺層屈肌。回顧總屈肌腱和附著於它的五塊肌肉。
+
+**6.** 在肘關節內側確認**尺側副韌帶**（圖 2.45D）。觀察它由強的前索和扇狀後部組成。
+
+**7.** 從肱骨外側髁移除前臂淺層伸肌。回顧總伸肌腱和附著於它的肌肉。
+
+**8.** 移除**旋後肌**。
+
+**9.** 確認**橈側副韌帶**（圖 2.45C）。它從肱骨外側髁展開到橈骨和環狀韌帶。
+
+**10.** 近端尺橈關節是介於橈骨頭和尺骨橈骨切跡之間的車軸關節。環狀韌帶和尺骨橈骨切跡完全環繞橈骨頭（圖 2.45B）。注意橈骨可在環狀韌帶內自由旋轉。將大體標本的手置於旋前位。現在拉動肱二頭肌腱。注意肱二頭肌強大的旋後作用。
+
+**11.** 在尺側副韌帶和橈側副韌帶之間做橫向切口，通過關節囊前表面，打開肘關節。
+
+**12.** 使用探針探索滑膜腔。觀察肱骨、尺骨和橈骨光滑的關節面。
+
+**13.** 使用解剖標本執行肘關節的運動：屈和伸。觀察這些運動期間的關節面和副韌帶。
+
+### 中間尺橈關節
+
+> [G 559; L 72, 73; N 427; R 380; C 126]
+
+**1.** 橈骨和尺骨通過**骨間膜**連接整個長度。這是一個纖維關節。使用圖示研究此結構。
+
+### 遠端尺橈關節
+
+> [G 598, 600; L 73; N 443; R 381; C 126]
+
+**1.** 遠端尺橈關節是介於尺骨頭和橈骨尺骨切跡之間的車軸關節（圖 2.46）。
+
+**2.** 移除所有橫越手腕的肌腱和軟組織結構。回顧每條肌腱的遠端附著和每塊肌肉的作用。
+
+**3.** 注意腕關節前表面和後表面由**腕橈側韌帶**加固。
+
+**4.** 為打開遠端尺橈關節，伸展手。在關節囊前表面，於屈肌支持帶和腕管近端在腕橈側韌帶做橫切口。保留手通過關節囊後部附著於前臂。
+
+**5.** 使用探針探索橈骨和尺骨之間的關節。注意遠端尺橈關節包含一個**關節盤**。驗證關節盤將橈骨和尺骨遠端連接在一起。
+
+### 腕關節
+
+> [G 598, 599; L 73, 74; N 442, 443; R 380, 381; C 130, 131]
+
+**1.** 腕關節（橈腕關節）是橈骨遠端和近端腕骨之間的關節（圖 2.46）。注意橈骨遠端僅與兩塊腕骨相關節：**舟骨**和**月骨**。
+
+**2.** 確認舟骨、月骨和三角骨的平滑近端表面。研究橈骨相應的關節面。注意舟骨和月骨將力從手傳到前臂。因此，這些腕骨在跌倒時手伸展撐地最常骨折。
+
+**3.** 再次確認**關節盤**。當手內收時，關節盤與三角骨相關節。
+
+**4.** 使用解剖標本執行腕關節的運動：屈、伸、內收、外收和環轉。觀察這些運動期間的關節面。
+
+### 掌指關節
+
+> [G 602; L 74; N 446; R 381; C 130, 131]
+
+**1.** 以第 3 指為代表進行解剖。
+
+**2.** 移除屈指淺肌和屈指深肌的肌腱。注意它們在指骨上的附著。
+
+**3.** 移除骨間肌和伸肌裝置以暴露掌指關節。
+
+**4.** 清理**側副韌帶**（圖 2.47A）。移動手指以確認韌帶在伸展時鬆弛而在屈曲時緊張。因此，手指在未伸展時不能外展。
+
+**5.** 使用解剖標本執行手指在掌指關節的運動：屈、伸、外展和內收。確認掌指關節是**髁狀關節**。
+
+### 指間關節
+
+> [G 602; L 74; N 446; R 381; C 131]
+
+**1.** 清理第 3 指指間關節的側副韌帶（圖 2.47B）。
+
+**2.** 使用探針探索一個指間關節的滑膜腔。檢查覆蓋有光滑軟骨的關節面。
+
+**3.** 使用解剖標本執行指間關節的屈伸運動並確認側副韌帶限制運動範圍。確認指間關節是**鉸鏈關節**。
+
+---
+
+> **Atlas 參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
