@@ -11,12 +11,5 @@
 		
 		
 			<atom:link href="https://example.org/docs/ch4_abdomen/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Chapter 4: The Abdomen</title>
-				<link>https://example.org/docs/ch4_abdomen/ch4/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://example.org/docs/ch4_abdomen/ch4/</guid>
-				<description>&lt;h1 id=&#34;chapter-4-the-abdomen&#34;&gt;Chapter 4: The Abdomen&lt;/h1&gt;&#xA;&lt;h2 id=&#34;atlas-references&#34;&gt;ATLAS REFERENCES&lt;/h2&gt;&#xA;&lt;p&gt;G = Grant’s Atlas, 13th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;L = LWW Atlas of Anatomy, 1st ed., page number&lt;/p&gt;&#xA;&lt;p&gt;N = Netter’s Atlas, 5th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;R = Color Atlas of Anatomy, 7th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;C = Clemente’s Atlas, 6th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;The abdomen is the portion of the trunk that lies between&lt;/p&gt;&#xA;&lt;p&gt;the thorax and the pelvis. The abdominal cavity is divided&lt;/p&gt;</description>
-			</item>
 	</channel>
 </rss>

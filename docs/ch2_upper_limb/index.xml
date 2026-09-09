@@ -11,12 +11,5 @@
 		
 		
 			<atom:link href="https://example.org/docs/ch2_upper_limb/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Chapter 2: The Upper Limb</title>
-				<link>https://example.org/docs/ch2_upper_limb/ch2/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://example.org/docs/ch2_upper_limb/ch2/</guid>
-				<description>&lt;h1 id=&#34;chapter-2-the-upper-limb&#34;&gt;Chapter 2: The Upper Limb&lt;/h1&gt;&#xA;&lt;h2 id=&#34;atlas-references&#34;&gt;ATLAS REFERENCES&lt;/h2&gt;&#xA;&lt;p&gt;G = Grant’s Atlas, 13th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;L = LWW Atlas of Anatomy, 1st ed., page number&lt;/p&gt;&#xA;&lt;p&gt;N = Netter’s Atlas, 5th ed., plate number&lt;/p&gt;&#xA;&lt;p&gt;R = Color Atlas of Anatomy, 7th ed., page number&lt;/p&gt;&#xA;&lt;p&gt;C = Clemente’s Atlas, 6th ed., plate number&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lateral epicondyle&lt;/li&gt;&#xA;&lt;li&gt;Olecranon&lt;/li&gt;&#xA;&lt;li&gt;Flexor muscle mass (in the forearm)&lt;/li&gt;&#xA;&lt;li&gt;Extensor muscle mass (in the forearm)&lt;/li&gt;&#xA;&lt;li&gt;Carpal bones (on the dorsum of the wrist)&lt;/li&gt;&#xA;&lt;li&gt;Styloid process of the radius&lt;/li&gt;&#xA;&lt;li&gt;Styloid process of the ulna&lt;/li&gt;&#xA;&lt;li&gt;Thenar eminence&lt;/li&gt;&#xA;&lt;li&gt;Hypothenar eminence&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cutaneous-nerves&#34;&gt;CUTANEOUS NERVES&lt;/h2&gt;&#xA;&lt;p&gt;Dissection Overview&lt;/p&gt;</description>
-			</item>
 	</channel>
 </rss>
