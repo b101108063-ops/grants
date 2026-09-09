@@ -3,12 +3,6 @@ title: "Chapter 7: Head and Neck"
 description: "Grant's Dissector 15th Edition - Head and Neck"
 weight: 7
 ---
----
-title: "Chapter 7: Head and Neck"
-description: "Grant's Dissector 15th Edition - Head and Neck"
-weight: 7
----
-
 # Chapter 7: Head and Neck
 
 > **Atlas參考：** G = Grant's Atlas, L = LWW Atlas, N = Netter's, R = Color Atlas, C = Clemente's
