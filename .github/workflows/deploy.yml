@@ -4,6 +4,11 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    
+permissions:
+  contents: write    # 這是關鍵！允許機器人把網頁檔案寫入專案
+  pages: write       # 允許部署到 GitHub Pages
+  id-token: write
 
 jobs:
   build-and-deploy:
